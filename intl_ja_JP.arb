@@ -1,282 +1,282 @@
 {
-  "@@locale": "zh_CN",
-  "tabMarket": "行情",
+  "@@locale": "ja_JP",
+  "tabMarket": "マーケット",
   "@tabMarket": {
     "description": "Market"
   },
-  "tabEarn": "挣钱",
+  "tabEarn": "稼ぐ",
   "@tabEarn": {
     "description": "Earn"
   },
-  "tabTrade": "交易",
+  "tabTrade": "取引",
   "@tabTrade": {
     "description": "Trade"
   },
-  "tabChat": "聊天",
+  "tabChat": "チャット",
   "@tabChat": {
     "description": "Chat"
   },
-  "tabWallet": "钱包",
+  "tabWallet": "ウォレット",
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "搜索 Token 名称或地址",
+  "searchBarDesc": "トークン名またはアドレスを検索",
   "@searchBarDesc": {
     "description": "Search token name or address"
   },
-  "totalBalance": "总资产",
+  "totalBalance": "総残高",
   "@totalBalance": {
     "description": "Total balance"
   },
-  "favorite": "自选",
+  "favorite": "お気に入り",
   "@favorite": {
     "description": "Favorite"
   },
-  "trending": "交易中",
+  "trending": "トレンド",
   "@trending": {
     "description": "Trending"
   },
-  "allAssets": "所有资产",
+  "allAssets": "すべての資産",
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "输入你的邮箱",
+  "enterYourEmail": "メールアドレスを入力",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "邮箱",
+  "email": "メールアドレス",
   "@email": {
     "description": "Email"
   },
-  "password": "密码",
+  "password": "パスワード",
   "@password": {
     "description": "Password"
   },
-  "forgetThePassword": "忘记密码？",
+  "forgetThePassword": "パスワードをお忘れですか？",
   "@forgetThePassword": {
     "description": "Forget the password?"
   },
-  "continueBtn": "继续",
+  "continueBtn": "続行",
   "@continueBtn": {
     "description": "Continue"
   },
-  "setPassword": "设置密码",
+  "setPassword": "パスワードを設定",
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "Set your password. You can also log in directly through email in the future.  ",
+  "setPasswordDesc": "パスワードを設定してください。今後はメールアドレスで直接ログインすることもできます。",
   "@setPasswordDesc": {
     "description": "Set your password. You can also log in directly through email in the future.  "
   },
-  "emailCode": "邮箱验证码",
+  "emailCode": "メール認証コード",
   "@emailCode": {
     "description": "Email verification code"
   },
-  "emailCodeDesc": "输入你的验证码",
+  "emailCodeDesc": "認証コードを入力してください",
   "@emailCodeDesc": {
     "description": "Enter your verification code"
   },
-  "resend": "重发",
+  "resend": "再送信",
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "绑定邮箱",
+  "bindEmail": "メールアドレスを連携",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  ",
+  "bindEmailDesc": "lucasscott3@email.com のパスワードを設定してください。今後はメールアドレスで直接ログインすることもできます。",
   "@bindEmailDesc": {
     "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
   },
-  "setYourProfile": "Set your profile",
+  "setYourProfile": "プロフィールを設定",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want.",
+  "setYourProfileDesc1": "ユーザー名を選択してください。最大30文字（英数字のみ）使用できます。後で変更することも可能です。",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters.",
+  "setYourProfileDesc2": "パスワードは6～20文字で、数字、大文字・小文字、特殊文字を含めてください。",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "Connect X",
+  "connectX": "Xと連携",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security.",
+  "connectXDesc": "Xアカウントを連携して自分のKeyを発行し、MyDogeの体験を最大化しましょう。プロフィール画像、名前、フォローリストのみ取得します！\n\nXと連携後は、アカウント資産保護のため変更や連携解除はできません。",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
-  "connect": "连接",
+  "connect": "連携",
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "Congratulations",
+  "congratulations": "おめでとうございます！",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "You are all set!\nHang out with your My Doge now.",
+  "congratulationsDesc": "準備完了！\nMy Dogeと一緒に楽しみましょう。",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
-  "enterApp": "Enter App",
+  "enterApp": "アプリに入る",
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle1": "Buy, Send & Receive Dogecoin",
+  "socialLoginTitle1": "Dogecoinの購入・送信・受信",
   "@socialLoginTitle1": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc1": "Tip on X, secure your Doge, and manage your own funds with ease.",
+  "socialLoginDesc1": "Xでチップを送り、Dogeを守り、自分の資金を簡単に管理しましょう。",
   "@socialLoginDesc1": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle2": "Explore the DogeOS Ecosystem",
+  "socialLoginTitle2": "DogeOSエコシステムを探索",
   "@socialLoginTitle2": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc2": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe.",
+  "socialLoginDesc2": "$DOGEでDeFi、NFT、ゲームなどDogeOSユニバースを解放しましょう。",
   "@socialLoginDesc2": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "Multichain Trading",
+  "socialLoginTitle3": "マルチチェーントレード",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "Trade seamlessly across major blockchains for a true multichain experience.",
+  "socialLoginDesc3": "主要なブロックチェーン間でシームレスに取引し、本当のマルチチェーン体験を。",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
-  "continueWithEmail": "Continue with Email",
+  "continueWithEmail": "メールで続行",
   "@continueWithEmail": {
     "description": "Continue with Email"
   },
-  "or": "Or",
+  "or": "または",
   "@or": {
     "description": "Or"
   },
-  "resetPwd": "Reset Password",
+  "resetPwd": "パスワードをリセット",
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "We want to make sure it's really you. Enter your email and we'll send you a verification code.",
+  "resetPwdDesc": "ご本人確認のため、メールアドレスを入力してください。認証コードをお送りします。",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
-  "send": "Send",
+  "send": "送信",
   "@send": {
     "description": "Send"
   },
-  "deposit": "Deposit",
+  "deposit": "入金",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Bridge",
+  "bridge": "ブリッジ",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Swap",
+  "swap": "スワップ",
   "@swap": {
     "description": "Swap"
   },
-  "buy": "Buy",
+  "buy": "購入",
   "@buy": {
     "description": "Buy"
   },
-  "sell": "Sell",
+  "sell": "売却",
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "Crypto",
+  "cryptoTab": "暗号資産",
   "@cryptoTab": {
     "description": "Crypto"
   },
-  "keyTab": "Key",
+  "keyTab": "キー",
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "Manage wallet",
+  "manageWallet": "ウォレット管理",
   "@manageWallet": {
     "description": "Manage wallet"
   },
-  "createNewWallet": "Create New wallet",
+  "createNewWallet": "新しいウォレットを作成",
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "Import wallet",
+  "importWallet": "ウォレットをインポート",
   "@importWallet": {
     "description": "Import wallet"
   },
-  "chooseHowToSend": "Choose how to send",
+  "chooseHowToSend": "送信方法を選択",
   "@chooseHowToSend": {
     "description": "Choose how to send"
   },
-  "yourFriendsTitle": "Your friends",
+  "yourFriendsTitle": "あなたの友達",
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Transfer within Mydoge",
+  "yourFriendsDesc": "Mydoge内で送金",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
-  "externalWalletTitle": "External Wallet",
+  "externalWalletTitle": "外部ウォレット",
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Send Doge to a crypto address",
+  "externalWalletDesc": "Dogeを暗号アドレスに送信",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Select token",
+  "selectToken": "トークンを選択",
   "@selectToken": {
     "description": "Select token"
   },
-  "searchAssets": "Search assets",
+  "searchAssets": "資産を検索",
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "Receiving address",
+  "receivingAddress": "受取アドレス",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "{text} address",
+  "assetAddress": "{text}のアドレス",
   "@assetAddress": {
     "description": "{text} address"
   },
-  "paste": "Paste",
+  "paste": "貼り付け",
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "Transactions",
+  "transactions": "取引履歴",
   "@transactions": {
     "description": "Transactions"
   },
-  "myWallet": "My wallet",
+  "myWallet": "マイウォレット",
   "@myWallet": {
     "description": "My wallet"
   },
-  "confirm": "Confirm",
+  "confirm": "確認",
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "Select Crypto",
+  "selectCrypto": "暗号資産を選択",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Search token name or address",
+  "searchTokenNameOrAddress": "トークン名またはアドレスを検索",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "Network：",
+  "network": "ネットワーク：",
   "@network": {
     "description": "Network："
   },
-  "all": "All",
+  "all": "すべて",
   "@all": {
     "description": "All"
   },
-  "qrCodeDesc": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!",
+  "qrCodeDesc": "必ずDoge Chainに送信してください。そうでない場合、資金が失われる可能性があります！",
   "@qrCodeDesc": {
     "description": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!"
   },
@@ -284,203 +284,203 @@
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "May be lost",
+  "mayBeLost": "失われる可能性があります",
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Doge Address",
+  "tokenAddress": "Dogeアドレス",
   "@tokenAddress": {
     "description": "Doge Address"
   },
-  "scroll": "Scroll",
+  "scroll": "スクロール",
   "@scroll": {
     "description": "Scroll"
   },
-  "copy": "Copy",
+  "copy": "コピー",
   "@copy": {
     "description": "Copy"
   },
-  "selectToTomoFriends": "Select to Tomo friends",
+  "selectToTomoFriends": "Tomoの友達を選択",
   "@selectToTomoFriends": {
     "description": "Select to Tomo friends"
   },
-  "searchFriends": "Search friends",
+  "searchFriends": "友達を検索",
   "@searchFriends": {
     "description": "Search friends"
   },
-  "chooseWallet": "Choose wallet",
+  "chooseWallet": "ウォレットを選択",
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "Balance：",
+  "balance": "残高：",
   "@balance": {
     "description": "Balance："
   },
-  "max": "MAX",
+  "max": "最大",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Send gas to friends",
+  "sendGasToFriends": "友達にガスを送る",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Changing Tokens",
+  "changingTokens": "トークンを変更中",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "Buy {token}",
+  "buyToken": "{token}を購入",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "Sell {token}",
+  "sellToken": "{token}を売却",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "DogeOS wallet",
+  "socialWallet": "DogeOSウォレット",
   "@socialWallet": {
     "description": "DogeOS wallet"
   },
-  "enjoyWalletWithSocialLogin": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset.",
+  "enjoyWalletWithSocialLogin": "ソーシャルログインのマルチチェーンウォレットでMyDoge Walletの全機能を体験し、MyDoge Classic資産も保持できます。",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
-  "skip": "Skip",
+  "skip": "スキップ",
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "Create with",
+  "createWith": "作成方法",
   "@createWith": {
     "description": "Create with"
   },
-  "addressBook": "Address book",
+  "addressBook": "アドレス帳",
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "No address",
+  "noAddress": "アドレスなし",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "Add wallets to your address book for easy \naccess when you need to transfer crypto",
+  "noAddressDesc": "アドレス帳にウォレットを追加して、暗号資産の送金時に簡単にアクセスできます",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
-  "addAddress": "Add address",
+  "addAddress": "アドレスを追加",
   "@addAddress": {
     "description": "Add address"
   },
-  "name": "Name",
+  "name": "名前",
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "Enter a name under 20 characters",
+  "namePlaceholder": "20文字以内の名前を入力",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
-  "address": "Address",
+  "address": "アドレス",
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "Enter an address",
+  "addressPlaceholder": "アドレスを入力",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
-  "deleteAddress": "Delete address",
+  "deleteAddress": "アドレスを削除",
   "@deleteAddress": {
     "description": "Delete address"
   },
-  "deleteAddressDesc": "Do you want to delete the address?",
+  "deleteAddressDesc": "アドレスを削除しますか？",
   "@deleteAddressDesc": {
     "description": "Do you want to delete the address?"
   },
-  "cancel": "Cancel",
+  "cancel": "キャンセル",
   "@cancel": {
     "description": "Cancel"
   },
-  "delete": "Delete",
+  "delete": "削除",
   "@delete": {
     "description": "Delete"
   },
-  "update": "Update",
+  "update": "更新",
   "@update": {
     "description": "Update"
   },
-  "settings": "Settings",
+  "settings": "設定",
   "@settings": {
     "description": "Settings"
   },
-  "yourAccount": "Your account",
+  "yourAccount": "あなたのアカウント",
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "Edit profile",
+  "editProfile": "プロフィール編集",
   "@editProfile": {
     "description": "Edit profile"
   },
-  "recoverPassword": "Recover password",
+  "recoverPassword": "パスワードを回復",
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "How you use MyDoge",
+  "howYouUseMyDoge": "MyDogeの使い方",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
-  "pushNotifications": "Push notifications",
+  "pushNotifications": "プッシュ通知",
   "@pushNotifications": {
     "description": "Push notifications"
   },
-  "privacySettings": "Privacy settings",
+  "privacySettings": "プライバシー設定",
   "@privacySettings": {
     "description": "Privacy settings"
   },
-  "language": "Language",
+  "language": "言語",
   "@language": {
     "description": "Language"
   },
-  "vol24h": "24h Vol",
+  "vol24h": "24時間ボリューム",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "24h High",
+  "high24h": "24時間高値",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "24h Low",
+  "low24h": "24時間安値",
   "@low24h": {
     "description": "24h Low"
   },
-  "yourBalance": "Your Balance",
+  "yourBalance": "あなたの残高",
   "@yourBalance": {
     "description": "Your Balance"
   },
-  "value": "Value",
+  "value": "価値",
   "@value": {
     "description": "Value"
   },
-  "quantity": "Quantity",
+  "quantity": "数量",
   "@quantity": {
     "description": "Quantity"
   },
-  "addCash": "Add cash",
+  "addCash": "現金を追加",
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "Room",
+  "room": "ルーム",
   "@room": {
     "description": "Room"
   },
-  "refer": "Refer",
+  "refer": "紹介",
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Receive",
+  "receive": "受け取る",
   "@receive": {
     "description": "Receive"
   },
-  "stats": "Stats",
+  "stats": "統計",
   "@stats": {
     "description": "Stats"
   },
-  "marketCap": "Market Cap",
+  "marketCap": "時価総額",
   "@marketCap": {
     "description": "Market Cap"
   },
@@ -488,35 +488,35 @@
   "@fdv": {
     "description": "FDV"
   },
-  "liquidity": "Liquidity",
+  "liquidity": "流動性",
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "24h Turnover",
+  "turnover24h": "24時間取引高",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "24h Change",
+  "change24h": "24時間変動",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "Contract",
+  "contract": "コントラクト",
   "@contract": {
     "description": "Contract"
   },
-  "total": "Total",
+  "total": "合計",
   "@total": {
     "description": "Total"
   },
-  "to": "To",
+  "to": "宛先",
   "@to": {
     "description": "To"
   },
-  "from": "From",
+  "from": "送信元",
   "@from": {
     "description": "From"
   },
-  "appearance": "Appearance",
+  "appearance": "外観",
   "@appearance": {
     "description": "Appearance"
   },
@@ -524,84 +524,84 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "Connect Apple",
+  "connectApple": "Appleと連携",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Connect Meta",
+  "connectMeta": "Metaと連携",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "Connect Instagram",
+  "connectInstagram": "Instagramと連携",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "Connect Kakao",
+  "connectKakao": "Kakaoと連携",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Connect line",
+  "connectLine": "Lineと連携",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "Your social link",
+  "yourSocialLink": "あなたのソーシャルリンク",
   "@yourSocialLink": {
     "description": "Your social link"
   },
-  "others": "Others",
+  "others": "その他",
   "@others": {
     "description": "Others"
   },
-  "additionalSettings": "Additional settings",
+  "additionalSettings": "追加設定",
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "Community Guidelines",
+  "communityGuidelines": "コミュニティガイドライン",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "Terms",
+  "terms": "利用規約",
   "@terms": {
     "description": "Terms"
   },
-  "deleteAccount": "Delete account",
+  "deleteAccount": "アカウントを削除",
   "@deleteAccount": {
     "description": "Delete account"
   },
-  "logOut": "Log out",
+  "logOut": "ログアウト",
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "Confirm to exit",
+  "confirmToExit": "終了を確認",
   "@confirmToExit": {
     "description": "Confirm to exit"
   },
-  "follow": "Follow",
+  "follow": "フォロー",
   "@follow": {
     "description": "Follow"
   },
-  "warning": "Warning",
+  "warning": "警告",
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "This will Delete your account.",
+  "willDeleteAccount": "これによりアカウントが削除されます。",
   "@willDeleteAccount": {
     "description": "This will Delete your account."
   },
-  "willDeleteAccountDesc1": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android.",
+  "willDeleteAccountDesc1": "Tomoアカウントの削除プロセスを開始しようとしています。表示名、@ユーザー名、公開プロフィールはTomo（iOS/Android）で表示されなくなります。",
   "@willDeleteAccountDesc1": {
     "description": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android."
   },
-  "willDeleteAccountDesc2": "If you just want to log out, go back to the Profile page and click Log Out.",
+  "willDeleteAccountDesc2": "ログアウトのみ希望の場合は、プロフィールページに戻り「ログアウト」をクリックしてください。",
   "@willDeleteAccountDesc2": {
     "description": "If you just want to log out, go back to the Profile page and click Log Out."
   },
-  "slideToConfirm": "Slide to confirm",
+  "slideToConfirm": "スライドして確認",
   "@slideToConfirm": {
     "description": "Slide to confirm"
   },
-  "dogeOsBridge": "DogeOS bridge",
+  "dogeOsBridge": "DogeOSブリッジ",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   }
-}
+} 

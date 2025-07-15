@@ -1,282 +1,282 @@
 {
-  "@@locale": "zh_CN",
-  "tabMarket": "行情",
+  "@@locale": "es_ES",
+  "tabMarket": "Mercado",
   "@tabMarket": {
     "description": "Market"
   },
-  "tabEarn": "挣钱",
+  "tabEarn": "Ganar",
   "@tabEarn": {
     "description": "Earn"
   },
-  "tabTrade": "交易",
+  "tabTrade": "Intercambiar",
   "@tabTrade": {
     "description": "Trade"
   },
-  "tabChat": "聊天",
+  "tabChat": "Chat",
   "@tabChat": {
     "description": "Chat"
   },
-  "tabWallet": "钱包",
+  "tabWallet": "Billetera",
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "搜索 Token 名称或地址",
+  "searchBarDesc": "Buscar nombre o dirección de token",
   "@searchBarDesc": {
     "description": "Search token name or address"
   },
-  "totalBalance": "总资产",
+  "totalBalance": "Saldo total",
   "@totalBalance": {
     "description": "Total balance"
   },
-  "favorite": "自选",
+  "favorite": "Favorito",
   "@favorite": {
     "description": "Favorite"
   },
-  "trending": "交易中",
+  "trending": "Tendencias",
   "@trending": {
     "description": "Trending"
   },
-  "allAssets": "所有资产",
+  "allAssets": "Todos los activos",
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "输入你的邮箱",
+  "enterYourEmail": "Introduce tu correo electrónico",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "邮箱",
+  "email": "Correo electrónico",
   "@email": {
     "description": "Email"
   },
-  "password": "密码",
+  "password": "Contraseña",
   "@password": {
     "description": "Password"
   },
-  "forgetThePassword": "忘记密码？",
+  "forgetThePassword": "¿Olvidaste la contraseña?",
   "@forgetThePassword": {
     "description": "Forget the password?"
   },
-  "continueBtn": "继续",
+  "continueBtn": "Continuar",
   "@continueBtn": {
     "description": "Continue"
   },
-  "setPassword": "设置密码",
+  "setPassword": "Establecer contraseña",
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "Set your password. You can also log in directly through email in the future.  ",
+  "setPasswordDesc": "Establece tu contraseña. También puedes iniciar sesión directamente con el correo electrónico en el futuro.",
   "@setPasswordDesc": {
     "description": "Set your password. You can also log in directly through email in the future.  "
   },
-  "emailCode": "邮箱验证码",
+  "emailCode": "Código de verificación de correo",
   "@emailCode": {
     "description": "Email verification code"
   },
-  "emailCodeDesc": "输入你的验证码",
+  "emailCodeDesc": "Introduce tu código de verificación",
   "@emailCodeDesc": {
     "description": "Enter your verification code"
   },
-  "resend": "重发",
+  "resend": "Reenviar",
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "绑定邮箱",
+  "bindEmail": "Vincular correo electrónico",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  ",
+  "bindEmailDesc": "Establece tu contraseña para lucasscott3@email.com. Así también podrás iniciar sesión directamente con el correo electrónico en el futuro.",
   "@bindEmailDesc": {
     "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
   },
-  "setYourProfile": "Set your profile",
+  "setYourProfile": "Configura tu perfil",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want.",
+  "setYourProfileDesc1": "Elige tu nombre de usuario. Puede contener hasta 30 caracteres (solo letras y números). Puedes cambiarlo más tarde si lo deseas.",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters.",
+  "setYourProfileDesc2": "La contraseña debe tener entre 6 y 20 caracteres, incluyendo números, letras mayúsculas y minúsculas, y caracteres especiales.",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "Connect X",
+  "connectX": "Conectar X",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security.",
+  "connectXDesc": "Vincula tu cuenta X para lanzar tu propia Key y maximizar la experiencia MyDoge. ¡Solo se accederá a la foto de perfil, nombre y tu lista de seguidos!\n\nTen en cuenta que después de conectar con X, no será posible cambiar o desvincular por seguridad de los activos de la cuenta.",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
-  "connect": "连接",
+  "connect": "Conectar",
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "Congratulations",
+  "congratulations": "¡Felicidades!",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "You are all set!\nHang out with your My Doge now.",
+  "congratulationsDesc": "¡Todo listo!\nDisfruta con tu My Doge ahora.",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
-  "enterApp": "Enter App",
+  "enterApp": "Entrar a la app",
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle1": "Buy, Send & Receive Dogecoin",
+  "socialLoginTitle1": "Comprar, enviar y recibir Dogecoin",
   "@socialLoginTitle1": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc1": "Tip on X, secure your Doge, and manage your own funds with ease.",
+  "socialLoginDesc1": "Da propinas en X, protege tu Doge y gestiona tus fondos fácilmente.",
   "@socialLoginDesc1": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle2": "Explore the DogeOS Ecosystem",
+  "socialLoginTitle2": "Explora el ecosistema DogeOS",
   "@socialLoginTitle2": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc2": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe.",
+  "socialLoginDesc2": "Desbloquea DeFi, NFTs, juegos y más con $DOGE en el universo DogeOS.",
   "@socialLoginDesc2": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "Multichain Trading",
+  "socialLoginTitle3": "Trading multichain",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "Trade seamlessly across major blockchains for a true multichain experience.",
+  "socialLoginDesc3": "Opera sin problemas entre las principales blockchains para una experiencia multichain real.",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
-  "continueWithEmail": "Continue with Email",
+  "continueWithEmail": "Continuar con correo electrónico",
   "@continueWithEmail": {
     "description": "Continue with Email"
   },
-  "or": "Or",
+  "or": "O",
   "@or": {
     "description": "Or"
   },
-  "resetPwd": "Reset Password",
+  "resetPwd": "Restablecer contraseña",
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "We want to make sure it's really you. Enter your email and we'll send you a verification code.",
+  "resetPwdDesc": "Queremos asegurarnos de que eres tú. Introduce tu correo y te enviaremos un código de verificación.",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
-  "send": "Send",
+  "send": "Enviar",
   "@send": {
     "description": "Send"
   },
-  "deposit": "Deposit",
+  "deposit": "Depositar",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Bridge",
+  "bridge": "Puente",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Swap",
+  "swap": "Intercambiar",
   "@swap": {
     "description": "Swap"
   },
-  "buy": "Buy",
+  "buy": "Comprar",
   "@buy": {
     "description": "Buy"
   },
-  "sell": "Sell",
+  "sell": "Vender",
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "Crypto",
+  "cryptoTab": "Cripto",
   "@cryptoTab": {
     "description": "Crypto"
   },
-  "keyTab": "Key",
+  "keyTab": "Clave",
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "Manage wallet",
+  "manageWallet": "Gestionar billetera",
   "@manageWallet": {
     "description": "Manage wallet"
   },
-  "createNewWallet": "Create New wallet",
+  "createNewWallet": "Crear nueva billetera",
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "Import wallet",
+  "importWallet": "Importar billetera",
   "@importWallet": {
     "description": "Import wallet"
   },
-  "chooseHowToSend": "Choose how to send",
+  "chooseHowToSend": "Elige cómo enviar",
   "@chooseHowToSend": {
     "description": "Choose how to send"
   },
-  "yourFriendsTitle": "Your friends",
+  "yourFriendsTitle": "Tus amigos",
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Transfer within Mydoge",
+  "yourFriendsDesc": "Transferir dentro de Mydoge",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
-  "externalWalletTitle": "External Wallet",
+  "externalWalletTitle": "Billetera externa",
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Send Doge to a crypto address",
+  "externalWalletDesc": "Enviar Doge a una dirección cripto",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Select token",
+  "selectToken": "Seleccionar token",
   "@selectToken": {
     "description": "Select token"
   },
-  "searchAssets": "Search assets",
+  "searchAssets": "Buscar activos",
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "Receiving address",
+  "receivingAddress": "Dirección de recepción",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "{text} address",
+  "assetAddress": "Dirección de {text}",
   "@assetAddress": {
     "description": "{text} address"
   },
-  "paste": "Paste",
+  "paste": "Pegar",
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "Transactions",
+  "transactions": "Transacciones",
   "@transactions": {
     "description": "Transactions"
   },
-  "myWallet": "My wallet",
+  "myWallet": "Mi billetera",
   "@myWallet": {
     "description": "My wallet"
   },
-  "confirm": "Confirm",
+  "confirm": "Confirmar",
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "Select Crypto",
+  "selectCrypto": "Seleccionar cripto",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Search token name or address",
+  "searchTokenNameOrAddress": "Buscar nombre o dirección de token",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "Network：",
+  "network": "Red：",
   "@network": {
     "description": "Network："
   },
-  "all": "All",
+  "all": "Todo",
   "@all": {
     "description": "All"
   },
-  "qrCodeDesc": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!",
+  "qrCodeDesc": "¡Asegúrate de enviar a Doge Chain. De lo contrario, podrías perder tus fondos!",
   "@qrCodeDesc": {
     "description": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!"
   },
@@ -284,203 +284,203 @@
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "May be lost",
+  "mayBeLost": "Podrían perderse",
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Doge Address",
+  "tokenAddress": "Dirección Doge",
   "@tokenAddress": {
     "description": "Doge Address"
   },
-  "scroll": "Scroll",
+  "scroll": "Desplazar",
   "@scroll": {
     "description": "Scroll"
   },
-  "copy": "Copy",
+  "copy": "Copiar",
   "@copy": {
     "description": "Copy"
   },
-  "selectToTomoFriends": "Select to Tomo friends",
+  "selectToTomoFriends": "Seleccionar amigos Tomo",
   "@selectToTomoFriends": {
     "description": "Select to Tomo friends"
   },
-  "searchFriends": "Search friends",
+  "searchFriends": "Buscar amigos",
   "@searchFriends": {
     "description": "Search friends"
   },
-  "chooseWallet": "Choose wallet",
+  "chooseWallet": "Elegir billetera",
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "Balance：",
+  "balance": "Saldo：",
   "@balance": {
     "description": "Balance："
   },
-  "max": "MAX",
+  "max": "MÁX",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Send gas to friends",
+  "sendGasToFriends": "Enviar gas a amigos",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Changing Tokens",
+  "changingTokens": "Cambiando tokens",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "Buy {token}",
+  "buyToken": "Comprar {token}",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "Sell {token}",
+  "sellToken": "Vender {token}",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "DogeOS wallet",
+  "socialWallet": "Billetera DogeOS",
   "@socialWallet": {
     "description": "DogeOS wallet"
   },
-  "enjoyWalletWithSocialLogin": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset.",
+  "enjoyWalletWithSocialLogin": "Disfruta de la experiencia completa de MyDoge Wallet con una billetera multichain de inicio de sesión social, manteniendo tu activo MyDoge Classic.",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
-  "skip": "Skip",
+  "skip": "Omitir",
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "Create with",
+  "createWith": "Crear con",
   "@createWith": {
     "description": "Create with"
   },
-  "addressBook": "Address book",
+  "addressBook": "Libreta de direcciones",
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "No address",
+  "noAddress": "Sin dirección",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "Add wallets to your address book for easy \naccess when you need to transfer crypto",
+  "noAddressDesc": "Agrega billeteras a tu libreta de direcciones para acceder fácilmente cuando necesites transferir cripto",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
-  "addAddress": "Add address",
+  "addAddress": "Agregar dirección",
   "@addAddress": {
     "description": "Add address"
   },
-  "name": "Name",
+  "name": "Nombre",
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "Enter a name under 20 characters",
+  "namePlaceholder": "Introduce un nombre de hasta 20 caracteres",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
-  "address": "Address",
+  "address": "Dirección",
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "Enter an address",
+  "addressPlaceholder": "Introduce una dirección",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
-  "deleteAddress": "Delete address",
+  "deleteAddress": "Eliminar dirección",
   "@deleteAddress": {
     "description": "Delete address"
   },
-  "deleteAddressDesc": "Do you want to delete the address?",
+  "deleteAddressDesc": "¿Deseas eliminar la dirección?",
   "@deleteAddressDesc": {
     "description": "Do you want to delete the address?"
   },
-  "cancel": "Cancel",
+  "cancel": "Cancelar",
   "@cancel": {
     "description": "Cancel"
   },
-  "delete": "Delete",
+  "delete": "Eliminar",
   "@delete": {
     "description": "Delete"
   },
-  "update": "Update",
+  "update": "Actualizar",
   "@update": {
     "description": "Update"
   },
-  "settings": "Settings",
+  "settings": "Configuración",
   "@settings": {
     "description": "Settings"
   },
-  "yourAccount": "Your account",
+  "yourAccount": "Tu cuenta",
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "Edit profile",
+  "editProfile": "Editar perfil",
   "@editProfile": {
     "description": "Edit profile"
   },
-  "recoverPassword": "Recover password",
+  "recoverPassword": "Recuperar contraseña",
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "How you use MyDoge",
+  "howYouUseMyDoge": "Cómo usas MyDoge",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
-  "pushNotifications": "Push notifications",
+  "pushNotifications": "Notificaciones push",
   "@pushNotifications": {
     "description": "Push notifications"
   },
-  "privacySettings": "Privacy settings",
+  "privacySettings": "Configuración de privacidad",
   "@privacySettings": {
     "description": "Privacy settings"
   },
-  "language": "Language",
+  "language": "Idioma",
   "@language": {
     "description": "Language"
   },
-  "vol24h": "24h Vol",
+  "vol24h": "Vol 24h",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "24h High",
+  "high24h": "Máx 24h",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "24h Low",
+  "low24h": "Mín 24h",
   "@low24h": {
     "description": "24h Low"
   },
-  "yourBalance": "Your Balance",
+  "yourBalance": "Tu saldo",
   "@yourBalance": {
     "description": "Your Balance"
   },
-  "value": "Value",
+  "value": "Valor",
   "@value": {
     "description": "Value"
   },
-  "quantity": "Quantity",
+  "quantity": "Cantidad",
   "@quantity": {
     "description": "Quantity"
   },
-  "addCash": "Add cash",
+  "addCash": "Agregar efectivo",
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "Room",
+  "room": "Sala",
   "@room": {
     "description": "Room"
   },
-  "refer": "Refer",
+  "refer": "Referir",
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Receive",
+  "receive": "Recibir",
   "@receive": {
     "description": "Receive"
   },
-  "stats": "Stats",
+  "stats": "Estadísticas",
   "@stats": {
     "description": "Stats"
   },
-  "marketCap": "Market Cap",
+  "marketCap": "Capitalización de mercado",
   "@marketCap": {
     "description": "Market Cap"
   },
@@ -488,19 +488,19 @@
   "@fdv": {
     "description": "FDV"
   },
-  "liquidity": "Liquidity",
+  "liquidity": "Liquidez",
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "24h Turnover",
+  "turnover24h": "Volumen 24h",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "24h Change",
+  "change24h": "Cambio 24h",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "Contract",
+  "contract": "Contrato",
   "@contract": {
     "description": "Contract"
   },
@@ -508,15 +508,15 @@
   "@total": {
     "description": "Total"
   },
-  "to": "To",
+  "to": "Para",
   "@to": {
     "description": "To"
   },
-  "from": "From",
+  "from": "De",
   "@from": {
     "description": "From"
   },
-  "appearance": "Appearance",
+  "appearance": "Apariencia",
   "@appearance": {
     "description": "Appearance"
   },
@@ -524,84 +524,84 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "Connect Apple",
+  "connectApple": "Conectar Apple",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Connect Meta",
+  "connectMeta": "Conectar Meta",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "Connect Instagram",
+  "connectInstagram": "Conectar Instagram",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "Connect Kakao",
+  "connectKakao": "Conectar Kakao",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Connect line",
+  "connectLine": "Conectar Line",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "Your social link",
+  "yourSocialLink": "Tu enlace social",
   "@yourSocialLink": {
     "description": "Your social link"
   },
-  "others": "Others",
+  "others": "Otros",
   "@others": {
     "description": "Others"
   },
-  "additionalSettings": "Additional settings",
+  "additionalSettings": "Configuraciones adicionales",
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "Community Guidelines",
+  "communityGuidelines": "Normas de la comunidad",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "Terms",
+  "terms": "Términos",
   "@terms": {
     "description": "Terms"
   },
-  "deleteAccount": "Delete account",
+  "deleteAccount": "Eliminar cuenta",
   "@deleteAccount": {
     "description": "Delete account"
   },
-  "logOut": "Log out",
+  "logOut": "Cerrar sesión",
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "Confirm to exit",
+  "confirmToExit": "Confirmar para salir",
   "@confirmToExit": {
     "description": "Confirm to exit"
   },
-  "follow": "Follow",
+  "follow": "Seguir",
   "@follow": {
     "description": "Follow"
   },
-  "warning": "Warning",
+  "warning": "Advertencia",
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "This will Delete your account.",
+  "willDeleteAccount": "Esto eliminará tu cuenta.",
   "@willDeleteAccount": {
     "description": "This will Delete your account."
   },
-  "willDeleteAccountDesc1": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android.",
+  "willDeleteAccountDesc1": "Estás a punto de iniciar el proceso de eliminación de tu cuenta Tomo. Tu nombre, @usuario y perfil público ya no serán visibles en Tomo para iOS o Android.",
   "@willDeleteAccountDesc1": {
     "description": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android."
   },
-  "willDeleteAccountDesc2": "If you just want to log out, go back to the Profile page and click Log Out.",
+  "willDeleteAccountDesc2": "Si solo quieres cerrar sesión, vuelve a la página de perfil y haz clic en Cerrar sesión.",
   "@willDeleteAccountDesc2": {
     "description": "If you just want to log out, go back to the Profile page and click Log Out."
   },
-  "slideToConfirm": "Slide to confirm",
+  "slideToConfirm": "Desliza para confirmar",
   "@slideToConfirm": {
     "description": "Slide to confirm"
   },
-  "dogeOsBridge": "DogeOS bridge",
+  "dogeOsBridge": "Puente DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   }
-}
+} 
