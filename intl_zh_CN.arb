@@ -1,10 +1,22 @@
 {
   "@@locale": "zh_CN",
-  "tabMarket": "行情",
+  "tabMarket": "市场",
   "@tabMarket": {
     "description": "Market"
   },
-  "tabEarn": "挣钱",
+  "tabHome": "首页",
+  "@tabHome": {
+    "description": "Home"
+  },
+  "tabDiscover": "发现",
+  "@tabDiscover": {
+    "description": "Discover"
+  },
+  "tabAlpha": "阿尔法",
+  "@tabAlpha": {
+    "description": "Alpha"
+  },
+  "tabEarn": "赚取",
   "@tabEarn": {
     "description": "Earn"
   },
@@ -20,19 +32,19 @@
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "搜索 Token 名称或地址",
+  "searchBarDesc": "搜索名称或地址",
   "@searchBarDesc": {
-    "description": "Search token name or address"
+    "description": "Search name or address"
   },
-  "totalBalance": "总资产",
+  "totalBalance": "总余额",
   "@totalBalance": {
     "description": "Total balance"
   },
-  "favorite": "自选",
+  "favorite": "收藏",
   "@favorite": {
     "description": "Favorite"
   },
-  "trending": "交易中",
+  "trending": "趋势",
   "@trending": {
     "description": "Trending"
   },
@@ -40,11 +52,11 @@
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "输入你的邮箱",
+  "enterYourEmail": "输入您的电子邮件",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "邮箱",
+  "email": "电子邮件",
   "@email": {
     "description": "Email"
   },
@@ -64,47 +76,47 @@
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "Set your password. You can also log in directly through email in the future.  ",
+  "setPasswordDesc": "设置您的密码。将来您也可以通过电子邮件直接登录。",
   "@setPasswordDesc": {
-    "description": "Set your password. You can also log in directly through email in the future.  "
+    "description": "Set your password. You can also log in directly through email in the future."
   },
-  "emailCode": "邮箱验证码",
+  "emailCode": "电子邮件验证码",
   "@emailCode": {
     "description": "Email verification code"
   },
-  "emailCodeDesc": "输入你的验证码",
+  "emailCodeDesc": "输入您的验证码",
   "@emailCodeDesc": {
     "description": "Enter your verification code"
   },
-  "resend": "重发",
+  "resend": "重新发送",
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "绑定邮箱",
+  "bindEmail": "绑定电子邮件",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  ",
+  "bindEmailDesc": "为 lucasscott3@email.com 设置密码。这样您将来也可以通过电子邮件直接登录。",
   "@bindEmailDesc": {
-    "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
+    "description": "Set your password for lucasscott3@email.com. So you can also log in directly through email in the future."
   },
-  "setYourProfile": "Set your profile",
+  "setYourProfile": "设置您的个人资料",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want.",
+  "setYourProfileDesc1": "选择您的帐户用户名。它最多可以包含 30 个字符（仅限字母和数字）。如果您愿意，可以稍后更改。",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters.",
+  "setYourProfileDesc2": "密码必须是 6-20 个字符，由数字、大小写字母和特殊字符组成。",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "Connect X",
+  "connectX": "连接 X",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security.",
+  "connectXDesc": "链接您的 X 帐户以启动您自己的密钥并最大化 MyDoge 体验。只会访问个人资料图片、姓名和您的关注列表！\n\n请注意，连接到 X 后，出于帐户资产安全考虑，无法进行更改或解除绑定。",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
@@ -112,375 +124,379 @@
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "Congratulations",
+  "congratulations": "恭喜！",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "You are all set!\nHang out with your My Doge now.",
+  "congratulationsDesc": "您已准备就绪！\n立即与您的 My Doge 一起玩吧。",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
-  "enterApp": "Enter App",
+  "enterApp": "进入应用",
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle1": "Buy, Send & Receive Dogecoin",
-  "@socialLoginTitle1": {
+  "socialLoginTitle2": "购买、发送和接收狗狗币",
+  "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc1": "Tip on X, secure your Doge, and manage your own funds with ease.",
-  "@socialLoginDesc1": {
+  "socialLoginDesc2": "在 X 上打赏，保护您的狗狗币，并轻松管理您自己的资金。",
+  "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle2": "Explore the DogeOS Ecosystem",
-  "@socialLoginTitle2": {
+  "socialLoginTitle1": "探索 DogeOS 生态系统",
+  "@socialLoginTitle1": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc2": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe.",
-  "@socialLoginDesc2": {
+  "socialLoginDesc1": "在 DogeOS 世界中使用 $DOGE 解锁 DeFi、NFT、游戏等。",
+  "@socialLoginDesc1": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "Multichain Trading",
+  "socialLoginTitle3": "多链交易",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "Trade seamlessly across major blockchains for a true multichain experience.",
+  "socialLoginDesc3": "在主要区块链之间无缝交易，获得真正的多链体验。",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
-  "continueWithEmail": "Continue with Email",
+  "continueWithEmail": "使用电子邮件继续",
   "@continueWithEmail": {
     "description": "Continue with Email"
   },
-  "or": "Or",
+  "or": "或",
   "@or": {
     "description": "Or"
   },
-  "resetPwd": "Reset Password",
+  "resetPwd": "重置密码",
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "We want to make sure it's really you. Enter your email and we'll send you a verification code.",
+  "resetPwdDesc": "我们想确保是您本人。输入您的电子邮件，我们会向您发送验证码。",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
-  "send": "Send",
+  "send": "发送",
   "@send": {
     "description": "Send"
   },
-  "deposit": "Deposit",
+  "deposit": "存款",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Bridge",
+  "bridge": "桥接",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Swap",
+  "swap": "交换",
   "@swap": {
     "description": "Swap"
   },
-  "buy": "Buy",
+  "trade": "交易",
+  "@trade": {
+    "description": "Trade"
+  },
+  "buy": "购买",
   "@buy": {
     "description": "Buy"
   },
-  "sell": "Sell",
+  "sell": "出售",
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "Crypto",
+  "cryptoTab": "加密货币",
   "@cryptoTab": {
     "description": "Crypto"
   },
-  "keyTab": "Key",
+  "keyTab": "密钥",
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "Manage wallet",
+  "manageWallet": "管理钱包",
   "@manageWallet": {
     "description": "Manage wallet"
   },
-  "createNewWallet": "Create New wallet",
+  "createNewWallet": "创建新钱包",
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "Import wallet",
+  "importWallet": "导入钱包",
   "@importWallet": {
     "description": "Import wallet"
   },
-  "chooseHowToSend": "Choose how to send",
+  "chooseHowToSend": "选择发送方式",
   "@chooseHowToSend": {
     "description": "Choose how to send"
   },
-  "yourFriendsTitle": "Your friends",
+  "yourFriendsTitle": "您的朋友",
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Transfer within Mydoge",
+  "yourFriendsDesc": "在 Mydoge 内转账",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
-  "externalWalletTitle": "External Wallet",
+  "externalWalletTitle": "外部钱包",
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Send Doge to a crypto address",
+  "externalWalletDesc": "将狗狗币发送到加密地址",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Select token",
+  "selectToken": "选择代币",
   "@selectToken": {
     "description": "Select token"
   },
-  "searchAssets": "Search assets",
+  "searchAssets": "搜索资产",
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "Receiving address",
+  "receivingAddress": "接收地址",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "{text} address",
+  "assetAddress": "{text} 地址",
   "@assetAddress": {
     "description": "{text} address"
   },
-  "paste": "Paste",
+  "paste": "粘贴",
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "Transactions",
+  "transactions": "交易",
   "@transactions": {
     "description": "Transactions"
   },
-  "myWallet": "My wallet",
+  "myWallet": "我的钱包",
   "@myWallet": {
     "description": "My wallet"
   },
-  "confirm": "Confirm",
+  "confirm": "确认",
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "Select Crypto",
+  "selectCrypto": "选择加密货币",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Search token name or address",
+  "searchTokenNameOrAddress": "搜索代币名称或地址",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "Network：",
+  "network": "网络：",
   "@network": {
-    "description": "Network："
+    "description": "Network:"
   },
-  "all": "All",
+  "all": "全部",
   "@all": {
     "description": "All"
   },
-  "qrCodeDesc": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!",
-  "@qrCodeDesc": {
-    "description": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!"
-  },
-  "dogeChain": "Doge Chain",
+  "dogeChain": "狗狗链",
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "May be lost",
+  "mayBeLost": "可能会丢失",
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Doge Address",
+  "tokenAddress": "狗狗币地址",
   "@tokenAddress": {
     "description": "Doge Address"
   },
-  "scroll": "Scroll",
+  "scroll": "滚动",
   "@scroll": {
     "description": "Scroll"
   },
-  "copy": "Copy",
+  "copy": "复制",
   "@copy": {
     "description": "Copy"
   },
-  "selectToTomoFriends": "Select to Tomo friends",
-  "@selectToTomoFriends": {
-    "description": "Select to Tomo friends"
+  "selectToDogeFriends": "选择给狗狗币朋友",
+  "@selectToDogeFriends": {
+    "description": "Select to Doge friends"
   },
-  "searchFriends": "Search friends",
+  "searchFriends": "搜索朋友",
   "@searchFriends": {
     "description": "Search friends"
   },
-  "chooseWallet": "Choose wallet",
+  "chooseWallet": "选择钱包",
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "Balance：",
+  "balance": "余额：",
   "@balance": {
-    "description": "Balance："
+    "description": "Balance:"
   },
-  "max": "MAX",
+  "max": "最大",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Send gas to friends",
+  "sendGasToFriends": "向朋友发送汽油费",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Changing Tokens",
+  "changingTokens": "正在更换代币",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "Buy {token}",
+  "buyToken": "购买 {token}",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "Sell {token}",
+  "sellToken": "出售 {token}",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "DogeOS wallet",
+  "socialWallet": "DogeOS 钱包",
   "@socialWallet": {
     "description": "DogeOS wallet"
   },
-  "enjoyWalletWithSocialLogin": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset.",
+  "enjoyWalletWithSocialLogin": "通过社交登录多链钱包享受完整的 MyDoge 钱包体验，同时保留您的 MyDoge Classic 资产。",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
-  "skip": "Skip",
+  "skip": "跳过",
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "Create with",
+  "createWith": "使用...创建",
   "@createWith": {
     "description": "Create with"
   },
-  "addressBook": "Address book",
+  "addressBook": "地址簿",
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "No address",
+  "noAddress": "没有地址",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "Add wallets to your address book for easy \naccess when you need to transfer crypto",
+  "noAddressDesc": "将钱包添加到您的地址簿，以便在需要转移加密货币时轻松访问",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
-  "addAddress": "Add address",
+  "addAddress": "添加地址",
   "@addAddress": {
     "description": "Add address"
   },
-  "name": "Name",
+  "name": "姓名",
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "Enter a name under 20 characters",
+  "namePlaceholder": "输入一个 20 个字符以下的名称",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
-  "address": "Address",
+  "address": "地址",
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "Enter an address",
+  "addressPlaceholder": "输入一个地址",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
-  "deleteAddress": "Delete address",
+  "deleteAddress": "删除地址",
   "@deleteAddress": {
     "description": "Delete address"
   },
-  "deleteAddressDesc": "Do you want to delete the address?",
+  "deleteAddressDesc": "您要删除该地址吗？",
   "@deleteAddressDesc": {
     "description": "Do you want to delete the address?"
   },
-  "cancel": "Cancel",
+  "cancel": "取消",
   "@cancel": {
     "description": "Cancel"
   },
-  "delete": "Delete",
+  "cancelLowercase": "取消",
+  "@cancelLowercase": {
+    "description": "cancel"
+  },
+  "delete": "删除",
   "@delete": {
     "description": "Delete"
   },
-  "update": "Update",
+  "update": "更新",
   "@update": {
     "description": "Update"
   },
-  "settings": "Settings",
+  "settings": "设置",
   "@settings": {
     "description": "Settings"
   },
-  "yourAccount": "Your account",
+  "yourAccount": "您的帐户",
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "Edit profile",
+  "editProfile": "编辑个人资料",
   "@editProfile": {
     "description": "Edit profile"
   },
-  "recoverPassword": "Recover password",
+  "recoverPassword": "恢复密码",
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "How you use MyDoge",
+  "howYouUseMyDoge": "您如何使用 MyDoge",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
-  "pushNotifications": "Push notifications",
+  "pushNotifications": "推送通知",
   "@pushNotifications": {
     "description": "Push notifications"
   },
-  "privacySettings": "Privacy settings",
+  "privacySettings": "隐私设置",
   "@privacySettings": {
     "description": "Privacy settings"
   },
-  "language": "Language",
+  "language": "语言",
   "@language": {
     "description": "Language"
   },
-  "vol24h": "24h Vol",
+  "vol24h": "24 小时交易量",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "24h High",
+  "high24h": "24 小时最高价",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "24h Low",
+  "low24h": "24 小时最低价",
   "@low24h": {
     "description": "24h Low"
   },
-  "yourBalance": "Your Balance",
+  "yourBalance": "您的余额",
   "@yourBalance": {
     "description": "Your Balance"
   },
-  "value": "Value",
+  "value": "价值",
   "@value": {
     "description": "Value"
   },
-  "quantity": "Quantity",
+  "quantity": "数量",
   "@quantity": {
     "description": "Quantity"
   },
-  "addCash": "Add cash",
+  "addCash": "添加现金",
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "Room",
+  "room": "房间",
   "@room": {
     "description": "Room"
   },
-  "refer": "Refer",
+  "refer": "推荐",
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Receive",
+  "receive": "接收",
   "@receive": {
     "description": "Receive"
   },
-  "stats": "Stats",
+  "stats": "统计数据",
   "@stats": {
     "description": "Stats"
   },
-  "marketCap": "Market Cap",
+  "marketCap": "市值",
   "@marketCap": {
     "description": "Market Cap"
   },
@@ -488,35 +504,139 @@
   "@fdv": {
     "description": "FDV"
   },
-  "liquidity": "Liquidity",
+  "liquidity": "流动性",
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "24h Turnover",
+  "turnover24h": "24 小时成交额",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "24h Change",
+  "change24h": "24 小时变化",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "Contract",
+  "contract": "合约",
   "@contract": {
     "description": "Contract"
   },
-  "total": "Total",
+  "total": "总计",
   "@total": {
     "description": "Total"
   },
-  "to": "To",
+  "to": "至",
   "@to": {
     "description": "To"
   },
-  "from": "From",
+  "toLowerCase": "至",
+  "@toLowerCase": {
+    "description": "to"
+  },
+  "from": "从",
   "@from": {
     "description": "From"
   },
-  "appearance": "Appearance",
+  "fromLowerCase": "从",
+  "@fromLowerCase": {
+    "description": "from"
+  },
+  "task": "任务",
+  "@task": {
+    "description": "Task"
+  },
+  "dapp": "Dapp",
+  "@dapp": {
+    "description": "Dapp"
+  },
+  "referralRewards": "推荐奖励",
+  "@referralRewards": {
+    "description": "Referral Rewards"
+  },
+  "friendsInvited": "已邀请的朋友",
+  "@friendsInvited": {
+    "description": "Friends invited"
+  },
+  "youHaveEarned": "您已赚取",
+  "@youHaveEarned": {
+    "description": "You have earned"
+  },
+  "point": "积分",
+  "@point": {
+    "description": "Point"
+  },
+  "referAFriend": "推荐朋友",
+  "@referAFriend": {
+    "description": "Refer a friend"
+  },
+  "referExplain": "您推荐的每位朋友，您都可以赚取 50%~75% 的交易费。",
+  "@referExplain": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "claim": "领取",
+  "@claim": {
+    "description": "Claim"
+  },
+  "bridgeDOGEToDogeOS": "将 $DOGE 桥接到 DogeOS",
+  "@bridgeDOGEToDogeOS": {
+    "description": "Bridge $DOGE to DogeOS"
+  },
+  "followDogeOSOnX": "在 X 上关注 DogeOS",
+  "@followDogeOSOnX": {
+    "description": "Follow DogeOS on X"
+  },
+  "followMyDogeOnX": "在 X 上关注 MyDoge",
+  "@followMyDogeOnX": {
+    "description": "Follow MyDoge on X"
+  },
+  "completeOneSwapOnDogeOS": "在 DogeOS 上完成一次交换",
+  "@completeOneSwapOnDogeOS": {
+    "description": "Complete one swap on DogeOS"
+  },
+  "dogeverse": "狗狗宇宙",
+  "@dogeverse": {
+    "description": "Dogeverse"
+  },
+  "connectToDogeverseNow": "立即连接到狗狗宇宙",
+  "@connectToDogeverseNow": {
+    "description": "Connect to Dogeverse now"
+  },
+  "dogeOSEcosystem": "DogeOS 生态系统",
+  "@dogeOSEcosystem": {
+    "description": "DogeOS Ecosystem"
+  },
+  "dogeSwap": "狗狗交换",
+  "@dogeSwap": {
+    "description": "DogeSwap"
+  },
+  "orbiterFinanceIsADecentralized": "Orbiter Finance 是一个去中心化的",
+  "@orbiterFinanceIsADecentralized": {
+    "description": "Orbiter Finance is a decentralized"
+  },
+  "bitcoinLayer2Network": "比特币二层网络",
+  "@bitcoinLayer2Network": {
+    "description": "Bitcoin layer-2 network"
+  },
+  "buildingTheSpiderChain": "构建蜘蛛链，第一个 EVM L2",
+  "@buildingTheSpiderChain": {
+    "description": "Building the Spider chain, the first EVM L2"
+  },
+  "solanaEcosystem": "Solana 生态系统",
+  "@solanaEcosystem": {
+    "description": "Solana Ecosystem"
+  },
+  "solanaFinance": "Solana 金融",
+  "@solanaFinance": {
+    "description": "Solana Finance"
+  },
+  "earnDesc": "您推荐的每位朋友，您都可以赚取 50%~75% 的交易费。",
+  "@earnDesc": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "referFriends": "推荐朋友",
+  "@referFriends": {
+    "description": "Refer friends"
+  },
+  "appearance": "外观",
   "@appearance": {
     "description": "Appearance"
   },
@@ -524,84 +644,1736 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "Connect Apple",
+  "connectApple": "连接 Apple",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Connect Meta",
+  "connectMeta": "连接 Meta",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "Connect Instagram",
+  "connectInstagram": "连接 Instagram",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "Connect Kakao",
+  "connectKakao": "连接 Kakao",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Connect line",
+  "connectLine": "连接 Line",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "Your social link",
+  "yourSocialLink": "您的社交链接",
   "@yourSocialLink": {
     "description": "Your social link"
   },
-  "others": "Others",
+  "others": "其他",
   "@others": {
     "description": "Others"
   },
-  "additionalSettings": "Additional settings",
+  "additionalSettings": "其他设置",
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "Community Guidelines",
+  "communityGuidelines": "社区准则",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "Terms",
+  "terms": "条款",
   "@terms": {
     "description": "Terms"
   },
-  "deleteAccount": "Delete account",
+  "deleteAccount": "删除帐户",
   "@deleteAccount": {
     "description": "Delete account"
   },
-  "logOut": "Log out",
+  "logOut": "退出登录",
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "Confirm to exit",
+  "confirmToExit": "您确定要退出登录吗？",
   "@confirmToExit": {
-    "description": "Confirm to exit"
+    "description": "Are you sure you want to log out?"
   },
-  "follow": "Follow",
+  "follow": "关注",
   "@follow": {
     "description": "Follow"
   },
-  "warning": "Warning",
+  "warning": "警告",
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "This will Delete your account.",
+  "willDeleteAccount": "此操作不可逆",
   "@willDeleteAccount": {
-    "description": "This will Delete your account."
+    "description": "This action is irreversible"
   },
-  "willDeleteAccountDesc1": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android.",
+  "willDeleteAccountDesc1": "删除您的帐户将永久删除您的 MyDoge 钱包和个人资料。",
   "@willDeleteAccountDesc1": {
-    "description": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android."
+    "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
   },
-  "willDeleteAccountDesc2": "If you just want to log out, go back to the Profile page and click Log Out.",
+  "willDeleteAccountDesc2": "请务必备份您的钱包并保存所有重要内容 — 此操作无法撤消。",
   "@willDeleteAccountDesc2": {
-    "description": "If you just want to log out, go back to the Profile page and click Log Out."
+    "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
   },
-  "slideToConfirm": "Slide to confirm",
+  "slideToConfirm": "滑动删除",
   "@slideToConfirm": {
-    "description": "Slide to confirm"
+    "description": "Slide to delete"
   },
-  "dogeOsBridge": "DogeOS bridge",
+  "dogeOsBridge": "DogeOS 桥",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
+  },
+  "noContacts": "没有联系人",
+  "@noContacts": {
+    "description": "No contacts"
+  },
+  "noContactsRemind": "将钱包添加到您的地址簿，以便在需要转移加密货币时轻松访问",
+  "@noContactsRemind": {
+    "description": "Add wallets to your address book for easy access when you need to transfer crypto"
+  },
+  "networkText": "网络",
+  "@networkText": {
+    "description": "Network"
+  },
+  "updateAddress": "更新地址",
+  "@updateAddress": {
+    "description": "Update address"
+  },
+  "makeSureSend": "请确保您发送到 ",
+  "@makeSureSend": {
+    "description": "Please make sure you are sending to "
+  },
+  "chainPoint": "链。",
+  "@chainPoint": {
+    "description": "Chain."
+  },
+  "otherFunds": "从任何其他链发送可能会导致 ",
+  "@otherFunds": {
+    "description": "Sending from any other chain may result in "
+  },
+  "lossOfFunds": "资金损失。",
+  "@lossOfFunds": {
+    "description": "loss of funds."
+  },
+  "maybeLost2": "可能会丢失！",
+  "@maybeLost2": {
+    "description": "May be lost!"
+  },
+  "copyAddress": "复制地址",
+  "@copyAddress": {
+    "description": "Copy Address"
+  },
+  "errorNetwork": "网络错误",
+  "@errorNetwork": {
+    "description": "Error network"
+  },
+  "errorNetworkRemind": "您的网络出现了一些问题，请检查并尝试刷新",
+  "@errorNetworkRemind": {
+    "description": "Your network is experiencing some problems, please check and try refreshing"
+  },
+  "refresh": "刷新",
+  "@refresh": {
+    "description": "Refresh"
+  },
+  "bindTipTitle": "链接验证器应用",
+  "@bindTipTitle": {
+    "description": "Link Authenticator App"
+  },
+  "bindTipSubtitle": "链接验证器应用将增强您帐户的安全性。当您导出钱包时将应用它。",
+  "@bindTipSubtitle": {
+    "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
+  },
+  "link": "链接",
+  "@link": {
+    "description": "Link"
+  },
+  "emailCodeText": "电子邮件代码",
+  "@emailCodeText": {
+    "description": "Email code"
+  },
+  "emailCodeSubtitle": "一封电子邮件已发送到您的收件箱 {email}。\r\n请输入电子邮件中的验证码。",
+  "@emailCodeSubtitle": {
+    "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
+  },
+  "bindStepTitle": "链接验证器应用",
+  "@bindStepTitle": {
+    "description": "Link Authenticator App"
+  },
+  "step1": "步骤 1：",
+  "@step1": {
+    "description": "Step 1: "
+  },
+  "bindStepOneLabelDescription": "下载验证器应用。",
+  "@bindStepOneLabelDescription": {
+    "description": "Download an authenticator app."
+  },
+  "forExampleLabel": "例如：",
+  "@forExampleLabel": {
+    "description": "For example: "
+  },
+  "step2": "步骤 2：",
+  "@step2": {
+    "description": "Step 2: "
+  },
+  "bindStepTwoLabelDescription": "请复制下面的 16 位密钥或扫描二维码",
+  "@bindStepTwoLabelDescription": {
+    "description": "Please copy the 16-digit key below or scan the QR code"
+  },
+  "caution": "注意",
+  "@caution": {
+    "description": "Caution"
+  },
+  "bindStepCautionContent": "请妥善保管此密钥，因为它用于导出您的钱包，如果丢失将无法恢复！",
+  "@bindStepCautionContent": {
+    "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
+  },
+  "pleaseNote": "请注意",
+  "@pleaseNote": {
+    "description": "Please note"
+  },
+  "bindStepCautionNoteSubtitle": "Google Authenticator 成功链接后，将无法更改。",
+  "@bindStepCautionNoteSubtitle": {
+    "description": "Once Google Authenticator is successfully linked, it cannot be changed."
+  },
+  "bindStepCautionNoteContent": "为了您的钱包资产安全，请将 Google Authenticator 存放在安全的地方并妥善保管。如果 Google Authenticator 丢失，可能会导致无法访问您的钱包。",
+  "@bindStepCautionNoteContent": {
+    "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
+  },
+  "gotIt": "知道了",
+  "@gotIt": {
+    "description": "Got it"
+  },
+  "googleAuthenticator": "Google Authenticator",
+  "@googleAuthenticator": {
+    "description": "Google Authenticator"
+  },
+  "verifySubtitle": "请输入您的 Google Authenticator 生成的数字。",
+  "@verifySubtitle": {
+    "description": "Please enter the number generated by your Google Authenticator."
+  },
+  "bindSuccessTip": "验证器已成功链接",
+  "@bindSuccessTip": {
+    "description": "Authenticator linked successfully"
+  },
+  "bindFailedTip": "验证器代码不正确，链接失败",
+  "@bindFailedTip": {
+    "description": "Authenticator code is incorrect, linking failed"
+  },
+  "retry": "重试",
+  "@retry": {
+    "description": "Retry"
+  },
+  "selectNetwork": "选择网络",
+  "@selectNetwork": {
+    "description": "Select network"
+  },
+  "addToFavorites": "添加到收藏夹",
+  "@addToFavorites": {
+    "description": "Add to favorites"
+  },
+  "addToFavorite": "添加到收藏夹",
+  "@addToFavorite": {
+    "description": "Add to favorite"
+  },
+  "setPayPin": "设置支付密码",
+  "@setPayPin": {
+    "description": "Set Pay Pin"
+  },
+  "setPayPinSubtitle": "请设置支付密码以保护您的资产。当您进行交易时将需要此密码。",
+  "@setPayPinSubtitle": {
+    "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
+  },
+  "showTip": "显示密码",
+  "@showTip": {
+    "description": "Show Pin"
+  },
+  "hideTip": "隐藏密码",
+  "@hideTip": {
+    "description": "Hide Pin"
+  },
+  "confirmPayPin": "确认支付密码",
+  "@confirmPayPin": {
+    "description": "Confirm Pay Pin"
+  },
+  "confirmNotMatchTip": "两个支付密码不匹配。",
+  "@confirmNotMatchTip": {
+    "description": "The two pay pins do not match."
+  },
+  "enterPayPin": "输入支付密码",
+  "@enterPayPin": {
+    "description": "Enter Pay PIN"
+  },
+  "forgotPin": "忘记密码",
+  "@forgotPin": {
+    "description": "Forgot pin"
+  },
+  "enterCode": "输入代码",
+  "@enterCode": {
+    "description": "Enter Code"
+  },
+  "changeEmailCodeSubtitle": "一个 4 位数的代码已发送到 {email}",
+  "@changeEmailCodeSubtitle": {
+    "description": "A 4-digit code was sent to {email}"
+  },
+  "request": "请求",
+  "@request": {
+    "description": "Request"
+  },
+  "incorrectCode": "代码不正确",
+  "@incorrectCode": {
+    "description": "Incorrect code"
+  },
+  "forgetPayPin": "忘记支付密码？",
+  "@forgetPayPin": {
+    "description": "Forget the Pay PIN?"
+  },
+  "showPayPin": "显示支付密码",
+  "@showPayPin": {
+    "description": "Show Pay PIN"
+  },
+  "hidePayPin": "隐藏支付密码",
+  "@hidePayPin": {
+    "description": "Hide Pay PIN"
+  },
+  "setRecoveryEmail": "设置恢复电子邮件",
+  "@setRecoveryEmail": {
+    "description": "Set Recovery Email"
+  },
+  "setRecoveryEmailSubtitle": "为确保您的资产安全，请设置恢复电子邮件。此电子邮件将用于在您无法访问帐户时进行帐户恢复。",
+  "@setRecoveryEmailSubtitle": {
+    "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
+  },
+  "enterEmailAddress": "输入您的电子邮件地址",
+  "@enterEmailAddress": {
+    "description": "Enter your Email address"
+  },
+  "emailErrorTip": "此电子邮件不可用",
+  "@emailErrorTip": {
+    "description": "This email is not available"
+  },
+  "codeResendSecond": "重新发送({second})",
+  "@codeResendSecond": {
+    "description": "Resend({second})"
+  },
+  "scanQRCode": "扫描二维码",
+  "@scanQRCode": {
+    "description": "Scan QR Code"
+  },
+  "album": "相册",
+  "@album": {
+    "description": "Album"
+  },
+  "alignQRCode": "",
+  "@alignQRCode": {
+    "description": ""
+  },
+  "enterSeedPhrase": "输入助记词",
+  "@enterSeedPhrase": {
+    "description": "Enter seed phrase"
+  },
+  "enterSeedPhraseRemind": "如果您使用助记词导入钱包，请用空格分隔每个单词。",
+  "@enterSeedPhraseRemind": {
+    "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
+  },
+  "clear": "清除",
+  "@clear": {
+    "description": "Clear"
+  },
+  "howToBackUp": "为什么以及如何备份您的钱包",
+  "@howToBackUp": {
+    "description": "Why and How to back up\r\nyour wallet"
+  },
+  "backUpRemind": "为了能够在更换设备时访问您的帐户和资产，我们强烈建议您按照以下流程备份您的钱包。",
+  "@backUpRemind": {
+    "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
+  },
+  "backUpStep1": "1. 单击按钮查看助记词。",
+  "@backUpStep1": {
+    "description": "1. Click the button to view the seed phrases."
+  },
+  "backUpStep2": "将助记词保存在其他人无法访问的安全地方。",
+  "@backUpStep2": {
+    "description": "Keep the seed phrases in a safe place where no one else can access to it."
+  },
+  "backUpWarning": "警告：请妥善保管您的助记词，切勿与任何人分享。任何拥有您私钥的人都可以窃取您钱包中的所有资产。",
+  "@backUpWarning": {
+    "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
+  },
+  "showSeed": "显示我的助记词",
+  "@showSeed": {
+    "description": "Show My Seed Phrases"
+  },
+  "seedPhrases": "助记词",
+  "@seedPhrases": {
+    "description": "Seed Phrases"
+  },
+  "close": "关闭",
+  "@close": {
+    "description": "Close"
+  },
+  "addressLowerCase": "地址",
+  "@addressLowerCase": {
+    "description": "address"
+  },
+  "enterAddress": "请输入有效地址",
+  "@enterAddress": {
+    "description": "Please enter a valid address"
+  },
+  "addToAddress": "添加到地址",
+  "@addToAddress": {
+    "description": "Add to address"
+  },
+  "balanceLabel": "余额：",
+  "@balanceLabel": {
+    "description": "Balance: "
+  },
+  "sendTo": "发送到",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "routeSelection": "路线选择",
+  "@routeSelection": {
+    "description": "Route selection"
+  },
+  "slippage": "滑点",
+  "@slippage": {
+    "description": "Slippage"
+  },
+  "about": "关于",
+  "@about": {
+    "description": "About"
+  },
+  "site": "网站",
+  "@site": {
+    "description": "Site"
+  },
+  "twitter": "Twitter",
+  "@twitter": {
+    "description": "Twitter"
+  },
+  "twitterLowercase": "twitter",
+  "@twitterLowercase": {
+    "description": "twitter"
+  },
+  "telegram": "Telegram",
+  "@telegram": {
+    "description": "Telegram"
+  },
+  "networkUppercase": "网络",
+  "@networkUppercase": {
+    "description": "Network"
+  },
+  "customTokens": "自定义代币",
+  "@customTokens": {
+    "description": "Custom Tokens"
+  },
+  "allTokens": "所有代币",
+  "@allTokens": {
+    "description": "All tokens"
+  },
+  "filterTokens": "过滤风险代币",
+  "@filterTokens": {
+    "description": "Filter risky tokens"
+  },
+  "contractAddress": "合约地址",
+  "@contractAddress": {
+    "description": "Contract address"
+  },
+  "tokenSymbol": "代币符号",
+  "@tokenSymbol": {
+    "description": "Token symbol"
+  },
+  "decimalsOfPrecision": "精度小数",
+  "@decimalsOfPrecision": {
+    "description": "Decimals of precision"
+  },
+  "turnOffRisk": "关闭风险代币过滤器？",
+  "@turnOffRisk": {
+    "description": "Turn off risky tokens filter?"
+  },
+  "sureTurnOff": "您确定要关闭风险代币过滤器吗？这可能会导致资产损失。",
+  "@sureTurnOff": {
+    "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
+  },
+  "turnOff": "关闭",
+  "@turnOff": {
+    "description": "Turn off"
+  },
+  "fail": "失败",
+  "@fail": {
+    "description": "fail"
+  },
+  "pending": "待定",
+  "@pending": {
+    "description": "Pending"
+  },
+  "warningText": "交易成功后，资金最多可能需要 20 分钟才能到达您的钱包。",
+  "@warningText": {
+    "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
+  },
+  "myWalletAddress": "我的钱包地址",
+  "@myWalletAddress": {
+    "description": "My wallet address"
+  },
+  "hi": "嗨，{name}",
+  "@hi": {
+    "description": "Hi, {name}"
+  },
+  "dogeDevnetBalance": "$DOGE (devnet) 余额",
+  "@dogeDevnetBalance": {
+    "description": "$DOGE (devnet) balance"
+  },
+  "dogeDevnetFaucet": "DogeOs Devnet 水龙头",
+  "@dogeDevnetFaucet": {
+    "description": "DogeOs Devnet faucet"
+  },
+  "myDogeTokenBalance": "我的 $DOGE (dev token) 余额",
+  "@myDogeTokenBalance": {
+    "description": "My $DOGE (dev token) balance"
+  },
+  "whatIsFaucet": "什么是水龙头？",
+  "@whatIsFaucet": {
+    "description": " What is a Faucet?"
+  },
+  "whatIsFaucetHint": "水龙头可让您在",
+  "@whatIsFaucetHint": {
+    "description": "A faucet lets you claim free tokens for testing purposes on a"
+  },
+  "devnet": " devnet ",
+  "@devnet": {
+    "description": " devnet "
+  },
+  "whatIsFaucetHint2": "上领取免费代币用于测试目的 — 这是一个模拟真实交易而不使用真实资产的区块链环境。",
+  "@whatIsFaucetHint2": {
+    "description": "— a blockchain environment that simulates real transactions without using real assets."
+  },
+  "thestDevnetTokens": "这些 devnet 代币是",
+  "@thestDevnetTokens": {
+    "description": "These devnet tokens are"
+  },
+  "notRealDoge": " 不是真正的 DOGE",
+  "@notRealDoge": {
+    "description": " not real DOGE"
+  },
+  "and": " 和 ",
+  "@and": {
+    "description": " and "
+  },
+  "haveNoMonetary": "没有货币价值",
+  "@haveNoMonetary": {
+    "description": "have no monetary value"
+  },
+  "howMuchDoge": "我可以获得多少 Devnet DOGE？",
+  "@howMuchDoge": {
+    "description": " How Much Devnet DOGE Can I Get?"
+  },
+  "youCanRequest": "您可以请求",
+  "@youCanRequest": {
+    "description": "You can request"
+  },
+  "perDayDoge": " 每天 42.069 ÐOGE。",
+  "@perDayDoge": {
+    "description": " 42.069 ÐOGE per day."
+  },
+  "noRealFunds": " 不涉及真实资金 — 仅用于测试。",
+  "@noRealFunds": {
+    "description": " No real funds are involved — it’s just for testing."
+  },
+  "WhatCanIDo": "我可以用 Devnet DOGE 做什么？",
+  "@WhatCanIDo": {
+    "description": " What Can I Do With Devnet DOGE?"
+  },
+  "WhatCanIDoHint": " 使用您的 devnet ÐOGE，您可以：",
+  "@WhatCanIDoHint": {
+    "description": " With your devnet ÐOGE, you can:"
+  },
+  "WhatCanIDoHint1": "安全地试用新功能",
+  "@WhatCanIDoHint1": {
+    "description": "Try out new features safely"
+  },
+  "WhatCanIDoHint2": "在没有财务风险的情况下与 dApp 交互",
+  "@WhatCanIDoHint2": {
+    "description": "Interact with dApps without financial risk"
+  },
+  "helpUsTest": "帮助我们测试",
+  "@helpUsTest": {
+    "description": "Help us test"
+  },
+  "performanceUnderLoad": " 负载下的性能 ",
+  "@performanceUnderLoad": {
+    "description": " performance under load "
+  },
+  "performanceUnderLoadHint": "— 您的活动有助于在我们扩展 DogeOS 时进行重要的压力测试！",
+  "@performanceUnderLoadHint": {
+    "description": "— your activity contributes to important stress testing as we scale DogeOS!"
+  },
+  "claimNow": "立即领取 Ð42.069！",
+  "@claimNow": {
+    "description": "Claim Ð42.069 now!"
+  },
+  "blockOrReport": "屏蔽或举报",
+  "@blockOrReport": {
+    "description": "Block or Report"
+  },
+  "blockOrReportHint": "MyDoge 将审查所有被举报的个人资料，以查看是否存在任何违反我们准则的行为。您也可以屏蔽该个人资料，以防止他们查看您的帖子。",
+  "@blockOrReportHint": {
+    "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
+  },
+  "report": "举报",
+  "@report": {
+    "description": "Report"
+  },
+  "block": "屏蔽",
+  "@block": {
+    "description": "Block"
+  },
+  "nevermind": "没关系",
+  "@nevermind": {
+    "description": "Nevermind"
+  },
+  "allComments": "所有评论",
+  "@allComments": {
+    "description": "All Comments"
+  },
+  "noCommentYet": "暂无评论",
+  "@noCommentYet": {
+    "description": "No comment yet"
+  },
+  "saySomething": "说点什么...",
+  "@saySomething": {
+    "description": "Say something..."
+  },
+  "sureToDelete": "确定要删除此评论吗？",
+  "@sureToDelete": {
+    "description": "Sure to delete this comment?"
+  },
+  "copyProfileURL": "复制个人资料网址",
+  "@copyProfileURL": {
+    "description": "Copy Profile URL"
+  },
+  "quickAmount": "快速金额",
+  "@quickAmount": {
+    "description": "Quick amount"
+  },
+  "unblockUser": "取消屏蔽用户？",
+  "@unblockUser": {
+    "description": "Unblock User?"
+  },
+  "unblockUserHint": "这将取消屏蔽该用户，您将继续看到他们的帖子。",
+  "@unblockUserHint": {
+    "description": "This will unblock the user and you will continue to see their posts."
+  },
+  "unblock": "取消屏蔽",
+  "@unblock": {
+    "description": "Unblock"
+  },
+  "following": "正在关注",
+  "@following": {
+    "description": "Following"
+  },
+  "shop": "商店",
+  "@shop": {
+    "description": "Shop"
+  },
+  "settingsAndSupport": "设置和支持",
+  "@settingsAndSupport": {
+    "description": "Settings and Support"
+  },
+  "sendAndReceive": "通过...发送和接收小费",
+  "@sendAndReceive": {
+    "description": "Send and receive tips via"
+  },
+  "readFAQ": "阅读 MyDogeTip 常见问题解答",
+  "@readFAQ": {
+    "description": "Read the MyDogeTip FAQ"
+  },
+  "signOutUser": "退出 @{handle}",
+  "@signOutUser": {
+    "description": "Sign Out @{handle}"
+  },
+  "changePayPin": "更改支付密码",
+  "@changePayPin": {
+    "description": "Change Pay PIN"
+  },
+  "displayCurrency": "显示货币",
+  "@displayCurrency": {
+    "description": "Display currency"
+  },
+  "aboutMyDoge": "关于 MyDoge",
+  "@aboutMyDoge": {
+    "description": "About MyDoge"
+  },
+  "version": "版本 {version}",
+  "@version": {
+    "description": "Version {version}"
+  },
+  "nickname": "昵称",
+  "@nickname": {
+    "description": "Nickname"
+  },
+  "username": "用户名",
+  "@username": {
+    "description": "User name"
+  },
+  "followers": "关注者",
+  "@followers": {
+    "description": "Followers"
+  },
+  "newPost": "新帖子",
+  "@newPost": {
+    "description": "New Post"
+  },
+  "post": "发布",
+  "@post": {
+    "description": "Post"
+  },
+  "share": "分享",
+  "@share": {
+    "description": "Share"
+  },
+  "tips": "提示",
+  "@tips": {
+    "description": "Tips"
+  },
+  "message": "消息",
+  "@message": {
+    "description": "Message"
+  },
+  "shareProfile": "分享个人资料",
+  "@shareProfile": {
+    "description": "Share profile"
+  },
+  "findFriends": "寻找朋友",
+  "@findFriends": {
+    "description": "Find Friends"
+  },
+  "searchResults": "搜索结果",
+  "@searchResults": {
+    "description": "Search Results"
+  },
+  "startTyping": "开始输入",
+  "@startTyping": {
+    "description": "start typing"
+  },
+  "shopWithDoge": "使用狗狗币购物",
+  "@shopWithDoge": {
+    "description": "Shop with Doge"
+  },
+  "getDogeCom": "GetDoge.com",
+  "@getDogeCom": {
+    "description": "GetDoge.com"
+  },
+  "giftCards": "礼品卡",
+  "@giftCards": {
+    "description": "Gift Cards"
+  },
+  "soon": "即将推出",
+  "@soon": {
+    "description": "soon"
+  },
+  "switchNetwork": "切换网络",
+  "@switchNetwork": {
+    "description": "Switch network"
+  },
+  "empty": "空",
+  "@empty": {
+    "description": "Empty"
+  },
+  "estReceive": "预计收到",
+  "@estReceive": {
+    "description": "Est. Receive"
+  },
+  "doge": "狗狗币",
+  "@doge": {
+    "description": "Doge"
+  },
+  "scanQrCodeDesc": "扫描以支付确切金额。",
+  "@scanQrCodeDesc": {
+    "description": "Scan to pay with the exact amount."
+  },
+  "clearAmount": "清除金额",
+  "@clearAmount": {
+    "description": "Clear amount"
+  },
+  "inputPINToContinue": "输入您的 PIN 码以继续",
+  "@inputPINToContinue": {
+    "description": "Enter your PIN to continue"
+  },
+  "verifyYourPIN": "验证您的 PIN 码以创建 DogeOS 钱包。",
+  "@verifyYourPIN": {
+    "description": "Verify your PIN to create a DogeOS wallet."
+  },
+  "incorrectPin": "您输入的 PIN 码不正确",
+  "@incorrectPin": {
+    "description": "The PIN you entered is incorrect"
+  },
+  "iCloudBackupFailed": "iCloud 备份失败",
+  "@iCloudBackupFailed": {
+    "description": "iCloud backup failed"
+  },
+  "pleaseTurnOnYourICloud": "在备份或导入钱包之前，请在设备设置中启用 iCloud。",
+  "@pleaseTurnOnYourICloud": {
+    "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
+  },
+  "goToSettingPage": "转到设置页面",
+  "@goToSettingPage": {
+    "description": "Go to setting page"
+  },
+  "deleteBackup": "删除备份",
+  "@deleteBackup": {
+    "description": "Delete backup"
+  },
+  "deleteBackupOrNot": "您要删除备份吗？",
+  "@deleteBackupOrNot": {
+    "description": "Do you want to delete the backup?"
+  },
+  "sendToCrypto": "发送到加密地址",
+  "@sendToCrypto": {
+    "description": "Send to a crypto address"
+  },
+  "importSeedPhrase": "使用助记词导入",
+  "@importSeedPhrase": {
+    "description": "Import with seed phrase"
+  },
+  "importGoogleDrive": "从 Google 云端硬盘导入",
+  "@importGoogleDrive": {
+    "description": "Import from google drive"
+  },
+  "importICloud": "从 iCloud 导入",
+  "@importICloud": {
+    "description": "Import from iCloud"
+  },
+  "reminder": "提醒",
+  "@reminder": {
+    "description": "Reminder"
+  },
+  "reminderDesc": "我们注意到您之前使用的钱包来自 DogeOS 钱包，其种子通过 Cubist 保护。您将升级到该社交钱包。此外，您之前的 Dogeverse 内容将无法再访问。\n\n如果您有任何疑问，请联系我们的支持团队。",
+  "@reminderDesc": {
+    "description": "We noticed that the wallet you previously used was from a DogeOS wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+  },
+  "importNotes": "社交登录重要说明",
+  "@importNotes": {
+    "description": "Important notes on social login"
+  },
+  "importNotesDesc": "如果您使用 X 登录，MyDogeTip 功能将链接到您的 X 帐户。",
+  "@importNotesDesc": {
+    "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
+  },
+  "maybeLater": "也许以后",
+  "@maybeLater": {
+    "description": "Maybe later"
+  },
+  "depositToken": "存入 {tokenName}",
+  "@depositToken": {
+    "description": "Deposit {tokenName}"
+  },
+  "selectDepositMethod": "选择存款方式",
+  "@selectDepositMethod": {
+    "description": "Select deposit method"
+  },
+  "myDogeFriends": "MyDoge 朋友",
+  "@myDogeFriends": {
+    "description": "MyDoge friends"
+  },
+  "setAmount": "设置金额",
+  "@setAmount": {
+    "description": "Set amount"
+  },
+  "amount": "金额",
+  "@amount": {
+    "description": "Amount"
+  },
+  "amountLowercase": "金额",
+  "@amountLowercase": {
+    "description": "amount"
+  },
+  "dogeUppercase": "DOGE",
+  "@dogeUppercase": {
+    "description": "DOGE"
+  },
+  "allNetworks": "所有网络",
+  "@allNetworks": {
+    "description": "All networks"
+  },
+  "popularNetworks": "热门网络",
+  "@popularNetworks": {
+    "description": "Popular networks"
+  },
+  "oops": "切换到 DogeOS 钱包",
+  "@oops": {
+    "description": "Switch to DogeOS Wallet"
+  },
+  "oopsDesc": "糟糕！您当前正在使用 MyDoge Classic 钱包。请切换到您的 DogeOS 钱包以访问此功能。",
+  "@oopsDesc": {
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your DogeOS Wallet to access this feature."
+  },
+  "switchWallet": "切换钱包",
+  "@switchWallet": {
+    "description": "Switch wallet"
+  },
+  "termsOfUse": "使用条款",
+  "@termsOfUse": {
+    "description": "Terms of Use"
+  },
+  "privacyPolicy": "隐私政策",
+  "@privacyPolicy": {
+    "description": "Privacy Policy"
+  },
+  "shareMyDoge": "分享 MyDoge",
+  "@shareMyDoge": {
+    "description": "Share MyDoge"
+  },
+  "visitOurWebsite": "访问我们的网站",
+  "@visitOurWebsite": {
+    "description": "Visit Our Website"
+  },
+  "viewSeedPhrase": "查看助记词",
+  "@viewSeedPhrase": {
+    "description": "View seed phrase"
+  },
+  "seedBackupTip1": "抄写",
+  "@seedBackupTip1": {
+    "description": "Transcribe"
+  },
+  "seedBackupTip2": "屏幕截图",
+  "@seedBackupTip2": {
+    "description": "Screenshots"
+  },
+  "seedBackupTip3": "数字副本",
+  "@seedBackupTip3": {
+    "description": "Digital copy"
+  },
+  "keepSeedSafeNotice": "任何拥有您种子的人都可以访问您的所有资产。请将信息保密。",
+  "@keepSeedSafeNotice": {
+    "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
+  },
+  "hide": "隐藏",
+  "@hide": {
+    "description": "Hide"
+  },
+  "warningTitleNotice": "出于安全原因，如果您关闭或刷新页面，您将需要重新申请并等待至少 48 小时。请确保在离开前记住您的助记词。",
+  "@warningTitleNotice": {
+    "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
+  },
+  "keepSeedSafeTitle": "妥善保管助记词",
+  "@keepSeedSafeTitle": {
+    "description": "Keep seed phrase safe"
+  },
+  "keepSeedSafeNotice1": "任何拥有您种子的人都可以访问您的所有资产。请务必在收到转账或删除应用程序之前备份您的种子。",
+  "@keepSeedSafeNotice1": {
+    "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
+  },
+  "keepSeedSafeNotice2": "MyDoge 不会在其服务器上存储您的种子，因此一旦丢失，将无法恢复您的钱包。",
+  "@keepSeedSafeNotice2": {
+    "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
+  },
+  "seedAlreadyBackup": "已备份",
+  "@seedAlreadyBackup": {
+    "description": "Already backed up"
+  },
+  "backupSecurity": "备份与安全",
+  "@backupSecurity": {
+    "description": "Backup & Security"
+  },
+  "backupYourWalletHint": "将您的钱包保存到云端并使用密码保护。您还可以写下您的助记词或将其复制到密码管理器中。",
+  "@backupYourWalletHint": {
+    "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
+  },
+  "haveNotBackUp": "您尚未将钱包备份到云端。",
+  "@haveNotBackUp": {
+    "description": "You haven't backed up your wallet to the cloud."
+  },
+  "backupToICloud": "备份到 iCloud",
+  "@backupToICloud": {
+    "description": "Back up to iCloud"
+  },
+  "backupToGoogle": "备份到 Google 云端硬盘",
+  "@backupToGoogle": {
+    "description": "Back up to Google Drive"
+  },
+  "createRecoveryPassword": "创建云恢复密码",
+  "@createRecoveryPassword": {
+    "description": "Create Cloud recovery password"
+  },
+  "createRecoveryPasswordHint": "您需要为云备份恢复创建一个密码。选择一个至少 8 个字符的难忘密码；密码越长越安全。",
+  "@createRecoveryPasswordHint": {
+    "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
+  },
+  "ifYouLoseRecoveryPassword": "丢失此密码意味着您无法恢复备份。",
+  "@ifYouLoseRecoveryPassword": {
+    "description": "Losing this password means you can’t recover your backup."
+  },
+  "confirmPassword": "确认密码",
+  "@confirmPassword": {
+    "description": "Confirm password"
+  },
+  "confirmBackup": "确认备份",
+  "@confirmBackup": {
+    "description": "Confirm backup"
+  },
+  "haveBackUp": "您已将钱包备份到云端。",
+  "@haveBackUp": {
+    "description": "You have backed up your wallet to the cloud."
+  },
+  "passwordRules": "密码必须至少为 8 个字符",
+  "@passwordRules": {
+    "description": "Password must be at least 8 characters"
+  },
+  "passwordNotMatch": "密码不匹配",
+  "@passwordNotMatch": {
+    "description": "Password does not match"
+  },
+  "someChain": "{chain} 链。",
+  "@someChain": {
+    "description": "{chain} Chain."
+  },
+  "inputYourRecoveryPassword": "输入您的云恢复密码",
+  "@inputYourRecoveryPassword": {
+    "description": "Input your Cloud Recovery Password"
+  },
+  "importExistingWallet": "导入现有钱包",
+  "@importExistingWallet": {
+    "description": "Import existing wallet"
+  },
+  "walletName": "钱包名称",
+  "@walletName": {
+    "description": "Wallet name"
+  },
+  "backupYourWallet": "备份您的钱包",
+  "@backupYourWallet": {
+    "description": "Back up your wallet"
+  },
+  "deleteWallet": "删除云备份？",
+  "@deleteWallet": {
+    "description": "Delete Cloud backup?"
+  },
+  "renameWallet": "重命名钱包",
+  "@renameWallet": {
+    "description": "Rename Wallet"
+  },
+  "enterName": "输入一个名称",
+  "@enterName": {
+    "description": "Enter a name"
+  },
+  "sureToDeleteWallet": "您将失去从云端恢复钱包的能力。您确定要继续吗？",
+  "@sureToDeleteWallet": {
+    "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
+  },
+  "profileIsPublic": "个人资料是公开的",
+  "@profileIsPublic": {
+    "description": "Profile is Public"
+  },
+  "showWalletAddress": "显示钱包地址和打赏按钮",
+  "@showWalletAddress": {
+    "description": "Show wallet address and Tip button"
+  },
+  "transferableLabel": "可转让：",
+  "@transferableLabel": {
+    "description": "Transferable: "
+  },
+  "transferable": "可转让",
+  "@transferable": {
+    "description": "Transferable"
+  },
+  "inscribe": "铭刻",
+  "@inscribe": {
+    "description": "Inscribe"
+  },
+  "buyDoge": "购买狗狗币",
+  "@buyDoge": {
+    "description": "Buy Doge"
+  },
+  "totalVolume": "总交易量",
+  "@totalVolume": {
+    "description": "Total volume"
+  },
+  "Volume24h": "24 小时交易量",
+  "@Volume24h": {
+    "description": "24h volume"
+  },
+  "holders": "持有者",
+  "@holders": {
+    "description": "Holders"
+  },
+  "sales": "销售额",
+  "@sales": {
+    "description": "Sales"
+  },
+  "inscribeForTransfer": "铭刻以进行转让",
+  "@inscribeForTransfer": {
+    "description": "Inscribe for transfer"
+  },
+  "inscribeForTransferHint": "准备好发送了吗？此步骤将解锁您的 Drc20 代币以进行转让。",
+  "@inscribeForTransferHint": {
+    "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
+  },
+  "selectAnInscription": "选择要发送的铭文",
+  "@selectAnInscription": {
+    "description": "Select an inscription to send"
+  },
+  "transferToken": "转让 {token}",
+  "@transferToken": {
+    "description": "Transfer {token}"
+  },
+  "confirmTransfer": "确认转让",
+  "@confirmTransfer": {
+    "description": "Confirm Transfer"
+  },
+  "noNFTsFound": "未找到 NFT",
+  "@noNFTsFound": {
+    "description": "No NFTs Found"
+  },
+  "yoursNFTAppearHere": "您的 NFT 将出现在此处",
+  "@yoursNFTAppearHere": {
+    "description": "Your NFTs will appear here"
+  },
+  "titleCopied": "{title} 已复制到剪贴板",
+  "@titleCopied": {
+    "description": "{title} copied to clipboard"
+  },
+  "transfer": "转让",
+  "@transfer": {
+    "description": "Transfer"
+  },
+  "NFTDetails": "NFT 详情",
+  "@NFTDetails": {
+    "description": "NFT Details"
+  },
+  "inscriptionID": "铭文 ID",
+  "@inscriptionID": {
+    "description": "Inscription ID"
+  },
+  "outputValue": "输出值",
+  "@outputValue": {
+    "description": "Output Value"
+  },
+  "preview": "预览",
+  "@preview": {
+    "description": "Preview"
+  },
+  "content": "内容",
+  "@content": {
+    "description": "Content"
+  },
+  "contentType": "内容类型",
+  "@contentType": {
+    "description": "Content Type"
+  },
+  "timestamp": "时间戳",
+  "@timestamp": {
+    "description": "Timestamp"
+  },
+  "genesisTransaction": "创世交易",
+  "@genesisTransaction": {
+    "description": "Genesis Transaction"
+  },
+  "showLess": "显示更少",
+  "@showLess": {
+    "description": "Show Less"
+  },
+  "showMore": "显示更多",
+  "@showMore": {
+    "description": "Show More"
+  },
+  "errorLoadingNFTs": "加载 NFT 时出错：{error}",
+  "@errorLoadingNFTs": {
+    "description": "Error loading NFTs: {error}"
+  },
+  "errorCreatingTransaction": "创建交易时出错：{error}",
+  "@errorCreatingTransaction": {
+    "description": "Error creating transaction: {error}"
+  },
+  "addMessage": "添加消息",
+  "@addMessage": {
+    "description": "Add message"
+  },
+  "toSomeone": "给 {someone}",
+  "@toSomeone": {
+    "description": "to {someone}"
+  },
+  "recent": "最近",
+  "@recent": {
+    "description": "Recent"
+  },
+  "noSearchResult": "没有搜索结果",
+  "@noSearchResult": {
+    "description": "No search result"
+  },
+  "sendTo": "发送到",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "searchForPeople": "搜索人员或输入地址",
+  "@searchForPeople": {
+    "description": "Search for people or input an address"
+  },
+  "multiChain": "多链",
+  "@multiChain": {
+    "description": "Multi-chain"
+  },
+  "transferFundsToDogeWallet": "一键将您的资金转移到 DogeOS 钱包！",
+  "@transferFundsToDogeWallet": {
+    "description": "Move your funds to DogeOS wallet in one tap!"
+  },
+  "drc20": "Drc20",
+  "@drc20": {
+    "description": "Drc20"
+  },
+  "NFTs": "NFT",
+  "@NFTs": {
+    "description": "NFTs"
+  },
+  "noDrc20Found": "这里什么都没有！",
+  "@noDrc20Found": {
+    "description": "Nothing here yet!"
+  },
+  "youCanCreateWallet": "您随时可以在这里创建 DogeOS 钱包。",
+  "@youCanCreateWallet": {
+    "description": "You can always create a DogeOS wallet here."
+  },
+  "getDogeTestToken": "获取 DOGE 测试网代币 \n (零价值)",
+  "@getDogeTestToken": {
+    "description": "Get DOGE testnet tokens \n (zero value)"
+  },
+  "devnetUpperCase": "Devnet",
+  "@devnetUpperCase": {
+    "description": "Devnet"
+  },
+  "legalTerms": "法律条款",
+  "@legalTerms": {
+    "description": "Legal terms"
+  },
+  "pleaseReadOur": "请阅读我们的",
+  "@pleaseReadOur": {
+    "description": "Please read our"
+  },
+  "eula": " EULA",
+  "@eula": {
+    "description": " EULA"
+  },
+  "agreeContinue": " 同意并继续",
+  "@agreeContinue": {
+    "description": " Agree & Continue"
+  },
+  "enableBiometrics": "启用生物识别？",
+  "@enableBiometrics": {
+    "description": "Enable biometrics?"
+  },
+  "no": "否",
+  "@no": {
+    "description": "No"
+  },
+  "yes": "是",
+  "@yes": {
+    "description": "Yes"
+  },
+  "enable": "启用",
+  "@enable": {
+    "description": "Enable"
+  },
+  "setNewPhoto": "设置新照片",
+  "@setNewPhoto": {
+    "description": "Set new photo"
+  },
+  "chooseFromGallery": "从图库中选择",
+  "@chooseFromGallery": {
+    "description": "Choose from gallery"
+  },
+  "takeAPhoto": "拍照",
+  "@takeAPhoto": {
+    "description": "Take a photo"
+  },
+  "authenticationFailed": "身份验证失败",
+  "@authenticationFailed": {
+    "description": "Authentication failed"
+  },
+  "authenticationFailedHint": "您的身份验证尝试出现问题。",
+  "@authenticationFailedHint": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "tryAgain": "重试",
+  "@tryAgain": {
+    "description": "Try again"
+  },
+  "faceIDNotEnabled": "面容 ID 未启用",
+  "@faceIDNotEnabled": {
+    "description": "Face ID Not Enabled"
+  },
+  "pleaseEnabledFaceID": "请在“设置”中启用面容 ID 以继续。",
+  "@pleaseEnabledFaceID": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSettings": "转到设置",
+  "@goToSettings": {
+    "description": "Go to Settings"
+  },
+  "cancelRequest": "取消请求",
+  "@cancelRequest": {
+    "description": "Cancel request"
+  },
+  "cancelRequestHint": "您确定要取消吗？如果您想设置新的通行密钥，这将重新开始等待期。",
+  "@cancelRequestHint": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "stillAccessYourClassicWallet": "您下次登录时仍可以访问您的 MyDoge Classic。但是，您的帖子将无法访问。如果需要，请立即备份您的数据。",
+  "@stillAccessYourClassicWallet": {
+    "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
+  },
+  "permissionDenied": "权限被拒绝",
+  "@permissionDenied": {
+    "description": "Permission Denied"
+  },
+  "whatIsYourEmail": "您的电子邮件是什么",
+  "@whatIsYourEmail": {
+    "description": "What’s your email"
+  },
+  "enableFaceID": "启用面容 ID",
+  "@enableFaceID": {
+    "description": "Enable Face ID"
+  },
+  "enableFaceIDHint": "为确保您的帐户安全，请确保在使用该应用程序时启用面容 ID。",
+  "@enableFaceIDHint": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpPasskey": "设置通行密钥",
+  "@setUpPasskey": {
+    "description": "Set Up Passkey"
+  },
+  "settingUp": "正在设置...",
+  "@settingUp": {
+    "description": "Setting up..."
+  },
+  "settingUpHint": "通行密钥设置已取消。\r\n请重试。",
+  "@settingUpHint": {
+    "description": "Passkey setup was canceled.\r\nPlease try again."
+  },
+  "verifyWithPasskey": "使用通行密钥验证",
+  "@verifyWithPasskey": {
+    "description": "Verify With Passkey"
+  },
+  "verifying": "正在验证...",
+  "@verifying": {
+    "description": "Verifying..."
+  },
+  "verificationCanceled": "验证已取消。",
+  "@verificationCanceled": {
+    "description": "Verification was canceled."
+  },
+  "noPasskeyFound": "未找到通行密钥",
+  "@noPasskeyFound": {
+    "description": "No Passkey found"
+  },
+  "keepAccountSafe": "为确保您的帐户安全，请确保在使用该应用程序时启用面容 ID。",
+  "@keepAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpNewPasskey": "设置新的通行密钥",
+  "@setUpNewPasskey": {
+    "description": "Set up a new passkey"
+  },
+  "poweredBy": "由...提供支持",
+  "@poweredBy": {
+    "description": "Powered by"
+  },
+  "IAccept": "我接受",
+  "@IAccept": {
+    "description": "I accept"
+  },
+  "orContinueWith": "或继续使用",
+  "@orContinueWith": {
+    "description": "or continue with"
+  },
+  "verifyEmail": "验证电子邮件",
+  "@verifyEmail": {
+    "description": "Verify Email"
+  },
+  "verifyEmailHint": "一次性登录链接已发送至",
+  "@verifyEmailHint": {
+    "description": "A one-time sign-in link has been sent to"
+  },
+  "doNotSeeEmail": "没有看到电子邮件？检查您的垃圾邮件文件夹，或 ",
+  "@doNotSeeEmail": {
+    "description": "Didn’t see email? Check your spam folder, or "
+  },
+  "settingUpPasskeyHint": "为了您的帐户安全，设置新的通行密钥需要 48 小时的等待期。",
+  "@settingUpPasskeyHint": {
+    "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
+  },
+  "verificationLinkSent": "一次性验证链接将发送到\r\n您的电子邮件。",
+  "@verificationLinkSent": {
+    "description": "A one-time verification link will be sent\r\nto your email."
+  },
+  "hours": "小时",
+  "@hours": {
+    "description": "Hours"
+  },
+  "minutes": "分钟",
+  "@minutes": {
+    "description": "Minutes"
+  },
+  "seconds": "秒",
+  "@seconds": {
+    "description": "Seconds"
+  },
+  "resendCode": "重新发送代码",
+  "@resendCode": {
+    "description": "Resend code"
+  },
+  "emailAddress": "电子邮件地址",
+  "@emailAddress": {
+    "description": "Email address"
+  },
+  "apple": "apple",
+  "@apple": {
+    "description": "apple"
+  },
+  "allNewWallet": "全新的\nMyDoge 钱包",
+  "@allNewWallet": {
+    "description": "ALL-New \nMyDoge Wallet"
+  },
+  "getStart": "开始",
+  "@getStart": {
+    "description": "Get started"
+  },
+  "welcomeToMydogeWallet": "欢迎来到全新的 MyDoge 钱包体验，它具有社交登录、多链钱包功能。\n\n您的 MyDoge Classic、资产以及您喜爱 MyDoge 的一切都将迁移到新的体验中。",
+  "@welcomeToMydogeWallet": {
+    "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
+  },
+  "myDogeWallet": "MyDoge 钱包",
+  "@myDogeWallet": {
+    "description": "MyDoge Wallet"
+  },
+  "initializing": "正在初始化...",
+  "@initializing": {
+    "description": "Initializing..."
+  },
+  "risks": "未验证",
+  "@risks": {
+    "description": "Unverified"
+  },
+  "waitingUserToConnectX": "正在等待用户连接 X",
+  "@waitingUserToConnectX": {
+    "description": "Waiting user to connect X"
+  },
+  "history": "历史记录",
+  "@history": {
+    "description": "History"
+  },
+  "noActivity": "没有活动",
+  "@noActivity": {
+    "description": "No Activity"
+  },
+  "notification": "通知",
+  "@notification": {
+    "description": "Notification"
+  },
+  "noData": "没有数据",
+  "@noData": {
+    "description": "No data"
+  },
+  "viewSeedPhraseTip1": "为了增强钱包安全性并降低恶意攻击的风险，MyDoge 钱包使用 Cubist 托管机制来安全地存储您的助记词。\n要查看它，请提交请求。它将在 48 小时后可用，并可查看 3 天。",
+  "@viewSeedPhraseTip1": {
+    "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
+  },
+  "receivedMnemonicTip1": "您的访问权限将在 {day} 天 {hour} 小时 {minute} 分钟后过期。请在此之前备份。",
+  "@receivedMnemonicTip1": {
+    "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
+  },
+  "seedPhraseHelpContent": "助记词是一组 12 到 24 个单词，用作您钱包的密钥。就像没有 PIN 码的银行卡一样，任何拥有它的人都可以访问和转移您的资金。",
+  "@seedPhraseHelpContent": {
+    "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
+  },
+  "keepSeedSafeAlertContent": "您的助记词不由 MyDoge 存储。\n要再次查看它，您需要等待 48 小时。",
+  "@keepSeedSafeAlertContent": {
+    "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
+  },
+  "manageCrypto": "管理加密货币",
+  "@manageCrypto": {
+    "description": "Manage crypto"
+  },
+  "addCustomToken": "添加自定义代币",
+  "@addCustomToken": {
+    "description": "Add custom token"
+  },
+  "originalPayPIN": "原始支付密码",
+  "@originalPayPIN": {
+    "description": "Original Pay PIN"
+  },
+  "setNewPayPIN": "设置新的支付密码",
+  "@setNewPayPIN": {
+    "description": "Set new Pay PIN"
+  },
+  "confirmNewPayPIN": "确认新的支付密码",
+  "@confirmNewPayPIN": {
+    "description": "Confirm new Pay PIN"
+  },
+  "twoFactor": "双因素身份验证 (2FA)",
+  "@twoFactor": {
+    "description": "Two-Factor Authentication (2FA)"
+  },
+  "twoFactorHint": "为了增强您帐户的安全性，我们强烈建议您至少启用一种 2FA。",
+  "@twoFactorHint": {
+    "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
+  },
+  "minAmount": "最小金额为 {amount}",
+  "@minAmount": {
+    "description": "Min amount is {amount}"
+  },
+  "maxAmount": "最大金额为 {amount}",
+  "@maxAmount": {
+    "description": "Max amount is {amount}"
+  },
+  "connectedDApp": "已连接的 DApp",
+  "@connectedDApp": {
+    "description": "Connected DApp"
+  },
+  "disconnectedAll": "全部断开连接",
+  "@disconnectedAll": {
+    "description": "Disconnect All"
+  },
+  "disconnected": "断开连接",
+  "@disconnected": {
+    "description": "Disconnect"
+  },
+  "connected": "已连接",
+  "@connected": {
+    "description": "Connected"
+  },
+  "connectedWallet": "{name} 已连接到 {walletName}",
+  "@connectedWallet": {
+    "description": "{name} connected to {walletName}"
+  },
+  "connectedNetwork": "{amount} 个网络连接",
+  "@connectedNetwork": {
+    "description": "{amount} network connect"
+  },
+  "dappRequest": "Dapp 请求",
+  "@dappRequest": {
+    "description": "Dapp request"
+  },
+  "fromLabel": "来自：",
+  "@fromLabel": {
+    "description": "from: "
+  },
+  "approve": "批准",
+  "@approve": {
+    "description": "Approve"
+  },
+  "sign": "签名",
+  "@sign": {
+    "description": "Sign"
+  },
+  "walletAddress": "钱包地址",
+  "@walletAddress": {
+    "description": "Wallet address"
+  },
+  "dAppContract": "DApp 合约",
+  "@dAppContract": {
+    "description": "DApp Contract"
+  },
+  "gasFee": "汽油费",
+  "@gasFee": {
+    "description": "Gas Fee"
+  },
+  "data": "数据",
+  "@data": {
+    "description": "Data"
+  },
+  "connectYourWallet": "连接您的钱包",
+  "@connectYourWallet": {
+    "description": "Connect your wallet"
+  },
+  "requestFrom": "来自...的请求 ",
+  "@requestFrom": {
+    "description": "Request from "
+  },
+  "dappPermission": "Dapp 权限",
+  "@dappPermission": {
+    "description": "Dapp Permission"
+  },
+  "accessYourETH": "访问您的链上 ETH 信息",
+  "@accessYourETH": {
+    "description": "Access your ETH on-chain information"
+  },
+  "requestTransaction": "请求您的交易授权",
+  "@requestTransaction": {
+    "description": "Request transaction authorization from you"
+  },
+  "note": "注意",
+  "@note": {
+    "description": "Note"
+  },
+  "notShareYourPrivateKey": "授权不会共享您的私钥信息。",
+  "@notShareYourPrivateKey": {
+    "description": "Authorization will not share your private key information."
+  },
+  "networkNotSupported": "不支持的网络",
+  "@networkNotSupported": {
+    "description": "Network not supported"
+  },
+  "amountNetwork": "{amount} 个网络",
+  "@amountNetwork": {
+    "description": "{amount} networks"
+  },
+  "manage": "管理",
+  "@manage": {
+    "description": "Manage"
+  },
+  "switzerComplete": "Switzer 完成",
+  "@switzerComplete": {
+    "description": "Switzer Complete"
+  },
+  "noSearchResults": "没有搜索结果",
+  "@noSearchResults": {
+    "description": "No search results"
+  },
+  "authenticatingWithFaceID": "正在使用面容 ID 进行身份验证...",
+  "@authenticatingWithFaceID": {
+    "description": "Authenticating with Face ID..."
+  },
+  "disableToken": "禁用风险代币过滤器？",
+  "@disableToken": {
+    "description": "Disable risky token filter?"
+  },
+  "disable": "禁用",
+  "@disable": {
+    "description": "Disable"
+  },
+  "disableTokenHint": "这可能会使您面临风险代币和潜在的资产损失。",
+  "@disableTokenHint": {
+    "description": "This may expose you to risky tokens and potential asset loss."
+  },
+  "keepSeedSafeAlertTitle": "您是否已保存助记词？",
+  "@keepSeedSafeAlertTitle": {
+    "description": "Have you saved your seed phrase?"
+  },
+  "cancelViewRequest": "取消查看请求",
+  "@cancelViewRequest": {
+    "description": "Cancel the view request"
+  },
+  "featurePoweredBy": "此功能由...提供支持 ",
+  "@featurePoweredBy": {
+    "description": "This feature is powered by "
+  },
+  "viewSeedPhraseRequestTitle": "您已请求查看助记词。",
+  "@viewSeedPhraseRequestTitle": {
+    "description": "You have requested to view the seed phrase."
+  },
+  "viewSeedPhraseRequestTip": "您的助记词将在此处显示",
+  "@viewSeedPhraseRequestTip": {
+    "description": "Your seed phrase will be shown here after"
+  },
+  "receivedMnemonicTitle": "您的助记词已准备好查看",
+  "@receivedMnemonicTitle": {
+    "description": "Your seed phrase is ready to view"
+  },
+  "receivedMnemonicSubTip1": "请妥善保管您的助记词。",
+  "@receivedMnemonicSubTip1": {
+    "description": "Please keep your seed phrase safe."
+  },
+  "receivedMnemonicSubTip2": "MyDoge 钱包不存储用户的助记词。每次您请求查看时，都必须等待 48 小时才能从 Cubist 检索。",
+  "@receivedMnemonicSubTip2": {
+    "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
+  },
+  "applyViewSeedPhrase": "请求查看助记词",
+  "@applyViewSeedPhrase": {
+    "description": "Request to view seed phrase"
+  },
+  "viewSeedPhraseTip2": "",
+  "@viewSeedPhraseTip2": {
+    "description": ""
+  },
+  "viewSeedPhraseTip3": "",
+  "@viewSeedPhraseTip3": {
+    "description": ""
+  },
+  "viewSeedPhraseTip4": "您将在 48 小时后能够查看它。",
+  "@viewSeedPhraseTip4": {
+    "description": "You’ll be able to view it after 48 hours."
+  },
+  "enterCodeDescription": "一个 4 位数的代码已发送到 ",
+  "@enterCodeDescription": {
+    "description": "A 4-digit code was sent to "
+  },
+  "seedPhraseHelpTitle": "什么是助记词？",
+  "@seedPhraseHelpTitle": {
+    "description": "What is a seed phrase?"
+  },
+  "seedPhraseHelpNoticeTitle": "如何保证其安全？",
+  "@seedPhraseHelpNoticeTitle": {
+    "description": "How to keep it secure?"
+  },
+  "seedPhraseHelpNotice1": "将其写下来或存储在离线设备中，例如冷钱包。",
+  "@seedPhraseHelpNotice1": {
+    "description": "Write it down or store it in an offline device such as a cold wallet."
+  },
+  "seedPhraseHelpNotice2": "切勿通过截屏存储。",
+  "@seedPhraseHelpNotice2": {
+    "description": "Never store it by taking screenshots."
+  },
+  "seedPhraseHelpNotice3": "切勿将其存储在社交媒体应用、电子邮件、移动备忘录、云服务等中。",
+  "@seedPhraseHelpNotice3": {
+    "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
+  },
+  "seedPhraseHelpNoticeHideTip": "不再显示此内容",
+  "@seedPhraseHelpNoticeHideTip": {
+    "description": "Don't show this again"
+  },
+  "done": "完成",
+  "@done": {
+    "description": "Done"
+  },
+  "keep": "保留",
+  "@keep": {
+    "description": "Keep"
+  },
+  "verifyEmailToProtectAccount": "验证您的电子邮件以帮助保护您的帐户。",
+  "@verifyEmailToProtectAccount": {
+    "description": "Verify your email to help protect your account."
+  },
+  "potentialHoneypot": "潜在的蜜罐",
+  "@potentialHoneypot": {
+    "description": "Potential honeypot"
+  },
+  "tokenNotList": "代币未列出",
+  "@tokenNotList": {
+    "description": "Token not listed"
+  },
+  "tokenNotListHint": "代币未列出，可能存在风险。请谨慎操作。",
+  "@tokenNotListHint": {
+    "description": "Token is not listed and may be risky. Please proceed with caution."
+  },
+  "slippageTooHigh": "滑点过高",
+  "@slippageTooHigh": {
+    "description": "Slippage is too high"
+  },
+  "slippageTooHighHint": "交易可能导致潜在损失，请谨慎交易。",
+  "@slippageTooHighHint": {
+    "description": "Trading could lead to potential losses, please trade carefully."
+  },
+  "tokenNotListHint2": "代币未列出。交易可能导致资产损失。",
+  "@tokenNotListHint2": {
+    "description": "Token is not listed. Trading may result in asset loss."
+  },
+  "insufficientBalance": "余额不足",
+  "@insufficientBalance": {
+    "description": "Insufficient balance"
+  },
+  "getStartWithDogeWallet": "通过社交登录开始使用 DogeOS 钱包 — 您当前的钱包作为 MyDoge Classic 保持安全。",
+  "@getStartWithDogeWallet": {
+    "description": "Get started with a DogeOS Wallet via social login — your current wallet stays safe as MyDoge Classic."
+  },
+  "filterHighRiskTokens": "一键过滤高风险代币。不会丢失任何资产。",
+  "@filterHighRiskTokens": {
+    "description": "Filter out high-risk tokens with one click. No assets will be lost."
+  },
+  "setUpProfile": "为新的 MyDoge 体验设置您的个人资料？",
+  "@setUpProfile": {
+    "description": "Set up your profile for the new MyDoge experience?"
+  },
+  "invalidWalletAddress": "钱包地址无效。请检查格式。",
+  "@invalidWalletAddress": {
+    "description": "Invalid wallet address. Please check the format."
   }
 }

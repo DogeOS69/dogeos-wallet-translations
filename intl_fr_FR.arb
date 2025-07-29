@@ -4,6 +4,18 @@
   "@tabMarket": {
     "description": "Market"
   },
+  "tabHome": "Accueil",
+  "@tabHome": {
+    "description": "Home"
+  },
+  "tabDiscover": "Découvrir",
+  "@tabDiscover": {
+    "description": "Discover"
+  },
+  "tabAlpha": "Alpha",
+  "@tabAlpha": {
+    "description": "Alpha"
+  },
   "tabEarn": "Gagner",
   "@tabEarn": {
     "description": "Earn"
@@ -20,9 +32,9 @@
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "Rechercher le nom ou l'adresse du token",
+  "searchBarDesc": "Rechercher un nom ou une adresse",
   "@searchBarDesc": {
-    "description": "Search token name or address"
+    "description": "Search name or address"
   },
   "totalBalance": "Solde total",
   "@totalBalance": {
@@ -40,7 +52,7 @@
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "Entrez votre e-mail",
+  "enterYourEmail": "Entrez votre adresse e-mail",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
@@ -66,9 +78,9 @@
   },
   "setPasswordDesc": "Définissez votre mot de passe. Vous pourrez également vous connecter directement par e-mail à l'avenir.",
   "@setPasswordDesc": {
-    "description": "Set your password. You can also log in directly through email in the future.  "
+    "description": "Set your password. You can also log in directly through email in the future."
   },
-  "emailCode": "Code de vérification e-mail",
+  "emailCode": "Code de vérification de l'e-mail",
   "@emailCode": {
     "description": "Email verification code"
   },
@@ -84,19 +96,19 @@
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "Définissez votre mot de passe pour lucasscott3@email.com. Ainsi, vous pourrez également vous connecter directement par e-mail à l'avenir.",
+  "bindEmailDesc": "Définissez votre mot de passe pour lucasscott3@email.com. Vous pourrez ainsi vous connecter directement par e-mail à l'avenir.",
   "@bindEmailDesc": {
-    "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
+    "description": "Set your password for lucasscott3@email.com. So you can also log in directly through email in the future."
   },
-  "setYourProfile": "Définir votre profil",
+  "setYourProfile": "Configurez votre profil",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "Choisissez votre nom d'utilisateur. Il peut contenir jusqu'à 30 caractères (lettres et chiffres uniquement). Vous pouvez le changer plus tard si vous le souhaitez.",
+  "setYourProfileDesc1": "Choisissez votre nom d'utilisateur de compte. Il peut contenir jusqu'à 30 caractères (lettres et chiffres uniquement). Vous pourrez le modifier plus tard si vous le souhaitez.",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "Le mot de passe doit comporter entre 6 et 20 caractères, comprenant des chiffres, des lettres majuscules et minuscules, et des caractères spéciaux.",
+  "setYourProfileDesc2": "Le mot de passe doit comporter entre 6 et 20 caractères et être composé de chiffres, de lettres majuscules et minuscules et de caractères spéciaux.",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
@@ -104,7 +116,7 @@
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Liez votre compte X pour lancer votre propre Key et maximiser l'expérience MyDoge. Seule la photo de profil, le nom et votre liste de suivis seront accessibles !\n\nVeuillez noter qu'après la connexion à X, les modifications ou la dissociation ne seront pas possibles pour la sécurité des actifs du compte.",
+  "connectXDesc": "Liez votre compte X pour lancer votre propre clé et maximiser l'expérience MyDoge. Seules la photo de profil, le nom et votre liste de suivis seront accessibles !\n\nVeuillez noter qu'après la connexion à X, les modifications ou la dissociation ne sont pas possibles pour la sécurité des actifs du compte.",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
@@ -116,7 +128,7 @@
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "Tout est prêt !\nProfitez de votre My Doge maintenant.",
+  "congratulationsDesc": "Vous êtes prêt !\nPassez du temps avec votre MyDoge maintenant.",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
@@ -124,27 +136,27 @@
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle1": "Acheter, envoyer et recevoir du Dogecoin",
-  "@socialLoginTitle1": {
+  "socialLoginTitle2": "Acheter, envoyer et recevoir des Dogecoins",
+  "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc1": "Donnez des pourboires sur X, sécurisez votre Doge et gérez vos fonds facilement.",
-  "@socialLoginDesc1": {
+  "socialLoginDesc2": "Donnez des pourboires sur X, sécurisez vos Doge et gérez vos propres fonds en toute simplicité.",
+  "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle2": "Explorer l'écosystème DogeOS",
-  "@socialLoginTitle2": {
+  "socialLoginTitle1": "Explorez l'écosystème DogeOS",
+  "@socialLoginTitle1": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc2": "Débloquez DeFi, NFTs, jeux et plus avec $DOGE dans l'univers DogeOS.",
-  "@socialLoginDesc2": {
+  "socialLoginDesc1": "Débloquez la DeFi, les NFT, les jeux et plus encore avec des $DOGE dans l'univers DogeOS.",
+  "@socialLoginDesc1": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "Trading multichaîne",
+  "socialLoginTitle3": "Trading multi-chaînes",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "Échangez facilement entre les principales blockchains pour une véritable expérience multichaîne.",
+  "socialLoginDesc3": "Échangez en toute transparence sur les principales blockchains pour une véritable expérience multi-chaînes.",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
@@ -168,17 +180,21 @@
   "@send": {
     "description": "Send"
   },
-  "deposit": "Déposer",
+  "deposit": "Dépôt",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Bridge",
+  "bridge": "Pont",
   "@bridge": {
     "description": "Bridge"
   },
   "swap": "Échanger",
   "@swap": {
     "description": "Swap"
+  },
+  "trade": "Échanger",
+  "@trade": {
+    "description": "Trade"
   },
   "buy": "Acheter",
   "@buy": {
@@ -216,7 +232,7 @@
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Transférer dans Mydoge",
+  "yourFriendsDesc": "Transférer au sein de Mydoge",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
@@ -224,11 +240,11 @@
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Envoyer du Doge à une adresse crypto",
+  "externalWalletDesc": "Envoyer des Doge à une adresse de crypto-monnaie",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Sélectionner un token",
+  "selectToken": "Sélectionner un jeton",
   "@selectToken": {
     "description": "Select token"
   },
@@ -264,27 +280,23 @@
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Rechercher le nom ou l'adresse du token",
+  "searchTokenNameOrAddress": "Rechercher un nom ou une adresse de jeton",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "Réseau：",
+  "network": "Réseau:",
   "@network": {
-    "description": "Network："
+    "description": "Network:"
   },
   "all": "Tout",
   "@all": {
     "description": "All"
   },
-  "qrCodeDesc": "Assurez-vous d'envoyer à Doge Chain. Sinon, vos fonds pourraient être perdus !",
-  "@qrCodeDesc": {
-    "description": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!"
-  },
-  "dogeChain": "Doge Chain",
+  "dogeChain": "Chaîne Doge",
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "Pourraient être perdus",
+  "mayBeLost": "Peut être perdu",
   "@mayBeLost": {
     "description": "May be lost"
   },
@@ -300,9 +312,9 @@
   "@copy": {
     "description": "Copy"
   },
-  "selectToTomoFriends": "Sélectionner des amis Tomo",
-  "@selectToTomoFriends": {
-    "description": "Select to Tomo friends"
+  "selectToDogeFriends": "Sélectionner pour les amis Doge",
+  "@selectToDogeFriends": {
+    "description": "Select to Doge friends"
   },
   "searchFriends": "Rechercher des amis",
   "@searchFriends": {
@@ -312,9 +324,9 @@
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "Solde：",
+  "balance": "Solde:",
   "@balance": {
-    "description": "Balance："
+    "description": "Balance:"
   },
   "max": "MAX",
   "@max": {
@@ -324,7 +336,7 @@
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Changement de tokens",
+  "changingTokens": "Changement de jetons",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
@@ -340,7 +352,7 @@
   "@socialWallet": {
     "description": "DogeOS wallet"
   },
-  "enjoyWalletWithSocialLogin": "Profitez de l'expérience complète de MyDoge Wallet avec un portefeuille multichaîne à connexion sociale, tout en conservant votre actif MyDoge Classic.",
+  "enjoyWalletWithSocialLogin": "Profitez de l'expérience complète du portefeuille MyDoge avec un portefeuille multi-chaînes à connexion sociale, tout en conservant votre actif MyDoge Classic.",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
@@ -360,7 +372,7 @@
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "Ajoutez des portefeuilles à votre carnet d'adresses pour y accéder facilement lorsque vous devez transférer de la crypto",
+  "noAddressDesc": "Ajoutez des portefeuilles à votre carnet d'adresses pour un accès facile lorsque vous devez transférer des crypto-monnaies",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
@@ -395,6 +407,10 @@
   "cancel": "Annuler",
   "@cancel": {
     "description": "Cancel"
+  },
+  "cancelLowercase": "annuler",
+  "@cancelLowercase": {
+    "description": "cancel"
   },
   "delete": "Supprimer",
   "@delete": {
@@ -512,9 +528,113 @@
   "@to": {
     "description": "To"
   },
+  "toLowerCase": "à",
+  "@toLowerCase": {
+    "description": "to"
+  },
   "from": "De",
   "@from": {
     "description": "From"
+  },
+  "fromLowerCase": "de",
+  "@fromLowerCase": {
+    "description": "from"
+  },
+  "task": "Tâche",
+  "@task": {
+    "description": "Task"
+  },
+  "dapp": "Dapp",
+  "@dapp": {
+    "description": "Dapp"
+  },
+  "referralRewards": "Récompenses de parrainage",
+  "@referralRewards": {
+    "description": "Referral Rewards"
+  },
+  "friendsInvited": "Amis invités",
+  "@friendsInvited": {
+    "description": "Friends invited"
+  },
+  "youHaveEarned": "Vous avez gagné",
+  "@youHaveEarned": {
+    "description": "You have earned"
+  },
+  "point": "Point",
+  "@point": {
+    "description": "Point"
+  },
+  "referAFriend": "Parrainer un ami",
+  "@referAFriend": {
+    "description": "Refer a friend"
+  },
+  "referExplain": "Gagnez 50 % à 75 % des frais de transaction pour chaque ami que vous parrainez.",
+  "@referExplain": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "claim": "Réclamer",
+  "@claim": {
+    "description": "Claim"
+  },
+  "bridgeDOGEToDogeOS": "Pont de $DOGE vers DogeOS",
+  "@bridgeDOGEToDogeOS": {
+    "description": "Bridge $DOGE to DogeOS"
+  },
+  "followDogeOSOnX": "Suivre DogeOS sur X",
+  "@followDogeOSOnX": {
+    "description": "Follow DogeOS on X"
+  },
+  "followMyDogeOnX": "Suivre MyDoge sur X",
+  "@followMyDogeOnX": {
+    "description": "Follow MyDoge on X"
+  },
+  "completeOneSwapOnDogeOS": "Effectuer un échange sur DogeOS",
+  "@completeOneSwapOnDogeOS": {
+    "description": "Complete one swap on DogeOS"
+  },
+  "dogeverse": "Dogeverse",
+  "@dogeverse": {
+    "description": "Dogeverse"
+  },
+  "connectToDogeverseNow": "Connectez-vous à Dogeverse maintenant",
+  "@connectToDogeverseNow": {
+    "description": "Connect to Dogeverse now"
+  },
+  "dogeOSEcosystem": "Écosystème DogeOS",
+  "@dogeOSEcosystem": {
+    "description": "DogeOS Ecosystem"
+  },
+  "dogeSwap": "DogeSwap",
+  "@dogeSwap": {
+    "description": "DogeSwap"
+  },
+  "orbiterFinanceIsADecentralized": "Orbiter Finance est un réseau décentralisé",
+  "@orbiterFinanceIsADecentralized": {
+    "description": "Orbiter Finance is a decentralized"
+  },
+  "bitcoinLayer2Network": "Réseau de couche 2 de Bitcoin",
+  "@bitcoinLayer2Network": {
+    "description": "Bitcoin layer-2 network"
+  },
+  "buildingTheSpiderChain": "Construction de la chaîne Spider, la première L2 EVM",
+  "@buildingTheSpiderChain": {
+    "description": "Building the Spider chain, the first EVM L2"
+  },
+  "solanaEcosystem": "Écosystème Solana",
+  "@solanaEcosystem": {
+    "description": "Solana Ecosystem"
+  },
+  "solanaFinance": "Solana Finance",
+  "@solanaFinance": {
+    "description": "Solana Finance"
+  },
+  "earnDesc": "Gagnez 50 % à 75 % des frais de transaction pour chaque ami que vous parrainez.",
+  "@earnDesc": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "referFriends": "Parrainer des amis",
+  "@referFriends": {
+    "description": "Refer friends"
   },
   "appearance": "Apparence",
   "@appearance": {
@@ -556,7 +676,7 @@
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "Règles de la communauté",
+  "communityGuidelines": "Directives de la communauté",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
@@ -572,9 +692,9 @@
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "Confirmer pour quitter",
+  "confirmToExit": "Êtes-vous sûr de vouloir vous déconnecter ?",
   "@confirmToExit": {
-    "description": "Confirm to exit"
+    "description": "Are you sure you want to log out?"
   },
   "follow": "Suivre",
   "@follow": {
@@ -584,24 +704,1676 @@
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "Cela supprimera votre compte.",
+  "willDeleteAccount": "Cette action est irréversible",
   "@willDeleteAccount": {
-    "description": "This will Delete your account."
+    "description": "This action is irreversible"
   },
-  "willDeleteAccountDesc1": "Vous êtes sur le point de commencer le processus de suppression de votre compte Tomo. Votre nom d'affichage, @utilisateur et profil public ne seront plus visibles sur Tomo pour iOS ou Android.",
+  "willDeleteAccountDesc1": "La suppression de votre compte supprimera définitivement votre portefeuille et votre profil MyDoge.",
   "@willDeleteAccountDesc1": {
-    "description": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android."
+    "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
   },
-  "willDeleteAccountDesc2": "Si vous souhaitez simplement vous déconnecter, retournez à la page de profil et cliquez sur Se déconnecter.",
+  "willDeleteAccountDesc2": "Assurez-vous de sauvegarder votre portefeuille et de sauvegarder tout ce qui est important — cette action ne peut pas être annulée.",
   "@willDeleteAccountDesc2": {
-    "description": "If you just want to log out, go back to the Profile page and click Log Out."
+    "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
   },
-  "slideToConfirm": "Faites glisser pour confirmer",
+  "slideToConfirm": "Glisser pour supprimer",
   "@slideToConfirm": {
-    "description": "Slide to confirm"
+    "description": "Slide to delete"
   },
   "dogeOsBridge": "Pont DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
+  },
+  "noContacts": "Aucun contact",
+  "@noContacts": {
+    "description": "No contacts"
+  },
+  "noContactsRemind": "Ajoutez des portefeuilles à votre carnet d'adresses pour un accès facile lorsque vous devez transférer des crypto-monnaies",
+  "@noContactsRemind": {
+    "description": "Add wallets to your address book for easy access when you need to transfer crypto"
+  },
+  "networkText": "Réseau",
+  "@networkText": {
+    "description": "Network"
+  },
+  "updateAddress": "Mettre à jour l'adresse",
+  "@updateAddress": {
+    "description": "Update address"
+  },
+  "makeSureSend": "Veuillez vous assurer que vous envoyez à ",
+  "@makeSureSend": {
+    "description": "Please make sure you are sending to "
+  },
+  "chainPoint": "Chaîne.",
+  "@chainPoint": {
+    "description": "Chain."
+  },
+  "otherFunds": "L'envoi depuis une autre chaîne peut entraîner ",
+  "@otherFunds": {
+    "description": "Sending from any other chain may result in "
+  },
+  "lossOfFunds": "la perte de fonds.",
+  "@lossOfFunds": {
+    "description": "loss of funds."
+  },
+  "maybeLost2": "Peut être perdu !",
+  "@maybeLost2": {
+    "description": "May be lost!"
+  },
+  "copyAddress": "Copier l'adresse",
+  "@copyAddress": {
+    "description": "Copy Address"
+  },
+  "errorNetwork": "Erreur réseau",
+  "@errorNetwork": {
+    "description": "Error network"
+  },
+  "errorNetworkRemind": "Votre réseau rencontre des problèmes, veuillez vérifier et essayer d'actualiser",
+  "@errorNetworkRemind": {
+    "description": "Your network is experiencing some problems, please check and try refreshing"
+  },
+  "refresh": "Actualiser",
+  "@refresh": {
+    "description": "Refresh"
+  },
+  "bindTipTitle": "Lier l'application d'authentification",
+  "@bindTipTitle": {
+    "description": "Link Authenticator App"
+  },
+  "bindTipSubtitle": "La liaison de l'application d'authentification améliorera la sécurité de votre compte. Elle sera appliquée lorsque vous exporterez votre portefeuille.",
+  "@bindTipSubtitle": {
+    "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
+  },
+  "link": "Lier",
+  "@link": {
+    "description": "Link"
+  },
+  "emailCodeText": "Code de l'e-mail",
+  "@emailCodeText": {
+    "description": "Email code"
+  },
+  "emailCodeSubtitle": "Un e-mail a été envoyé à votre boîte de réception {email}.\r\nVeuillez entrer le code de vérification dans l'e-mail.",
+  "@emailCodeSubtitle": {
+    "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
+  },
+  "bindStepTitle": "Lier l'application d'authentification",
+  "@bindStepTitle": {
+    "description": "Link Authenticator App"
+  },
+  "step1": "Étape 1: ",
+  "@step1": {
+    "description": "Step 1: "
+  },
+  "bindStepOneLabelDescription": "Téléchargez une application d'authentification.",
+  "@bindStepOneLabelDescription": {
+    "description": "Download an authenticator app."
+  },
+  "forExampleLabel": "Par exemple: ",
+  "@forExampleLabel": {
+    "description": "For example: "
+  },
+  "step2": "Étape 2: ",
+  "@step2": {
+    "description": "Step 2: "
+  },
+  "bindStepTwoLabelDescription": "Veuillez copier la clé à 16 chiffres ci-dessous ou scanner le code QR",
+  "@bindStepTwoLabelDescription": {
+    "description": "Please copy the 16-digit key below or scan the QR code"
+  },
+  "caution": "Attention",
+  "@caution": {
+    "description": "Caution"
+  },
+  "bindStepCautionContent": "Veuillez conserver cette clé en lieu sûr, car elle est utilisée pour exporter votre portefeuille et ne peut pas être récupérée en cas de perte !",
+  "@bindStepCautionContent": {
+    "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
+  },
+  "pleaseNote": "Veuillez noter",
+  "@pleaseNote": {
+    "description": "Please note"
+  },
+  "bindStepCautionNoteSubtitle": "Une fois que Google Authenticator est lié avec succès, il ne peut pas être modifié.",
+  "@bindStepCautionNoteSubtitle": {
+    "description": "Once Google Authenticator is successfully linked, it cannot be changed."
+  },
+  "bindStepCautionNoteContent": "Pour la sécurité des actifs de votre portefeuille, veuillez stocker Google Authenticator dans un endroit sûr et le protéger. Si Google Authenticator est perdu, cela peut entraîner l'impossibilité d'accéder à votre portefeuille.",
+  "@bindStepCautionNoteContent": {
+    "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
+  },
+  "gotIt": "Compris",
+  "@gotIt": {
+    "description": "Got it"
+  },
+  "googleAuthenticator": "Google Authenticator",
+  "@googleAuthenticator": {
+    "description": "Google Authenticator"
+  },
+  "verifySubtitle": "Veuillez entrer le numéro généré par votre Google Authenticator.",
+  "@verifySubtitle": {
+    "description": "Please enter the number generated by your Google Authenticator."
+  },
+  "bindSuccessTip": "Authentificateur lié avec succès",
+  "@bindSuccessTip": {
+    "description": "Authenticator linked successfully"
+  },
+  "bindFailedTip": "Le code de l'authentificateur est incorrect, la liaison a échoué",
+  "@bindFailedTip": {
+    "description": "Authenticator code is incorrect, linking failed"
+  },
+  "retry": "Réessayer",
+  "@retry": {
+    "description": "Retry"
+  },
+  "selectNetwork": "Sélectionner un réseau",
+  "@selectNetwork": {
+    "description": "Select network"
+  },
+  "addToFavorites": "Ajouter aux favoris",
+  "@addToFavorites": {
+    "description": "Add to favorites"
+  },
+  "addToFavorite": "Ajouter aux favoris",
+  "@addToFavorite": {
+    "description": "Add to favorite"
+  },
+  "setPayPin": "Définir le code PIN de paiement",
+  "@setPayPin": {
+    "description": "Set Pay Pin"
+  },
+  "setPayPinSubtitle": "Veuillez définir un code PIN de paiement pour sécuriser vos actifs. Ce code PIN sera requis lorsque vous effectuerez des transactions.",
+  "@setPayPinSubtitle": {
+    "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
+  },
+  "showTip": "Afficher le code PIN",
+  "@showTip": {
+    "description": "Show Pin"
+  },
+  "hideTip": "Masquer le code PIN",
+  "@hideTip": {
+    "description": "Hide Pin"
+  },
+  "confirmPayPin": "Confirmer le code PIN de paiement",
+  "@confirmPayPin": {
+    "description": "Confirm Pay Pin"
+  },
+  "confirmNotMatchTip": "Les deux codes PIN de paiement ne correspondent pas.",
+  "@confirmNotMatchTip": {
+    "description": "The two pay pins do not match."
+  },
+  "enterPayPin": "Entrez le code PIN de paiement",
+  "@enterPayPin": {
+    "description": "Enter Pay PIN"
+  },
+  "forgotPin": "Code PIN oublié",
+  "@forgotPin": {
+    "description": "Forgot pin"
+  },
+  "enterCode": "Entrez le code",
+  "@enterCode": {
+    "description": "Enter Code"
+  },
+  "changeEmailCodeSubtitle": "Un code à 4 chiffres a été envoyé à {email}",
+  "@changeEmailCodeSubtitle": {
+    "description": "A 4-digit code was sent to {email}"
+  },
+  "request": "Demande",
+  "@request": {
+    "description": "Request"
+  },
+  "incorrectCode": "Code incorrect",
+  "@incorrectCode": {
+    "description": "Incorrect code"
+  },
+  "forgetPayPin": "Vous avez oublié le code PIN de paiement ?",
+  "@forgetPayPin": {
+    "description": "Forget the Pay PIN?"
+  },
+  "showPayPin": "Afficher le code PIN de paiement",
+  "@showPayPin": {
+    "description": "Show Pay PIN"
+  },
+  "hidePayPin": "Masquer le code PIN de paiement",
+  "@hidePayPin": {
+    "description": "Hide Pay PIN"
+  },
+  "setRecoveryEmail": "Définir l'e-mail de récupération",
+  "@setRecoveryEmail": {
+    "description": "Set Recovery Email"
+  },
+  "setRecoveryEmailSubtitle": "Pour garantir la sécurité de vos actifs, veuillez définir un e-mail de récupération. Cet e-mail sera utilisé pour la récupération du compte en cas de perte d'accès à votre compte.",
+  "@setRecoveryEmailSubtitle": {
+    "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
+  },
+  "enterEmailAddress": "Entrez votre adresse e-mail",
+  "@enterEmailAddress": {
+    "description": "Enter your Email address"
+  },
+  "emailErrorTip": "Cet e-mail n'est pas disponible",
+  "@emailErrorTip": {
+    "description": "This email is not available"
+  },
+  "codeResendSecond": "Renvoyer ({second})",
+  "@codeResendSecond": {
+    "description": "Resend({second})"
+  },
+  "scanQRCode": "Scanner le code QR",
+  "@scanQRCode": {
+    "description": "Scan QR Code"
+  },
+  "album": "Album",
+  "@album": {
+    "description": "Album"
+  },
+  "alignQRCode": "",
+  "@alignQRCode": {
+    "description": ""
+  },
+  "enterSeedPhrase": "Entrez la phrase de départ",
+  "@enterSeedPhrase": {
+    "description": "Enter seed phrase"
+  },
+  "enterSeedPhraseRemind": "Si vous utilisez une phrase de départ pour importer le portefeuille, séparez chaque mot par un espace.",
+  "@enterSeedPhraseRemind": {
+    "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
+  },
+  "clear": "Effacer",
+  "@clear": {
+    "description": "Clear"
+  },
+  "howToBackUp": "Pourquoi et comment sauvegarder\r\nvotre portefeuille",
+  "@howToBackUp": {
+    "description": "Why and How to back up\r\nyour wallet"
+  },
+  "backUpRemind": "Pour pouvoir accéder à vos comptes et à vos actifs lorsque vous changez d'appareil, nous vous recommandons vivement de suivre le processus ci-dessous pour sauvegarder votre portefeuille.",
+  "@backUpRemind": {
+    "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
+  },
+  "backUpStep1": "1. Cliquez sur le bouton pour afficher les phrases de départ.",
+  "@backUpStep1": {
+    "description": "1. Click the button to view the seed phrases."
+  },
+  "backUpStep2": "Conservez les phrases de départ dans un endroit sûr où personne d'autre ne peut y accéder.",
+  "@backUpStep2": {
+    "description": "Keep the seed phrases in a safe place where no one else can access to it."
+  },
+  "backUpWarning": "AVERTISSEMENT: Conservez vos phrases de départ en lieu sûr et ne les partagez JAMAIS avec qui que ce soit. Toute personne disposant de votre clé privée peut voler tous les actifs de votre portefeuille.",
+  "@backUpWarning": {
+    "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
+  },
+  "showSeed": "Afficher mes phrases de départ",
+  "@showSeed": {
+    "description": "Show My Seed Phrases"
+  },
+  "seedPhrases": "Phrases de départ",
+  "@seedPhrases": {
+    "description": "Seed Phrases"
+  },
+  "close": "Fermer",
+  "@close": {
+    "description": "Close"
+  },
+  "addressLowerCase": "adresse",
+  "@addressLowerCase": {
+    "description": "address"
+  },
+  "enterAddress": "Veuillez entrer une adresse valide",
+  "@enterAddress": {
+    "description": "Please enter a valid address"
+  },
+  "addToAddress": "Ajouter à l'adresse",
+  "@addToAddress": {
+    "description": "Add to address"
+  },
+  "balanceLabel": "Solde: ",
+  "@balanceLabel": {
+    "description": "Balance: "
+  },
+  "sendTo": "Envoyer à",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "routeSelection": "Sélection de l'itinéraire",
+  "@routeSelection": {
+    "description": "Route selection"
+  },
+  "slippage": "Glissement",
+  "@slippage": {
+    "description": "Slippage"
+  },
+  "about": "À propos",
+  "@about": {
+    "description": "About"
+  },
+  "site": "Site",
+  "@site": {
+    "description": "Site"
+  },
+  "twitter": "Twitter",
+  "@twitter": {
+    "description": "Twitter"
+  },
+  "twitterLowercase": "twitter",
+  "@twitterLowercase": {
+    "description": "twitter"
+  },
+  "telegram": "Telegram",
+  "@telegram": {
+    "description": "Telegram"
+  },
+  "networkUppercase": "Réseau",
+  "@networkUppercase": {
+    "description": "Network"
+  },
+  "customTokens": "Jetons personnalisés",
+  "@customTokens": {
+    "description": "Custom Tokens"
+  },
+  "allTokens": "Tous les jetons",
+  "@allTokens": {
+    "description": "All tokens"
+  },
+  "filterTokens": "Filtrer les jetons à risque",
+  "@filterTokens": {
+    "description": "Filter risky tokens"
+  },
+  "contractAddress": "Adresse du contrat",
+  "@contractAddress": {
+    "description": "Contract address"
+  },
+  "tokenSymbol": "Symbole du jeton",
+  "@tokenSymbol": {
+    "description": "Token symbol"
+  },
+  "decimalsOfPrecision": "Décimales de précision",
+  "@decimalsOfPrecision": {
+    "description": "Decimals of precision"
+  },
+  "turnOffRisk": "Désactiver le filtre des jetons à risque ?",
+  "@turnOffRisk": {
+    "description": "Turn off risky tokens filter?"
+  },
+  "sureTurnOff": "Êtes-vous sûr de vouloir désactiver le filtre des jetons à risque ? Cela pourrait entraîner une perte d'actifs.",
+  "@sureTurnOff": {
+    "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
+  },
+  "turnOff": "Désactiver",
+  "@turnOff": {
+    "description": "Turn off"
+  },
+  "fail": "échec",
+  "@fail": {
+    "description": "fail"
+  },
+  "pending": "En attente",
+  "@pending": {
+    "description": "Pending"
+  },
+  "warningText": "Les fonds peuvent mettre jusqu'à 20 minutes pour arriver dans votre portefeuille après la réussite de la transaction.",
+  "@warningText": {
+    "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
+  },
+  "myWalletAddress": "Mon adresse de portefeuille",
+  "@myWalletAddress": {
+    "description": "My wallet address"
+  },
+  "hi": "Salut, {name}",
+  "@hi": {
+    "description": "Hi, {name}"
+  },
+  "dogeDevnetBalance": "Solde de $DOGE (devnet)",
+  "@dogeDevnetBalance": {
+    "description": "$DOGE (devnet) balance"
+  },
+  "dogeDevnetFaucet": "Robinet DogeOs Devnet",
+  "@dogeDevnetFaucet": {
+    "description": "DogeOs Devnet faucet"
+  },
+  "myDogeTokenBalance": "Mon solde de $DOGE (jeton de développement)",
+  "@myDogeTokenBalance": {
+    "description": "My $DOGE (dev token) balance"
+  },
+  "whatIsFaucet": "Qu'est-ce qu'un robinet ?",
+  "@whatIsFaucet": {
+    "description": " What is a Faucet?"
+  },
+  "whatIsFaucetHint": "Un robinet vous permet de réclamer des jetons gratuits à des fins de test sur un",
+  "@whatIsFaucetHint": {
+    "description": "A faucet lets you claim free tokens for testing purposes on a"
+  },
+  "devnet": " devnet ",
+  "@devnet": {
+    "description": " devnet "
+  },
+  "whatIsFaucetHint2": "— un environnement de blockchain qui simule des transactions réelles sans utiliser d'actifs réels.",
+  "@whatIsFaucetHint2": {
+    "description": "— a blockchain environment that simulates real transactions without using real assets."
+  },
+  "thestDevnetTokens": "Ces jetons de devnet sont",
+  "@thestDevnetTokens": {
+    "description": "These devnet tokens are"
+  },
+  "notRealDoge": " pas de vrais DOGE",
+  "@notRealDoge": {
+    "description": " not real DOGE"
+  },
+  "and": " et ",
+  "@and": {
+    "description": " and "
+  },
+  "haveNoMonetary": "n'ont aucune valeur monétaire",
+  "@haveNoMonetary": {
+    "description": "have no monetary value"
+  },
+  "howMuchDoge": "Combien de DOGE de Devnet puis-je obtenir ?",
+  "@howMuchDoge": {
+    "description": " How Much Devnet DOGE Can I Get?"
+  },
+  "youCanRequest": "Vous pouvez demander",
+  "@youCanRequest": {
+    "description": "You can request"
+  },
+  "perDayDoge": " 42,069 ÐOGE par jour.",
+  "@perDayDoge": {
+    "description": " 42.069 ÐOGE per day."
+  },
+  "noRealFunds": " Aucun fonds réel n'est impliqué — c'est juste pour les tests.",
+  "@noRealFunds": {
+    "description": " No real funds are involved — it’s just for testing."
+  },
+  "WhatCanIDo": "Que puis-je faire avec le DOGE de Devnet ?",
+  "@WhatCanIDo": {
+    "description": " What Can I Do With Devnet DOGE?"
+  },
+  "WhatCanIDoHint": " Avec votre ÐOGE de devnet, vous pouvez :",
+  "@WhatCanIDoHint": {
+    "description": " With your devnet ÐOGE, you can:"
+  },
+  "WhatCanIDoHint1": "Essayer de nouvelles fonctionnalités en toute sécurité",
+  "@WhatCanIDoHint1": {
+    "description": "Try out new features safely"
+  },
+  "WhatCanIDoHint2": "Interagir avec les dApps sans risque financier",
+  "@WhatCanIDoHint2": {
+    "description": "Interact with dApps without financial risk"
+  },
+  "helpUsTest": "Aidez-nous à tester",
+  "@helpUsTest": {
+    "description": "Help us test"
+  },
+  "performanceUnderLoad": " les performances sous charge ",
+  "@performanceUnderLoad": {
+    "description": " performance under load "
+  },
+  "performanceUnderLoadHint": "— votre activité contribue à d'importants tests de résistance alors que nous mettons à l'échelle DogeOS !",
+  "@performanceUnderLoadHint": {
+    "description": "— your activity contributes to important stress testing as we scale DogeOS!"
+  },
+  "claimNow": "Réclamez 42,069 Ð maintenant !",
+  "@claimNow": {
+    "description": "Claim Ð42.069 now!"
+  },
+  "blockOrReport": "Bloquer ou signaler",
+  "@blockOrReport": {
+    "description": "Block or Report"
+  },
+  "blockOrReportHint": "MyDoge examinera tous les profils signalés pour voir s'il y a des violations de nos directives. Vous pouvez également bloquer le profil pour les empêcher de voir vos publications.",
+  "@blockOrReportHint": {
+    "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
+  },
+  "report": "Signaler",
+  "@report": {
+    "description": "Report"
+  },
+  "block": "Bloquer",
+  "@block": {
+    "description": "Block"
+  },
+  "nevermind": "Peu importe",
+  "@nevermind": {
+    "description": "Nevermind"
+  },
+  "allComments": "Tous les commentaires",
+  "@allComments": {
+    "description": "All Comments"
+  },
+  "noCommentYet": "Aucun commentaire pour l'instant",
+  "@noCommentYet": {
+    "description": "No comment yet"
+  },
+  "saySomething": "Dites quelque chose...",
+  "@saySomething": {
+    "description": "Say something..."
+  },
+  "sureToDelete": "Êtes-vous sûr de vouloir supprimer ce commentaire ?",
+  "@sureToDelete": {
+    "description": "Sure to delete this comment?"
+  },
+  "copyProfileURL": "Copier l'URL du profil",
+  "@copyProfileURL": {
+    "description": "Copy Profile URL"
+  },
+  "quickAmount": "Montant rapide",
+  "@quickAmount": {
+    "description": "Quick amount"
+  },
+  "unblockUser": "Débloquer l'utilisateur ?",
+  "@unblockUser": {
+    "description": "Unblock User?"
+  },
+  "unblockUserHint": "Cela débloquera l'utilisateur et vous continuerez à voir ses publications.",
+  "@unblockUserHint": {
+    "description": "This will unblock the user and you will continue to see their posts."
+  },
+  "unblock": "Débloquer",
+  "@unblock": {
+    "description": "Unblock"
+  },
+  "following": "Abonnements",
+  "@following": {
+    "description": "Following"
+  },
+  "shop": "Boutique",
+  "@shop": {
+    "description": "Shop"
+  },
+  "settingsAndSupport": "Paramètres et assistance",
+  "@settingsAndSupport": {
+    "description": "Settings and Support"
+  },
+  "sendAndReceive": "Envoyer et recevoir des pourboires via",
+  "@sendAndReceive": {
+    "description": "Send and receive tips via"
+  },
+  "readFAQ": "Lire la FAQ de MyDogeTip",
+  "@readFAQ": {
+    "description": "Read the MyDogeTip FAQ"
+  },
+  "signOutUser": "Se déconnecter de @{handle}",
+  "@signOutUser": {
+    "description": "Sign Out @{handle}"
+  },
+  "changePayPin": "Changer le code PIN de paiement",
+  "@changePayPin": {
+    "description": "Change Pay PIN"
+  },
+  "displayCurrency": "Devise d'affichage",
+  "@displayCurrency": {
+    "description": "Display currency"
+  },
+  "aboutMyDoge": "À propos de MyDoge",
+  "@aboutMyDoge": {
+    "description": "About MyDoge"
+  },
+  "version": "Version {version}",
+  "@version": {
+    "description": "Version {version}"
+  },
+  "nickname": "Surnom",
+  "@nickname": {
+    "description": "Nickname"
+  },
+  "username": "Nom d'utilisateur",
+  "@username": {
+    "description": "User name"
+  },
+  "followers": "Abonnés",
+  "@followers": {
+    "description": "Followers"
+  },
+  "newPost": "Nouveau message",
+  "@newPost": {
+    "description": "New Post"
+  },
+  "post": "Publier",
+  "@post": {
+    "description": "Post"
+  },
+  "share": "Partager",
+  "@share": {
+    "description": "Share"
+  },
+  "tips": "Pourboires",
+  "@tips": {
+    "description": "Tips"
+  },
+  "message": "Message",
+  "@message": {
+    "description": "Message"
+  },
+  "shareProfile": "Partager le profil",
+  "@shareProfile": {
+    "description": "Share profile"
+  },
+  "findFriends": "Trouver des amis",
+  "@findFriends": {
+    "description": "Find Friends"
+  },
+  "searchResults": "Résultats de la recherche",
+  "@searchResults": {
+    "description": "Search Results"
+  },
+  "startTyping": "commencer à taper",
+  "@startTyping": {
+    "description": "start typing"
+  },
+  "shopWithDoge": "Acheter avec des Doge",
+  "@shopWithDoge": {
+    "description": "Shop with Doge"
+  },
+  "getDogeCom": "GetDoge.com",
+  "@getDogeCom": {
+    "description": "GetDoge.com"
+  },
+  "giftCards": "Cartes-cadeaux",
+  "@giftCards": {
+    "description": "Gift Cards"
+  },
+  "soon": "bientôt",
+  "@soon": {
+    "description": "soon"
+  },
+  "switchNetwork": "Changer de réseau",
+  "@switchNetwork": {
+    "description": "Switch network"
+  },
+  "empty": "Vide",
+  "@empty": {
+    "description": "Empty"
+  },
+  "estReceive": "Réception est.",
+  "@estReceive": {
+    "description": "Est. Receive"
+  },
+  "doge": "Doge",
+  "@doge": {
+    "description": "Doge"
+  },
+  "scanQrCodeDesc": "Scannez pour payer avec le montant exact.",
+  "@scanQrCodeDesc": {
+    "description": "Scan to pay with the exact amount."
+  },
+  "clearAmount": "Effacer le montant",
+  "@clearAmount": {
+    "description": "Clear amount"
+  },
+  "inputPINToContinue": "Entrez votre code PIN pour continuer",
+  "@inputPINToContinue": {
+    "description": "Enter your PIN to continue"
+  },
+  "verifyYourPIN": "Vérifiez votre code PIN pour créer un portefeuille DogeOS.",
+  "@verifyYourPIN": {
+    "description": "Verify your PIN to create a DogeOS wallet."
+  },
+  "incorrectPin": "Le code PIN que vous avez entré est incorrect",
+  "@incorrectPin": {
+    "description": "The PIN you entered is incorrect"
+  },
+  "iCloudBackupFailed": "La sauvegarde iCloud a échoué",
+  "@iCloudBackupFailed": {
+    "description": "iCloud backup failed"
+  },
+  "pleaseTurnOnYourICloud": "Veuillez activer iCloud dans les paramètres de votre appareil avant de sauvegarder ou d'importer votre portefeuille.",
+  "@pleaseTurnOnYourICloud": {
+    "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
+  },
+  "goToSettingPage": "Aller à la page des paramètres",
+  "@goToSettingPage": {
+    "description": "Go to setting page"
+  },
+  "deleteBackup": "Supprimer la sauvegarde",
+  "@deleteBackup": {
+    "description": "Delete backup"
+  },
+  "deleteBackupOrNot": "Voulez-vous supprimer la sauvegarde ?",
+  "@deleteBackupOrNot": {
+    "description": "Do you want to delete the backup?"
+  },
+  "sendToCrypto": "Envoyer à une adresse de crypto-monnaie",
+  "@sendToCrypto": {
+    "description": "Send to a crypto address"
+  },
+  "importSeedPhrase": "Importer avec une phrase de départ",
+  "@importSeedPhrase": {
+    "description": "Import with seed phrase"
+  },
+  "importGoogleDrive": "Importer depuis Google Drive",
+  "@importGoogleDrive": {
+    "description": "Import from google drive"
+  },
+  "importICloud": "Importer depuis iCloud",
+  "@importICloud": {
+    "description": "Import from iCloud"
+  },
+  "reminder": "Rappel",
+  "@reminder": {
+    "description": "Reminder"
+  },
+  "reminderDesc": "Nous avons remarqué que le portefeuille que vous utilisiez précédemment provenait d'un portefeuille DogeOS, avec la phrase de départ protégée via Cubist. Vous allez passer à ce portefeuille social. De plus, votre contenu Dogeverse précédent n'est plus accessible.\n\nSi vous avez des questions, veuillez contacter notre équipe d'assistance.",
+  "@reminderDesc": {
+    "description": "We noticed that the wallet you previously used was from a DogeOS wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+  },
+  "importNotes": "Remarques importantes sur la connexion sociale",
+  "@importNotes": {
+    "description": "Important notes on social login"
+  },
+  "importNotesDesc": "Si vous vous connectez avec X, la fonctionnalité MyDogeTip sera liée à votre compte X.",
+  "@importNotesDesc": {
+    "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
+  },
+  "maybeLater": "Peut-être plus tard",
+  "@maybeLater": {
+    "description": "Maybe later"
+  },
+  "depositToken": "Déposer {tokenName}",
+  "@depositToken": {
+    "description": "Deposit {tokenName}"
+  },
+  "selectDepositMethod": "Sélectionner la méthode de dépôt",
+  "@selectDepositMethod": {
+    "description": "Select deposit method"
+  },
+  "myDogeFriends": "Amis MyDoge",
+  "@myDogeFriends": {
+    "description": "MyDoge friends"
+  },
+  "setAmount": "Définir le montant",
+  "@setAmount": {
+    "description": "Set amount"
+  },
+  "amount": "Montant",
+  "@amount": {
+    "description": "Amount"
+  },
+  "amountLowercase": "montant",
+  "@amountLowercase": {
+    "description": "amount"
+  },
+  "dogeUppercase": "DOGE",
+  "@dogeUppercase": {
+    "description": "DOGE"
+  },
+  "allNetworks": "Tous les réseaux",
+  "@allNetworks": {
+    "description": "All networks"
+  },
+  "popularNetworks": "Réseaux populaires",
+  "@popularNetworks": {
+    "description": "Popular networks"
+  },
+  "oops": "Passer au portefeuille DogeOS",
+  "@oops": {
+    "description": "Switch to DogeOS Wallet"
+  },
+  "oopsDesc": "Oups ! Vous utilisez actuellement votre portefeuille MyDoge Classic. Veuillez passer à votre portefeuille DogeOS pour accéder à cette fonctionnalité.",
+  "@oopsDesc": {
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your DogeOS Wallet to access this feature."
+  },
+  "switchWallet": "Changer de portefeuille",
+  "@switchWallet": {
+    "description": "Switch wallet"
+  },
+  "termsOfUse": "Conditions d'utilisation",
+  "@termsOfUse": {
+    "description": "Terms of Use"
+  },
+  "privacyPolicy": "Politique de confidentialité",
+  "@privacyPolicy": {
+    "description": "Privacy Policy"
+  },
+  "shareMyDoge": "Partager MyDoge",
+  "@shareMyDoge": {
+    "description": "Share MyDoge"
+  },
+  "visitOurWebsite": "Visitez notre site Web",
+  "@visitOurWebsite": {
+    "description": "Visit Our Website"
+  },
+  "viewSeedPhrase": "Afficher la phrase de départ",
+  "@viewSeedPhrase": {
+    "description": "View seed phrase"
+  },
+  "seedBackupTip1": "Transcrire",
+  "@seedBackupTip1": {
+    "description": "Transcribe"
+  },
+  "seedBackupTip2": "Captures d'écran",
+  "@seedBackupTip2": {
+    "description": "Screenshots"
+  },
+  "seedBackupTip3": "Copie numérique",
+  "@seedBackupTip3": {
+    "description": "Digital copy"
+  },
+  "keepSeedSafeNotice": "Toute personne disposant de votre phrase de départ peut accéder à tous vos actifs. Veuillez conserver ces informations pour vous.",
+  "@keepSeedSafeNotice": {
+    "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
+  },
+  "hide": "Masquer",
+  "@hide": {
+    "description": "Hide"
+  },
+  "warningTitleNotice": "Pour des raisons de sécurité, si vous fermez ou actualisez la page, vous devrez refaire une demande et attendre au moins 48 heures. Assurez-vous d'avoir mémorisé votre phrase de départ avant de quitter.",
+  "@warningTitleNotice": {
+    "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
+  },
+  "keepSeedSafeTitle": "Conservez la phrase de départ en lieu sûr",
+  "@keepSeedSafeTitle": {
+    "description": "Keep seed phrase safe"
+  },
+  "keepSeedSafeNotice1": "Toute personne disposant de votre phrase de départ peut accéder à tous vos actifs. Assurez-vous de sauvegarder votre phrase de départ avant de recevoir des transferts ou de supprimer l'application.",
+  "@keepSeedSafeNotice1": {
+    "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
+  },
+  "keepSeedSafeNotice2": "MyDoge ne stockera pas votre phrase de départ sur son serveur et ne pourra donc pas récupérer votre portefeuille en cas de perte.",
+  "@keepSeedSafeNotice2": {
+    "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
+  },
+  "seedAlreadyBackup": "Déjà sauvegardé",
+  "@seedAlreadyBackup": {
+    "description": "Already backed up"
+  },
+  "backupSecurity": "Sauvegarde et sécurité",
+  "@backupSecurity": {
+    "description": "Backup & Security"
+  },
+  "backupYourWalletHint": "Enregistrez votre portefeuille dans le cloud et protégez-le avec un mot de passe. Vous pouvez également noter votre phrase de départ ou la copier dans un gestionnaire de mots de passe.",
+  "@backupYourWalletHint": {
+    "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
+  },
+  "haveNotBackUp": "Vous n'avez pas sauvegardé votre portefeuille dans le cloud.",
+  "@haveNotBackUp": {
+    "description": "You haven't backed up your wallet to the cloud."
+  },
+  "backupToICloud": "Sauvegarder sur iCloud",
+  "@backupToICloud": {
+    "description": "Back up to iCloud"
+  },
+  "backupToGoogle": "Sauvegarder sur Google Drive",
+  "@backupToGoogle": {
+    "description": "Back up to Google Drive"
+  },
+  "createRecoveryPassword": "Créer un mot de passe de récupération cloud",
+  "@createRecoveryPassword": {
+    "description": "Create Cloud recovery password"
+  },
+  "createRecoveryPasswordHint": "Vous devez créer un mot de passe pour la récupération de la sauvegarde cloud. Choisissez un mot de passe mémorable d'au moins 8 caractères ; les mots de passe plus longs sont plus sûrs.",
+  "@createRecoveryPasswordHint": {
+    "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
+  },
+  "ifYouLoseRecoveryPassword": "La perte de ce mot de passe signifie que vous ne pourrez pas récupérer votre sauvegarde.",
+  "@ifYouLoseRecoveryPassword": {
+    "description": "Losing this password means you can’t recover your backup."
+  },
+  "confirmPassword": "Confirmer le mot de passe",
+  "@confirmPassword": {
+    "description": "Confirm password"
+  },
+  "confirmBackup": "Confirmer la sauvegarde",
+  "@confirmBackup": {
+    "description": "Confirm backup"
+  },
+  "haveBackUp": "Vous avez sauvegardé votre portefeuille dans le cloud.",
+  "@haveBackUp": {
+    "description": "You have backed up your wallet to the cloud."
+  },
+  "passwordRules": "Le mot de passe doit comporter au moins 8 caractères",
+  "@passwordRules": {
+    "description": "Password must be at least 8 characters"
+  },
+  "passwordNotMatch": "Le mot de passe ne correspond pas",
+  "@passwordNotMatch": {
+    "description": "Password does not match"
+  },
+  "someChain": "Chaîne {chain}.",
+  "@someChain": {
+    "description": "{chain} Chain."
+  },
+  "inputYourRecoveryPassword": "Entrez votre mot de passe de récupération cloud",
+  "@inputYourRecoveryPassword": {
+    "description": "Input your Cloud Recovery Password"
+  },
+  "importExistingWallet": "Importer un portefeuille existant",
+  "@importExistingWallet": {
+    "description": "Import existing wallet"
+  },
+  "walletName": "Nom du portefeuille",
+  "@walletName": {
+    "description": "Wallet name"
+  },
+  "backupYourWallet": "Sauvegardez votre portefeuille",
+  "@backupYourWallet": {
+    "description": "Back up your wallet"
+  },
+  "deleteWallet": "Supprimer la sauvegarde cloud ?",
+  "@deleteWallet": {
+    "description": "Delete Cloud backup?"
+  },
+  "renameWallet": "Renommer le portefeuille",
+  "@renameWallet": {
+    "description": "Rename Wallet"
+  },
+  "enterName": "Entrez un nom",
+  "@enterName": {
+    "description": "Enter a name"
+  },
+  "sureToDeleteWallet": "Vous perdrez la possibilité de restaurer votre portefeuille depuis le cloud. Êtes-vous sûr de vouloir continuer ?",
+  "@sureToDeleteWallet": {
+    "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
+  },
+  "profileIsPublic": "Le profil est public",
+  "@profileIsPublic": {
+    "description": "Profile is Public"
+  },
+  "showWalletAddress": "Afficher l'adresse du portefeuille et le bouton de pourboire",
+  "@showWalletAddress": {
+    "description": "Show wallet address and Tip button"
+  },
+  "transferableLabel": "Transférable: ",
+  "@transferableLabel": {
+    "description": "Transferable: "
+  },
+  "transferable": "Transférable",
+  "@transferable": {
+    "description": "Transferable"
+  },
+  "inscribe": "Inscrire",
+  "@inscribe": {
+    "description": "Inscribe"
+  },
+  "buyDoge": "Acheter des Doge",
+  "@buyDoge": {
+    "description": "Buy Doge"
+  },
+  "totalVolume": "Volume total",
+  "@totalVolume": {
+    "description": "Total volume"
+  },
+  "Volume24h": "Volume 24h",
+  "@Volume24h": {
+    "description": "24h volume"
+  },
+  "holders": "Détenteurs",
+  "@holders": {
+    "description": "Holders"
+  },
+  "sales": "Ventes",
+  "@sales": {
+    "description": "Sales"
+  },
+  "inscribeForTransfer": "Inscrire pour le transfert",
+  "@inscribeForTransfer": {
+    "description": "Inscribe for transfer"
+  },
+  "inscribeForTransferHint": "Prêt à envoyer ? Cette étape déverrouille vos jetons Drc20 pour le transfert.",
+  "@inscribeForTransferHint": {
+    "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
+  },
+  "selectAnInscription": "Sélectionnez une inscription à envoyer",
+  "@selectAnInscription": {
+    "description": "Select an inscription to send"
+  },
+  "transferToken": "Transférer {token}",
+  "@transferToken": {
+    "description": "Transfer {token}"
+  },
+  "confirmTransfer": "Confirmer le transfert",
+  "@confirmTransfer": {
+    "description": "Confirm Transfer"
+  },
+  "noNFTsFound": "Aucun NFT trouvé",
+  "@noNFTsFound": {
+    "description": "No NFTs Found"
+  },
+  "yoursNFTAppearHere": "Vos NFT apparaîtront ici",
+  "@yoursNFTAppearHere": {
+    "description": "Your NFTs will appear here"
+  },
+  "titleCopied": "{title} copié dans le presse-papiers",
+  "@titleCopied": {
+    "description": "{title} copied to clipboard"
+  },
+  "transfer": "Transférer",
+  "@transfer": {
+    "description": "Transfer"
+  },
+  "NFTDetails": "Détails du NFT",
+  "@NFTDetails": {
+    "description": "NFT Details"
+  },
+  "inscriptionID": "ID de l'inscription",
+  "@inscriptionID": {
+    "description": "Inscription ID"
+  },
+  "outputValue": "Valeur de sortie",
+  "@outputValue": {
+    "description": "Output Value"
+  },
+  "preview": "Aperçu",
+  "@preview": {
+    "description": "Preview"
+  },
+  "content": "Contenu",
+  "@content": {
+    "description": "Content"
+  },
+  "contentType": "Type de contenu",
+  "@contentType": {
+    "description": "Content Type"
+  },
+  "timestamp": "Horodatage",
+  "@timestamp": {
+    "description": "Timestamp"
+  },
+  "genesisTransaction": "Transaction de genèse",
+  "@genesisTransaction": {
+    "description": "Genesis Transaction"
+  },
+  "showLess": "Afficher moins",
+  "@showLess": {
+    "description": "Show Less"
+  },
+  "showMore": "Afficher plus",
+  "@showMore": {
+    "description": "Show More"
+  },
+  "errorLoadingNFTs": "Erreur lors du chargement des NFT: {error}",
+  "@errorLoadingNFTs": {
+    "description": "Error loading NFTs: {error}"
+  },
+  "errorCreatingTransaction": "Erreur lors de la création de la transaction: {error}",
+  "@errorCreatingTransaction": {
+    "description": "Error creating transaction: {error}"
+  },
+  "addMessage": "Ajouter un message",
+  "@addMessage": {
+    "description": "Add message"
+  },
+  "toSomeone": "à {someone}",
+  "@toSomeone": {
+    "description": "to {someone}"
+  },
+  "recent": "Récent",
+  "@recent": {
+    "description": "Recent"
+  },
+  "noSearchResult": "Aucun résultat de recherche",
+  "@noSearchResult": {
+    "description": "No search result"
+  },
+  "sendTo": "Envoyer à",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "searchForPeople": "Rechercher des personnes ou saisir une adresse",
+  "@searchForPeople": {
+    "description": "Search for people or input an address"
+  },
+  "multiChain": "Multi-chaînes",
+  "@multiChain": {
+    "description": "Multi-chain"
+  },
+  "transferFundsToDogeWallet": "Transférez vos fonds vers le portefeuille DogeOS en un seul clic !",
+  "@transferFundsToDogeWallet": {
+    "description": "Move your funds to DogeOS wallet in one tap!"
+  },
+  "drc20": "Drc20",
+  "@drc20": {
+    "description": "Drc20"
+  },
+  "NFTs": "NFT",
+  "@NFTs": {
+    "description": "NFTs"
+  },
+  "noDrc20Found": "Rien ici pour l'instant !",
+  "@noDrc20Found": {
+    "description": "Nothing here yet!"
+  },
+  "youCanCreateWallet": "Vous pouvez toujours créer un portefeuille DogeOS ici.",
+  "@youCanCreateWallet": {
+    "description": "You can always create a DogeOS wallet here."
+  },
+  "getDogeTestToken": "Obtenez des jetons de testnet DOGE \n (valeur nulle)",
+  "@getDogeTestToken": {
+    "description": "Get DOGE testnet tokens \n (zero value)"
+  },
+  "devnetUpperCase": "Devnet",
+  "@devnetUpperCase": {
+    "description": "Devnet"
+  },
+  "legalTerms": "Conditions légales",
+  "@legalTerms": {
+    "description": "Legal terms"
+  },
+  "pleaseReadOur": "Veuillez lire notre",
+  "@pleaseReadOur": {
+    "description": "Please read our"
+  },
+  "eula": " CLUF",
+  "@eula": {
+    "description": " EULA"
+  },
+  "agreeContinue": " Accepter et continuer",
+  "@agreeContinue": {
+    "description": " Agree & Continue"
+  },
+  "enableBiometrics": "Activer la biométrie ?",
+  "@enableBiometrics": {
+    "description": "Enable biometrics?"
+  },
+  "no": "Non",
+  "@no": {
+    "description": "No"
+  },
+  "yes": "Oui",
+  "@yes": {
+    "description": "Yes"
+  },
+  "enable": "Activer",
+  "@enable": {
+    "description": "Enable"
+  },
+  "setNewPhoto": "Définir une nouvelle photo",
+  "@setNewPhoto": {
+    "description": "Set new photo"
+  },
+  "chooseFromGallery": "Choisir dans la galerie",
+  "@chooseFromGallery": {
+    "description": "Choose from gallery"
+  },
+  "takeAPhoto": "Prendre une photo",
+  "@takeAPhoto": {
+    "description": "Take a photo"
+  },
+  "authenticationFailed": "Échec de l'authentification",
+  "@authenticationFailed": {
+    "description": "Authentication failed"
+  },
+  "authenticationFailedHint": "Un problème est survenu lors de votre tentative d'authentification.",
+  "@authenticationFailedHint": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "tryAgain": "Réessayer",
+  "@tryAgain": {
+    "description": "Try again"
+  },
+  "faceIDNotEnabled": "Face ID non activé",
+  "@faceIDNotEnabled": {
+    "description": "Face ID Not Enabled"
+  },
+  "pleaseEnabledFaceID": "Veuillez activer Face ID dans les paramètres pour continuer.",
+  "@pleaseEnabledFaceID": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSettings": "Aller aux paramètres",
+  "@goToSettings": {
+    "description": "Go to Settings"
+  },
+  "cancelRequest": "Annuler la demande",
+  "@cancelRequest": {
+    "description": "Cancel request"
+  },
+  "cancelRequestHint": "Êtes-vous sûr de vouloir annuler ? Cela redémarrera la période d'attente si vous souhaitez configurer une nouvelle clé d'accès.",
+  "@cancelRequestHint": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "stillAccessYourClassicWallet": "Vous aurez toujours accès à votre MyDoge Classic pour votre prochaine connexion. Cependant, vos publications ne seront pas accessibles. Veuillez sauvegarder vos données maintenant si nécessaire.",
+  "@stillAccessYourClassicWallet": {
+    "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
+  },
+  "permissionDenied": "Autorisation refusée",
+  "@permissionDenied": {
+    "description": "Permission Denied"
+  },
+  "whatIsYourEmail": "Quel est votre e-mail ?",
+  "@whatIsYourEmail": {
+    "description": "What’s your email"
+  },
+  "enableFaceID": "Activer Face ID",
+  "@enableFaceID": {
+    "description": "Enable Face ID"
+  },
+  "enableFaceIDHint": "Pour protéger votre compte, assurez-vous que Face ID reste activé lorsque vous utilisez l'application.",
+  "@enableFaceIDHint": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpPasskey": "Configurer la clé d'accès",
+  "@setUpPasskey": {
+    "description": "Set Up Passkey"
+  },
+  "settingUp": "Configuration en cours...",
+  "@settingUp": {
+    "description": "Setting up..."
+  },
+  "settingUpHint": "La configuration de la clé d'accès a été annulée.\r\nVeuillez réessayer.",
+  "@settingUpHint": {
+    "description": "Passkey setup was canceled.\r\nPlease try again."
+  },
+  "verifyWithPasskey": "Vérifier avec la clé d'accès",
+  "@verifyWithPasskey": {
+    "description": "Verify With Passkey"
+  },
+  "verifying": "Vérification en cours...",
+  "@verifying": {
+    "description": "Verifying..."
+  },
+  "verificationCanceled": "La vérification a été annulée.",
+  "@verificationCanceled": {
+    "description": "Verification was canceled."
+  },
+  "noPasskeyFound": "Aucune clé d'accès trouvée",
+  "@noPasskeyFound": {
+    "description": "No Passkey found"
+  },
+  "keepAccountSafe": "Pour protéger votre compte, assurez-vous que Face ID reste activé lorsque vous utilisez l'application.",
+  "@keepAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpNewPasskey": "Configurer une nouvelle clé d'accès",
+  "@setUpNewPasskey": {
+    "description": "Set up a new passkey"
+  },
+  "poweredBy": "Propulsé par",
+  "@poweredBy": {
+    "description": "Powered by"
+  },
+  "IAccept": "J'accepte",
+  "@IAccept": {
+    "description": "I accept"
+  },
+  "orContinueWith": "ou continuer avec",
+  "@orContinueWith": {
+    "description": "or continue with"
+  },
+  "verifyEmail": "Vérifier l'e-mail",
+  "@verifyEmail": {
+    "description": "Verify Email"
+  },
+  "verifyEmailHint": "Un lien de connexion unique a été envoyé à",
+  "@verifyEmailHint": {
+    "description": "A one-time sign-in link has been sent to"
+  },
+  "doNotSeeEmail": "Vous ne voyez pas l'e-mail ? Vérifiez votre dossier de courrier indésirable, ou ",
+  "@doNotSeeEmail": {
+    "description": "Didn’t see email? Check your spam folder, or "
+  },
+  "settingUpPasskeyHint": "Pour la sécurité de votre compte, la configuration d'une nouvelle clé d'accès nécessite une période d'attente de 48 heures.",
+  "@settingUpPasskeyHint": {
+    "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
+  },
+  "verificationLinkSent": "Un lien de vérification unique sera envoyé\r\nà votre e-mail.",
+  "@verificationLinkSent": {
+    "description": "A one-time verification link will be sent\r\nto your email."
+  },
+  "hours": "Heures",
+  "@hours": {
+    "description": "Hours"
+  },
+  "minutes": "Minutes",
+  "@minutes": {
+    "description": "Minutes"
+  },
+  "seconds": "Secondes",
+  "@seconds": {
+    "description": "Seconds"
+  },
+  "resendCode": "Renvoyer le code",
+  "@resendCode": {
+    "description": "Resend code"
+  },
+  "emailAddress": "Adresse e-mail",
+  "@emailAddress": {
+    "description": "Email address"
+  },
+  "apple": "apple",
+  "@apple": {
+    "description": "apple"
+  },
+  "allNewWallet": "TOUT NOUVEAU \nportefeuille MyDoge",
+  "@allNewWallet": {
+    "description": "ALL-New \nMyDoge Wallet"
+  },
+  "getStart": "Commencer",
+  "@getStart": {
+    "description": "Get started"
+  },
+  "welcomeToMydogeWallet": "Bienvenue dans une toute nouvelle expérience de portefeuille MyDoge avec une connexion sociale et un portefeuille multi-chaînes.\n\nVotre MyDoge Classic, vos actifs et tout ce que vous aimez dans MyDoge sont migrés vers une nouvelle expérience.",
+  "@welcomeToMydogeWallet": {
+    "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
+  },
+  "myDogeWallet": "Portefeuille MyDoge",
+  "@myDogeWallet": {
+    "description": "MyDoge Wallet"
+  },
+  "initializing": "Initialisation en cours...",
+  "@initializing": {
+    "description": "Initializing..."
+  },
+  "risks": "Non vérifié",
+  "@risks": {
+    "description": "Unverified"
+  },
+  "waitingUserToConnectX": "En attente de la connexion de l'utilisateur à X",
+  "@waitingUserToConnectX": {
+    "description": "Waiting user to connect X"
+  },
+  "history": "Historique",
+  "@history": {
+    "description": "History"
+  },
+  "noActivity": "Aucune activité",
+  "@noActivity": {
+    "description": "No Activity"
+  },
+  "notification": "Notification",
+  "@notification": {
+    "description": "Notification"
+  },
+  "noData": "Aucune donnée",
+  "@noData": {
+    "description": "No data"
+  },
+  "viewSeedPhraseTip1": "Pour améliorer la sécurité du portefeuille et réduire le risque d'attaques malveillantes, le portefeuille MyDoge utilise le mécanisme de garde Cubist pour stocker votre phrase de départ en toute sécurité.\nPour la consulter, soumettez une demande. Elle sera disponible 48 heures plus tard et consultable pendant 3 jours.",
+  "@viewSeedPhraseTip1": {
+    "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
+  },
+  "receivedMnemonicTip1": "Votre accès expirera dans {day} jours, {hour} heures et {minute} minutes. Veuillez le sauvegarder avant cette date.",
+  "@receivedMnemonicTip1": {
+    "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
+  },
+  "seedPhraseHelpContent": "Une phrase de départ est un ensemble de 12 à 24 mots qui sert de clé à votre portefeuille. Comme une carte bancaire sans code PIN, toute personne qui la possède peut accéder à vos fonds et les transférer.",
+  "@seedPhraseHelpContent": {
+    "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
+  },
+  "keepSeedSafeAlertContent": "Votre phrase de départ n'est pas stockée par MyDoge.\nPour la consulter à nouveau, vous devrez attendre 48 heures.",
+  "@keepSeedSafeAlertContent": {
+    "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
+  },
+  "manageCrypto": "Gérer les crypto-monnaies",
+  "@manageCrypto": {
+    "description": "Manage crypto"
+  },
+  "addCustomToken": "Ajouter un jeton personnalisé",
+  "@addCustomToken": {
+    "description": "Add custom token"
+  },
+  "originalPayPIN": "Code PIN de paiement d'origine",
+  "@originalPayPIN": {
+    "description": "Original Pay PIN"
+  },
+  "setNewPayPIN": "Définir un nouveau code PIN de paiement",
+  "@setNewPayPIN": {
+    "description": "Set new Pay PIN"
+  },
+  "confirmNewPayPIN": "Confirmer le nouveau code PIN de paiement",
+  "@confirmNewPayPIN": {
+    "description": "Confirm new Pay PIN"
+  },
+  "twoFactor": "Authentification à deux facteurs (2FA)",
+  "@twoFactor": {
+    "description": "Two-Factor Authentication (2FA)"
+  },
+  "twoFactorHint": "Pour renforcer la sécurité de votre compte, nous vous recommandons vivement d'activer au moins une 2FA.",
+  "@twoFactorHint": {
+    "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
+  },
+  "minAmount": "Le montant minimum est de {amount}",
+  "@minAmount": {
+    "description": "Min amount is {amount}"
+  },
+  "maxAmount": "Le montant maximum est de {amount}",
+  "@maxAmount": {
+    "description": "Max amount is {amount}"
+  },
+  "connectedDApp": "DApp connectée",
+  "@connectedDApp": {
+    "description": "Connected DApp"
+  },
+  "disconnectedAll": "Tout déconnecter",
+  "@disconnectedAll": {
+    "description": "Disconnect All"
+  },
+  "disconnected": "Déconnecter",
+  "@disconnected": {
+    "description": "Disconnect"
+  },
+  "connected": "Connecté",
+  "@connected": {
+    "description": "Connected"
+  },
+  "connectedWallet": "{name} connecté à {walletName}",
+  "@connectedWallet": {
+    "description": "{name} connected to {walletName}"
+  },
+  "connectedNetwork": "{amount} connexion réseau",
+  "@connectedNetwork": {
+    "description": "{amount} network connect"
+  },
+  "dappRequest": "Demande de Dapp",
+  "@dappRequest": {
+    "description": "Dapp request"
+  },
+  "fromLabel": "de: ",
+  "@fromLabel": {
+    "description": "from: "
+  },
+  "approve": "Approuver",
+  "@approve": {
+    "description": "Approve"
+  },
+  "sign": "Signer",
+  "@sign": {
+    "description": "Sign"
+  },
+  "walletAddress": "Adresse du portefeuille",
+  "@walletAddress": {
+    "description": "Wallet address"
+  },
+  "dAppContract": "Contrat DApp",
+  "@dAppContract": {
+    "description": "DApp Contract"
+  },
+  "gasFee": "Frais de gaz",
+  "@gasFee": {
+    "description": "Gas Fee"
+  },
+  "data": "Données",
+  "@data": {
+    "description": "Data"
+  },
+  "connectYourWallet": "Connectez votre portefeuille",
+  "@connectYourWallet": {
+    "description": "Connect your wallet"
+  },
+  "requestFrom": "Demande de ",
+  "@requestFrom": {
+    "description": "Request from "
+  },
+  "dappPermission": "Autorisation Dapp",
+  "@dappPermission": {
+    "description": "Dapp Permission"
+  },
+  "accessYourETH": "Accédez à vos informations ETH sur la chaîne",
+  "@accessYourETH": {
+    "description": "Access your ETH on-chain information"
+  },
+  "requestTransaction": "Demander une autorisation de transaction de votre part",
+  "@requestTransaction": {
+    "description": "Request transaction authorization from you"
+  },
+  "note": "Remarque",
+  "@note": {
+    "description": "Note"
+  },
+  "notShareYourPrivateKey": "L'autorisation ne partagera pas les informations de votre clé privée.",
+  "@notShareYourPrivateKey": {
+    "description": "Authorization will not share your private key information."
+  },
+  "networkNotSupported": "Réseau non pris en charge",
+  "@networkNotSupported": {
+    "description": "Network not supported"
+  },
+  "amountNetwork": "{amount} réseaux",
+  "@amountNetwork": {
+    "description": "{amount} networks"
+  },
+  "manage": "Gérer",
+  "@manage": {
+    "description": "Manage"
+  },
+  "switzerComplete": "Switzer terminé",
+  "@switzerComplete": {
+    "description": "Switzer Complete"
+  },
+  "noSearchResults": "Aucun résultat de recherche",
+  "@noSearchResults": {
+    "description": "No search results"
+  },
+  "authenticatingWithFaceID": "Authentification avec Face ID...",
+  "@authenticatingWithFaceID": {
+    "description": "Authenticating with Face ID..."
+  },
+  "disableToken": "Désactiver le filtre des jetons à risque ?",
+  "@disableToken": {
+    "description": "Disable risky token filter?"
+  },
+  "disable": "Désactiver",
+  "@disable": {
+    "description": "Disable"
+  },
+  "disableTokenHint": "Cela peut vous exposer à des jetons à risque et à une perte potentielle d'actifs.",
+  "@disableTokenHint": {
+    "description": "This may expose you to risky tokens and potential asset loss."
+  },
+  "keepSeedSafeAlertTitle": "Avez-vous sauvegardé votre phrase de départ ?",
+  "@keepSeedSafeAlertTitle": {
+    "description": "Have you saved your seed phrase?"
+  },
+  "cancelViewRequest": "Annuler la demande de vue",
+  "@cancelViewRequest": {
+    "description": "Cancel the view request"
+  },
+  "featurePoweredBy": "Cette fonctionnalité est alimentée par ",
+  "@featurePoweredBy": {
+    "description": "This feature is powered by "
+  },
+  "viewSeedPhraseRequestTitle": "Vous avez demandé à voir la phrase de départ.",
+  "@viewSeedPhraseRequestTitle": {
+    "description": "You have requested to view the seed phrase."
+  },
+  "viewSeedPhraseRequestTip": "Votre phrase de départ sera affichée ici après",
+  "@viewSeedPhraseRequestTip": {
+    "description": "Your seed phrase will be shown here after"
+  },
+  "receivedMnemonicTitle": "Votre phrase de départ est prête à être consultée",
+  "@receivedMnemonicTitle": {
+    "description": "Your seed phrase is ready to view"
+  },
+  "receivedMnemonicSubTip1": "Veuillez conserver votre phrase de départ en lieu sûr.",
+  "@receivedMnemonicSubTip1": {
+    "description": "Please keep your seed phrase safe."
+  },
+  "receivedMnemonicSubTip2": "Le portefeuille MyDoge ne stocke pas les phrases de départ des utilisateurs. Chaque fois que vous demandez à les consulter, vous devez attendre 48 heures pour les récupérer auprès de Cubist.",
+  "@receivedMnemonicSubTip2": {
+    "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
+  },
+  "applyViewSeedPhrase": "Demander à voir la phrase de départ",
+  "@applyViewSeedPhrase": {
+    "description": "Request to view seed phrase"
+  },
+  "viewSeedPhraseTip2": "",
+  "@viewSeedPhraseTip2": {
+    "description": ""
+  },
+  "viewSeedPhraseTip3": "",
+  "@viewSeedPhraseTip3": {
+    "description": ""
+  },
+  "viewSeedPhraseTip4": "Vous pourrez la consulter après 48 heures.",
+  "@viewSeedPhraseTip4": {
+    "description": "You’ll be able to view it after 48 hours."
+  },
+  "enterCodeDescription": "Un code à 4 chiffres a été envoyé à ",
+  "@enterCodeDescription": {
+    "description": "A 4-digit code was sent to "
+  },
+  "seedPhraseHelpTitle": "Qu'est-ce qu'une phrase de départ ?",
+  "@seedPhraseHelpTitle": {
+    "description": "What is a seed phrase?"
+  },
+  "seedPhraseHelpNoticeTitle": "Comment la conserver en toute sécurité ?",
+  "@seedPhraseHelpNoticeTitle": {
+    "description": "How to keep it secure?"
+  },
+  "seedPhraseHelpNotice1": "Notez-la ou stockez-la sur un appareil hors ligne tel qu'un portefeuille froid.",
+  "@seedPhraseHelpNotice1": {
+    "description": "Write it down or store it in an offline device such as a cold wallet."
+  },
+  "seedPhraseHelpNotice2": "Ne la stockez jamais en prenant des captures d'écran.",
+  "@seedPhraseHelpNotice2": {
+    "description": "Never store it by taking screenshots."
+  },
+  "seedPhraseHelpNotice3": "Ne la stockez jamais dans des applications de médias sociaux, des e-mails, des mémos mobiles, des services cloud, etc.",
+  "@seedPhraseHelpNotice3": {
+    "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
+  },
+  "seedPhraseHelpNoticeHideTip": "Ne plus afficher ce message",
+  "@seedPhraseHelpNoticeHideTip": {
+    "description": "Don't show this again"
+  },
+  "done": "Terminé",
+  "@done": {
+    "description": "Done"
+  },
+  "keep": "Conserver",
+  "@keep": {
+    "description": "Keep"
+  },
+  "verifyEmailToProtectAccount": "Vérifiez votre e-mail pour aider à protéger votre compte.",
+  "@verifyEmailToProtectAccount": {
+    "description": "Verify your email to help protect your account."
+  },
+  "potentialHoneypot": "Honeypot potentiel",
+  "@potentialHoneypot": {
+    "description": "Potential honeypot"
+  },
+  "tokenNotList": "Jeton non répertorié",
+  "@tokenNotList": {
+    "description": "Token not listed"
+  },
+  "tokenNotListHint": "Le jeton n'est pas répertorié et peut être risqué. Veuillez procéder avec prudence.",
+  "@tokenNotListHint": {
+    "description": "Token is not listed and may be risky. Please proceed with caution."
+  },
+  "slippageTooHigh": "Le glissement est trop élevé",
+  "@slippageTooHigh": {
+    "description": "Slippage is too high"
+  },
+  "slippageTooHighHint": "Le trading pourrait entraîner des pertes potentielles, veuillez trader avec prudence.",
+  "@slippageTooHighHint": {
+    "description": "Trading could lead to potential losses, please trade carefully."
+  },
+  "tokenNotListHint2": "Le jeton n'est pas répertorié. Le trading peut entraîner une perte d'actifs.",
+  "@tokenNotListHint2": {
+    "description": "Token is not listed. Trading may result in asset loss."
+  },
+  "insufficientBalance": "Solde insuffisant",
+  "@insufficientBalance": {
+    "description": "Insufficient balance"
+  },
+  "getStartWithDogeWallet": "Commencez avec un portefeuille DogeOS via la connexion sociale — votre portefeuille actuel reste en sécurité en tant que MyDoge Classic.",
+  "@getStartWithDogeWallet": {
+    "description": "Get started with a DogeOS Wallet via social login — your current wallet stays safe as MyDoge Classic."
+  },
+  "filterHighRiskTokens": "Filtrez les jetons à haut risque en un seul clic. Aucun actif ne sera perdu.",
+  "@filterHighRiskTokens": {
+    "description": "Filter out high-risk tokens with one click. No assets will be lost."
+  },
+  "setUpProfile": "Configurer votre profil pour la nouvelle expérience MyDoge ?",
+  "@setUpProfile": {
+    "description": "Set up your profile for the new MyDoge experience?"
+  },
+  "invalidWalletAddress": "Adresse de portefeuille non valide. Veuillez vérifier le format.",
+  "@invalidWalletAddress": {
+    "description": "Invalid wallet address. Please check the format."
   }
-} 
+}
