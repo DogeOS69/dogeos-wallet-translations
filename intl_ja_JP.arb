@@ -4,6 +4,18 @@
   "@tabMarket": {
     "description": "Market"
   },
+  "tabHome": "ホーム",
+  "@tabHome": {
+    "description": "Home"
+  },
+  "tabDiscover": "発見",
+  "@tabDiscover": {
+    "description": "Discover"
+  },
+  "tabAlpha": "アルファ",
+  "@tabAlpha": {
+    "description": "Alpha"
+  },
   "tabEarn": "稼ぐ",
   "@tabEarn": {
     "description": "Earn"
@@ -20,9 +32,9 @@
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "トークン名またはアドレスを検索",
+  "searchBarDesc": "名前またはアドレスを検索",
   "@searchBarDesc": {
-    "description": "Search token name or address"
+    "description": "Search name or address"
   },
   "totalBalance": "総残高",
   "@totalBalance": {
@@ -40,11 +52,11 @@
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "メールアドレスを入力",
+  "enterYourEmail": "メールアドレスを入力してください",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "メールアドレス",
+  "email": "メール",
   "@email": {
     "description": "Email"
   },
@@ -56,7 +68,7 @@
   "@forgetThePassword": {
     "description": "Forget the password?"
   },
-  "continueBtn": "続行",
+  "continueBtn": "続ける",
   "@continueBtn": {
     "description": "Continue"
   },
@@ -64,9 +76,9 @@
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "パスワードを設定してください。今後はメールアドレスで直接ログインすることもできます。",
+  "setPasswordDesc": "パスワードを設定してください。将来的にはメールで直接ログインすることもできます。",
   "@setPasswordDesc": {
-    "description": "Set your password. You can also log in directly through email in the future.  "
+    "description": "Set your password. You can also log in directly through email in the future."
   },
   "emailCode": "メール認証コード",
   "@emailCode": {
@@ -80,43 +92,43 @@
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "メールアドレスを連携",
+  "bindEmail": "メールをバインド",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "lucasscott3@email.com のパスワードを設定してください。今後はメールアドレスで直接ログインすることもできます。",
+  "bindEmailDesc": "lucasscott3@email.com のパスワードを設定してください。これにより、将来的にはメールで直接ログインすることもできます。",
   "@bindEmailDesc": {
-    "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
+    "description": "Set your password for lucasscott3@email.com. So you can also log in directly through email in the future."
   },
   "setYourProfile": "プロフィールを設定",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "ユーザー名を選択してください。最大30文字（英数字のみ）使用できます。後で変更することも可能です。",
+  "setYourProfileDesc1": "アカウントのユーザー名を選択してください。最大 30 文字まで使用できます (文字と数字のみ)。後で変更することもできます。",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "パスワードは6～20文字で、数字、大文字・小文字、特殊文字を含めてください。",
+  "setYourProfileDesc2": "パスワードは、数字、大文字、小文字、特殊文字で構成される 6 ～ 20 文字である必要があります。",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "Xと連携",
+  "connectX": "X を接続",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Xアカウントを連携して自分のKeyを発行し、MyDogeの体験を最大化しましょう。プロフィール画像、名前、フォローリストのみ取得します！\n\nXと連携後は、アカウント資産保護のため変更や連携解除はできません。",
+  "connectXDesc": "X アカウントをリンクして、独自のキーを起動し、MyDoge エクスペリエンスを最大限に活用してください。プロフィール写真、名前、フォロー中のリストのみがアクセスされます!\n\nX に接続すると、アカウント資産のセキュリティのため、変更やバインド解除はできませんのでご注意ください。",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
-  "connect": "連携",
+  "connect": "接続",
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "おめでとうございます！",
+  "congratulations": "おめでとうございます!",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "準備完了！\nMy Dogeと一緒に楽しみましょう。",
+  "congratulationsDesc": "準備は万端です!\n今すぐ My Doge と一緒に過ごしましょう。",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
@@ -124,27 +136,27 @@
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle1": "Dogecoinの購入・送信・受信",
-  "@socialLoginTitle1": {
+  "socialLoginTitle2": "ドージコインの購入、送受信",
+  "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc1": "Xでチップを送り、Dogeを守り、自分の資金を簡単に管理しましょう。",
-  "@socialLoginDesc1": {
+  "socialLoginDesc2": "X でチップを送り、Doge を保護し、自分の資金を簡単に管理できます。",
+  "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle2": "DogeOSエコシステムを探索",
-  "@socialLoginTitle2": {
+  "socialLoginTitle1": "DogeOS エコシステムを探る",
+  "@socialLoginTitle1": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc2": "$DOGEでDeFi、NFT、ゲームなどDogeOSユニバースを解放しましょう。",
-  "@socialLoginDesc2": {
+  "socialLoginDesc1": "DogeOS ユニバースで $DOGE を使用して、DeFi、NFT、ゲームなどをアンロックしましょう。",
+  "@socialLoginDesc1": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "マルチチェーントレード",
+  "socialLoginTitle3": "マルチチェーン取引",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "主要なブロックチェーン間でシームレスに取引し、本当のマルチチェーン体験を。",
+  "socialLoginDesc3": "主要なブロックチェーン間でシームレスに取引し、真のマルチチェーン体験を実現します。",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
@@ -160,7 +172,7 @@
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "ご本人確認のため、メールアドレスを入力してください。認証コードをお送りします。",
+  "resetPwdDesc": "ご本人様確認のため、メールアドレスを入力してください。認証コードを送信します。",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
@@ -168,7 +180,7 @@
   "@send": {
     "description": "Send"
   },
-  "deposit": "入金",
+  "deposit": "預金",
   "@deposit": {
     "description": "Deposit"
   },
@@ -180,6 +192,10 @@
   "@swap": {
     "description": "Swap"
   },
+  "trade": "取引",
+  "@trade": {
+    "description": "Trade"
+  },
   "buy": "購入",
   "@buy": {
     "description": "Buy"
@@ -188,7 +204,7 @@
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "暗号資産",
+  "cryptoTab": "暗号",
   "@cryptoTab": {
     "description": "Crypto"
   },
@@ -196,7 +212,7 @@
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "ウォレット管理",
+  "manageWallet": "ウォレットを管理",
   "@manageWallet": {
     "description": "Manage wallet"
   },
@@ -216,7 +232,7 @@
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Mydoge内で送金",
+  "yourFriendsDesc": "Mydoge 内で転送",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
@@ -224,7 +240,7 @@
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Dogeを暗号アドレスに送信",
+  "externalWalletDesc": "暗号アドレスに Doge を送信",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
@@ -236,11 +252,11 @@
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "受取アドレス",
+  "receivingAddress": "受信アドレス",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "{text}のアドレス",
+  "assetAddress": "{text} アドレス",
   "@assetAddress": {
     "description": "{text} address"
   },
@@ -248,7 +264,7 @@
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "取引履歴",
+  "transactions": "取引",
   "@transactions": {
     "description": "Transactions"
   },
@@ -260,7 +276,7 @@
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "暗号資産を選択",
+  "selectCrypto": "暗号を選択",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
@@ -268,19 +284,15 @@
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "ネットワーク：",
+  "network": "ネットワーク:",
   "@network": {
-    "description": "Network："
+    "description": "Network:"
   },
   "all": "すべて",
   "@all": {
     "description": "All"
   },
-  "qrCodeDesc": "必ずDoge Chainに送信してください。そうでない場合、資金が失われる可能性があります！",
-  "@qrCodeDesc": {
-    "description": "Please make sure you are sending to Doge Chain. Otherwise your funds May be lost!"
-  },
-  "dogeChain": "Doge Chain",
+  "dogeChain": "Doge チェーン",
   "@dogeChain": {
     "description": "Doge Chain"
   },
@@ -288,7 +300,7 @@
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Dogeアドレス",
+  "tokenAddress": "Doge アドレス",
   "@tokenAddress": {
     "description": "Doge Address"
   },
@@ -300,9 +312,9 @@
   "@copy": {
     "description": "Copy"
   },
-  "selectToTomoFriends": "Tomoの友達を選択",
-  "@selectToTomoFriends": {
-    "description": "Select to Tomo friends"
+  "selectToDogeFriends": "Doge の友達に選択",
+  "@selectToDogeFriends": {
+    "description": "Select to Doge friends"
   },
   "searchFriends": "友達を検索",
   "@searchFriends": {
@@ -312,9 +324,9 @@
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "残高：",
+  "balance": "残高:",
   "@balance": {
-    "description": "Balance："
+    "description": "Balance:"
   },
   "max": "最大",
   "@max": {
@@ -328,19 +340,19 @@
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "{token}を購入",
+  "buyToken": "{token} を購入",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "{token}を売却",
+  "sellToken": "{token} を売却",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "DogeOSウォレット",
+  "socialWallet": "DogeOS ウォレット",
   "@socialWallet": {
     "description": "DogeOS wallet"
   },
-  "enjoyWalletWithSocialLogin": "ソーシャルログインのマルチチェーンウォレットでMyDoge Walletの全機能を体験し、MyDoge Classic資産も保持できます。",
+  "enjoyWalletWithSocialLogin": "ソーシャル ログイン マルチチェーン ウォレットで完全な MyDoge ウォレット体験をお楽しみください。MyDoge Classic 資産はそのまま維持されます。",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
@@ -348,7 +360,7 @@
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "作成方法",
+  "createWith": "で作成",
   "@createWith": {
     "description": "Create with"
   },
@@ -356,11 +368,11 @@
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "アドレスなし",
+  "noAddress": "アドレスがありません",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "アドレス帳にウォレットを追加して、暗号資産の送金時に簡単にアクセスできます",
+  "noAddressDesc": "暗号を転送する必要があるときに簡単にアクセスできるように、アドレス帳にウォレットを追加します",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
@@ -372,7 +384,7 @@
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "20文字以内の名前を入力",
+  "namePlaceholder": "20 文字未満の名前を入力してください",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
@@ -380,7 +392,7 @@
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "アドレスを入力",
+  "addressPlaceholder": "アドレスを入力してください",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
@@ -395,6 +407,10 @@
   "cancel": "キャンセル",
   "@cancel": {
     "description": "Cancel"
+  },
+  "cancelLowercase": "キャンセル",
+  "@cancelLowercase": {
+    "description": "cancel"
   },
   "delete": "削除",
   "@delete": {
@@ -412,7 +428,7 @@
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "プロフィール編集",
+  "editProfile": "プロフィールを編集",
   "@editProfile": {
     "description": "Edit profile"
   },
@@ -420,7 +436,7 @@
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "MyDogeの使い方",
+  "howYouUseMyDoge": "MyDoge の使い方",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
@@ -436,15 +452,15 @@
   "@language": {
     "description": "Language"
   },
-  "vol24h": "24時間ボリューム",
+  "vol24h": "24 時間出来高",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "24時間高値",
+  "high24h": "24 時間高値",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "24時間安値",
+  "low24h": "24 時間安値",
   "@low24h": {
     "description": "24h Low"
   },
@@ -464,7 +480,7 @@
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "ルーム",
+  "room": "部屋",
   "@room": {
     "description": "Room"
   },
@@ -472,7 +488,7 @@
   "@refer": {
     "description": "Refer"
   },
-  "receive": "受け取る",
+  "receive": "受信",
   "@receive": {
     "description": "Receive"
   },
@@ -492,15 +508,15 @@
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "24時間取引高",
+  "turnover24h": "24 時間売上高",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "24時間変動",
+  "change24h": "24 時間変更",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "コントラクト",
+  "contract": "契約",
   "@contract": {
     "description": "Contract"
   },
@@ -512,9 +528,113 @@
   "@to": {
     "description": "To"
   },
-  "from": "送信元",
+  "toLowerCase": "宛先",
+  "@toLowerCase": {
+    "description": "to"
+  },
+  "from": "差出人",
   "@from": {
     "description": "From"
+  },
+  "fromLowerCase": "差出人",
+  "@fromLowerCase": {
+    "description": "from"
+  },
+  "task": "タスク",
+  "@task": {
+    "description": "Task"
+  },
+  "dapp": "Dapp",
+  "@dapp": {
+    "description": "Dapp"
+  },
+  "referralRewards": "紹介報酬",
+  "@referralRewards": {
+    "description": "Referral Rewards"
+  },
+  "friendsInvited": "招待された友達",
+  "@friendsInvited": {
+    "description": "Friends invited"
+  },
+  "youHaveEarned": "あなたは稼ぎました",
+  "@youHaveEarned": {
+    "description": "You have earned"
+  },
+  "point": "ポイント",
+  "@point": {
+    "description": "Point"
+  },
+  "referAFriend": "友達を紹介する",
+  "@referAFriend": {
+    "description": "Refer a friend"
+  },
+  "referExplain": "紹介した友達ごとに取引手数料の 50%～75% を獲得できます。",
+  "@referExplain": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "claim": "請求",
+  "@claim": {
+    "description": "Claim"
+  },
+  "bridgeDOGEToDogeOS": "$DOGE を DogeOS にブリッジする",
+  "@bridgeDOGEToDogeOS": {
+    "description": "Bridge $DOGE to DogeOS"
+  },
+  "followDogeOSOnX": "X で DogeOS をフォローする",
+  "@followDogeOSOnX": {
+    "description": "Follow DogeOS on X"
+  },
+  "followMyDogeOnX": "X で MyDoge をフォローする",
+  "@followMyDogeOnX": {
+    "description": "Follow MyDoge on X"
+  },
+  "completeOneSwapOnDogeOS": "DogeOS で 1 回のスワップを完了する",
+  "@completeOneSwapOnDogeOS": {
+    "description": "Complete one swap on DogeOS"
+  },
+  "dogeverse": "ドージバース",
+  "@dogeverse": {
+    "description": "Dogeverse"
+  },
+  "connectToDogeverseNow": "今すぐドージバースに接続",
+  "@connectToDogeverseNow": {
+    "description": "Connect to Dogeverse now"
+  },
+  "dogeOSEcosystem": "DogeOS エコシステム",
+  "@dogeOSEcosystem": {
+    "description": "DogeOS Ecosystem"
+  },
+  "dogeSwap": "DogeSwap",
+  "@dogeSwap": {
+    "description": "DogeSwap"
+  },
+  "orbiterFinanceIsADecentralized": "Orbiter Finance は分散型です",
+  "@orbiterFinanceIsADecentralized": {
+    "description": "Orbiter Finance is a decentralized"
+  },
+  "bitcoinLayer2Network": "ビットコイン レイヤー 2 ネットワーク",
+  "@bitcoinLayer2Network": {
+    "description": "Bitcoin layer-2 network"
+  },
+  "buildingTheSpiderChain": "最初の EVM L2 であるスパイダー チェーンを構築中",
+  "@buildingTheSpiderChain": {
+    "description": "Building the Spider chain, the first EVM L2"
+  },
+  "solanaEcosystem": "Solana エコシステム",
+  "@solanaEcosystem": {
+    "description": "Solana Ecosystem"
+  },
+  "solanaFinance": "Solana ファイナンス",
+  "@solanaFinance": {
+    "description": "Solana Finance"
+  },
+  "earnDesc": "紹介した友達ごとに取引手数料の 50%～75% を獲得できます。",
+  "@earnDesc": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "referFriends": "友達を紹介する",
+  "@referFriends": {
+    "description": "Refer friends"
   },
   "appearance": "外観",
   "@appearance": {
@@ -524,27 +644,27 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "Appleと連携",
+  "connectApple": "Apple に接続",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Metaと連携",
+  "connectMeta": "Meta に接続",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "Instagramと連携",
+  "connectInstagram": "Instagram に接続",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "Kakaoと連携",
+  "connectKakao": "Kakao に接続",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Lineと連携",
+  "connectLine": "Line に接続",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "あなたのソーシャルリンク",
+  "yourSocialLink": "あなたのソーシャル リンク",
   "@yourSocialLink": {
     "description": "Your social link"
   },
@@ -556,11 +676,11 @@
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "コミュニティガイドライン",
+  "communityGuidelines": "コミュニティ ガイドライン",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "利用規約",
+  "terms": "規約",
   "@terms": {
     "description": "Terms"
   },
@@ -572,9 +692,9 @@
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "終了を確認",
+  "confirmToExit": "ログアウトしますか？",
   "@confirmToExit": {
-    "description": "Confirm to exit"
+    "description": "Are you sure you want to log out?"
   },
   "follow": "フォロー",
   "@follow": {
@@ -584,24 +704,1676 @@
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "これによりアカウントが削除されます。",
+  "willDeleteAccount": "この操作は元に戻せません",
   "@willDeleteAccount": {
-    "description": "This will Delete your account."
+    "description": "This action is irreversible"
   },
-  "willDeleteAccountDesc1": "Tomoアカウントの削除プロセスを開始しようとしています。表示名、@ユーザー名、公開プロフィールはTomo（iOS/Android）で表示されなくなります。",
+  "willDeleteAccountDesc1": "アカウントを削除すると、MyDoge ウォレットとプロフィールが完全に削除されます。",
   "@willDeleteAccountDesc1": {
-    "description": "You're about to start the process of deleting your Tomo account. Your display name, @username.and public profile will no longer be viewable on Tomo for iOS, or Tomo for Android."
+    "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
   },
-  "willDeleteAccountDesc2": "ログアウトのみ希望の場合は、プロフィールページに戻り「ログアウト」をクリックしてください。",
+  "willDeleteAccountDesc2": "ウォレットをバックアップし、重要なものをすべて保存してください。この操作は元に戻せません。",
   "@willDeleteAccountDesc2": {
-    "description": "If you just want to log out, go back to the Profile page and click Log Out."
+    "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
   },
-  "slideToConfirm": "スライドして確認",
+  "slideToConfirm": "スライドして削除",
   "@slideToConfirm": {
-    "description": "Slide to confirm"
+    "description": "Slide to delete"
   },
-  "dogeOsBridge": "DogeOSブリッジ",
+  "dogeOsBridge": "DogeOS ブリッジ",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
+  },
+  "noContacts": "連絡先がありません",
+  "@noContacts": {
+    "description": "No contacts"
+  },
+  "noContactsRemind": "暗号を転送する必要があるときに簡単にアクセスできるように、アドレス帳にウォレットを追加します",
+  "@noContactsRemind": {
+    "description": "Add wallets to your address book for easy access when you need to transfer crypto"
+  },
+  "networkText": "ネットワーク",
+  "@networkText": {
+    "description": "Network"
+  },
+  "updateAddress": "アドレスを更新",
+  "@updateAddress": {
+    "description": "Update address"
+  },
+  "makeSureSend": "必ず ",
+  "@makeSureSend": {
+    "description": "Please make sure you are sending to "
+  },
+  "chainPoint": "チェーンに送信してください。",
+  "@chainPoint": {
+    "description": "Chain."
+  },
+  "otherFunds": "他のチェーンから送信すると、",
+  "@otherFunds": {
+    "description": "Sending from any other chain may result in "
+  },
+  "lossOfFunds": "資金が失われる可能性があります。",
+  "@lossOfFunds": {
+    "description": "loss of funds."
+  },
+  "maybeLost2": "失われる可能性があります!",
+  "@maybeLost2": {
+    "description": "May be lost!"
+  },
+  "copyAddress": "アドレスをコピー",
+  "@copyAddress": {
+    "description": "Copy Address"
+  },
+  "errorNetwork": "ネットワーク エラー",
+  "@errorNetwork": {
+    "description": "Error network"
+  },
+  "errorNetworkRemind": "ネットワークに問題が発生しています。確認して更新してみてください",
+  "@errorNetworkRemind": {
+    "description": "Your network is experiencing some problems, please check and try refreshing"
+  },
+  "refresh": "更新",
+  "@refresh": {
+    "description": "Refresh"
+  },
+  "bindTipTitle": "認証アプリをリンク",
+  "@bindTipTitle": {
+    "description": "Link Authenticator App"
+  },
+  "bindTipSubtitle": "認証アプリをリンクすると、アカウントのセキュリティが強化されます。ウォレットをエクスポートするときに適用されます。",
+  "@bindTipSubtitle": {
+    "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
+  },
+  "link": "リンク",
+  "@link": {
+    "description": "Link"
+  },
+  "emailCodeText": "メール コード",
+  "@emailCodeText": {
+    "description": "Email code"
+  },
+  "emailCodeSubtitle": "メールが受信トレイ {email} に送信されました。\r\nメールに記載されている認証コードを入力してください。",
+  "@emailCodeSubtitle": {
+    "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
+  },
+  "bindStepTitle": "認証アプリをリンク",
+  "@bindStepTitle": {
+    "description": "Link Authenticator App"
+  },
+  "step1": "ステップ 1: ",
+  "@step1": {
+    "description": "Step 1: "
+  },
+  "bindStepOneLabelDescription": "認証アプリをダウンロードします。",
+  "@bindStepOneLabelDescription": {
+    "description": "Download an authenticator app."
+  },
+  "forExampleLabel": "例: ",
+  "@forExampleLabel": {
+    "description": "For example: "
+  },
+  "step2": "ステップ 2: ",
+  "@step2": {
+    "description": "Step 2: "
+  },
+  "bindStepTwoLabelDescription": "以下の 16 桁のキーをコピーするか、QR コードをスキャンしてください",
+  "@bindStepTwoLabelDescription": {
+    "description": "Please copy the 16-digit key below or scan the QR code"
+  },
+  "caution": "注意",
+  "@caution": {
+    "description": "Caution"
+  },
+  "bindStepCautionContent": "このキーはウォレットのエクスポートに使用され、紛失した場合は回復できないため、安全に保管してください。",
+  "@bindStepCautionContent": {
+    "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
+  },
+  "pleaseNote": "ご注意ください",
+  "@pleaseNote": {
+    "description": "Please note"
+  },
+  "bindStepCautionNoteSubtitle": "Google Authenticator が正常にリンクされると、変更することはできません。",
+  "@bindStepCautionNoteSubtitle": {
+    "description": "Once Google Authenticator is successfully linked, it cannot be changed."
+  },
+  "bindStepCautionNoteContent": "ウォレット資産のセキュリティのため、Google Authenticator は安全な場所に保管し、十分に保護してください。Google Authenticator を紛失すると、ウォレットにアクセスできなくなる可能性があります。",
+  "@bindStepCautionNoteContent": {
+    "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
+  },
+  "gotIt": "了解しました",
+  "@gotIt": {
+    "description": "Got it"
+  },
+  "googleAuthenticator": "Google Authenticator",
+  "@googleAuthenticator": {
+    "description": "Google Authenticator"
+  },
+  "verifySubtitle": "Google Authenticator で生成された番号を入力してください。",
+  "@verifySubtitle": {
+    "description": "Please enter the number generated by your Google Authenticator."
+  },
+  "bindSuccessTip": "認証システムが正常にリンクされました",
+  "@bindSuccessTip": {
+    "description": "Authenticator linked successfully"
+  },
+  "bindFailedTip": "認証システムコードが正しくありません。リンクに失敗しました",
+  "@bindFailedTip": {
+    "description": "Authenticator code is incorrect, linking failed"
+  },
+  "retry": "再試行",
+  "@retry": {
+    "description": "Retry"
+  },
+  "selectNetwork": "ネットワークを選択",
+  "@selectNetwork": {
+    "description": "Select network"
+  },
+  "addToFavorites": "お気に入りに追加",
+  "@addToFavorites": {
+    "description": "Add to favorites"
+  },
+  "addToFavorite": "お気に入りに追加",
+  "@addToFavorite": {
+    "description": "Add to favorite"
+  },
+  "setPayPin": "支払い PIN を設定",
+  "@setPayPin": {
+    "description": "Set Pay Pin"
+  },
+  "setPayPinSubtitle": "資産を保護するために支払い PIN を設定してください。この PIN は取引を行う際に必要になります。",
+  "@setPayPinSubtitle": {
+    "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
+  },
+  "showTip": "PIN を表示",
+  "@showTip": {
+    "description": "Show Pin"
+  },
+  "hideTip": "PIN を非表示",
+  "@hideTip": {
+    "description": "Hide Pin"
+  },
+  "confirmPayPin": "支払い PIN を確認",
+  "@confirmPayPin": {
+    "description": "Confirm Pay Pin"
+  },
+  "confirmNotMatchTip": "2 つの支払い PIN が一致しません。",
+  "@confirmNotMatchTip": {
+    "description": "The two pay pins do not match."
+  },
+  "enterPayPin": "支払い PIN を入力",
+  "@enterPayPin": {
+    "description": "Enter Pay PIN"
+  },
+  "forgotPin": "PIN を忘れました",
+  "@forgotPin": {
+    "description": "Forgot pin"
+  },
+  "enterCode": "コードを入力",
+  "@enterCode": {
+    "description": "Enter Code"
+  },
+  "changeEmailCodeSubtitle": "4 桁のコードが {email} に送信されました",
+  "@changeEmailCodeSubtitle": {
+    "description": "A 4-digit code was sent to {email}"
+  },
+  "request": "リクエスト",
+  "@request": {
+    "description": "Request"
+  },
+  "incorrectCode": "コードが正しくありません",
+  "@incorrectCode": {
+    "description": "Incorrect code"
+  },
+  "forgetPayPin": "支払い PIN を忘れましたか？",
+  "@forgetPayPin": {
+    "description": "Forget the Pay PIN?"
+  },
+  "showPayPin": "支払い PIN を表示",
+  "@showPayPin": {
+    "description": "Show Pay PIN"
+  },
+  "hidePayPin": "支払い PIN を非表示",
+  "@hidePayPin": {
+    "description": "Hide Pay PIN"
+  },
+  "setRecoveryEmail": "回復用メールを設定",
+  "@setRecoveryEmail": {
+    "description": "Set Recovery Email"
+  },
+  "setRecoveryEmailSubtitle": "資産のセキュリティを確保するため、回復用メールを設定してください。このメールは、アカウントへのアクセスを失った場合のアカウント回復に使用されます。",
+  "@setRecoveryEmailSubtitle": {
+    "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
+  },
+  "enterEmailAddress": "メールアドレスを入力してください",
+  "@enterEmailAddress": {
+    "description": "Enter your Email address"
+  },
+  "emailErrorTip": "このメールは利用できません",
+  "@emailErrorTip": {
+    "description": "This email is not available"
+  },
+  "codeResendSecond": "再送信({second})",
+  "@codeResendSecond": {
+    "description": "Resend({second})"
+  },
+  "scanQRCode": "QR コードをスキャン",
+  "@scanQRCode": {
+    "description": "Scan QR Code"
+  },
+  "album": "アルバム",
+  "@album": {
+    "description": "Album"
+  },
+  "alignQRCode": "",
+  "@alignQRCode": {
+    "description": ""
+  },
+  "enterSeedPhrase": "シード フレーズを入力",
+  "@enterSeedPhrase": {
+    "description": "Enter seed phrase"
+  },
+  "enterSeedPhraseRemind": "シード フレーズを使用してウォレットをインポートする場合は、各単語をスペースで区切ってください。",
+  "@enterSeedPhraseRemind": {
+    "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
+  },
+  "clear": "クリア",
+  "@clear": {
+    "description": "Clear"
+  },
+  "howToBackUp": "ウォレットをバックアップする理由と方法",
+  "@howToBackUp": {
+    "description": "Why and How to back up\r\nyour wallet"
+  },
+  "backUpRemind": "デバイスを変更したときにアカウントと資産にアクセスできるように、以下の手順に従ってウォレットをバックアップすることを強くお勧めします。",
+  "@backUpRemind": {
+    "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
+  },
+  "backUpStep1": "1. ボタンをクリックしてシード フレーズを表示します。",
+  "@backUpStep1": {
+    "description": "1. Click the button to view the seed phrases."
+  },
+  "backUpStep2": "シード フレーズは、他の誰もアクセスできない安全な場所に保管してください。",
+  "@backUpStep2": {
+    "description": "Keep the seed phrases in a safe place where no one else can access to it."
+  },
+  "backUpWarning": "警告: シード フレーズは安全に保管し、誰にも共有しないでください。秘密鍵を持っている人なら誰でもウォレット内のすべての資産を盗むことができます。",
+  "@backUpWarning": {
+    "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
+  },
+  "showSeed": "マイ シード フレーズを表示",
+  "@showSeed": {
+    "description": "Show My Seed Phrases"
+  },
+  "seedPhrases": "シード フレーズ",
+  "@seedPhrases": {
+    "description": "Seed Phrases"
+  },
+  "close": "閉じる",
+  "@close": {
+    "description": "Close"
+  },
+  "addressLowerCase": "アドレス",
+  "@addressLowerCase": {
+    "description": "address"
+  },
+  "enterAddress": "有効なアドレスを入力してください",
+  "@enterAddress": {
+    "description": "Please enter a valid address"
+  },
+  "addToAddress": "アドレスに追加",
+  "@addToAddress": {
+    "description": "Add to address"
+  },
+  "balanceLabel": "残高: ",
+  "@balanceLabel": {
+    "description": "Balance: "
+  },
+  "sendTo": "送信先",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "routeSelection": "ルート選択",
+  "@routeSelection": {
+    "description": "Route selection"
+  },
+  "slippage": "スリッページ",
+  "@slippage": {
+    "description": "Slippage"
+  },
+  "about": "概要",
+  "@about": {
+    "description": "About"
+  },
+  "site": "サイト",
+  "@site": {
+    "description": "Site"
+  },
+  "twitter": "Twitter",
+  "@twitter": {
+    "description": "Twitter"
+  },
+  "twitterLowercase": "twitter",
+  "@twitterLowercase": {
+    "description": "twitter"
+  },
+  "telegram": "Telegram",
+  "@telegram": {
+    "description": "Telegram"
+  },
+  "networkUppercase": "ネットワーク",
+  "@networkUppercase": {
+    "description": "Network"
+  },
+  "customTokens": "カスタム トークン",
+  "@customTokens": {
+    "description": "Custom Tokens"
+  },
+  "allTokens": "すべてのトークン",
+  "@allTokens": {
+    "description": "All tokens"
+  },
+  "filterTokens": "危険なトークンをフィルタリング",
+  "@filterTokens": {
+    "description": "Filter risky tokens"
+  },
+  "contractAddress": "契約アドレス",
+  "@contractAddress": {
+    "description": "Contract address"
+  },
+  "tokenSymbol": "トークン シンボル",
+  "@tokenSymbol": {
+    "description": "Token symbol"
+  },
+  "decimalsOfPrecision": "精度の小数",
+  "@decimalsOfPrecision": {
+    "description": "Decimals of precision"
+  },
+  "turnOffRisk": "危険なトークン フィルターをオフにしますか？",
+  "@turnOffRisk": {
+    "description": "Turn off risky tokens filter?"
+  },
+  "sureTurnOff": "危険なトークン フィルターをオフにしてもよろしいですか？資産が失われる可能性があります。",
+  "@sureTurnOff": {
+    "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
+  },
+  "turnOff": "オフにする",
+  "@turnOff": {
+    "description": "Turn off"
+  },
+  "fail": "失敗",
+  "@fail": {
+    "description": "fail"
+  },
+  "pending": "保留中",
+  "@pending": {
+    "description": "Pending"
+  },
+  "warningText": "取引が成功した後、資金がウォレットに届くまで最大 20 分かかる場合があります。",
+  "@warningText": {
+    "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
+  },
+  "myWalletAddress": "マイ ウォレット アドレス",
+  "@myWalletAddress": {
+    "description": "My wallet address"
+  },
+  "hi": "こんにちは、{name} さん",
+  "@hi": {
+    "description": "Hi, {name}"
+  },
+  "dogeDevnetBalance": "$DOGE (devnet) 残高",
+  "@dogeDevnetBalance": {
+    "description": "$DOGE (devnet) balance"
+  },
+  "dogeDevnetFaucet": "DogeOs Devnet フォーセット",
+  "@dogeDevnetFaucet": {
+    "description": "DogeOs Devnet faucet"
+  },
+  "myDogeTokenBalance": "マイ $DOGE (開発トークン) 残高",
+  "@myDogeTokenBalance": {
+    "description": "My $DOGE (dev token) balance"
+  },
+  "whatIsFaucet": "フォーセットとは？",
+  "@whatIsFaucet": {
+    "description": " What is a Faucet?"
+  },
+  "whatIsFaucetHint": "フォーセットを使用すると、テスト目的で無料のトークンを請求できます。",
+  "@whatIsFaucetHint": {
+    "description": "A faucet lets you claim free tokens for testing purposes on a"
+  },
+  "devnet": " devnet ",
+  "@devnet": {
+    "description": " devnet "
+  },
+  "whatIsFaucetHint2": "— 実際の資産を使用せずに実際の取引をシミュレートするブロックチェーン環境。",
+  "@whatIsFaucetHint2": {
+    "description": "— a blockchain environment that simulates real transactions without using real assets."
+  },
+  "thestDevnetTokens": "これらの devnet トークンは",
+  "@thestDevnetTokens": {
+    "description": "These devnet tokens are"
+  },
+  "notRealDoge": " 本物の DOGE ではありません",
+  "@notRealDoge": {
+    "description": " not real DOGE"
+  },
+  "and": " そして ",
+  "@and": {
+    "description": " and "
+  },
+  "haveNoMonetary": "金銭的価値はありません",
+  "@haveNoMonetary": {
+    "description": "have no monetary value"
+  },
+  "howMuchDoge": "Devnet DOGE はいくら入手できますか？",
+  "@howMuchDoge": {
+    "description": " How Much Devnet DOGE Can I Get?"
+  },
+  "youCanRequest": "リクエストできます",
+  "@youCanRequest": {
+    "description": "You can request"
+  },
+  "perDayDoge": " 1 日あたり 42.069 ÐOGE。",
+  "@perDayDoge": {
+    "description": " 42.069 ÐOGE per day."
+  },
+  "noRealFunds": " 実際の資金は関与していません — テスト用です。",
+  "@noRealFunds": {
+    "description": " No real funds are involved — it’s just for testing."
+  },
+  "WhatCanIDo": "Devnet DOGE で何ができますか？",
+  "@WhatCanIDo": {
+    "description": " What Can I Do With Devnet DOGE?"
+  },
+  "WhatCanIDoHint": " devnet ÐOGE を使用すると、次のことができます。",
+  "@WhatCanIDoHint": {
+    "description": " With your devnet ÐOGE, you can:"
+  },
+  "WhatCanIDoHint1": "新機能を安全に試す",
+  "@WhatCanIDoHint1": {
+    "description": "Try out new features safely"
+  },
+  "WhatCanIDoHint2": "金銭的なリスクなしで dApp と対話する",
+  "@WhatCanIDoHint2": {
+    "description": "Interact with dApps without financial risk"
+  },
+  "helpUsTest": "テストにご協力ください",
+  "@helpUsTest": {
+    "description": "Help us test"
+  },
+  "performanceUnderLoad": " 負荷時のパフォーマンス ",
+  "@performanceUnderLoad": {
+    "description": " performance under load "
+  },
+  "performanceUnderLoadHint": "— DogeOS を拡張するにつれて、あなたのアクティビティは重要なストレス テストに貢献します！",
+  "@performanceUnderLoadHint": {
+    "description": "— your activity contributes to important stress testing as we scale DogeOS!"
+  },
+  "claimNow": "今すぐ Ð42.069 を請求してください！",
+  "@claimNow": {
+    "description": "Claim Ð42.069 now!"
+  },
+  "blockOrReport": "ブロックまたは報告",
+  "@blockOrReport": {
+    "description": "Block or Report"
+  },
+  "blockOrReportHint": "MyDoge は、ガイドラインに違反していないか確認するために、報告されたすべてのプロフィールを確認します。また、プロフィールをブロックして、投稿が表示されないようにすることもできます。",
+  "@blockOrReportHint": {
+    "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
+  },
+  "report": "報告",
+  "@report": {
+    "description": "Report"
+  },
+  "block": "ブロック",
+  "@block": {
+    "description": "Block"
+  },
+  "nevermind": "気にしないで",
+  "@nevermind": {
+    "description": "Nevermind"
+  },
+  "allComments": "すべてのコメント",
+  "@allComments": {
+    "description": "All Comments"
+  },
+  "noCommentYet": "まだコメントはありません",
+  "@noCommentYet": {
+    "description": "No comment yet"
+  },
+  "saySomething": "何か言ってください...",
+  "@saySomething": {
+    "description": "Say something..."
+  },
+  "sureToDelete": "このコメントを削除してもよろしいですか？",
+  "@sureToDelete": {
+    "description": "Sure to delete this comment?"
+  },
+  "copyProfileURL": "プロフィール URL をコピー",
+  "@copyProfileURL": {
+    "description": "Copy Profile URL"
+  },
+  "quickAmount": "クイック金額",
+  "@quickAmount": {
+    "description": "Quick amount"
+  },
+  "unblockUser": "ユーザーのブロックを解除しますか？",
+  "@unblockUser": {
+    "description": "Unblock User?"
+  },
+  "unblockUserHint": "これにより、ユーザーのブロックが解除され、投稿が引き続き表示されます。",
+  "@unblockUserHint": {
+    "description": "This will unblock the user and you will continue to see their posts."
+  },
+  "unblock": "ブロック解除",
+  "@unblock": {
+    "description": "Unblock"
+  },
+  "following": "フォロー中",
+  "@following": {
+    "description": "Following"
+  },
+  "shop": "ショップ",
+  "@shop": {
+    "description": "Shop"
+  },
+  "settingsAndSupport": "設定とサポート",
+  "@settingsAndSupport": {
+    "description": "Settings and Support"
+  },
+  "sendAndReceive": "経由でチップを送受信",
+  "@sendAndReceive": {
+    "description": "Send and receive tips via"
+  },
+  "readFAQ": "MyDogeTip FAQ を読む",
+  "@readFAQ": {
+    "description": "Read the MyDogeTip FAQ"
+  },
+  "signOutUser": "@{handle} からサインアウト",
+  "@signOutUser": {
+    "description": "Sign Out @{handle}"
+  },
+  "changePayPin": "支払い PIN を変更",
+  "@changePayPin": {
+    "description": "Change Pay PIN"
+  },
+  "displayCurrency": "表示通貨",
+  "@displayCurrency": {
+    "description": "Display currency"
+  },
+  "aboutMyDoge": "MyDoge について",
+  "@aboutMyDoge": {
+    "description": "About MyDoge"
+  },
+  "version": "バージョン {version}",
+  "@version": {
+    "description": "Version {version}"
+  },
+  "nickname": "ニックネーム",
+  "@nickname": {
+    "description": "Nickname"
+  },
+  "username": "ユーザー名",
+  "@username": {
+    "description": "User name"
+  },
+  "followers": "フォロワー",
+  "@followers": {
+    "description": "Followers"
+  },
+  "newPost": "新しい投稿",
+  "@newPost": {
+    "description": "New Post"
+  },
+  "post": "投稿",
+  "@post": {
+    "description": "Post"
+  },
+  "share": "共有",
+  "@share": {
+    "description": "Share"
+  },
+  "tips": "ヒント",
+  "@tips": {
+    "description": "Tips"
+  },
+  "message": "メッセージ",
+  "@message": {
+    "description": "Message"
+  },
+  "shareProfile": "プロフィールを共有",
+  "@shareProfile": {
+    "description": "Share profile"
+  },
+  "findFriends": "友達を探す",
+  "@findFriends": {
+    "description": "Find Friends"
+  },
+  "searchResults": "検索結果",
+  "@searchResults": {
+    "description": "Search Results"
+  },
+  "startTyping": "入力を開始",
+  "@startTyping": {
+    "description": "start typing"
+  },
+  "shopWithDoge": "Doge で買い物",
+  "@shopWithDoge": {
+    "description": "Shop with Doge"
+  },
+  "getDogeCom": "GetDoge.com",
+  "@getDogeCom": {
+    "description": "GetDoge.com"
+  },
+  "giftCards": "ギフトカード",
+  "@giftCards": {
+    "description": "Gift Cards"
+  },
+  "soon": "近日公開",
+  "@soon": {
+    "description": "soon"
+  },
+  "switchNetwork": "ネットワークを切り替える",
+  "@switchNetwork": {
+    "description": "Switch network"
+  },
+  "empty": "空",
+  "@empty": {
+    "description": "Empty"
+  },
+  "estReceive": "推定受領額",
+  "@estReceive": {
+    "description": "Est. Receive"
+  },
+  "doge": "Doge",
+  "@doge": {
+    "description": "Doge"
+  },
+  "scanQrCodeDesc": "スキャンして正確な金額で支払います。",
+  "@scanQrCodeDesc": {
+    "description": "Scan to pay with the exact amount."
+  },
+  "clearAmount": "金額をクリア",
+  "@clearAmount": {
+    "description": "Clear amount"
+  },
+  "inputPINToContinue": "続行するには PIN を入力してください",
+  "@inputPINToContinue": {
+    "description": "Enter your PIN to continue"
+  },
+  "verifyYourPIN": "DogeOS ウォレットを作成するには PIN を確認してください。",
+  "@verifyYourPIN": {
+    "description": "Verify your PIN to create a DogeOS wallet."
+  },
+  "incorrectPin": "入力した PIN が正しくありません",
+  "@incorrectPin": {
+    "description": "The PIN you entered is incorrect"
+  },
+  "iCloudBackupFailed": "iCloud バックアップに失敗しました",
+  "@iCloudBackupFailed": {
+    "description": "iCloud backup failed"
+  },
+  "pleaseTurnOnYourICloud": "ウォレットをバックアップまたはインポートする前に、デバイスの設定で iCloud を有効にしてください。",
+  "@pleaseTurnOnYourICloud": {
+    "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
+  },
+  "goToSettingPage": "設定ページに移動",
+  "@goToSettingPage": {
+    "description": "Go to setting page"
+  },
+  "deleteBackup": "バックアップを削除",
+  "@deleteBackup": {
+    "description": "Delete backup"
+  },
+  "deleteBackupOrNot": "バックアップを削除しますか？",
+  "@deleteBackupOrNot": {
+    "description": "Do you want to delete the backup?"
+  },
+  "sendToCrypto": "暗号アドレスに送信",
+  "@sendToCrypto": {
+    "description": "Send to a crypto address"
+  },
+  "importSeedPhrase": "シード フレーズでインポート",
+  "@importSeedPhrase": {
+    "description": "Import with seed phrase"
+  },
+  "importGoogleDrive": "Google ドライブからインポート",
+  "@importGoogleDrive": {
+    "description": "Import from google drive"
+  },
+  "importICloud": "iCloud からインポート",
+  "@importICloud": {
+    "description": "Import from iCloud"
+  },
+  "reminder": "リマインダー",
+  "@reminder": {
+    "description": "Reminder"
+  },
+  "reminderDesc": "以前使用していたウォレットは、Cubist を介してシードが保護された DogeOS ウォレットのものであることに気付きました。そのソーシャル ウォレットにアップグレードします。さらに、以前の Dogeverse コンテンツにはアクセスできなくなりました。\n\nご不明な点がございましたら、サポート チームにお問い合わせください。",
+  "@reminderDesc": {
+    "description": "We noticed that the wallet you previously used was from a DogeOS wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+  },
+  "importNotes": "ソーシャル ログインに関する重要な注意事項",
+  "@importNotes": {
+    "description": "Important notes on social login"
+  },
+  "importNotesDesc": "X でログインすると、MyDogeTip 機能が X アカウントにリンクされます。",
+  "@importNotesDesc": {
+    "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
+  },
+  "maybeLater": "後で",
+  "@maybeLater": {
+    "description": "Maybe later"
+  },
+  "depositToken": "{tokenName} を入金",
+  "@depositToken": {
+    "description": "Deposit {tokenName}"
+  },
+  "selectDepositMethod": "入金方法を選択",
+  "@selectDepositMethod": {
+    "description": "Select deposit method"
+  },
+  "myDogeFriends": "MyDoge の友達",
+  "@myDogeFriends": {
+    "description": "MyDoge friends"
+  },
+  "setAmount": "金額を設定",
+  "@setAmount": {
+    "description": "Set amount"
+  },
+  "amount": "金額",
+  "@amount": {
+    "description": "Amount"
+  },
+  "amountLowercase": "金額",
+  "@amountLowercase": {
+    "description": "amount"
+  },
+  "dogeUppercase": "DOGE",
+  "@dogeUppercase": {
+    "description": "DOGE"
+  },
+  "allNetworks": "すべてのネットワーク",
+  "@allNetworks": {
+    "description": "All networks"
+  },
+  "popularNetworks": "人気のネットワーク",
+  "@popularNetworks": {
+    "description": "Popular networks"
+  },
+  "oops": "DogeOS ウォレットに切り替える",
+  "@oops": {
+    "description": "Switch to DogeOS Wallet"
+  },
+  "oopsDesc": "おっと！現在 MyDoge Classic ウォレットを使用しています。この機能にアクセスするには、DogeOS ウォレットに切り替えてください。",
+  "@oopsDesc": {
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your DogeOS Wallet to access this feature."
+  },
+  "switchWallet": "ウォレットを切り替える",
+  "@switchWallet": {
+    "description": "Switch wallet"
+  },
+  "termsOfUse": "利用規約",
+  "@termsOfUse": {
+    "description": "Terms of Use"
+  },
+  "privacyPolicy": "プライバシー ポリシー",
+  "@privacyPolicy": {
+    "description": "Privacy Policy"
+  },
+  "shareMyDoge": "MyDoge を共有",
+  "@shareMyDoge": {
+    "description": "Share MyDoge"
+  },
+  "visitOurWebsite": "当社のウェブサイトにアクセス",
+  "@visitOurWebsite": {
+    "description": "Visit Our Website"
+  },
+  "viewSeedPhrase": "シード フレーズを表示",
+  "@viewSeedPhrase": {
+    "description": "View seed phrase"
+  },
+  "seedBackupTip1": "書き写す",
+  "@seedBackupTip1": {
+    "description": "Transcribe"
+  },
+  "seedBackupTip2": "スクリーンショット",
+  "@seedBackupTip2": {
+    "description": "Screenshots"
+  },
+  "seedBackupTip3": "デジタル コピー",
+  "@seedBackupTip3": {
+    "description": "Digital copy"
+  },
+  "keepSeedSafeNotice": "シードを持っている人なら誰でもすべての資産にアクセスできます。情報はご自身で保管してください。",
+  "@keepSeedSafeNotice": {
+    "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
+  },
+  "hide": "非表示",
+  "@hide": {
+    "description": "Hide"
+  },
+  "warningTitleNotice": "セキュリティ上の理由から、ページを閉じるか更新すると、再申請して少なくとも 48 時間待つ必要があります。離れる前にシード フレーズを覚えていることを確認してください。",
+  "@warningTitleNotice": {
+    "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
+  },
+  "keepSeedSafeTitle": "シード フレーズを安全に保管する",
+  "@keepSeedSafeTitle": {
+    "description": "Keep seed phrase safe"
+  },
+  "keepSeedSafeNotice1": "シードを持っている人なら誰でもすべての資産にアクセスできます。送金を受け取ったり、アプリを削除したりする前に、必ずシードをバックアップしてください。",
+  "@keepSeedSafeNotice1": {
+    "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
+  },
+  "keepSeedSafeNotice2": "MyDoge はサーバーにシードを保存しないため、紛失したウォレットを回復することはできません。",
+  "@keepSeedSafeNotice2": {
+    "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
+  },
+  "seedAlreadyBackup": "すでにバックアップ済み",
+  "@seedAlreadyBackup": {
+    "description": "Already backed up"
+  },
+  "backupSecurity": "バックアップとセキュリティ",
+  "@backupSecurity": {
+    "description": "Backup & Security"
+  },
+  "backupYourWalletHint": "ウォレットをクラウドに保存し、パスワードで保護します。シード フレーズを書き留めたり、パスワード マネージャーにコピーしたりすることもできます。",
+  "@backupYourWalletHint": {
+    "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
+  },
+  "haveNotBackUp": "ウォレットをクラウドにバックアップしていません。",
+  "@haveNotBackUp": {
+    "description": "You haven't backed up your wallet to the cloud."
+  },
+  "backupToICloud": "iCloud にバックアップ",
+  "@backupToICloud": {
+    "description": "Back up to iCloud"
+  },
+  "backupToGoogle": "Google ドライブにバックアップ",
+  "@backupToGoogle": {
+    "description": "Back up to Google Drive"
+  },
+  "createRecoveryPassword": "クラウド回復パスワードを作成",
+  "@createRecoveryPassword": {
+    "description": "Create Cloud recovery password"
+  },
+  "createRecoveryPasswordHint": "クラウド バックアップ回復用のパスワードを作成する必要があります。少なくとも 8 文字の覚えやすいパスワードを選択してください。パスワードが長いほど安全です。",
+  "@createRecoveryPasswordHint": {
+    "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
+  },
+  "ifYouLoseRecoveryPassword": "このパスワードを紛失すると、バックアップを回復できなくなります。",
+  "@ifYouLoseRecoveryPassword": {
+    "description": "Losing this password means you can’t recover your backup."
+  },
+  "confirmPassword": "パスワードを確認",
+  "@confirmPassword": {
+    "description": "Confirm password"
+  },
+  "confirmBackup": "バックアップを確認",
+  "@confirmBackup": {
+    "description": "Confirm backup"
+  },
+  "haveBackUp": "ウォレットをクラウドにバックアップしました。",
+  "@haveBackUp": {
+    "description": "You have backed up your wallet to the cloud."
+  },
+  "passwordRules": "パスワードは 8 文字以上である必要があります",
+  "@passwordRules": {
+    "description": "Password must be at least 8 characters"
+  },
+  "passwordNotMatch": "パスワードが一致しません",
+  "@passwordNotMatch": {
+    "description": "Password does not match"
+  },
+  "someChain": "{chain} チェーン。",
+  "@someChain": {
+    "description": "{chain} Chain."
+  },
+  "inputYourRecoveryPassword": "クラウド回復パスワードを入力してください",
+  "@inputYourRecoveryPassword": {
+    "description": "Input your Cloud Recovery Password"
+  },
+  "importExistingWallet": "既存のウォレットをインポート",
+  "@importExistingWallet": {
+    "description": "Import existing wallet"
+  },
+  "walletName": "ウォレット名",
+  "@walletName": {
+    "description": "Wallet name"
+  },
+  "backupYourWallet": "ウォレットをバックアップする",
+  "@backupYourWallet": {
+    "description": "Back up your wallet"
+  },
+  "deleteWallet": "クラウド バックアップを削除しますか？",
+  "@deleteWallet": {
+    "description": "Delete Cloud backup?"
+  },
+  "renameWallet": "ウォレットの名前を変更",
+  "@renameWallet": {
+    "description": "Rename Wallet"
+  },
+  "enterName": "名前を入力",
+  "@enterName": {
+    "description": "Enter a name"
+  },
+  "sureToDeleteWallet": "クラウドからウォレットを復元できなくなります。続行してもよろしいですか？",
+  "@sureToDeleteWallet": {
+    "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
+  },
+  "profileIsPublic": "プロフィールは公開されています",
+  "@profileIsPublic": {
+    "description": "Profile is Public"
+  },
+  "showWalletAddress": "ウォレット アドレスとチップ ボタンを表示",
+  "@showWalletAddress": {
+    "description": "Show wallet address and Tip button"
+  },
+  "transferableLabel": "譲渡可能: ",
+  "@transferableLabel": {
+    "description": "Transferable: "
+  },
+  "transferable": "譲渡可能",
+  "@transferable": {
+    "description": "Transferable"
+  },
+  "inscribe": "刻む",
+  "@inscribe": {
+    "description": "Inscribe"
+  },
+  "buyDoge": "Doge を購入",
+  "@buyDoge": {
+    "description": "Buy Doge"
+  },
+  "totalVolume": "総出来高",
+  "@totalVolume": {
+    "description": "Total volume"
+  },
+  "Volume24h": "24 時間出来高",
+  "@Volume24h": {
+    "description": "24h volume"
+  },
+  "holders": "保有者",
+  "@holders": {
+    "description": "Holders"
+  },
+  "sales": "売上",
+  "@sales": {
+    "description": "Sales"
+  },
+  "inscribeForTransfer": "転送用に刻む",
+  "@inscribeForTransfer": {
+    "description": "Inscribe for transfer"
+  },
+  "inscribeForTransferHint": "送信準備完了ですか？このステップで Drc20 トークンが転送用にロック解除されます。",
+  "@inscribeForTransferHint": {
+    "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
+  },
+  "selectAnInscription": "送信する碑文を選択",
+  "@selectAnInscription": {
+    "description": "Select an inscription to send"
+  },
+  "transferToken": "{token} を転送",
+  "@transferToken": {
+    "description": "Transfer {token}"
+  },
+  "confirmTransfer": "転送を確認",
+  "@confirmTransfer": {
+    "description": "Confirm Transfer"
+  },
+  "noNFTsFound": "NFT が見つかりません",
+  "@noNFTsFound": {
+    "description": "No NFTs Found"
+  },
+  "yoursNFTAppearHere": "あなたの NFT はここに表示されます",
+  "@yoursNFTAppearHere": {
+    "description": "Your NFTs will appear here"
+  },
+  "titleCopied": "{title} がクリップボードにコピーされました",
+  "@titleCopied": {
+    "description": "{title} copied to clipboard"
+  },
+  "transfer": "転送",
+  "@transfer": {
+    "description": "Transfer"
+  },
+  "NFTDetails": "NFT の詳細",
+  "@NFTDetails": {
+    "description": "NFT Details"
+  },
+  "inscriptionID": "碑文 ID",
+  "@inscriptionID": {
+    "description": "Inscription ID"
+  },
+  "outputValue": "出力値",
+  "@outputValue": {
+    "description": "Output Value"
+  },
+  "preview": "プレビュー",
+  "@preview": {
+    "description": "Preview"
+  },
+  "content": "コンテンツ",
+  "@content": {
+    "description": "Content"
+  },
+  "contentType": "コンテンツ タイプ",
+  "@contentType": {
+    "description": "Content Type"
+  },
+  "timestamp": "タイムスタンプ",
+  "@timestamp": {
+    "description": "Timestamp"
+  },
+  "genesisTransaction": "ジェネシス トランザクション",
+  "@genesisTransaction": {
+    "description": "Genesis Transaction"
+  },
+  "showLess": "表示を減らす",
+  "@showLess": {
+    "description": "Show Less"
+  },
+  "showMore": "もっと見る",
+  "@showMore": {
+    "description": "Show More"
+  },
+  "errorLoadingNFTs": "NFT の読み込み中にエラーが発生しました: {error}",
+  "@errorLoadingNFTs": {
+    "description": "Error loading NFTs: {error}"
+  },
+  "errorCreatingTransaction": "トランザクションの作成中にエラーが発生しました: {error}",
+  "@errorCreatingTransaction": {
+    "description": "Error creating transaction: {error}"
+  },
+  "addMessage": "メッセージを追加",
+  "@addMessage": {
+    "description": "Add message"
+  },
+  "toSomeone": "{someone} へ",
+  "@toSomeone": {
+    "description": "to {someone}"
+  },
+  "recent": "最近",
+  "@recent": {
+    "description": "Recent"
+  },
+  "noSearchResult": "検索結果がありません",
+  "@noSearchResult": {
+    "description": "No search result"
+  },
+  "sendTo": "送信先",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "searchForPeople": "人物を検索するか、アドレスを入力してください",
+  "@searchForPeople": {
+    "description": "Search for people or input an address"
+  },
+  "multiChain": "マルチチェーン",
+  "@multiChain": {
+    "description": "Multi-chain"
+  },
+  "transferFundsToDogeWallet": "ワンタップで DogeOS ウォレットに資金を移動！",
+  "@transferFundsToDogeWallet": {
+    "description": "Move your funds to DogeOS wallet in one tap!"
+  },
+  "drc20": "Drc20",
+  "@drc20": {
+    "description": "Drc20"
+  },
+  "NFTs": "NFT",
+  "@NFTs": {
+    "description": "NFTs"
+  },
+  "noDrc20Found": "ここにはまだ何もありません！",
+  "@noDrc20Found": {
+    "description": "Nothing here yet!"
+  },
+  "youCanCreateWallet": "いつでもここで DogeOS ウォレットを作成できます。",
+  "@youCanCreateWallet": {
+    "description": "You can always create a DogeOS wallet here."
+  },
+  "getDogeTestToken": "DOGE テストネット トークンを入手する \n (価値ゼロ)",
+  "@getDogeTestToken": {
+    "description": "Get DOGE testnet tokens \n (zero value)"
+  },
+  "devnetUpperCase": "Devnet",
+  "@devnetUpperCase": {
+    "description": "Devnet"
+  },
+  "legalTerms": "法的条件",
+  "@legalTerms": {
+    "description": "Legal terms"
+  },
+  "pleaseReadOur": "お読みください",
+  "@pleaseReadOur": {
+    "description": "Please read our"
+  },
+  "eula": " EULA",
+  "@eula": {
+    "description": " EULA"
+  },
+  "agreeContinue": " 同意して続行",
+  "@agreeContinue": {
+    "description": " Agree & Continue"
+  },
+  "enableBiometrics": "生体認証を有効にしますか？",
+  "@enableBiometrics": {
+    "description": "Enable biometrics?"
+  },
+  "no": "いいえ",
+  "@no": {
+    "description": "No"
+  },
+  "yes": "はい",
+  "@yes": {
+    "description": "Yes"
+  },
+  "enable": "有効にする",
+  "@enable": {
+    "description": "Enable"
+  },
+  "setNewPhoto": "新しい写真を設定",
+  "@setNewPhoto": {
+    "description": "Set new photo"
+  },
+  "chooseFromGallery": "ギャラリーから選択",
+  "@chooseFromGallery": {
+    "description": "Choose from gallery"
+  },
+  "takeAPhoto": "写真を撮る",
+  "@takeAPhoto": {
+    "description": "Take a photo"
+  },
+  "authenticationFailed": "認証に失敗しました",
+  "@authenticationFailed": {
+    "description": "Authentication failed"
+  },
+  "authenticationFailedHint": "認証試行で問題が発生しました。",
+  "@authenticationFailedHint": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "tryAgain": "再試行",
+  "@tryAgain": {
+    "description": "Try again"
+  },
+  "faceIDNotEnabled": "Face ID が有効になっていません",
+  "@faceIDNotEnabled": {
+    "description": "Face ID Not Enabled"
+  },
+  "pleaseEnabledFaceID": "続行するには、設定で Face ID を有効にしてください。",
+  "@pleaseEnabledFaceID": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSettings": "設定に移動",
+  "@goToSettings": {
+    "description": "Go to Settings"
+  },
+  "cancelRequest": "リクエストをキャンセル",
+  "@cancelRequest": {
+    "description": "Cancel request"
+  },
+  "cancelRequestHint": "キャンセルしてもよろしいですか？新しいパスキーを設定する場合、待機期間が再開されます。",
+  "@cancelRequestHint": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "stillAccessYourClassicWallet": "次回のログインでは、引き続き MyDoge Classic にアクセスできます。ただし、投稿にはアクセスできません。必要に応じて、今すぐデータをバックアップしてください。",
+  "@stillAccessYourClassicWallet": {
+    "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
+  },
+  "permissionDenied": "権限が拒否されました",
+  "@permissionDenied": {
+    "description": "Permission Denied"
+  },
+  "whatIsYourEmail": "あなたのメールアドレスは何ですか",
+  "@whatIsYourEmail": {
+    "description": "What’s your email"
+  },
+  "enableFaceID": "Face ID を有効にする",
+  "@enableFaceID": {
+    "description": "Enable Face ID"
+  },
+  "enableFaceIDHint": "アカウントを安全に保つため、アプリの使用中は Face ID を有効にしておいてください。",
+  "@enableFaceIDHint": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpPasskey": "パスキーを設定",
+  "@setUpPasskey": {
+    "description": "Set Up Passkey"
+  },
+  "settingUp": "設定中...",
+  "@settingUp": {
+    "description": "Setting up..."
+  },
+  "settingUpHint": "パスキーの設定がキャンセルされました。\r\nもう一度お試しください。",
+  "@settingUpHint": {
+    "description": "Passkey setup was canceled.\r\nPlease try again."
+  },
+  "verifyWithPasskey": "パスキーで確認",
+  "@verifyWithPasskey": {
+    "description": "Verify With Passkey"
+  },
+  "verifying": "確認中...",
+  "@verifying": {
+    "description": "Verifying..."
+  },
+  "verificationCanceled": "確認がキャンセルされました。",
+  "@verificationCanceled": {
+    "description": "Verification was canceled."
+  },
+  "noPasskeyFound": "パスキーが見つかりません",
+  "@noPasskeyFound": {
+    "description": "No Passkey found"
+  },
+  "keepAccountSafe": "アカウントを安全に保つため、アプリの使用中は Face ID を有効にしておいてください。",
+  "@keepAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpNewPasskey": "新しいパスキーを設定",
+  "@setUpNewPasskey": {
+    "description": "Set up a new passkey"
+  },
+  "poweredBy": "提供元",
+  "@poweredBy": {
+    "description": "Powered by"
+  },
+  "IAccept": "同意します",
+  "@IAccept": {
+    "description": "I accept"
+  },
+  "orContinueWith": "または続行",
+  "@orContinueWith": {
+    "description": "or continue with"
+  },
+  "verifyEmail": "メールを確認",
+  "@verifyEmail": {
+    "description": "Verify Email"
+  },
+  "verifyEmailHint": "ワンタイム サインイン リンクが送信されました",
+  "@verifyEmailHint": {
+    "description": "A one-time sign-in link has been sent to"
+  },
+  "doNotSeeEmail": "メールが表示されませんか？迷惑メール フォルダを確認するか、",
+  "@doNotSeeEmail": {
+    "description": "Didn’t see email? Check your spam folder, or "
+  },
+  "settingUpPasskeyHint": "アカウントのセキュリティのため、新しいパスキーの設定には 48 時間の待機期間が必要です。",
+  "@settingUpPasskeyHint": {
+    "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
+  },
+  "verificationLinkSent": "ワンタイム認証リンクが\r\nメールに送信されます。",
+  "@verificationLinkSent": {
+    "description": "A one-time verification link will be sent\r\nto your email."
+  },
+  "hours": "時間",
+  "@hours": {
+    "description": "Hours"
+  },
+  "minutes": "分",
+  "@minutes": {
+    "description": "Minutes"
+  },
+  "seconds": "秒",
+  "@seconds": {
+    "description": "Seconds"
+  },
+  "resendCode": "コードを再送信",
+  "@resendCode": {
+    "description": "Resend code"
+  },
+  "emailAddress": "メールアドレス",
+  "@emailAddress": {
+    "description": "Email address"
+  },
+  "apple": "apple",
+  "@apple": {
+    "description": "apple"
+  },
+  "allNewWallet": "まったく新しい\nMyDoge ウォレット",
+  "@allNewWallet": {
+    "description": "ALL-New \nMyDoge Wallet"
+  },
+  "getStart": "始める",
+  "@getStart": {
+    "description": "Get started"
+  },
+  "welcomeToMydogeWallet": "ソーシャル ログイン、マルチチェーン ウォレットを備えたまったく新しい MyDoge ウォレット体験へようこそ。\n\nMyDoge Classic、資産、そして MyDoge のすべてが新しい体験に移行されます。",
+  "@welcomeToMydogeWallet": {
+    "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
+  },
+  "myDogeWallet": "MyDoge ウォレット",
+  "@myDogeWallet": {
+    "description": "MyDoge Wallet"
+  },
+  "initializing": "初期化中...",
+  "@initializing": {
+    "description": "Initializing..."
+  },
+  "risks": "未確認",
+  "@risks": {
+    "description": "Unverified"
+  },
+  "waitingUserToConnectX": "ユーザーが X に接続するのを待っています",
+  "@waitingUserToConnectX": {
+    "description": "Waiting user to connect X"
+  },
+  "history": "履歴",
+  "@history": {
+    "description": "History"
+  },
+  "noActivity": "アクティビティなし",
+  "@noActivity": {
+    "description": "No Activity"
+  },
+  "notification": "通知",
+  "@notification": {
+    "description": "Notification"
+  },
+  "noData": "データなし",
+  "@noData": {
+    "description": "No data"
+  },
+  "viewSeedPhraseTip1": "ウォレットのセキュリティを強化し、悪意のある攻撃のリスクを軽減するために、MyDoge ウォレットは Cubist カストディ メカニズムを使用してシード フレーズを安全に保存します。\n表示するには、リクエストを送信してください。48 時間後に利用可能になり、3 日間表示できます。",
+  "@viewSeedPhraseTip1": {
+    "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
+  },
+  "receivedMnemonicTip1": "アクセスは {day} 日 {hour} 時間 {minute} 分で期限切れになります。それまでにバックアップしてください。",
+  "@receivedMnemonicTip1": {
+    "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
+  },
+  "seedPhraseHelpContent": "シード フレーズは、ウォレットの鍵として機能する 12 ～ 24 個の単語のセットです。PIN のない銀行カードのように、それを持っている人なら誰でも資金にアクセスして送金できます。",
+  "@seedPhraseHelpContent": {
+    "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
+  },
+  "keepSeedSafeAlertContent": "シード フレーズは MyDoge には保存されません。\n再度表示するには、48 時間待つ必要があります。",
+  "@keepSeedSafeAlertContent": {
+    "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
+  },
+  "manageCrypto": "暗号を管理",
+  "@manageCrypto": {
+    "description": "Manage crypto"
+  },
+  "addCustomToken": "カスタム トークンを追加",
+  "@addCustomToken": {
+    "description": "Add custom token"
+  },
+  "originalPayPIN": "元の支払い PIN",
+  "@originalPayPIN": {
+    "description": "Original Pay PIN"
+  },
+  "setNewPayPIN": "新しい支払い PIN を設定",
+  "@setNewPayPIN": {
+    "description": "Set new Pay PIN"
+  },
+  "confirmNewPayPIN": "新しい支払い PIN を確認",
+  "@confirmNewPayPIN": {
+    "description": "Confirm new Pay PIN"
+  },
+  "twoFactor": "2 要素認証 (2FA)",
+  "@twoFactor": {
+    "description": "Two-Factor Authentication (2FA)"
+  },
+  "twoFactorHint": "アカウントのセキュリティを強化するために、少なくとも 1 つの 2FA を有効にすることを強くお勧めします。",
+  "@twoFactorHint": {
+    "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
+  },
+  "minAmount": "最小額は {amount} です",
+  "@minAmount": {
+    "description": "Min amount is {amount}"
+  },
+  "maxAmount": "最大額は {amount} です",
+  "@maxAmount": {
+    "description": "Max amount is {amount}"
+  },
+  "connectedDApp": "接続済み DApp",
+  "@connectedDApp": {
+    "description": "Connected DApp"
+  },
+  "disconnectedAll": "すべて切断",
+  "@disconnectedAll": {
+    "description": "Disconnect All"
+  },
+  "disconnected": "切断",
+  "@disconnected": {
+    "description": "Disconnect"
+  },
+  "connected": "接続済み",
+  "@connected": {
+    "description": "Connected"
+  },
+  "connectedWallet": "{name} が {walletName} に接続されました",
+  "@connectedWallet": {
+    "description": "{name} connected to {walletName}"
+  },
+  "connectedNetwork": "{amount} ネットワーク接続",
+  "@connectedNetwork": {
+    "description": "{amount} network connect"
+  },
+  "dappRequest": "Dapp リクエスト",
+  "@dappRequest": {
+    "description": "Dapp request"
+  },
+  "fromLabel": "差出人: ",
+  "@fromLabel": {
+    "description": "from: "
+  },
+  "approve": "承認",
+  "@approve": {
+    "description": "Approve"
+  },
+  "sign": "署名",
+  "@sign": {
+    "description": "Sign"
+  },
+  "walletAddress": "ウォレット アドレス",
+  "@walletAddress": {
+    "description": "Wallet address"
+  },
+  "dAppContract": "DApp 契約",
+  "@dAppContract": {
+    "description": "DApp Contract"
+  },
+  "gasFee": "ガス料金",
+  "@gasFee": {
+    "description": "Gas Fee"
+  },
+  "data": "データ",
+  "@data": {
+    "description": "Data"
+  },
+  "connectYourWallet": "ウォレットを接続",
+  "@connectYourWallet": {
+    "description": "Connect your wallet"
+  },
+  "requestFrom": "からのリクエスト ",
+  "@requestFrom": {
+    "description": "Request from "
+  },
+  "dappPermission": "Dapp 許可",
+  "@dappPermission": {
+    "description": "Dapp Permission"
+  },
+  "accessYourETH": "オンチェーンの ETH 情報にアクセス",
+  "@accessYourETH": {
+    "description": "Access your ETH on-chain information"
+  },
+  "requestTransaction": "あなたからの取引承認をリクエスト",
+  "@requestTransaction": {
+    "description": "Request transaction authorization from you"
+  },
+  "note": "注",
+  "@note": {
+    "description": "Note"
+  },
+  "notShareYourPrivateKey": "承認によって秘密鍵情報が共有されることはありません。",
+  "@notShareYourPrivateKey": {
+    "description": "Authorization will not share your private key information."
+  },
+  "networkNotSupported": "ネットワークがサポートされていません",
+  "@networkNotSupported": {
+    "description": "Network not supported"
+  },
+  "amountNetwork": "{amount} ネットワーク",
+  "@amountNetwork": {
+    "description": "{amount} networks"
+  },
+  "manage": "管理",
+  "@manage": {
+    "description": "Manage"
+  },
+  "switzerComplete": "Switzer 完了",
+  "@switzerComplete": {
+    "description": "Switzer Complete"
+  },
+  "noSearchResults": "検索結果がありません",
+  "@noSearchResults": {
+    "description": "No search results"
+  },
+  "authenticatingWithFaceID": "Face ID で認証中...",
+  "@authenticatingWithFaceID": {
+    "description": "Authenticating with Face ID..."
+  },
+  "disableToken": "危険なトークン フィルターを無効にしますか？",
+  "@disableToken": {
+    "description": "Disable risky token filter?"
+  },
+  "disable": "無効にする",
+  "@disable": {
+    "description": "Disable"
+  },
+  "disableTokenHint": "これにより、危険なトークンや潜在的な資産損失にさらされる可能性があります。",
+  "@disableTokenHint": {
+    "description": "This may expose you to risky tokens and potential asset loss."
+  },
+  "keepSeedSafeAlertTitle": "シード フレーズを保存しましたか？",
+  "@keepSeedSafeAlertTitle": {
+    "description": "Have you saved your seed phrase?"
+  },
+  "cancelViewRequest": "表示リクエストをキャンセル",
+  "@cancelViewRequest": {
+    "description": "Cancel the view request"
+  },
+  "featurePoweredBy": "この機能は ",
+  "@featurePoweredBy": {
+    "description": "This feature is powered by "
+  },
+  "viewSeedPhraseRequestTitle": "シード フレーズの表示をリクエストしました。",
+  "@viewSeedPhraseRequestTitle": {
+    "description": "You have requested to view the seed phrase."
+  },
+  "viewSeedPhraseRequestTip": "シード フレーズは、この後にここに表示されます",
+  "@viewSeedPhraseRequestTip": {
+    "description": "Your seed phrase will be shown here after"
+  },
+  "receivedMnemonicTitle": "シード フレーズを表示する準備ができました",
+  "@receivedMnemonicTitle": {
+    "description": "Your seed phrase is ready to view"
+  },
+  "receivedMnemonicSubTip1": "シード フレーズは安全に保管してください。",
+  "@receivedMnemonicSubTip1": {
+    "description": "Please keep your seed phrase safe."
+  },
+  "receivedMnemonicSubTip2": "MyDoge ウォレットはユーザーのシード フレーズを保存しません。表示をリクエストするたびに、Cubist から取得するために 48 時間待つ必要があります。",
+  "@receivedMnemonicSubTip2": {
+    "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
+  },
+  "applyViewSeedPhrase": "シード フレーズの表示をリクエスト",
+  "@applyViewSeedPhrase": {
+    "description": "Request to view seed phrase"
+  },
+  "viewSeedPhraseTip2": "",
+  "@viewSeedPhraseTip2": {
+    "description": ""
+  },
+  "viewSeedPhraseTip3": "",
+  "@viewSeedPhraseTip3": {
+    "description": ""
+  },
+  "viewSeedPhraseTip4": "48 時間後に表示できるようになります。",
+  "@viewSeedPhraseTip4": {
+    "description": "You’ll be able to view it after 48 hours."
+  },
+  "enterCodeDescription": "4 桁のコードが送信されました ",
+  "@enterCodeDescription": {
+    "description": "A 4-digit code was sent to "
+  },
+  "seedPhraseHelpTitle": "シード フレーズとは？",
+  "@seedPhraseHelpTitle": {
+    "description": "What is a seed phrase?"
+  },
+  "seedPhraseHelpNoticeTitle": "安全に保管するには？",
+  "@seedPhraseHelpNoticeTitle": {
+    "description": "How to keep it secure?"
+  },
+  "seedPhraseHelpNotice1": "書き留めるか、コールド ウォレットなどのオフライン デバイスに保存します。",
+  "@seedPhraseHelpNotice1": {
+    "description": "Write it down or store it in an offline device such as a cold wallet."
+  },
+  "seedPhraseHelpNotice2": "スクリーンショットを撮って保存しないでください。",
+  "@seedPhraseHelpNotice2": {
+    "description": "Never store it by taking screenshots."
+  },
+  "seedPhraseHelpNotice3": "ソーシャル メディア アプリ、メール、モバイル メモ、クラウド サービスなどには絶対に保存しないでください。",
+  "@seedPhraseHelpNotice3": {
+    "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
+  },
+  "seedPhraseHelpNoticeHideTip": "これを再度表示しない",
+  "@seedPhraseHelpNoticeHideTip": {
+    "description": "Don't show this again"
+  },
+  "done": "完了",
+  "@done": {
+    "description": "Done"
+  },
+  "keep": "保持",
+  "@keep": {
+    "description": "Keep"
+  },
+  "verifyEmailToProtectAccount": "アカウントを保護するためにメールを確認してください。",
+  "@verifyEmailToProtectAccount": {
+    "description": "Verify your email to help protect your account."
+  },
+  "potentialHoneypot": "潜在的なハニーポット",
+  "@potentialHoneypot": {
+    "description": "Potential honeypot"
+  },
+  "tokenNotList": "トークンがリストされていません",
+  "@tokenNotList": {
+    "description": "Token not listed"
+  },
+  "tokenNotListHint": "トークンはリストされておらず、危険な可能性があります。注意して進めてください。",
+  "@tokenNotListHint": {
+    "description": "Token is not listed and may be risky. Please proceed with caution."
+  },
+  "slippageTooHigh": "スリッページが高すぎます",
+  "@slippageTooHigh": {
+    "description": "Slippage is too high"
+  },
+  "slippageTooHighHint": "取引は潜在的な損失につながる可能性があります。慎重に取引してください。",
+  "@slippageTooHighHint": {
+    "description": "Trading could lead to potential losses, please trade carefully."
+  },
+  "tokenNotListHint2": "トークンがリストされていません。取引すると資産が失われる可能性があります。",
+  "@tokenNotListHint2": {
+    "description": "Token is not listed. Trading may result in asset loss."
+  },
+  "insufficientBalance": "残高不足",
+  "@insufficientBalance": {
+    "description": "Insufficient balance"
+  },
+  "getStartWithDogeWallet": "ソーシャル ログインで DogeOS ウォレットを始めましょう — 現在のウォレットは MyDoge Classic として安全に保管されます。",
+  "@getStartWithDogeWallet": {
+    "description": "Get started with a DogeOS Wallet via social login — your current wallet stays safe as MyDoge Classic."
+  },
+  "filterHighRiskTokens": "ワンクリックで高リスクのトークンを除外します。資産は失われません。",
+  "@filterHighRiskTokens": {
+    "description": "Filter out high-risk tokens with one click. No assets will be lost."
+  },
+  "setUpProfile": "新しい MyDoge エクスペリエンスのためにプロフィールを設定しますか？",
+  "@setUpProfile": {
+    "description": "Set up your profile for the new MyDoge experience?"
+  },
+  "invalidWalletAddress": "ウォレット アドレスが無効です。形式を確認してください。",
+  "@invalidWalletAddress": {
+    "description": "Invalid wallet address. Please check the format."
   }
-} 
+}
