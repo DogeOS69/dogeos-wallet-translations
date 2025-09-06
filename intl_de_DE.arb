@@ -362,7 +362,7 @@
 "importGoogleDrive": "Von Google Drive importieren",
 "importICloud": "Von iCloud importieren",
 "reminder": "Erinnerung",
-"reminderDesc": "Wir haben festgestellt, dass die zuvor verwendete Wallet eine DogeOS Wallet war, deren Seed über Cubist geschützt ist. Du wirst auf diese soziale Wallet upgraden. Außerdem sind deine früheren Dogeverse-Inhalte nicht mehr zugänglich.\n\nBei Fragen wende dich bitte an unser Support-Team.",
+"reminderDesc": "Wir haben festgestellt, dass die zuvor verwendete Wallet eine DogeOS Wallet war, deren Seed-Phrase über Cubist geschützt ist. Du wirst auf diese soziale Wallet upgraden. Außerdem sind deine früheren Dogeverse-Inhalte nicht mehr zugänglich.\n\nBei Fragen wende dich bitte an unser Support-Team.",
 "importNotes": "Wichtige Hinweise zum Social Login",
 "importNotesDesc": "Wenn du dich mit X einloggst, wird die MyDogeTip-Funktion mit deinem X-Account verknüpft.",
 "maybeLater": "Vielleicht später",
