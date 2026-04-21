@@ -350,7 +350,7 @@
   },
   "socialWallet": "DogeOS 钱包",
   "@socialWallet": {
-    "description": "DogeOS wallet"
+    "description": "Social Wallet"
   },
   "enjoyWalletWithSocialLogin": "通过社交登录多链钱包享受完整的 MyDoge 钱包体验，同时保留您的 MyDoge Classic 资产。",
   "@enjoyWalletWithSocialLogin": {
@@ -1402,7 +1402,7 @@
   },
   "verifyYourPIN": "验证您的 PIN 码以创建 DogeOS 钱包。",
   "@verifyYourPIN": {
-    "description": "Verify your PIN to create a DogeOS wallet."
+    "description": "Verify your PIN to create a Social Wallet."
   },
   "incorrectPin": "您输入的 PIN 码不正确",
   "@incorrectPin": {
@@ -1450,7 +1450,7 @@
   },
   "reminderDesc": "我们注意到您之前使用的钱包来自 DogeOS 钱包，其种子通过 Cubist 保护。您将升级到该社交钱包。此外，您之前的 Dogeverse 内容将无法再访问。\n\n如果您有任何疑问，请联系我们的支持团队。",
   "@reminderDesc": {
-    "description": "We noticed that the wallet you previously used was from a DogeOS wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+    "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
   "importNotes": "社交登录重要说明",
   "@importNotes": {
@@ -1502,11 +1502,11 @@
   },
   "oops": "切换到 DogeOS 钱包",
   "@oops": {
-    "description": "Switch to DogeOS Wallet"
+    "description": "Switch to Social Wallet"
   },
   "oopsDesc": "糟糕！您当前正在使用 MyDoge Classic 钱包。请切换到您的 DogeOS 钱包以访问此功能。",
   "@oopsDesc": {
-    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your DogeOS Wallet to access this feature."
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
   },
   "switchWallet": "切换钱包",
   "@switchWallet": {
@@ -1814,7 +1814,7 @@
   },
   "transferFundsToDogeWallet": "一键将您的资金转移到 DogeOS 钱包！",
   "@transferFundsToDogeWallet": {
-    "description": "Move your funds to DogeOS wallet in one tap!"
+    "description": "Move your funds to Social Wallet in one tap!"
   },
   "drc20": "Drc20",
   "@drc20": {
@@ -1830,7 +1830,7 @@
   },
   "youCanCreateWallet": "您随时可以在这里创建 DogeOS 钱包。",
   "@youCanCreateWallet": {
-    "description": "You can always create a DogeOS wallet here."
+    "description": "You can always create a Social Wallet here."
   },
   "getDogeTestToken": "获取 DOGE 测试网代币 \n (零价值)",
   "@getDogeTestToken": {
@@ -2362,7 +2362,7 @@
   },
   "getStartWithDogeWallet": "通过社交登录开始使用 DogeOS 钱包 — 您当前的钱包作为 MyDoge Classic 保持安全。",
   "@getStartWithDogeWallet": {
-    "description": "Get started with a DogeOS Wallet via social login — your current wallet stays safe as MyDoge Classic."
+    "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
   "filterHighRiskTokens": "一键过滤高风险代币。不会丢失任何资产。",
   "@filterHighRiskTokens": {

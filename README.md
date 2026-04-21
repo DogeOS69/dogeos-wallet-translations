@@ -1,10 +1,10 @@
-# DogeOS Wallet Translations
+# Social Wallet Translations
 
-Multi-language support data for DogeOS Wallet - A comprehensive translation system supporting multiple languages for the DogeOS ecosystem.
+Multi-language support data for Social Wallet - A comprehensive translation system supporting multiple languages for the DogeOS ecosystem.
 
 ## Overview
 
-This repository contains Application Resource Bundle (ARB) files for internationalization support in the DogeOS Wallet application. The translation files enable the wallet to support multiple languages and provide a localized experience for users worldwide.
+This repository contains Application Resource Bundle (ARB) files for internationalization support in the Social Wallet application. The translation files enable the wallet to support multiple languages and provide a localized experience for users worldwide.
 
 ## Supported Languages
 
@@ -47,8 +47,8 @@ dogeos-wallet-translations/
 
 ## License
 
-This translation data is part of the DogeOS Wallet ecosystem.
+This translation data is part of the Social Wallet ecosystem.
 
 ---
 
-For questions or contributions, please refer to the main DogeOS Wallet repository.
+For questions or contributions, please refer to the main Social Wallet repository.

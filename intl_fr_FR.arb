@@ -350,7 +350,7 @@
   },
   "socialWallet": "Portefeuille DogeOS",
   "@socialWallet": {
-    "description": "DogeOS wallet"
+    "description": "Social Wallet"
   },
   "enjoyWalletWithSocialLogin": "Profitez de l'expérience complète du portefeuille MyDoge avec un portefeuille multi-chaînes à connexion sociale, tout en conservant votre actif MyDoge Classic.",
   "@enjoyWalletWithSocialLogin": {
@@ -1402,7 +1402,7 @@
   },
   "verifyYourPIN": "Vérifiez votre code PIN pour créer un portefeuille DogeOS.",
   "@verifyYourPIN": {
-    "description": "Verify your PIN to create a DogeOS wallet."
+    "description": "Verify your PIN to create a Social Wallet."
   },
   "incorrectPin": "Le code PIN que vous avez entré est incorrect",
   "@incorrectPin": {
@@ -1450,7 +1450,7 @@
   },
   "reminderDesc": "Nous avons remarqué que le portefeuille que vous utilisiez précédemment provenait d'un portefeuille DogeOS, avec la phrase de départ protégée via Cubist. Vous allez passer à ce portefeuille social. De plus, votre contenu Dogeverse précédent n'est plus accessible.\n\nSi vous avez des questions, veuillez contacter notre équipe d'assistance.",
   "@reminderDesc": {
-    "description": "We noticed that the wallet you previously used was from a DogeOS wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+    "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
   "importNotes": "Remarques importantes sur la connexion sociale",
   "@importNotes": {
@@ -1502,11 +1502,11 @@
   },
   "oops": "Passer au portefeuille DogeOS",
   "@oops": {
-    "description": "Switch to DogeOS Wallet"
+    "description": "Switch to Social Wallet"
   },
   "oopsDesc": "Oups ! Vous utilisez actuellement votre portefeuille MyDoge Classic. Veuillez passer à votre portefeuille DogeOS pour accéder à cette fonctionnalité.",
   "@oopsDesc": {
-    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your DogeOS Wallet to access this feature."
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
   },
   "switchWallet": "Changer de portefeuille",
   "@switchWallet": {
@@ -1814,7 +1814,7 @@
   },
   "transferFundsToDogeWallet": "Transférez vos fonds vers le portefeuille DogeOS en un seul clic !",
   "@transferFundsToDogeWallet": {
-    "description": "Move your funds to DogeOS wallet in one tap!"
+    "description": "Move your funds to Social Wallet in one tap!"
   },
   "drc20": "Drc20",
   "@drc20": {
@@ -1830,7 +1830,7 @@
   },
   "youCanCreateWallet": "Vous pouvez toujours créer un portefeuille DogeOS ici.",
   "@youCanCreateWallet": {
-    "description": "You can always create a DogeOS wallet here."
+    "description": "You can always create a Social Wallet here."
   },
   "getDogeTestToken": "Obtenez des jetons de testnet DOGE \n (valeur nulle)",
   "@getDogeTestToken": {
@@ -2362,7 +2362,7 @@
   },
   "getStartWithDogeWallet": "Commencez avec un portefeuille DogeOS via la connexion sociale — votre portefeuille actuel reste en sécurité en tant que MyDoge Classic.",
   "@getStartWithDogeWallet": {
-    "description": "Get started with a DogeOS Wallet via social login — your current wallet stays safe as MyDoge Classic."
+    "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
   "filterHighRiskTokens": "Filtrez les jetons à haut risque en un seul clic. Aucun actif ne sera perdu.",
   "@filterHighRiskTokens": {

@@ -350,7 +350,7 @@
   },
   "socialWallet": "DogeOS ウォレット",
   "@socialWallet": {
-    "description": "DogeOS wallet"
+    "description": "Social Wallet"
   },
   "enjoyWalletWithSocialLogin": "ソーシャル ログイン マルチチェーン ウォレットで完全な MyDoge ウォレット体験をお楽しみください。MyDoge Classic 資産はそのまま維持されます。",
   "@enjoyWalletWithSocialLogin": {
@@ -1402,7 +1402,7 @@
   },
   "verifyYourPIN": "DogeOS ウォレットを作成するには PIN を確認してください。",
   "@verifyYourPIN": {
-    "description": "Verify your PIN to create a DogeOS wallet."
+    "description": "Verify your PIN to create a Social Wallet."
   },
   "incorrectPin": "入力した PIN が正しくありません",
   "@incorrectPin": {
@@ -1450,7 +1450,7 @@
   },
   "reminderDesc": "以前使用していたウォレットは、Cubist を介してシードが保護された DogeOS ウォレットのものであることに気付きました。そのソーシャル ウォレットにアップグレードします。さらに、以前の Dogeverse コンテンツにはアクセスできなくなりました。\n\nご不明な点がございましたら、サポート チームにお問い合わせください。",
   "@reminderDesc": {
-    "description": "We noticed that the wallet you previously used was from a DogeOS wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+    "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
   "importNotes": "ソーシャル ログインに関する重要な注意事項",
   "@importNotes": {
@@ -1502,11 +1502,11 @@
   },
   "oops": "DogeOS ウォレットに切り替える",
   "@oops": {
-    "description": "Switch to DogeOS Wallet"
+    "description": "Switch to Social Wallet"
   },
   "oopsDesc": "おっと！現在 MyDoge Classic ウォレットを使用しています。この機能にアクセスするには、DogeOS ウォレットに切り替えてください。",
   "@oopsDesc": {
-    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your DogeOS Wallet to access this feature."
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
   },
   "switchWallet": "ウォレットを切り替える",
   "@switchWallet": {
@@ -1814,7 +1814,7 @@
   },
   "transferFundsToDogeWallet": "ワンタップで DogeOS ウォレットに資金を移動！",
   "@transferFundsToDogeWallet": {
-    "description": "Move your funds to DogeOS wallet in one tap!"
+    "description": "Move your funds to Social Wallet in one tap!"
   },
   "drc20": "Drc20",
   "@drc20": {
@@ -1830,7 +1830,7 @@
   },
   "youCanCreateWallet": "いつでもここで DogeOS ウォレットを作成できます。",
   "@youCanCreateWallet": {
-    "description": "You can always create a DogeOS wallet here."
+    "description": "You can always create a Social Wallet here."
   },
   "getDogeTestToken": "DOGE テストネット トークンを入手する \n (価値ゼロ)",
   "@getDogeTestToken": {
@@ -2362,7 +2362,7 @@
   },
   "getStartWithDogeWallet": "ソーシャル ログインで DogeOS ウォレットを始めましょう — 現在のウォレットは MyDoge Classic として安全に保管されます。",
   "@getStartWithDogeWallet": {
-    "description": "Get started with a DogeOS Wallet via social login — your current wallet stays safe as MyDoge Classic."
+    "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
   "filterHighRiskTokens": "ワンクリックで高リスクのトークンを除外します。資産は失われません。",
   "@filterHighRiskTokens": {
