@@ -637,7 +637,7 @@
   "linked": "Linked",
   "chooseVerification": "Choose verification",
   "linkAuthenticatorApp": "Link authenticator app",
-  "stepNum": "Step {num}: ",
+  "stepNum": "Step {stepNumber}: ",
   "step1Desc": "Download an authenticator app.",
   "forExample": "For example: ",
   "step2Desc": "Copy the 16-digit key below or scan the QR code",

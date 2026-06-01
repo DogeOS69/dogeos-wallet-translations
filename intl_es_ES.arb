@@ -2548,9 +2548,9 @@
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
-  "stepNum": "Paso {num}: ",
+  "stepNum": "Paso {stepNumber}: ",
   "@stepNum": {
-    "description": "Step {num}: "
+    "description": "Step {stepNumber}: "
   },
   "step1Desc": "Descarga una app autenticadora.",
   "@step1Desc": {
