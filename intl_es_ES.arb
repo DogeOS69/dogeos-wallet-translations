@@ -1800,10 +1800,6 @@
   "@noSearchResult": {
     "description": "No search result"
   },
-  "sendTo": "Enviar a",
-  "@sendTo": {
-    "description": "Send to"
-  },
   "searchForPeople": "Busca personas o introduce una dirección",
   "@searchForPeople": {
     "description": "Search for people or input an address"
@@ -2375,5 +2371,393 @@
   "invalidWalletAddress": "Dirección de billetera no válida. Comprueba el formato.",
   "@invalidWalletAddress": {
     "description": "Invalid wallet address. Please check the format."
+  },
+  "loginTitle1": "Tu billetera\nDogecoin, pero mejor",
+  "@loginTitle1": {
+    "description": "Your Dogecoin\r\nWallet, but Betterer"
+  },
+  "loginDesc1": "Con la confianza de shibes de todo el mundo",
+  "@loginDesc1": {
+    "description": "Trusted by shibes worldwide"
+  },
+  "loginTitle2": "Únete al movimiento favorito de internet",
+  "@loginTitle2": {
+    "description": "Join the internet’s favorite movement"
+  },
+  "loginDesc2": "Una billetera social donde los memes ganan.",
+  "@loginDesc2": {
+    "description": "A social wallet where memes earn."
+  },
+  "loginTitle3": "Descubre qué es tendencia en Web3",
+  "@loginTitle3": {
+    "description": "Discover what’s trending in Web3"
+  },
+  "loginDesc3": "Un mundo de apps, misiones y juegos",
+  "@loginDesc3": {
+    "description": "A world of apps, quests and games"
+  },
+  "loginTitle4": "Muchas propinas,\nmuy shibe friendly",
+  "@loginTitle4": {
+    "description": "Much tipping,\r\nso shibe friendly"
+  },
+  "loginDesc4": "Da propinas a tus frens y operen juntos",
+  "@loginDesc4": {
+    "description": "Tips your frens and trade together"
+  },
+  "connectWithX": "Conectar con X",
+  "@connectWithX": {
+    "description": "Connect with X"
+  },
+  "signWithOther": "Registrarse con otras opciones",
+  "@signWithOther": {
+    "description": "Sign up with other options"
+  },
+  "byUsingDogeOs": "Al usar DogeOS, aceptas nuestros",
+  "@byUsingDogeOs": {
+    "description": "By using DogeOS, you agree to accept our"
+  },
+  "chooseLoginTitle": "Elige sabiamente, shibe",
+  "@chooseLoginTitle": {
+    "description": "Choose wisely, shibe"
+  },
+  "chooseLoginDesc": "Agrega una billetera con tu cuenta de Apple o Google. Mantén la calma: tu información seguirá siendo privada.",
+  "@chooseLoginDesc": {
+    "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
+  },
+  "x": "X",
+  "@x": {
+    "description": "X"
+  },
+  "google": "Google",
+  "@google": {
+    "description": "Google"
+  },
+  "whatYourEmail": "¿Cuál es tu correo?",
+  "@whatYourEmail": {
+    "description": "What’s your email?"
+  },
+  "verifyOtpEmail": "Verificar correo OTP",
+  "@verifyOtpEmail": {
+    "description": "Verify OTP email"
+  },
+  "aVerificationCode": "Se ha enviado un código de verificación a ",
+  "@aVerificationCode": {
+    "description": "A verification code has been sent to "
+  },
+  "toKeepYourAccountSafe": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la app.",
+  "@toKeepYourAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "authFailedTitle": "Autenticación\nfallida",
+  "@authFailedTitle": {
+    "description": "Authentication\nfailed"
+  },
+  "authFailedDesc": "Hubo un problema con tu intento de autenticación.",
+  "@authFailedDesc": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "faceIdNotEnabledTitle": "Face ID\nno activado",
+  "@faceIdNotEnabledTitle": {
+    "description": "Face ID \nNot Enabled"
+  },
+  "faceIdNotEnabledDesc": "Activa Face ID en Ajustes para continuar.",
+  "@faceIdNotEnabledDesc": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSetting": "Ir a Ajustes",
+  "@goToSetting": {
+    "description": "Go to Settings"
+  },
+  "setupAuthTitle": "Configurar autenticacion",
+  "@setupAuthTitle": {
+    "description": "Set up authentication"
+  },
+  "setupAuthDesc": "Por la seguridad de tu cuenta, exportar la frase semilla requiere autenticación.",
+  "@setupAuthDesc": {
+    "description": "For your account’s security, exporting the seed phrase requires authentication."
+  },
+  "goSetup": "Configurar",
+  "@goSetup": {
+    "description": "Go set up"
+  },
+  "cancelRequestTitle": "Cancelar solicitud",
+  "@cancelRequestTitle": {
+    "description": "Cancel request"
+  },
+  "cancelRequestDesc": "¿Seguro que quieres cancelar? Esto reiniciará el periodo de espera si quieres configurar una nueva passkey.",
+  "@cancelRequestDesc": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "sureToExitTitle": "¿Seguro que quieres salir?",
+  "@sureToExitTitle": {
+    "description": "Are you sure you want to exit?"
+  },
+  "sureToExitDesc": "Una nueva solicitud requerirá un periodo de espera de 48 horas.",
+  "@sureToExitDesc": {
+    "description": "New request will require a 48-hour waiting period."
+  },
+  "hour48SecurityTitle": "Verificación de seguridad de 48 horas",
+  "@hour48SecurityTitle": {
+    "description": "48-hour security verification"
+  },
+  "hour48SecurityDesc": "La vinculación requiere 48 horas de verificación de seguridad para evitar riesgos. Si no fuiste tú, cambia de inmediato la contraseña del correo OTP.",
+  "@hour48SecurityDesc": {
+    "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
+  },
+  "whereDidISetItUpTitle": "¿Dónde lo configuré?",
+  "@whereDidISetItUpTitle": {
+    "description": "Where did I set it up?"
+  },
+  "whereDidISetItUpDesc": "Puedes encontrar el autenticador si lo configuraste antes en productos impulsados por Tomo, como WLFI Wallet, Tomo Wallet o MyDoge Wallet.",
+  "@whereDidISetItUpDesc": {
+    "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
+  },
+  "authMethod": "Método de autenticación",
+  "@authMethod": {
+    "description": "Authentication Method"
+  },
+  "authMethodDesc": "El inicio de sesión y la exportación de la frase semilla requieren un autenticador, lo que añade una capa extra de protección.",
+  "@authMethodDesc": {
+    "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
+  },
+  "passkey": "Passkey",
+  "@passkey": {
+    "description": "Passkey"
+  },
+  "authenticator": "Autenticador",
+  "@authenticator": {
+    "description": "Authenticator"
+  },
+  "setUp": "Configurar",
+  "@setUp": {
+    "description": "Set up"
+  },
+  "optEmail": "Correo OTP",
+  "@optEmail": {
+    "description": "OTP Email"
+  },
+  "linked": "Vinculado",
+  "@linked": {
+    "description": "Linked"
+  },
+  "chooseVerification": "Elige la verificacion",
+  "@chooseVerification": {
+    "description": "Choose verification"
+  },
+  "linkAuthenticatorApp": "Vincular app autenticadora",
+  "@linkAuthenticatorApp": {
+    "description": "Link authenticator app"
+  },
+  "stepNum": "Paso {stepNumber}: ",
+  "@stepNum": {
+    "description": "Step {stepNumber}: "
+  },
+  "step1Desc": "Descarga una app autenticadora.",
+  "@step1Desc": {
+    "description": "Download an authenticator app."
+  },
+  "forExample": "Por ejemplo: ",
+  "@forExample": {
+    "description": "For example: "
+  },
+  "step2Desc": "Copia la clave de 16 dígitos de abajo o escanea el código QR",
+  "@step2Desc": {
+    "description": "Copy the 16-digit key below or scan the QR code"
+  },
+  "verifyAuthenticator": "Verificar autenticador",
+  "@verifyAuthenticator": {
+    "description": "Verify authenticator"
+  },
+  "enterThe6Digit": "Introduce el código de 6 dígitos del autenticador.",
+  "@enterThe6Digit": {
+    "description": "Enter the 6-digit code from the authenticator."
+  },
+  "useAlternativeVerification": "Usar verificación alternativa",
+  "@useAlternativeVerification": {
+    "description": "Use alternative verification"
+  },
+  "copySuccess": "Copiado correctamente",
+  "@copySuccess": {
+    "description": "Copy Success"
+  },
+  "addPasskey": "Agregar passkey",
+  "@addPasskey": {
+    "description": "Add passkey"
+  },
+  "whereDidISetItUp": "¿Dónde lo configuré?",
+  "@whereDidISetItUp": {
+    "description": "Where did I set it up?"
+  },
+  "requestSeedTitle": "Solicitar frase semilla",
+  "@requestSeedTitle": {
+    "description": "Request Seed Phrase"
+  },
+  "hour48": "48 horas",
+  "@hour48": {
+    "description": "48-hour"
+  },
+  "requestSeedDesc1": "Para proteger tus activos, debes esperar 48 horas antes de revelar tu frase semilla.",
+  "@requestSeedDesc1": {
+    "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
+  },
+  "requestSeedDesc2": "Podras ver tu frase semilla cuando termine la cuenta regresiva.",
+  "@requestSeedDesc2": {
+    "description": "You can view your seed phrase after the countdown ends."
+  },
+  "passkeyNotCompleted": "La verificacion con passkey no se completo.",
+  "@passkeyNotCompleted": {
+    "description": "Passkey verification was not completed."
+  },
+  "passkeyNotCompletedDesc": "Puedes cambiar a otros métodos de verificación o intentarlo de nuevo.",
+  "@passkeyNotCompletedDesc": {
+    "description": "You can switch to other verification methods, or try again."
+  },
+  "viewSeedPhraseDesc1": "Si no son tus claves, no es tu cripto.",
+  "@viewSeedPhraseDesc1": {
+    "description": "Not your keys, not your crypto."
+  },
+  "viewSeedPhraseDesc2": "Continúa solo en un entorno seguro y privado.",
+  "@viewSeedPhraseDesc2": {
+    "description": "Proceed only in a secure and private environment."
+  },
+  "viewSeedPhraseDesc3": "No la compartas con nadie, nunca.",
+  "@viewSeedPhraseDesc3": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "doNotShare": "No la compartas con nadie, nunca.",
+  "@doNotShare": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "alreadyBackedUp": "Copia de seguridad completada",
+  "@alreadyBackedUp": {
+    "description": "Already backed up"
+  },
+  "clickToReveal": "Toca para revelar",
+  "@clickToReveal": {
+    "description": "Click to reveal"
+  },
+  "home": "Inicio",
+  "@home": {
+    "description": "Home"
+  },
+  "wallet": "Billetera",
+  "@wallet": {
+    "description": "Wallet"
+  },
+  "market": "Mercado",
+  "@market": {
+    "description": "Market"
+  },
+  "activity": "Actividad",
+  "@activity": {
+    "description": "Activity"
+  },
+  "tokens": "Tokens",
+  "@tokens": {
+    "description": "Tokens"
+  },
+  "collectibles": "Coleccionables",
+  "@collectibles": {
+    "description": "Collectibles"
+  },
+  "dogeOSTestnetTitle": "Faucet de testnet DogeOS",
+  "@dogeOSTestnetTitle": {
+    "description": "DogeOS Testnet Faucet"
+  },
+  "dogeOSTestnetDesc": "Solicita tokens de testnet para experimentar con la app en un entorno seguro, sin fondos reales.",
+  "@dogeOSTestnetDesc": {
+    "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
+  },
+  "requestTokens": "Solicitar tokens",
+  "@requestTokens": {
+    "description": "Request tokens"
+  },
+  "noNFTsfound": "No se encontraron NFTs",
+  "@noNFTsfound": {
+    "description": "No NFTs found"
+  },
+  "passkeySetupNotCompleted": "La configuracion de la passkey no se completo. ",
+  "@passkeySetupNotCompleted": {
+    "description": "Passkey setup was not completed. "
+  },
+  "sureToLogOut": "¿Seguro que quieres cerrar sesión?",
+  "@sureToLogOut": {
+    "description": "Are you sure you want to log out?"
+  },
+  "communityPicks": "Selecciones de la comunidad",
+  "@communityPicks": {
+    "description": "Community Picks"
+  },
+  "suggestedForYou": "Sugerido para ti",
+  "@suggestedForYou": {
+    "description": "Suggested For You"
+  },
+  "earn": "Ganar",
+  "@earn": {
+    "description": "Earn"
+  },
+  "fullCatalogue": "Catálogo completo",
+  "@fullCatalogue": {
+    "description": "Full Catalogue"
+  },
+  "setupWallet": "Configurar billetera",
+  "@setupWallet": {
+    "description": "Setup wallet"
+  },
+  "setupWalletDesc": "Crea tu Social Wallet con inicio de sesión social: desbloquea todo el ecosistema DogeOS mientras tu billetera Classic permanece segura.",
+  "@setupWalletDesc": {
+    "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
+  },
+  "claimTestnetTitle": "Reclamar tokens de testnet",
+  "@claimTestnetTitle": {
+    "description": "Claim Testnet Tokens"
+  },
+  "claimTestnetDesc": "No hay fondos reales involucrados; estos son\nfondos de practica solo para pruebas.",
+  "@claimTestnetDesc": {
+    "description": "No real funds are involved, these are\npractice funds for trial purposes only."
+  },
+  "claimableEvery24Hours": "Disponible cada 24 horas.",
+  "@claimableEvery24Hours": {
+    "description": "Claimable every 24 hours!"
+  },
+  "youGet": "Recibiras:",
+  "@youGet": {
+    "description": "You’ll get:"
+  },
+  "claimTokens": "Reclamar tokens",
+  "@claimTokens": {
+    "description": "Claim tokens"
+  },
+  "open": "Abrir",
+  "@open": {
+    "description": "Open"
+  },
+  "biometricsPin": "Biometría/PIN",
+  "@biometricsPin": {
+    "description": "Biometrics/PIN"
+  },
+  "advancedSettings": "Ajustes avanzados",
+  "@advancedSettings": {
+    "description": "Advanced Settings"
+  },
+  "chooseLanguage": "Elegir idioma",
+  "@chooseLanguage": {
+    "description": "Choose language"
+  },
+  "englishLanguage": "English",
+  "@englishLanguage": {
+    "description": "English"
+  },
+  "spanishLanguage": "Español",
+  "@spanishLanguage": {
+    "description": "Español"
+  },
+  "developerMode": "Modo desarrollador",
+  "@developerMode": {
+    "description": "Developer Mode"
+  },
+  "developerModeDescription": "Desbloquea el navegador abierto para pruebas",
+  "@developerModeDescription": {
+    "description": "Unlocks open browser for testing"
   }
 }
