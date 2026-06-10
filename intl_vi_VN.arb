@@ -1280,7 +1280,7 @@
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "Gửi và nhận lời khuyên qua",
+  "sendAndReceive": "Gửi và nhận tiền tip qua",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
@@ -1332,7 +1332,7 @@
   "@share": {
     "description": "Share"
   },
-  "tips": "Mẹo",
+  "tips": "Tiền tip",
   "@tips": {
     "description": "Tips"
   },
@@ -1664,7 +1664,7 @@
   "@profileIsPublic": {
     "description": "Profile is Public"
   },
-  "showWalletAddress": "Hiển thị địa chỉ ví và nút Mẹo",
+  "showWalletAddress": "Hiển thị địa chỉ ví và nút Tip",
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
@@ -2400,7 +2400,7 @@
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "Mẹo cho bạn bè và giao dịch cùng nhau",
+  "loginDesc4": "Tip cho bạn bè và cùng giao dịch",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },

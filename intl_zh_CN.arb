@@ -1280,7 +1280,7 @@
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "通过...发送和接收小费",
+  "sendAndReceive": "通过以下方式发送和接收打赏",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
@@ -1332,7 +1332,7 @@
   "@share": {
     "description": "Share"
   },
-  "tips": "提示",
+  "tips": "打赏",
   "@tips": {
     "description": "Tips"
   },
@@ -2400,7 +2400,7 @@
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "给你的朋友小费并一起交易",
+  "loginDesc4": "给你的朋友打赏并一起交易",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },

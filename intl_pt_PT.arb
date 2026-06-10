@@ -1332,7 +1332,7 @@
   "@share": {
     "description": "Share"
   },
-  "tips": "Dicas",
+  "tips": "Gorjetas",
   "@tips": {
     "description": "Tips"
   },
@@ -2400,7 +2400,7 @@
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "Dê dicas aos seus amigos e negocie juntos",
+  "loginDesc4": "Dê gorjetas aos seus amigos e negocie juntos",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },

@@ -1280,7 +1280,7 @@
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "Отправляйте и получайте советы через",
+  "sendAndReceive": "Отправляйте и получайте чаевые через",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
@@ -1332,7 +1332,7 @@
   "@share": {
     "description": "Share"
   },
-  "tips": "Советы",
+  "tips": "Чаевые",
   "@tips": {
     "description": "Tips"
   },

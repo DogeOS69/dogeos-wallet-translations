@@ -1280,7 +1280,7 @@
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "Надсилайте та отримуйте поради через",
+  "sendAndReceive": "Надсилайте й отримуйте чайові через",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
@@ -1332,7 +1332,7 @@
   "@share": {
     "description": "Share"
   },
-  "tips": "Поради",
+  "tips": "Чайові",
   "@tips": {
     "description": "Tips"
   },
@@ -1664,7 +1664,7 @@
   "@profileIsPublic": {
     "description": "Profile is Public"
   },
-  "showWalletAddress": "Показати адресу гаманця та кнопку підказки",
+  "showWalletAddress": "Показати адресу гаманця та кнопку чайових",
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
@@ -2400,7 +2400,7 @@
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "Дайте поради своїм френсам і торгуйте разом",
+  "loginDesc4": "Давайте чайові своїм френам і торгуйте разом",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },
