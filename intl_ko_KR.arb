@@ -136,11 +136,11 @@
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle2": "구매, 보내기 및 받기 Dogecoin",
+  "socialLoginTitle2": "Dogecoin 구매, 보내기 및 받기",
   "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc2": "X에 대한 정보를 제공하고 Doge를 보호하고 자신의 자금을 쉽게 관리하십시오.",
+  "socialLoginDesc2": "X에서 팁을 보내고, Doge를 안전하게 보관하고, 자금을 쉽게 관리하세요.",
   "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
@@ -180,15 +180,15 @@
   "@send": {
     "description": "Send"
   },
-  "deposit": "보증금",
+  "deposit": "입금",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "다리",
+  "bridge": "브리지",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "교환",
+  "swap": "스왑",
   "@swap": {
     "description": "Swap"
   },
@@ -264,7 +264,7 @@
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "업무",
+  "transactions": "트랜잭션",
   "@transactions": {
     "description": "Transactions"
   },
@@ -292,7 +292,7 @@
   "@all": {
     "description": "All"
   },
-  "dogeChain": "총독 사슬",
+  "dogeChain": "Doge Chain",
   "@dogeChain": {
     "description": "Doge Chain"
   },
@@ -300,7 +300,7 @@
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "총독 주소",
+  "tokenAddress": "Doge 주소",
   "@tokenAddress": {
     "description": "Doge Address"
   },
@@ -488,7 +488,7 @@
   "@refer": {
     "description": "Refer"
   },
-  "receive": "받다",
+  "receive": "받기",
   "@receive": {
     "description": "Receive"
   },
@@ -544,7 +544,7 @@
   "@task": {
     "description": "Task"
   },
-  "dapp": "Dapp",
+  "dapp": "DApp",
   "@dapp": {
     "description": "Dapp"
   },
@@ -572,11 +572,11 @@
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "주장하다",
+  "claim": "받기",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "$DOGE를 DogeOS로 연결",
+  "bridgeDOGEToDogeOS": "$DOGE를 DogeOS로 브리지",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
@@ -588,7 +588,7 @@
   "@followMyDogeOnX": {
     "description": "Follow MyDoge on X"
   },
-  "completeOneSwapOnDogeOS": "DogeOS에서 한 번의 교체를 완료하세요.",
+  "completeOneSwapOnDogeOS": "DogeOS에서 스왑 1회 완료",
   "@completeOneSwapOnDogeOS": {
     "description": "Complete one swap on DogeOS"
   },
@@ -604,7 +604,7 @@
   "@dogeOSEcosystem": {
     "description": "DogeOS Ecosystem"
   },
-  "dogeSwap": "도지스왑",
+  "dogeSwap": "DogeSwap",
   "@dogeSwap": {
     "description": "DogeSwap"
   },
@@ -648,7 +648,7 @@
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "메타 연결",
+  "connectMeta": "Meta 연결",
   "@connectMeta": {
     "description": "Connect Meta"
   },
@@ -660,7 +660,7 @@
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "연결 라인",
+  "connectLine": "Line 연결",
   "@connectLine": {
     "description": "Connect line"
   },
@@ -776,7 +776,7 @@
   "@refresh": {
     "description": "Refresh"
   },
-  "bindTipTitle": "링크 인증자 앱",
+  "bindTipTitle": "인증 앱 연결",
   "@bindTipTitle": {
     "description": "Link Authenticator App"
   },
@@ -796,7 +796,7 @@
   "@emailCodeSubtitle": {
     "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
   },
-  "bindStepTitle": "링크 인증자 앱",
+  "bindStepTitle": "인증 앱 연결",
   "@bindStepTitle": {
     "description": "Link Authenticator App"
   },
@@ -876,11 +876,11 @@
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "급여핀 설정",
+  "setPayPin": "결제 PIN 설정",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
-  "setPayPinSubtitle": "자산 보호를 위해 페이핀을 설정해주세요. 이 핀은 거래를 할 때 필요합니다.",
+  "setPayPinSubtitle": "자산 보호를 위해 결제 PIN을 설정하세요. 트랜잭션을 만들 때 이 PIN이 필요합니다.",
   "@setPayPinSubtitle": {
     "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
   },
@@ -892,15 +892,15 @@
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "페이핀 확인",
+  "confirmPayPin": "결제 PIN 확인",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
-  "confirmNotMatchTip": "두 개의 급여 핀이 일치하지 않습니다.",
+  "confirmNotMatchTip": "두 개의 결제 핀이 일치하지 않습니다.",
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "지불 입력 PIN",
+  "enterPayPin": "결제 PIN 입력",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
@@ -924,15 +924,15 @@
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "급여 PIN를 잊으셨나요?",
+  "forgetPayPin": "결제 PIN을 잊으셨나요?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "페이 표시 PIN",
+  "showPayPin": "결제 PIN 표시",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "페이 숨기기 PIN",
+  "hidePayPin": "결제 PIN 숨기기",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
@@ -968,11 +968,11 @@
   "@alignQRCode": {
     "description": ""
   },
-  "enterSeedPhrase": "시드 구문을 입력하세요.",
+  "enterSeedPhrase": "시드 문구를 입력하세요.",
   "@enterSeedPhrase": {
     "description": "Enter seed phrase"
   },
-  "enterSeedPhraseRemind": "시드 구문을 사용하여 지갑을 가져오는 경우 각 단어를 공백으로 구분하세요.",
+  "enterSeedPhraseRemind": "시드 문구를 사용하여 지갑을 가져오는 경우 각 단어를 공백으로 구분하세요.",
   "@enterSeedPhraseRemind": {
     "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
   },
@@ -988,23 +988,23 @@
   "@backUpRemind": {
     "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
   },
-  "backUpStep1": "1. 시드 구문을 보려면 버튼을 클릭하세요.",
+  "backUpStep1": "1. 시드 문구를 보려면 버튼을 클릭하세요.",
   "@backUpStep1": {
     "description": "1. Click the button to view the seed phrases."
   },
-  "backUpStep2": "시드 구문을 다른 사람이 접근할 수 없는 안전한 장소에 보관하십시오.",
+  "backUpStep2": "시드 문구를 다른 사람이 접근할 수 없는 안전한 장소에 보관하십시오.",
   "@backUpStep2": {
     "description": "Keep the seed phrases in a safe place where no one else can access to it."
   },
-  "backUpWarning": "경고: 시드 구문을 안전하게 보관하고 누구와도 공유하지 마세요. 개인 키를 가진 사람은 누구나 지갑에 있는 모든 자산을 훔칠 수 있습니다.",
+  "backUpWarning": "경고: 시드 문구를 안전하게 보관하고 누구와도 공유하지 마세요. 개인 키를 가진 사람은 누구나 지갑에 있는 모든 자산을 훔칠 수 있습니다.",
   "@backUpWarning": {
     "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
   },
-  "showSeed": "내 시드 구문 표시",
+  "showSeed": "내 시드 문구 표시",
   "@showSeed": {
     "description": "Show My Seed Phrases"
   },
-  "seedPhrases": "시드 구문",
+  "seedPhrases": "시드 문구",
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
@@ -1036,7 +1036,7 @@
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "미끄러짐",
+  "slippage": "슬리피지",
   "@slippage": {
     "description": "Slippage"
   },
@@ -1124,7 +1124,7 @@
   "@dogeDevnetBalance": {
     "description": "$DOGE (devnet) balance"
   },
-  "dogeDevnetFaucet": "DogeOs Devnet Faucet",
+  "dogeDevnetFaucet": "DogeOS Devnet Faucet",
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
@@ -1132,11 +1132,11 @@
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "Faucet란 무엇입니까?",
+  "whatIsFaucet": "Faucet이란?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Faucet를 사용하면 테스트 목적으로 무료 토큰을 요청할 수 있습니다.",
+  "whatIsFaucetHint": "Faucet을 사용하면 테스트 목적으로 무료 토큰을 받을 수 있는",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
@@ -1152,7 +1152,7 @@
   "@thestDevnetTokens": {
     "description": "These devnet tokens are"
   },
-  "notRealDoge": "진짜가 아니야 DOGE",
+  "notRealDoge": "실제 DOGE가 아닙니다",
   "@notRealDoge": {
     "description": " not real DOGE"
   },
@@ -1292,7 +1292,7 @@
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "급여 변경 PIN",
+  "changePayPin": "결제 PIN 변경",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
@@ -1380,11 +1380,11 @@
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "예상 받다",
+  "estReceive": "예상 수령",
   "@estReceive": {
     "description": "Est. Receive"
   },
-  "doge": "총독",
+  "doge": "Doge",
   "@doge": {
     "description": "Doge"
   },
@@ -1432,7 +1432,7 @@
   "@sendToCrypto": {
     "description": "Send to a crypto address"
   },
-  "importSeedPhrase": "시드 구문로 가져오기",
+  "importSeedPhrase": "시드 문구로 가져오기",
   "@importSeedPhrase": {
     "description": "Import with seed phrase"
   },
@@ -1448,7 +1448,7 @@
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "이전에 사용하신 지갑은 Cubist를 통해 시드가 보호된 소셜 지갑에서 가져온 것으로 확인되었습니다. 해당 소셜 지갑으로 업그레이드하게 됩니다. 또한 이전 Dogeverse 콘텐츠에 더 이상 액세스할 수 없습니다.\n\n궁금한 점이 있으면 지원팀에 문의하세요.",
+  "reminderDesc": "이전에 사용하신 지갑은 Cubist로 시드 문구가 보호되는 Social Wallet이었습니다. 해당 소셜 지갑으로 업그레이드됩니다. 또한 이전 Dogeverse 콘텐츠에는 더 이상 접근할 수 없습니다.\n\n궁금한 점이 있으면 지원팀에 문의하세요.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
@@ -1528,7 +1528,7 @@
   "@visitOurWebsite": {
     "description": "Visit Our Website"
   },
-  "viewSeedPhrase": "시드 구문 보기",
+  "viewSeedPhrase": "시드 문구 보기",
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
@@ -1552,11 +1552,11 @@
   "@hide": {
     "description": "Hide"
   },
-  "warningTitleNotice": "보안상의 이유로 페이지를 닫거나 새로 고치는 경우 다시 신청하고 최소 48시간 동안 기다려야 합니다. 떠나기 전에 시드 구문을 기억했는지 확인하세요.",
+  "warningTitleNotice": "보안상의 이유로 페이지를 닫거나 새로 고치면 다시 신청하고 최소 48시간을 기다려야 합니다. 나가기 전에 시드 문구를 저장했는지 확인하세요.",
   "@warningTitleNotice": {
     "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
   },
-  "keepSeedSafeTitle": "시드 구문을 안전하게 유지하세요",
+  "keepSeedSafeTitle": "시드 문구를 안전하게 유지하세요",
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
@@ -1564,7 +1564,7 @@
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge는 귀하의 시드를 서버에 저장하지 않으므로 지갑이 분실되면 복구할 수 없습니다.",
+  "keepSeedSafeNotice2": "MyDoge는 시드 문구를 서버에 저장하지 않으므로, 분실하면 지갑을 복구할 수 없습니다.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
@@ -1576,7 +1576,7 @@
   "@backupSecurity": {
     "description": "Backup  & Security"
   },
-  "backupYourWalletHint": "지갑을 클라우드에 저장하고 비밀번호로 보호하세요. 시드 구문을 적어두거나 비밀번호 관리자에 복사할 수도 있습니다.",
+  "backupYourWalletHint": "지갑을 클라우드에 저장하고 비밀번호로 보호하세요. 시드 문구를 적어두거나 비밀번호 관리자에 복사할 수도 있습니다.",
   "@backupYourWalletHint": {
     "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
   },
@@ -1680,7 +1680,7 @@
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "Doge 구매",
+  "buyDoge": "DOGE 구매",
   "@buyDoge": {
     "description": "Buy Doge"
   },
@@ -1828,7 +1828,7 @@
   "@youCanCreateWallet": {
     "description": "You can always create a Social Wallet here."
   },
-  "getDogeTestToken": "DOGE 테스트넷 토큰 받기 \n(0 값)",
+  "getDogeTestToken": "DOGE 테스트넷 토큰 받기 \n(가치 0)",
   "@getDogeTestToken": {
     "description": "Get DOGE testnet tokens \n (zero value)"
   },
@@ -2048,7 +2048,7 @@
   "@risks": {
     "description": "Unverified"
   },
-  "waitingUserToConnectX": "사용자가 연결하기를 기다리는 중 X",
+  "waitingUserToConnectX": "사용자가 X에 연결하기를 기다리는 중",
   "@waitingUserToConnectX": {
     "description": "Waiting user to connect X"
   },
@@ -2068,7 +2068,7 @@
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "지갑 보안을 강화하고 악의적인 공격의 위험을 줄이기 위해 MyDoge 지갑은 Cubist 보관 메커니즘을 사용하여 시드 구문을 안전하게 저장합니다.\n이를 보려면 요청을 제출하세요. 48시간 후에 사용할 수 있으며 3일 동안 볼 수 있습니다.",
+  "viewSeedPhraseTip1": "지갑 보안을 강화하고 악의적인 공격 위험을 줄이기 위해 MyDoge 지갑은 Cubist 보관 메커니즘으로 시드 문구를 안전하게 저장합니다.\n보려면 요청을 제출하세요. 48시간 후부터 3일 동안 볼 수 있습니다.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
@@ -2076,11 +2076,11 @@
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "시드 구문은 지갑의 열쇠 역할을 하는 12~24개의 단어 세트입니다. PIN가 없는 은행 카드처럼 카드를 가진 사람은 누구나 귀하의 자금에 액세스하고 이체할 수 있습니다.",
+  "seedPhraseHelpContent": "시드 문구는 지갑의 키 역할을 하는 12~24개의 단어입니다. PIN이 없는 은행 카드처럼, 이를 가진 사람은 누구나 자금에 접근하고 이체할 수 있습니다.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "귀하의 시드 구문은 MyDoge에 저장되지 않습니다.\n다시 보려면 48시간을 기다려야 합니다.",
+  "keepSeedSafeAlertContent": "시드 문구는 MyDoge에 저장되지 않습니다.\n다시 보려면 48시간을 기다려야 합니다.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
@@ -2092,15 +2092,15 @@
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "원래 지불 PIN",
+  "originalPayPIN": "기존 결제 PIN",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "새 급여 설정 PIN",
+  "setNewPayPIN": "새 결제 PIN 설정",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "새 결제 확인 PIN",
+  "confirmNewPayPIN": "새 결제 PIN 확인",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
@@ -2144,7 +2144,7 @@
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Dapp 요청",
+  "dappRequest": "DApp 요청",
   "@dappRequest": {
     "description": "Dapp request"
   },
@@ -2184,7 +2184,7 @@
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Dapp 권한",
+  "dappPermission": "DApp 권한",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
@@ -2240,7 +2240,7 @@
   "@disableTokenHint": {
     "description": "This may expose you to risky tokens and potential asset loss."
   },
-  "keepSeedSafeAlertTitle": "시드 구문을 저장하셨나요?",
+  "keepSeedSafeAlertTitle": "시드 문구를 저장하셨나요?",
   "@keepSeedSafeAlertTitle": {
     "description": "Have you saved your seed phrase?"
   },
@@ -2252,27 +2252,27 @@
   "@featurePoweredBy": {
     "description": "This feature is powered by "
   },
-  "viewSeedPhraseRequestTitle": "시드 구문 보기를 요청하셨습니다.",
+  "viewSeedPhraseRequestTitle": "시드 문구 보기를 요청하셨습니다.",
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "귀하의 시드 구문은 다음 이후에 여기에 표시됩니다.",
+  "viewSeedPhraseRequestTip": "시드 문구는 다음 이후 여기에 표시됩니다.",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "귀하의 시드 구문을 볼 준비가 되었습니다",
+  "receivedMnemonicTitle": "시드 문구를 볼 준비가 되었습니다",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
-  "receivedMnemonicSubTip1": "시드 구문을 안전하게 보관하세요.",
+  "receivedMnemonicSubTip1": "시드 문구를 안전하게 보관하세요.",
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "MyDoge 지갑은 사용자의 시드 구문을 저장하지 않습니다. 보기를 요청할 때마다 Cubist에서 검색하려면 48시간을 기다려야 합니다.",
+  "receivedMnemonicSubTip2": "MyDoge 지갑은 사용자의 시드 문구를 저장하지 않습니다. 볼 때마다 Cubist에서 가져오기 위해 48시간을 기다려야 합니다.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
-  "applyViewSeedPhrase": "시드 구문 보기 요청",
+  "applyViewSeedPhrase": "시드 문구 보기 요청",
   "@applyViewSeedPhrase": {
     "description": "Request to view seed phrase"
   },
@@ -2292,7 +2292,7 @@
   "@enterCodeDescription": {
     "description": "A 4-digit code was sent to "
   },
-  "seedPhraseHelpTitle": "시드 구문이란 무엇입니까?",
+  "seedPhraseHelpTitle": "시드 문구란 무엇인가요?",
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
@@ -2472,7 +2472,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "계정 보안을 위해 시드 구문을 내보내려면 인증이 필요합니다.",
+  "setupAuthDesc": "계정 보안을 위해 시드 문구를 내보내려면 인증이 필요합니다.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2516,7 +2516,7 @@
   "@authMethod": {
     "description": "Authentication Method"
   },
-  "authMethodDesc": "계정 로그인 및 시드 구문 내보내기에는 추가 보호 계층을 추가하는 인증자가 필요합니다.",
+  "authMethodDesc": "계정 로그인 및 시드 문구 내보내기에는 추가 보호 계층을 추가하는 인증자가 필요합니다.",
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
@@ -2588,7 +2588,7 @@
   "@whereDidISetItUp": {
     "description": "Where did I set it up?"
   },
-  "requestSeedTitle": "요청 시드 구문",
+  "requestSeedTitle": "시드 문구 요청",
   "@requestSeedTitle": {
     "description": "Request Seed Phrase"
   },
@@ -2596,11 +2596,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "자산의 안전을 보장하기 위해 시드 구문을 공개하기 전에 48시간의 대기 기간이 필요합니다.",
+  "requestSeedDesc1": "자산 보호를 위해 시드 문구를 공개하기 전 48시간의 대기 시간이 필요합니다.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "카운트다운이 끝난 후 시드 구문을 볼 수 있습니다.",
+  "requestSeedDesc2": "카운트다운이 끝나면 시드 문구를 볼 수 있습니다.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
@@ -2612,7 +2612,7 @@
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "귀하의 키나 암호화폐가 아닙니다.",
+  "viewSeedPhraseDesc1": "내 키가 아니면 내 코인이 아닙니다.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
@@ -2660,7 +2660,7 @@
   "@collectibles": {
     "description": "Collectibles"
   },
-  "dogeOSTestnetTitle": "DogeOS 테스트넷 Faucet",
+  "dogeOSTestnetTitle": "DogeOS Testnet Faucet",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
   },
@@ -2708,7 +2708,7 @@
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "테스트넷 토큰 청구",
+  "claimTestnetTitle": "테스트넷 토큰 받기",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
@@ -2724,7 +2724,7 @@
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "토큰 청구",
+  "claimTokens": "토큰 받기",
   "@claimTokens": {
     "description": "Claim tokens"
   },
@@ -2768,7 +2768,7 @@
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "다른 시드 구문을 사용한 새 지갑",
+  "aNewWalletWithADifferentSeedPhrase": "다른 시드 문구를 사용한 새 지갑",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
@@ -2868,7 +2868,7 @@
   "@collections": {
     "description": "Collections"
   },
-  "connectXForMyDogeTip": "MyDogeTip에 대해 X 연결",
+  "connectXForMyDogeTip": "MyDogeTip용 X 연결",
   "@connectXForMyDogeTip": {
     "description": "Connect  X for MyDogeTip"
   },
@@ -2928,7 +2928,7 @@
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "예금 토큰",
+  "depositTOKEN": "토큰 입금",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
@@ -2936,11 +2936,11 @@
   "@disconnectX": {
     "description": "Disconnect X"
   },
-  "disconnectXForMyDogeTip": "MyDogeTip에 대해 X 연결 끊기",
+  "disconnectXForMyDogeTip": "MyDogeTip용 X 연결 해제",
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "도지가 있나요?",
+  "doYouHaveDoge": "DOGE를 보유하고 있나요?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
@@ -3144,7 +3144,7 @@
   "@searchTokenName": {
     "description": "Search token name"
   },
-  "seedPhraseBackup": "시드 구문 백업",
+  "seedPhraseBackup": "시드 문구 백업",
   "@seedPhraseBackup": {
     "description": "Seed phrase backup"
   },
@@ -3220,7 +3220,7 @@
   "@termsOfUse2": {
     "description": "Terms of Use."
   },
-  "thenWhatAreYouWaitingFor": "그럼 당신은 무엇을 기다리고 있습니까?",
+  "thenWhatAreYouWaitingFor": "그럼 무엇을 기다리고 계신가요?",
   "@thenWhatAreYouWaitingFor": {
     "description": "Then what are you waiting for?"
   },
@@ -3232,11 +3232,11 @@
   "@toTheMoon": {
     "description": "To the moon"
   },
-  "transaction": "거래",
+  "transaction": "트랜잭션",
   "@transaction": {
     "description": "Transaction"
   },
-  "transaction2": "거래",
+  "transaction2": "트랜잭션",
   "@transaction2": {
     "description": "transaction"
   },
@@ -3248,11 +3248,11 @@
   "@transaction22": {
     "description": "Transaction 2"
   },
-  "transactionFAILED": "거래 실패",
+  "transactionFAILED": "트랜잭션 실패",
   "@transactionFAILED": {
     "description": "TRANSACTION FAILED"
   },
-  "transactionTIMEDOUT": "거래 시간이 초과되었습니다.",
+  "transactionTIMEDOUT": "트랜잭션 시간 초과",
   "@transactionTIMEDOUT": {
     "description": "TRANSACTION TIMED OUT"
   },
@@ -3260,7 +3260,7 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "제목 없음 Dapp",
+  "untitledDapp": "제목 없는 DApp",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },

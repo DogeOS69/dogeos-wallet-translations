@@ -184,11 +184,11 @@
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Мост",
+  "bridge": "Бридж",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Менять",
+  "swap": "Своп",
   "@swap": {
     "description": "Swap"
   },
@@ -292,7 +292,7 @@
   "@all": {
     "description": "All"
   },
-  "dogeChain": "Цепь Дога",
+  "dogeChain": "Doge Chain",
   "@dogeChain": {
     "description": "Doge Chain"
   },
@@ -300,7 +300,7 @@
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Адрес Дожа",
+  "tokenAddress": "Doge адрес",
   "@tokenAddress": {
     "description": "Doge Address"
   },
@@ -332,7 +332,7 @@
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Отправь газ друзьям",
+  "sendGasToFriends": "Отправить газ друзьям",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
@@ -488,7 +488,7 @@
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Получать",
+  "receive": "Получить",
   "@receive": {
     "description": "Receive"
   },
@@ -500,7 +500,7 @@
   "@marketCap": {
     "description": "Market Cap"
   },
-  "fdv": "ЗЗТЕРМ28ЗЗ",
+  "fdv": "FDV",
   "@fdv": {
     "description": "FDV"
   },
@@ -544,7 +544,7 @@
   "@task": {
     "description": "Task"
   },
-  "dapp": "ЗЗТЕРМ17ЗЗ",
+  "dapp": "DApp",
   "@dapp": {
     "description": "Dapp"
   },
@@ -572,11 +572,11 @@
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "Требовать",
+  "claim": "Получить",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "Мост $DOGE к DogeOS",
+  "bridgeDOGEToDogeOS": "Перевести $DOGE через бридж в DogeOS",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
@@ -588,11 +588,11 @@
   "@followMyDogeOnX": {
     "description": "Follow MyDoge on X"
   },
-  "completeOneSwapOnDogeOS": "Выполните один обмен на DogeOS.",
+  "completeOneSwapOnDogeOS": "Выполните один своп на DogeOS",
   "@completeOneSwapOnDogeOS": {
     "description": "Complete one swap on DogeOS"
   },
-  "dogeverse": "ЗЗТЕРМ2ЗЗ",
+  "dogeverse": "Dogeverse",
   "@dogeverse": {
     "description": "Dogeverse"
   },
@@ -648,7 +648,7 @@
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Подключить мета",
+  "connectMeta": "Подключить Meta",
   "@connectMeta": {
     "description": "Connect Meta"
   },
@@ -660,7 +660,7 @@
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Подключить линию",
+  "connectLine": "Подключить Line",
   "@connectLine": {
     "description": "Connect line"
   },
@@ -720,7 +720,7 @@
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "DogeOS мост",
+  "dogeOsBridge": "Бридж DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
@@ -776,7 +776,7 @@
   "@refresh": {
     "description": "Refresh"
   },
-  "bindTipTitle": "Приложение для проверки подлинности ссылок",
+  "bindTipTitle": "Подключить приложение-аутентификатор",
   "@bindTipTitle": {
     "description": "Link Authenticator App"
   },
@@ -796,7 +796,7 @@
   "@emailCodeSubtitle": {
     "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
   },
-  "bindStepTitle": "Приложение для проверки подлинности ссылок",
+  "bindStepTitle": "Подключить приложение-аутентификатор",
   "@bindStepTitle": {
     "description": "Link Authenticator App"
   },
@@ -876,11 +876,11 @@
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "Установить платежный пин-код",
+  "setPayPin": "Установить PIN оплаты",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
-  "setPayPinSubtitle": "Установите платежный PIN-код, чтобы защитить свои активы. Этот PIN-код потребуется при совершении транзакций.",
+  "setPayPinSubtitle": "Установите PIN оплаты, чтобы защитить свои активы. Этот PIN потребуется при совершении транзакций.",
   "@setPayPinSubtitle": {
     "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
   },
@@ -892,7 +892,7 @@
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "Подтвердить платежный код",
+  "confirmPayPin": "Подтвердить PIN оплаты",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
@@ -900,7 +900,7 @@
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "Введите оплату PIN",
+  "enterPayPin": "Введите PIN оплаты",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
@@ -924,15 +924,15 @@
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "Забудьте о плате PIN?",
+  "forgetPayPin": "Забыли PIN оплаты?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "Показать оплату PIN",
+  "showPayPin": "Показать PIN оплаты",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "Скрыть оплату PIN",
+  "hidePayPin": "Скрыть PIN оплаты",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
@@ -940,7 +940,7 @@
   "@setRecoveryEmail": {
     "description": "Set Recovery Email"
   },
-  "setRecoveryEmailSubtitle": "Чтобы обеспечить безопасность вашего ресурса, установите резервный адрес электронной почты. Этот адрес электронной почты будет использоваться для восстановления учетной записи в случае, если вы потеряете доступ к своей учетной записи.",
+  "setRecoveryEmailSubtitle": "Чтобы защитить ваши активы, укажите резервный адрес электронной почты. Он будет использоваться для восстановления аккаунта, если вы потеряете доступ.",
   "@setRecoveryEmailSubtitle": {
     "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
   },
@@ -968,11 +968,11 @@
   "@alignQRCode": {
     "description": ""
   },
-  "enterSeedPhrase": "Введите сид-фраза",
+  "enterSeedPhrase": "Введите сид-фразу",
   "@enterSeedPhrase": {
     "description": "Enter seed phrase"
   },
-  "enterSeedPhraseRemind": "Если вы используете сид-фраза для импорта кошелька, разделяйте каждое слово пробелом.",
+  "enterSeedPhraseRemind": "Если вы импортируете кошелек с помощью сид-фразы, разделяйте слова пробелами.",
   "@enterSeedPhraseRemind": {
     "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
   },
@@ -1000,11 +1000,11 @@
   "@backUpWarning": {
     "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
   },
-  "showSeed": "Показать мой сид-фразы",
+  "showSeed": "Показать мои сид-фразы",
   "@showSeed": {
     "description": "Show My Seed Phrases"
   },
-  "seedPhrases": "сид-фразы",
+  "seedPhrases": "Сид-фразы",
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
@@ -1036,7 +1036,7 @@
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "проскальзывание",
+  "slippage": "Проскальзывание",
   "@slippage": {
     "description": "Slippage"
   },
@@ -1124,7 +1124,7 @@
   "@dogeDevnetBalance": {
     "description": "$DOGE (devnet) balance"
   },
-  "dogeDevnetFaucet": "Кран Devnet DogeOs",
+  "dogeDevnetFaucet": "Фаусет devnet DogeOS",
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
@@ -1132,11 +1132,11 @@
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "Что такое кран?",
+  "whatIsFaucet": "Что такое фаусет?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Кран позволяет вам получать бесплатные токены для целей тестирования на",
+  "whatIsFaucetHint": "Фаусет позволяет получить бесплатные токены для тестирования в",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
@@ -1292,7 +1292,7 @@
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "Изменить оплату PIN",
+  "changePayPin": "Изменить PIN оплаты",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
@@ -1380,11 +1380,11 @@
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "Стандартное восточное время. Получать",
+  "estReceive": "Ожид. получение",
   "@estReceive": {
     "description": "Est. Receive"
   },
-  "doge": "Дож",
+  "doge": "Doge",
   "@doge": {
     "description": "Doge"
   },
@@ -1432,7 +1432,7 @@
   "@sendToCrypto": {
     "description": "Send to a crypto address"
   },
-  "importSeedPhrase": "Импорт с помощью сид-фраза",
+  "importSeedPhrase": "Импорт по сид-фразе",
   "@importSeedPhrase": {
     "description": "Import with seed phrase"
   },
@@ -1448,7 +1448,7 @@
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "Мы заметили, что кошелек, который вы ранее использовали, был из социального кошелька, а начальная фраза была защищена с помощью Cubist. Вы перейдете на этот социальный кошелек. Кроме того, ваш предыдущий контент Dogeverse больше не доступен.\n\nЕсли у вас есть какие-либо вопросы, пожалуйста, свяжитесь с нашей службой поддержки.",
+  "reminderDesc": "Мы заметили, что кошелек, который вы использовали раньше, был Social Wallet, а сид-фраза защищалась через Cubist. Вы перейдете на этот социальный кошелек. Кроме того, ваш прежний контент Dogeverse больше не доступен.\n\nЕсли у вас есть вопросы, обратитесь в поддержку.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
@@ -1488,7 +1488,7 @@
   "@amountLowercase": {
     "description": "amount"
   },
-  "dogeUppercase": "ЗЗТЕРМ20ЗЗ",
+  "dogeUppercase": "DOGE",
   "@dogeUppercase": {
     "description": "DOGE"
   },
@@ -1528,11 +1528,11 @@
   "@visitOurWebsite": {
     "description": "Visit Our Website"
   },
-  "viewSeedPhrase": "Посмотреть сид-фраза",
+  "viewSeedPhrase": "Посмотреть сид-фразу",
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "Расшифровать",
+  "seedBackupTip1": "Записать",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
@@ -1544,7 +1544,7 @@
   "@seedBackupTip3": {
     "description": "Digital copy"
   },
-  "keepSeedSafeNotice": "Любой, у кого есть ваше начальное число, может получить доступ ко всем вашим активам. Пожалуйста, сохраните информацию при себе.",
+  "keepSeedSafeNotice": "Любой, у кого есть ваша сид-фраза, может получить доступ ко всем вашим активам. Не сообщайте ее никому.",
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
@@ -1552,19 +1552,19 @@
   "@hide": {
     "description": "Hide"
   },
-  "warningTitleNotice": "В целях безопасности, если вы закроете или обновите страницу, вам придется подать повторную заявку и подождать не менее 48 часов. Прежде чем уйти, убедитесь, что вы запомнили свой сид-фраза.",
+  "warningTitleNotice": "В целях безопасности, если вы закроете или обновите страницу, вам нужно будет повторно отправить запрос и подождать не менее 48 часов. Перед выходом убедитесь, что вы сохранили свою сид-фразу.",
   "@warningTitleNotice": {
     "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
   },
-  "keepSeedSafeTitle": "Обеспечьте безопасность сид-фраза",
+  "keepSeedSafeTitle": "Храните сид-фразу в безопасности",
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "Любой, у кого есть ваше начальное число, может получить доступ ко всем вашим активам. Обязательно сделайте резервную копию своего начального числа, прежде чем получать переводы или удалять приложение.",
+  "keepSeedSafeNotice1": "Любой, у кого есть ваша сид-фраза, может получить доступ ко всем вашим активам. Сделайте резервную копию сид-фразы перед получением переводов или удалением приложения.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge не будет хранить ваш сид на своем сервере и, следовательно, не сможет восстановить ваш кошелек в случае его потери.",
+  "keepSeedSafeNotice2": "MyDoge не хранит вашу сид-фразу на сервере и не сможет восстановить кошелек, если она будет потеряна.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
@@ -1576,7 +1576,7 @@
   "@backupSecurity": {
     "description": "Backup  & Security"
   },
-  "backupYourWalletHint": "Сохраните свой кошелек в облаке и защитите его паролем. Вы также можете записать свой сид-фраза или скопировать его в менеджер паролей.",
+  "backupYourWalletHint": "Сохраните кошелек в облаке и защитите его паролем. Вы также можете записать сид-фразу или сохранить ее в менеджере паролей.",
   "@backupYourWalletHint": {
     "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
   },
@@ -1680,7 +1680,7 @@
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "Купить Дожа",
+  "buyDoge": "Купить DOGE",
   "@buyDoge": {
     "description": "Buy Doge"
   },
@@ -1816,7 +1816,7 @@
   "@drc20": {
     "description": "Drc20"
   },
-  "NFTs": "ЗЗТЕРМ15ЗЗ",
+  "NFTs": "NFTs",
   "@NFTs": {
     "description": "NFTs"
   },
@@ -2068,7 +2068,7 @@
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "Чтобы повысить безопасность кошелька и снизить риск злонамеренных атак, MyDoge Wallet использует механизм хранения Cubist для безопасного хранения вашего сид-фраза.\nДля просмотра оставьте заявку. Он будет доступен через 48 часов и доступен для просмотра в течение 3 дней.",
+  "viewSeedPhraseTip1": "Чтобы повысить безопасность кошелька и снизить риск атак, MyDoge Wallet использует механизм хранения Cubist для безопасного хранения вашей сид-фразы.\nЧтобы посмотреть ее, отправьте запрос. Она будет доступна через 48 часов и останется доступной для просмотра 3 дня.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
@@ -2076,11 +2076,11 @@
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "сид-фраза — это набор из 12–24 слов, который служит ключом к вашему кошельку. Как и банковская карта без PIN, любой, у кого она есть, может получить доступ к вашим средствам и перевести их.",
+  "seedPhraseHelpContent": "Сид-фраза — это набор из 12–24 слов, который служит ключом к вашему кошельку. Как банковская карта без PIN-кода, она позволяет любому, кто ее знает, получить доступ к вашим средствам и перевести их.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "Ваш сид-фраза не сохраняется в MyDoge.\nЧтобы просмотреть его снова, вам придется подождать 48 часов.",
+  "keepSeedSafeAlertContent": "Ваша сид-фраза не хранится в MyDoge.\nЧтобы посмотреть ее снова, нужно подождать 48 часов.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
@@ -2092,15 +2092,15 @@
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "Первоначальный платеж PIN",
+  "originalPayPIN": "Исходный PIN оплаты",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "Установить новую оплату PIN",
+  "setNewPayPIN": "Установить новый PIN оплаты",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "Подтвердить новый платеж PIN",
+  "confirmNewPayPIN": "Подтвердить новый PIN оплаты",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
@@ -2144,7 +2144,7 @@
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Dapp запрос",
+  "dappRequest": "Запрос DApp",
   "@dappRequest": {
     "description": "Dapp request"
   },
@@ -2184,7 +2184,7 @@
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Разрешение Dapp",
+  "dappPermission": "Разрешение DApp",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
@@ -2236,11 +2236,11 @@
   "@disable": {
     "description": "Disable"
   },
-  "disableTokenHint": "Это может подвергнуть вас риску использования токенов и потенциальной потере активов.",
+  "disableTokenHint": "Это может подвергнуть вас риску и привести к потере активов.",
   "@disableTokenHint": {
     "description": "This may expose you to risky tokens and potential asset loss."
   },
-  "keepSeedSafeAlertTitle": "Вы сохранили свой сид-фраза?",
+  "keepSeedSafeAlertTitle": "Вы сохранили свою сид-фразу?",
   "@keepSeedSafeAlertTitle": {
     "description": "Have you saved your seed phrase?"
   },
@@ -2252,27 +2252,27 @@
   "@featurePoweredBy": {
     "description": "This feature is powered by "
   },
-  "viewSeedPhraseRequestTitle": "Вы запросили просмотр сид-фраза.",
+  "viewSeedPhraseRequestTitle": "Вы запросили просмотр сид-фразы.",
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "Ваш сид-фраза будет показан здесь после",
+  "viewSeedPhraseRequestTip": "Ваша сид-фраза будет показана здесь после",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "Ваш сид-фраза готов к просмотру",
+  "receivedMnemonicTitle": "Ваша сид-фраза готова к просмотру",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
-  "receivedMnemonicSubTip1": "Пожалуйста, храните ваш сид-фраза в безопасности.",
+  "receivedMnemonicSubTip1": "Храните сид-фразу в безопасности.",
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "MyDoge Кошелек не хранит сид-фразы пользователей. Каждый раз, когда вы запрашиваете их просмотр, вам придется подождать 48 часов, чтобы получить их с Cubist.",
+  "receivedMnemonicSubTip2": "MyDoge Wallet не хранит сид-фразы пользователей. Каждый раз, когда вы запрашиваете просмотр, нужно подождать 48 часов, чтобы получить их из Cubist.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
-  "applyViewSeedPhrase": "Запрос на просмотр сид-фраза",
+  "applyViewSeedPhrase": "Запросить просмотр сид-фразы",
   "@applyViewSeedPhrase": {
     "description": "Request to view seed phrase"
   },
@@ -2296,19 +2296,19 @@
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
-  "seedPhraseHelpNoticeTitle": "Как обеспечить безопасность?",
+  "seedPhraseHelpNoticeTitle": "Как хранить ее безопасно?",
   "@seedPhraseHelpNoticeTitle": {
     "description": "How to keep it secure?"
   },
-  "seedPhraseHelpNotice1": "Запишите его или сохраните на автономном устройстве, например в холодном кошельке.",
+  "seedPhraseHelpNotice1": "Запишите ее или храните на офлайн-устройстве, например в холодном кошельке.",
   "@seedPhraseHelpNotice1": {
     "description": "Write it down or store it in an offline device such as a cold wallet."
   },
-  "seedPhraseHelpNotice2": "Никогда не сохраняйте его, делая снимки экрана.",
+  "seedPhraseHelpNotice2": "Никогда не сохраняйте ее с помощью скриншотов.",
   "@seedPhraseHelpNotice2": {
     "description": "Never store it by taking screenshots."
   },
-  "seedPhraseHelpNotice3": "Никогда не храните его в приложениях социальных сетей, электронной почте, мобильных заметках, облачных сервисах и т. д.",
+  "seedPhraseHelpNotice3": "Никогда не храните ее в социальных сетях, электронной почте, заметках, облачных сервисах и т. д.",
   "@seedPhraseHelpNotice3": {
     "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
   },
@@ -2472,7 +2472,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "В целях безопасности вашей учетной записи для экспорта сид-фраза требуется аутентификация.",
+  "setupAuthDesc": "В целях безопасности аккаунта экспорт сид-фразы требует аутентификации.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2516,7 +2516,7 @@
   "@authMethod": {
     "description": "Authentication Method"
   },
-  "authMethodDesc": "Для входа в учетную запись и экспорта сид-фраза требуется аутентификатор, что добавляет дополнительный уровень защиты.",
+  "authMethodDesc": "Для входа в аккаунт и экспорта сид-фразы требуется аутентификатор, добавляющий дополнительный уровень защиты.",
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
@@ -2588,7 +2588,7 @@
   "@whereDidISetItUp": {
     "description": "Where did I set it up?"
   },
-  "requestSeedTitle": "Запросить сид-фраза",
+  "requestSeedTitle": "Запрос сид-фразы",
   "@requestSeedTitle": {
     "description": "Request Seed Phrase"
   },
@@ -2596,11 +2596,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Чтобы обеспечить безопасность ваших активов, перед раскрытием вашего сид-фраза требуется 48-часовой период ожидания.",
+  "requestSeedDesc1": "Для безопасности ваших активов перед показом сид-фразы требуется 48-часовой период ожидания.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Вы сможете просмотреть свой сид-фраза после завершения обратного отсчета.",
+  "requestSeedDesc2": "Вы сможете посмотреть сид-фразу после окончания обратного отсчета.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
@@ -2612,7 +2612,7 @@
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "Ни ваши ключи, ни ваша криптовалюта.",
+  "viewSeedPhraseDesc1": "Не ваши ключи — не ваша криптовалюта.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
@@ -2660,7 +2660,7 @@
   "@collectibles": {
     "description": "Collectibles"
   },
-  "dogeOSTestnetTitle": "Фаусет тестнета DogeOS",
+  "dogeOSTestnetTitle": "Фаусет testnet DogeOS",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
   },
@@ -2708,7 +2708,7 @@
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "Получите токены тестовой сети",
+  "claimTestnetTitle": "Получить токены testnet",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
@@ -2768,7 +2768,7 @@
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "Новый кошелек с другим сид-фраза.",
+  "aNewWalletWithADifferentSeedPhrase": "Новый кошелек с другой сид-фразой",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
@@ -2900,11 +2900,11 @@
   "@creatingWallet": {
     "description": "Creating wallet..."
   },
-  "dapp2": "ЗЗТЕРМ16ЗЗ",
+  "dapp2": "DApp",
   "@dapp2": {
     "description": "DApp"
   },
-  "dapps": "ЗЗТЕРМ12ЗЗ",
+  "dapps": "dApps",
   "@dapps": {
     "description": "dApps"
   },
@@ -2928,7 +2928,7 @@
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "ДЕПОЗИТНЫЙ ТОКЕН",
+  "depositTOKEN": "ВНЕСТИ ТОКЕН",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
@@ -2940,7 +2940,7 @@
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "У тебя есть Дож?",
+  "doYouHaveDoge": "У вас есть DOGE?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
@@ -2964,11 +2964,11 @@
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "Стандартное восточное время. Газ",
+  "estGas": "Ожид. газ",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "Стандартное восточное время. Время",
+  "estTime": "Ожид. время",
   "@estTime": {
     "description": "Est. Time"
   },
@@ -3020,7 +3020,7 @@
   "@gasFee2": {
     "description": "Gas fee"
   },
-  "get": "Получать",
+  "get": "Получить",
   "@get": {
     "description": "Get"
   },
@@ -3100,7 +3100,7 @@
   "@paymentMethod": {
     "description": "Payment method"
   },
-  "pin": "ЗЗТЕРМ25ЗЗ",
+  "pin": "PIN",
   "@pin": {
     "description": "PIN"
   },
@@ -3208,7 +3208,7 @@
   "@swapOrder": {
     "description": "Swap order"
   },
-  "swipeTODEPOSIT": "ПРОВЕЛИТЕ, ЧТОБЫ ПОВЕСТИ НА ДЕПОЗИТ",
+  "swipeTODEPOSIT": "ПРОВЕДИТЕ, ЧТОБЫ ВНЕСТИ",
   "@swipeTODEPOSIT": {
     "description": "SWIPE TO DEPOSIT"
   },
@@ -3232,11 +3232,11 @@
   "@toTheMoon": {
     "description": "To the moon"
   },
-  "transaction": "Сделка",
+  "transaction": "Транзакция",
   "@transaction": {
     "description": "Transaction"
   },
-  "transaction2": "сделка",
+  "transaction2": "транзакция",
   "@transaction2": {
     "description": "transaction"
   },
@@ -3248,19 +3248,19 @@
   "@transaction22": {
     "description": "Transaction 2"
   },
-  "transactionFAILED": "ТРАНЗАКЦИЯ НЕ удалась",
+  "transactionFAILED": "ТРАНЗАКЦИЯ НЕ УДАЛАСЬ",
   "@transactionFAILED": {
     "description": "TRANSACTION FAILED"
   },
-  "transactionTIMEDOUT": "ТРАНЗАКЦИЯ ИСТЕКЛА",
+  "transactionTIMEDOUT": "ВРЕМЯ ТРАНЗАКЦИИ ИСТЕКЛО",
   "@transactionTIMEDOUT": {
     "description": "TRANSACTION TIMED OUT"
   },
-  "tvl": "ЗЗТЕРМ27ЗЗ",
+  "tvl": "TVL",
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "Без названия Dapp",
+  "untitledDapp": "DApp без названия",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },
@@ -3288,7 +3288,7 @@
   "@verifyYourPIN2": {
     "description": "Verify your PIN"
   },
-  "walletUsed": "Кошелек использован",
+  "walletUsed": "Использованный кошелек",
   "@walletUsed": {
     "description": "Wallet used"
   },

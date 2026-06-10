@@ -184,7 +184,7 @@
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Ponte",
+  "bridge": "Bridge",
   "@bridge": {
     "description": "Bridge"
   },
@@ -332,7 +332,7 @@
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Enviar gás para amigos",
+  "sendGasToFriends": "Enviar gas para amigos",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
@@ -544,7 +544,7 @@
   "@task": {
     "description": "Task"
   },
-  "dapp": "Dapp",
+  "dapp": "DApp",
   "@dapp": {
     "description": "Dapp"
   },
@@ -572,11 +572,11 @@
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "Reivindicar",
+  "claim": "Resgatar",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "Ponte de $DOGE para DogeOS",
+  "bridgeDOGEToDogeOS": "Fazer bridge de $DOGE para DogeOS",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
@@ -720,7 +720,7 @@
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "Ponte DogeOS",
+  "dogeOsBridge": "Bridge DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
@@ -1036,7 +1036,7 @@
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "Derrapagem",
+  "slippage": "Slippage",
   "@slippage": {
     "description": "Slippage"
   },
@@ -1132,11 +1132,11 @@
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "O que é uma torneira?",
+  "whatIsFaucet": "O que é um faucet?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Uma torneira permite que você reivindique tokens gratuitos para fins de teste em um",
+  "whatIsFaucetHint": "Um faucet permite resgatar tokens gratuitos para testes em uma",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
@@ -1448,7 +1448,7 @@
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "Percebemos que a carteira que você usou anteriormente era de uma carteira DogeOS, com a semente protegida via Cubist. Você fará o upgrade para essa carteira social. Além disso, seu conteúdo anterior do Dogeverse não está mais acessível.\n\nSe você tiver alguma dúvida, entre em contato com nossa equipe de suporte.",
+  "reminderDesc": "Percebemos que a carteira que você usou anteriormente era uma Social Wallet, com a frase de recuperação protegida pela Cubist. Você fará upgrade para essa carteira social. Além disso, seu conteúdo anterior do Dogeverse não estará mais acessível.\n\nSe tiver dúvidas, entre em contato com nossa equipe de suporte.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
@@ -2144,7 +2144,7 @@
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Solicitação de Dapp",
+  "dappRequest": "Solicitação de DApp",
   "@dappRequest": {
     "description": "Dapp request"
   },
@@ -2184,7 +2184,7 @@
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Permissão de Dapp",
+  "dappPermission": "Permissão de DApp",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
@@ -2268,7 +2268,7 @@
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "A Carteira MyDoge não armazena as frases de semente dos usuários. Cada vez que você solicitar a visualização, deverá esperar 48 horas para recuperá-las do Cubist.",
+  "receivedMnemonicSubTip2": "A Carteira MyDoge não armazena as frases de recuperação dos usuários. Cada vez que você solicitar a visualização, deverá esperar 48 horas para recuperá-las do Cubist.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
@@ -2520,7 +2520,7 @@
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
-  "passkey": "chave de acesso",
+  "passkey": "Chave de acesso",
   "@passkey": {
     "description": "Passkey"
   },
@@ -2596,15 +2596,15 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Para garantir a segurança dos seus bens, é necessário um período de espera de 48 horas antes de revelar o seu frase de recuperação.",
+  "requestSeedDesc1": "Para proteger seus ativos, é necessário aguardar 48 horas antes de revelar sua frase de recuperação.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Você pode visualizar seu frase de recuperação após o término da contagem regressiva.",
+  "requestSeedDesc2": "Você poderá ver sua frase de recuperação quando a contagem regressiva terminar.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
-  "passkeyNotCompleted": "A verificação chave de acesso não foi concluída.",
+  "passkeyNotCompleted": "A verificação da chave de acesso não foi concluída.",
   "@passkeyNotCompleted": {
     "description": "Passkey verification was not completed."
   },
@@ -2612,7 +2612,7 @@
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "Nem suas chaves, nem sua criptografia.",
+  "viewSeedPhraseDesc1": "Sem suas chaves, sem seus criptoativos.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
@@ -2652,7 +2652,7 @@
   "@activity": {
     "description": "Activity"
   },
-  "tokens": "Fichas",
+  "tokens": "Tokens",
   "@tokens": {
     "description": "Tokens"
   },
@@ -2676,7 +2676,7 @@
   "@noNFTsfound": {
     "description": "No NFTs found"
   },
-  "passkeySetupNotCompleted": "A configuração do chave de acesso não foi concluída.",
+  "passkeySetupNotCompleted": "A configuração da chave de acesso não foi concluída.",
   "@passkeySetupNotCompleted": {
     "description": "Passkey setup was not completed. "
   },
@@ -2708,7 +2708,7 @@
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "Reivindicar tokens Testnet",
+  "claimTestnetTitle": "Resgatar tokens de testnet",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
@@ -2724,7 +2724,7 @@
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "Reivindicar tokens",
+  "claimTokens": "Resgatar tokens",
   "@claimTokens": {
     "description": "Claim tokens"
   },
@@ -2768,7 +2768,7 @@
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "Uma nova carteira com um frase de recuperação diferente",
+  "aNewWalletWithADifferentSeedPhrase": "Uma nova carteira com uma frase de recuperação diferente",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
@@ -2832,7 +2832,7 @@
   "@biometrics": {
     "description": "Biometrics"
   },
-  "bridgeRoute": "Rota da bridge",
+  "bridgeRoute": "Rota de bridge",
   "@bridgeRoute": {
     "description": "Bridge Route"
   },
@@ -2928,7 +2928,7 @@
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "TOKEN DE DEPÓSITO",
+  "depositTOKEN": "DEPOSITAR TOKEN",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
@@ -2964,11 +2964,11 @@
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "Husa. Gás",
+  "estGas": "Est. gas",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "Husa. Tempo",
+  "estTime": "Est. tempo",
   "@estTime": {
     "description": "Est. Time"
   },
@@ -3016,7 +3016,7 @@
   "@fundYourWalletToGetStarted": {
     "description": "Fund your wallet to get started"
   },
-  "gasFee2": "Taxa de gás",
+  "gasFee2": "Taxa de gas",
   "@gasFee2": {
     "description": "Gas fee"
   },
@@ -3132,11 +3132,11 @@
   "@resetWallet": {
     "description": "Reset wallet"
   },
-  "searchCrypto": "Pesquisar criptografia",
+  "searchCrypto": "Pesquisar cripto",
   "@searchCrypto": {
     "description": "Search crypto"
   },
-  "searchToken": "Token de pesquisa",
+  "searchToken": "Pesquisar token",
   "@searchToken": {
     "description": "Search token"
   },
@@ -3260,7 +3260,7 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "Sem título Dapp",
+  "untitledDapp": "DApp sem título",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },

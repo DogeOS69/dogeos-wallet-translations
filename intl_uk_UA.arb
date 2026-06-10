@@ -180,15 +180,15 @@
   "@send": {
     "description": "Send"
   },
-  "deposit": "депозит",
+  "deposit": "Депозит",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Міст",
+  "bridge": "Bridge",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Обмін",
+  "swap": "Своп",
   "@swap": {
     "description": "Swap"
   },
@@ -220,7 +220,7 @@
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "Імпортний гаманець",
+  "importWallet": "Імпортувати гаманець",
   "@importWallet": {
     "description": "Import wallet"
   },
@@ -244,7 +244,7 @@
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Виберіть маркер",
+  "selectToken": "Виберіть токен",
   "@selectToken": {
     "description": "Select token"
   },
@@ -264,7 +264,7 @@
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "транзакції",
+  "transactions": "Транзакції",
   "@transactions": {
     "description": "Transactions"
   },
@@ -280,7 +280,7 @@
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Ім'я або адреса токена пошуку",
+  "searchTokenNameOrAddress": "Пошук назви або адреси токена",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
@@ -292,7 +292,7 @@
   "@all": {
     "description": "All"
   },
-  "dogeChain": "Ланцюг дожів",
+  "dogeChain": "Doge Chain",
   "@dogeChain": {
     "description": "Doge Chain"
   },
@@ -300,7 +300,7 @@
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Адреса дожа",
+  "tokenAddress": "Doge адреса",
   "@tokenAddress": {
     "description": "Doge Address"
   },
@@ -332,7 +332,7 @@
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Надішліть газ друзям",
+  "sendGasToFriends": "Надіслати газ друзям",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
@@ -544,7 +544,7 @@
   "@task": {
     "description": "Task"
   },
-  "dapp": "Dapp",
+  "dapp": "DApp",
   "@dapp": {
     "description": "Dapp"
   },
@@ -572,11 +572,11 @@
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "Претензія",
+  "claim": "Отримати",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "Міст $DOGE до DogeOS",
+  "bridgeDOGEToDogeOS": "Переказати $DOGE через bridge у DogeOS",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
@@ -720,7 +720,7 @@
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "Міст DogeOS",
+  "dogeOsBridge": "Bridge DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
@@ -776,7 +776,7 @@
   "@refresh": {
     "description": "Refresh"
   },
-  "bindTipTitle": "Програма автентифікації посилань",
+  "bindTipTitle": "Підключити застосунок-автентифікатор",
   "@bindTipTitle": {
     "description": "Link Authenticator App"
   },
@@ -796,7 +796,7 @@
   "@emailCodeSubtitle": {
     "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
   },
-  "bindStepTitle": "Програма автентифікації посилань",
+  "bindStepTitle": "Підключити застосунок-автентифікатор",
   "@bindStepTitle": {
     "description": "Link Authenticator App"
   },
@@ -876,11 +876,11 @@
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "Встановити платіжний PIN-код",
+  "setPayPin": "Встановити PIN оплати",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
-  "setPayPinSubtitle": "Встановіть платіжний PIN-код, щоб захистити свої активи. Цей PIN-код знадобиться під час здійснення транзакцій.",
+  "setPayPinSubtitle": "Встановіть PIN оплати, щоб захистити свої активи. Цей PIN знадобиться під час здійснення транзакцій.",
   "@setPayPinSubtitle": {
     "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
   },
@@ -892,7 +892,7 @@
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "Підтвердьте Pay Pin",
+  "confirmPayPin": "Підтвердити PIN оплати",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
@@ -900,7 +900,7 @@
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "Введіть платіж PIN",
+  "enterPayPin": "Введіть PIN оплати",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
@@ -924,15 +924,15 @@
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "Забули Pay PIN?",
+  "forgetPayPin": "Забули PIN оплати?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "Показати Pay PIN",
+  "showPayPin": "Показати PIN оплати",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "Приховати Pay PIN",
+  "hidePayPin": "Приховати PIN оплати",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
@@ -940,7 +940,7 @@
   "@setRecoveryEmail": {
     "description": "Set Recovery Email"
   },
-  "setRecoveryEmailSubtitle": "Щоб забезпечити безпеку свого ресурсу, установіть резервну електронну адресу. Ця електронна адреса буде використана для відновлення облікового запису, якщо ви втратите доступ до свого облікового запису.",
+  "setRecoveryEmailSubtitle": "Щоб захистити ваші активи, укажіть резервну електронну адресу. Вона використовуватиметься для відновлення акаунта, якщо ви втратите доступ.",
   "@setRecoveryEmailSubtitle": {
     "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
   },
@@ -968,11 +968,11 @@
   "@alignQRCode": {
     "description": ""
   },
-  "enterSeedPhrase": "Введіть seed-фраза",
+  "enterSeedPhrase": "Введіть seed-фразу",
   "@enterSeedPhrase": {
     "description": "Enter seed phrase"
   },
-  "enterSeedPhraseRemind": "Якщо ви використовуєте seed-фраза для імпорту гаманця, розділяйте кожне слово пробілом.",
+  "enterSeedPhraseRemind": "Якщо ви імпортуєте гаманець за seed-фразою, розділяйте слова пробілами.",
   "@enterSeedPhraseRemind": {
     "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
   },
@@ -1000,11 +1000,11 @@
   "@backUpWarning": {
     "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
   },
-  "showSeed": "Показати мій seed-фрази",
+  "showSeed": "Показати мої seed-фрази",
   "@showSeed": {
     "description": "Show My Seed Phrases"
   },
-  "seedPhrases": "seed-фрази",
+  "seedPhrases": "Seed-фрази",
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
@@ -1036,7 +1036,7 @@
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "Ковзання",
+  "slippage": "Прослизання",
   "@slippage": {
     "description": "Slippage"
   },
@@ -1064,11 +1064,11 @@
   "@networkUppercase": {
     "description": "Network"
   },
-  "customTokens": "Спеціальні жетони",
+  "customTokens": "Користувацькі токени",
   "@customTokens": {
     "description": "Custom Tokens"
   },
-  "allTokens": "Усі жетони",
+  "allTokens": "Усі токени",
   "@allTokens": {
     "description": "All tokens"
   },
@@ -1080,7 +1080,7 @@
   "@contractAddress": {
     "description": "Contract address"
   },
-  "tokenSymbol": "Символ маркера",
+  "tokenSymbol": "Символ токена",
   "@tokenSymbol": {
     "description": "Token symbol"
   },
@@ -1088,11 +1088,11 @@
   "@decimalsOfPrecision": {
     "description": "Decimals of precision"
   },
-  "turnOffRisk": "Вимкнути фільтр ризикованих токенів？",
+  "turnOffRisk": "Вимкнути фільтр ризикованих токенів?",
   "@turnOffRisk": {
     "description": "Turn off risky tokens filter？"
   },
-  "sureTurnOff": "Ви впевнені, що бажаєте вимкнути фільтр ризикованих маркерів? Це може призвести до втрати активів.",
+  "sureTurnOff": "Ви впевнені, що хочете вимкнути фільтр ризикованих токенів? Це може призвести до втрати активів.",
   "@sureTurnOff": {
     "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
   },
@@ -1124,7 +1124,7 @@
   "@dogeDevnetBalance": {
     "description": "$DOGE (devnet) balance"
   },
-  "dogeDevnetFaucet": "Кран DogeOs Devnet",
+  "dogeDevnetFaucet": "Фаусет devnet DogeOS",
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
@@ -1132,11 +1132,11 @@
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "Що таке кран?",
+  "whatIsFaucet": "Що таке фаусет?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Кран дозволяє вимагати безкоштовні токени для цілей тестування на a",
+  "whatIsFaucetHint": "Фаусет дозволяє отримати безкоштовні токени для тестування в",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
@@ -1292,7 +1292,7 @@
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "Змінити оплату PIN",
+  "changePayPin": "Змінити PIN оплати",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
@@ -1380,11 +1380,11 @@
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "Приблизно Отримати",
+  "estReceive": "Очік. отримання",
   "@estReceive": {
     "description": "Est. Receive"
   },
-  "doge": "Дож",
+  "doge": "Doge",
   "@doge": {
     "description": "Doge"
   },
@@ -1432,7 +1432,7 @@
   "@sendToCrypto": {
     "description": "Send to a crypto address"
   },
-  "importSeedPhrase": "Імпортуйте за допомогою seed-фраза",
+  "importSeedPhrase": "Імпортувати за seed-фразою",
   "@importSeedPhrase": {
     "description": "Import with seed phrase"
   },
@@ -1448,7 +1448,7 @@
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "Ми помітили, що гаманець, яким ви раніше користувалися, був із соціального гаманця, із початковим кодом, захищеним через Cubist. Ви перейдете на цей соціальний гаманець. Крім того, ваш попередній вміст Dogeverse більше не доступний.\n\nЯкщо у вас виникли запитання, зверніться до нашої служби підтримки.",
+  "reminderDesc": "Ми помітили, що гаманець, яким ви раніше користувалися, був Social Wallet із seed-фразою, захищеною через Cubist. Ви перейдете на цей соціальний гаманець. Крім того, ваш попередній вміст Dogeverse більше не доступний.\n\nЯкщо у вас є запитання, зверніться до служби підтримки.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
@@ -1528,11 +1528,11 @@
   "@visitOurWebsite": {
     "description": "Visit Our Website"
   },
-  "viewSeedPhrase": "Переглянути seed-фраза",
+  "viewSeedPhrase": "Переглянути seed-фразу",
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "Транскрибувати",
+  "seedBackupTip1": "Записати",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
@@ -1544,7 +1544,7 @@
   "@seedBackupTip3": {
     "description": "Digital copy"
   },
-  "keepSeedSafeNotice": "Будь-хто, хто має ваше насіння, може отримати доступ до всіх ваших активів. Зберігайте інформацію при собі.",
+  "keepSeedSafeNotice": "Будь-хто, хто має вашу seed-фразу, може отримати доступ до всіх ваших активів. Нікому її не повідомляйте.",
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
@@ -1552,19 +1552,19 @@
   "@hide": {
     "description": "Hide"
   },
-  "warningTitleNotice": "З міркувань безпеки, якщо ви закриєте або оновите сторінку, вам потрібно буде повторно подати заявку та почекати щонайменше 48 годин. Будь ласка, переконайтеся, що ви запам'ятали свій seed-фраза перед від'їздом.",
+  "warningTitleNotice": "З міркувань безпеки, якщо ви закриєте або оновите сторінку, потрібно буде повторно подати запит і зачекати щонайменше 48 годин. Перед виходом переконайтеся, що ви зберегли свою seed-фразу.",
   "@warningTitleNotice": {
     "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
   },
-  "keepSeedSafeTitle": "Тримайте seed-фраза у безпеці",
+  "keepSeedSafeTitle": "Зберігайте seed-фразу в безпеці",
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "Будь-хто, хто має ваше насіння, може отримати доступ до всіх ваших активів. Будь ласка, обов’язково зробіть резервну копію початкового коду, перш ніж отримувати перекази або видаляти програму.",
+  "keepSeedSafeNotice1": "Будь-хто, хто має вашу seed-фразу, може отримати доступ до всіх ваших активів. Створіть резервну копію seed-фрази перед отриманням переказів або видаленням застосунку.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge не зберігатиме ваш початковий код на своєму сервері, і тому не зможе відновити ваш гаманець після його втрати.",
+  "keepSeedSafeNotice2": "MyDoge не зберігає вашу seed-фразу на сервері й не зможе відновити гаманець, якщо її буде втрачено.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
@@ -1576,7 +1576,7 @@
   "@backupSecurity": {
     "description": "Backup  & Security"
   },
-  "backupYourWalletHint": "Збережіть свій гаманець у хмарі та захистіть його паролем. Ви також можете записати свій seed-фраза або скопіювати його в менеджер паролів.",
+  "backupYourWalletHint": "Збережіть гаманець у хмарі та захистіть його паролем. Також можна записати seed-фразу або зберегти її в менеджері паролів.",
   "@backupYourWalletHint": {
     "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
   },
@@ -1680,7 +1680,7 @@
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "Купити Doge",
+  "buyDoge": "Купити DOGE",
   "@buyDoge": {
     "description": "Buy Doge"
   },
@@ -1828,7 +1828,7 @@
   "@youCanCreateWallet": {
     "description": "You can always create a Social Wallet here."
   },
-  "getDogeTestToken": "Отримайте маркери тестової мережі DOGE \n(нульове значення)",
+  "getDogeTestToken": "Отримати токени тестової мережі DOGE \n(нульова вартість)",
   "@getDogeTestToken": {
     "description": "Get DOGE testnet tokens \n (zero value)"
   },
@@ -2068,7 +2068,7 @@
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "Щоб підвищити безпеку гаманця та зменшити ризик зловмисних атак, MyDoge Wallet використовує механізм зберігання Cubist для надійного зберігання вашого seed-фраза.\nДля перегляду надішліть заявку. Він буде доступний через 48 годин і доступний для перегляду протягом 3 днів.",
+  "viewSeedPhraseTip1": "Щоб підвищити безпеку гаманця та зменшити ризик атак, MyDoge Wallet використовує механізм зберігання Cubist для безпечного зберігання вашої seed-фрази.\nЩоб переглянути її, надішліть запит. Вона буде доступна через 48 годин і залишатиметься доступною для перегляду 3 дні.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
@@ -2076,11 +2076,11 @@
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "seed-фраза — це набір із 12–24 слів, який служить ключем до вашого гаманця. Як і банківська картка без PIN, будь-хто, хто її має, може отримати доступ до ваших коштів і переказати їх.",
+  "seedPhraseHelpContent": "Seed-фраза — це набір із 12–24 слів, який служить ключем до вашого гаманця. Як банківська картка без PIN-коду, вона дозволяє будь-кому, хто її має, отримати доступ до ваших коштів і переказати їх.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "Ваш seed-фраза не зберігається в MyDoge.\nЩоб переглянути його знову, потрібно зачекати 48 годин.",
+  "keepSeedSafeAlertContent": "Ваша seed-фраза не зберігається в MyDoge.\nЩоб переглянути її знову, потрібно зачекати 48 годин.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
@@ -2088,19 +2088,19 @@
   "@manageCrypto": {
     "description": "Manage crypto"
   },
-  "addCustomToken": "Додайте спеціальний маркер",
+  "addCustomToken": "Додати користувацький токен",
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "Оригінальна оплата PIN",
+  "originalPayPIN": "Поточний PIN оплати",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "Встановіть новий Pay PIN",
+  "setNewPayPIN": "Встановити новий PIN оплати",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "Підтвердьте новий Pay PIN",
+  "confirmNewPayPIN": "Підтвердити новий PIN оплати",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
@@ -2144,7 +2144,7 @@
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Запит Dapp",
+  "dappRequest": "Запит DApp",
   "@dappRequest": {
     "description": "Dapp request"
   },
@@ -2184,7 +2184,7 @@
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Дозвіл Dapp",
+  "dappPermission": "Дозвіл DApp",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
@@ -2228,7 +2228,7 @@
   "@authenticatingWithFaceID": {
     "description": "Authenticating with Face ID..."
   },
-  "disableToken": "Вимкнути фільтр ризикованих маркерів?",
+  "disableToken": "Вимкнути фільтр ризикованих токенів?",
   "@disableToken": {
     "description": "Disable risky token filter?"
   },
@@ -2240,7 +2240,7 @@
   "@disableTokenHint": {
     "description": "This may expose you to risky tokens and potential asset loss."
   },
-  "keepSeedSafeAlertTitle": "Ви зберегли свій seed-фраза?",
+  "keepSeedSafeAlertTitle": "Ви зберегли свою seed-фразу?",
   "@keepSeedSafeAlertTitle": {
     "description": "Have you saved your seed phrase?"
   },
@@ -2252,27 +2252,27 @@
   "@featurePoweredBy": {
     "description": "This feature is powered by "
   },
-  "viewSeedPhraseRequestTitle": "Ви надіслали запит на перегляд seed-фраза.",
+  "viewSeedPhraseRequestTitle": "Ви надіслали запит на перегляд seed-фрази.",
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "Ваш seed-фраза буде показано тут пізніше",
+  "viewSeedPhraseRequestTip": "Ваша seed-фраза буде показана тут після",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "Ваш seed-фраза готовий до перегляду",
+  "receivedMnemonicTitle": "Ваша seed-фраза готова до перегляду",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
-  "receivedMnemonicSubTip1": "Зберігайте свій seed-фраза у безпеці.",
+  "receivedMnemonicSubTip1": "Зберігайте seed-фразу в безпеці.",
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "MyDoge Wallet не зберігає seed-фрази користувачів. Щоразу, коли ви надсилаєте запит на їх перегляд, ви повинні чекати 48 годин, щоб отримати їх із Cubist.",
+  "receivedMnemonicSubTip2": "MyDoge Wallet не зберігає seed-фрази користувачів. Щоразу, коли ви запитуєте перегляд, потрібно зачекати 48 годин, щоб отримати їх із Cubist.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
-  "applyViewSeedPhrase": "Запит на перегляд seed-фраза",
+  "applyViewSeedPhrase": "Запитати перегляд seed-фрази",
   "@applyViewSeedPhrase": {
     "description": "Request to view seed phrase"
   },
@@ -2296,19 +2296,19 @@
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
-  "seedPhraseHelpNoticeTitle": "Як убезпечити його?",
+  "seedPhraseHelpNoticeTitle": "Як зберегти її в безпеці?",
   "@seedPhraseHelpNoticeTitle": {
     "description": "How to keep it secure?"
   },
-  "seedPhraseHelpNotice1": "Запишіть його або зберігайте в офлайн-пристрої, наприклад у холодному гаманці.",
+  "seedPhraseHelpNotice1": "Запишіть її або зберігайте на офлайн-пристрої, наприклад у холодному гаманці.",
   "@seedPhraseHelpNotice1": {
     "description": "Write it down or store it in an offline device such as a cold wallet."
   },
-  "seedPhraseHelpNotice2": "Ніколи не зберігайте його, роблячи скріншоти.",
+  "seedPhraseHelpNotice2": "Ніколи не зберігайте її за допомогою скріншотів.",
   "@seedPhraseHelpNotice2": {
     "description": "Never store it by taking screenshots."
   },
-  "seedPhraseHelpNotice3": "Ніколи не зберігайте його в програмах соціальних мереж, електронних листах, мобільних нагадуваннях, хмарних службах тощо.",
+  "seedPhraseHelpNotice3": "Ніколи не зберігайте її в соцмережах, електронній пошті, нотатках, хмарних сервісах тощо.",
   "@seedPhraseHelpNotice3": {
     "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
   },
@@ -2360,7 +2360,7 @@
   "@getStartWithDogeWallet": {
     "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
-  "filterHighRiskTokens": "Відфільтруйте маркери високого ризику одним клацанням миші. Жодні активи не будуть втрачені.",
+  "filterHighRiskTokens": "Фільтруйте токени високого ризику одним натисканням. Жодні активи не буде втрачено.",
   "@filterHighRiskTokens": {
     "description": "Filter out high-risk tokens with one click. No assets will be lost."
   },
@@ -2472,7 +2472,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "Для безпеки вашого облікового запису експорт seed-фраза вимагає автентифікації.",
+  "setupAuthDesc": "З міркувань безпеки акаунта експорт seed-фрази вимагає автентифікації.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2516,7 +2516,7 @@
   "@authMethod": {
     "description": "Authentication Method"
   },
-  "authMethodDesc": "Для входу в обліковий запис і експорту seed-фраза потрібен автентифікатор, що додає додатковий рівень захисту.",
+  "authMethodDesc": "Для входу в акаунт і експорту seed-фрази потрібен автентифікатор, що додає додатковий рівень захисту.",
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
@@ -2588,7 +2588,7 @@
   "@whereDidISetItUp": {
     "description": "Where did I set it up?"
   },
-  "requestSeedTitle": "Запит seed-фраза",
+  "requestSeedTitle": "Запит seed-фрази",
   "@requestSeedTitle": {
     "description": "Request Seed Phrase"
   },
@@ -2596,11 +2596,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Щоб гарантувати безпеку ваших активів, потрібен 48-годинний період очікування, перш ніж розкрити ваш seed-фраза.",
+  "requestSeedDesc1": "Для безпеки ваших активів перед показом seed-фрази потрібен 48-годинний період очікування.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Ви можете переглянути свій seed-фраза після закінчення зворотного відліку.",
+  "requestSeedDesc2": "Ви зможете переглянути seed-фразу після завершення зворотного відліку.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
@@ -2612,7 +2612,7 @@
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "Не ваші ключі, не ваша криптографія.",
+  "viewSeedPhraseDesc1": "Не ваші ключі — не ваша криптовалюта.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
@@ -2652,7 +2652,7 @@
   "@activity": {
     "description": "Activity"
   },
-  "tokens": "Жетони",
+  "tokens": "Токени",
   "@tokens": {
     "description": "Tokens"
   },
@@ -2668,7 +2668,7 @@
   "@dogeOSTestnetDesc": {
     "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
   },
-  "requestTokens": "Запит жетонів",
+  "requestTokens": "Запит токенів",
   "@requestTokens": {
     "description": "Request tokens"
   },
@@ -2708,7 +2708,7 @@
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "Вимагайте токени Testnet",
+  "claimTestnetTitle": "Отримати токени testnet",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
@@ -2724,7 +2724,7 @@
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "Токени претензій",
+  "claimTokens": "Отримати токени",
   "@claimTokens": {
     "description": "Claim tokens"
   },
@@ -2768,7 +2768,7 @@
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "Новий гаманець з іншим seed-фраза",
+  "aNewWalletWithADifferentSeedPhrase": "Новий гаманець з іншою seed-фразою",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
@@ -2928,7 +2928,7 @@
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "ДЕПОЗИТ ТОКЕН",
+  "depositTOKEN": "ВНЕСТИ ТОКЕН",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
@@ -2940,7 +2940,7 @@
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "У вас є Додж?",
+  "doYouHaveDoge": "У вас є DOGE?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
@@ -2964,11 +2964,11 @@
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "Приблизно газ",
+  "estGas": "Очік. газ",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "Приблизно час",
+  "estTime": "Очік. час",
   "@estTime": {
     "description": "Est. Time"
   },
@@ -2988,7 +2988,7 @@
   "@fee": {
     "description": "Fee"
   },
-  "filterRiskTokens": "Фільтр маркерів ризику",
+  "filterRiskTokens": "Фільтр ризикованих токенів",
   "@filterRiskTokens": {
     "description": "Filter risk tokens"
   },
@@ -3136,11 +3136,11 @@
   "@searchCrypto": {
     "description": "Search crypto"
   },
-  "searchToken": "Маркер пошуку",
+  "searchToken": "Пошук токена",
   "@searchToken": {
     "description": "Search token"
   },
-  "searchTokenName": "Назва маркера пошуку",
+  "searchTokenName": "Пошук назви токена",
   "@searchTokenName": {
     "description": "Search token name"
   },
@@ -3208,7 +3208,7 @@
   "@swapOrder": {
     "description": "Swap order"
   },
-  "swipeTODEPOSIT": "ПРОВЕРХНІТЬ, ЩОБ ДЕПОЗИТ",
+  "swipeTODEPOSIT": "ПРОВЕДІТЬ, ЩОБ ВНЕСТИ",
   "@swipeTODEPOSIT": {
     "description": "SWIPE TO DEPOSIT"
   },
@@ -3236,7 +3236,7 @@
   "@transaction": {
     "description": "Transaction"
   },
-  "transaction2": "угода",
+  "transaction2": "транзакція",
   "@transaction2": {
     "description": "transaction"
   },
@@ -3248,11 +3248,11 @@
   "@transaction22": {
     "description": "Transaction 2"
   },
-  "transactionFAILED": "ТРАНЗАКЦІЯ ПОМИЛАСЯ",
+  "transactionFAILED": "ТРАНЗАКЦІЯ НЕ ВДАЛАСЯ",
   "@transactionFAILED": {
     "description": "TRANSACTION FAILED"
   },
-  "transactionTIMEDOUT": "ТРАНЗАКЦІЯ МИНУЛА",
+  "transactionTIMEDOUT": "ЧАС ТРАНЗАКЦІЇ ВИЧЕРПАНО",
   "@transactionTIMEDOUT": {
     "description": "TRANSACTION TIMED OUT"
   },
@@ -3260,7 +3260,7 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "Без назви Dapp",
+  "untitledDapp": "DApp без назви",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },
@@ -3288,7 +3288,7 @@
   "@verifyYourPIN2": {
     "description": "Verify your PIN"
   },
-  "walletUsed": "Гаманець б/у",
+  "walletUsed": "Використаний гаманець",
   "@walletUsed": {
     "description": "Wallet used"
   },

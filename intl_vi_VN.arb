@@ -180,15 +180,15 @@
   "@send": {
     "description": "Send"
   },
-  "deposit": "Tiền gửi",
+  "deposit": "Nạp",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Cầu",
+  "bridge": "Bridge",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Tráo đổi",
+  "swap": "Hoán đổi",
   "@swap": {
     "description": "Swap"
   },
@@ -244,7 +244,7 @@
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Chọn mã thông báo",
+  "selectToken": "Chọn token",
   "@selectToken": {
     "description": "Select token"
   },
@@ -280,7 +280,7 @@
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Tìm kiếm tên hoặc địa chỉ mã thông báo",
+  "searchTokenNameOrAddress": "Tìm tên hoặc địa chỉ token",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
@@ -312,7 +312,7 @@
   "@copy": {
     "description": "Copy"
   },
-  "selectToDogeFriends": "Chọn Doge bạn bè",
+  "selectToDogeFriends": "Chọn bạn bè Doge",
   "@selectToDogeFriends": {
     "description": "Select to Doge friends"
   },
@@ -332,11 +332,11 @@
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Gửi xăng cho bạn bè",
+  "sendGasToFriends": "Gửi gas cho bạn bè",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Thay đổi mã thông báo",
+  "changingTokens": "Đang đổi token",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
@@ -488,7 +488,7 @@
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Nhận được",
+  "receive": "Nhận",
   "@receive": {
     "description": "Receive"
   },
@@ -544,7 +544,7 @@
   "@task": {
     "description": "Task"
   },
-  "dapp": "Dapp",
+  "dapp": "DApp",
   "@dapp": {
     "description": "Dapp"
   },
@@ -572,11 +572,11 @@
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "Khẳng định",
+  "claim": "Nhận",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "Cầu nối $DOGE tới DogeOS",
+  "bridgeDOGEToDogeOS": "Bridge $DOGE sang DogeOS",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
@@ -720,7 +720,7 @@
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "Cầu DogeOS",
+  "dogeOsBridge": "Bridge DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
@@ -876,7 +876,7 @@
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "Đặt mã thanh toán",
+  "setPayPin": "Đặt PIN thanh toán",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
@@ -892,7 +892,7 @@
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "Xác nhận mã thanh toán",
+  "confirmPayPin": "Xác nhận PIN thanh toán",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
@@ -900,7 +900,7 @@
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "Nhập thanh toán PIN",
+  "enterPayPin": "Nhập PIN thanh toán",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
@@ -924,15 +924,15 @@
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "Quên thanh toán PIN?",
+  "forgetPayPin": "Quên PIN thanh toán?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "Hiển thị thanh toán PIN",
+  "showPayPin": "Hiển thị PIN thanh toán",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "Ẩn thanh toán PIN",
+  "hidePayPin": "Ẩn PIN thanh toán",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
@@ -1064,11 +1064,11 @@
   "@networkUppercase": {
     "description": "Network"
   },
-  "customTokens": "Mã thông báo tùy chỉnh",
+  "customTokens": "Token tùy chỉnh",
   "@customTokens": {
     "description": "Custom Tokens"
   },
-  "allTokens": "Tất cả mã thông báo",
+  "allTokens": "Tất cả token",
   "@allTokens": {
     "description": "All tokens"
   },
@@ -1080,7 +1080,7 @@
   "@contractAddress": {
     "description": "Contract address"
   },
-  "tokenSymbol": "Biểu tượng mã thông báo",
+  "tokenSymbol": "Ký hiệu token",
   "@tokenSymbol": {
     "description": "Token symbol"
   },
@@ -1088,11 +1088,11 @@
   "@decimalsOfPrecision": {
     "description": "Decimals of precision"
   },
-  "turnOffRisk": "Tắt bộ lọc mã thông báo rủi ro？",
+  "turnOffRisk": "Tắt bộ lọc token rủi ro?",
   "@turnOffRisk": {
     "description": "Turn off risky tokens filter？"
   },
-  "sureTurnOff": "Bạn có chắc chắn muốn tắt bộ lọc mã thông báo rủi ro không? Điều này có thể dẫn đến mất mát tài sản.",
+  "sureTurnOff": "Bạn có chắc muốn tắt bộ lọc token rủi ro không? Điều này có thể dẫn đến mất tài sản.",
   "@sureTurnOff": {
     "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
   },
@@ -1128,7 +1128,7 @@
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
-  "myDogeTokenBalance": "Số dư $DOGE (mã thông báo nhà phát triển) của tôi",
+  "myDogeTokenBalance": "Số dư $DOGE (token dev) của tôi",
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
@@ -1136,7 +1136,7 @@
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Vòi cho phép bạn yêu cầu mã thông báo miễn phí cho mục đích thử nghiệm trên",
+  "whatIsFaucetHint": "Faucet cho phép bạn nhận token miễn phí để thử nghiệm trên",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
@@ -1148,11 +1148,11 @@
   "@whatIsFaucetHint2": {
     "description": "— a blockchain environment that simulates real transactions without using real assets."
   },
-  "thestDevnetTokens": "Các mã thông báo devnet này là",
+  "thestDevnetTokens": "Các token devnet này",
   "@thestDevnetTokens": {
     "description": "These devnet tokens are"
   },
-  "notRealDoge": "DOGE không có thật",
+  "notRealDoge": "DOGE không phải tài sản thật",
   "@notRealDoge": {
     "description": " not real DOGE"
   },
@@ -1172,7 +1172,7 @@
   "@youCanRequest": {
     "description": "You can request"
   },
-  "perDayDoge": "42.069 ĐOGE mỗi ngày.",
+  "perDayDoge": "42.069 ÐOGE mỗi ngày.",
   "@perDayDoge": {
     "description": " 42.069 ÐOGE per day."
   },
@@ -1292,7 +1292,7 @@
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "Thay đổi thanh toán PIN",
+  "changePayPin": "Đổi PIN thanh toán",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
@@ -1380,11 +1380,11 @@
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "Ước tính. Nhận được",
+  "estReceive": "Ước tính nhận",
   "@estReceive": {
     "description": "Est. Receive"
   },
-  "doge": "tổng trấn",
+  "doge": "Doge",
   "@doge": {
     "description": "Doge"
   },
@@ -1448,7 +1448,7 @@
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "Chúng tôi nhận thấy rằng ví bạn sử dụng trước đây là từ Ví xã hội, với hạt giống được bảo vệ thông qua Cubist. Bạn sẽ nâng cấp lên ví xã hội đó. Ngoài ra, nội dung Dogeverse trước đó của bạn không thể truy cập được nữa.\n\nNếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với nhóm hỗ trợ của chúng tôi.",
+  "reminderDesc": "Chúng tôi nhận thấy ví bạn dùng trước đây là Social Wallet, với cụm từ khôi phục được bảo vệ qua Cubist. Bạn sẽ nâng cấp lên ví xã hội đó. Ngoài ra, nội dung Dogeverse trước đây của bạn sẽ không còn truy cập được.\n\nNếu có câu hỏi, vui lòng liên hệ đội ngũ hỗ trợ.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
@@ -1472,7 +1472,7 @@
   "@selectDepositMethod": {
     "description": "Select deposit method"
   },
-  "myDogeFriends": "MyDoge các bạn",
+  "myDogeFriends": "Bạn bè MyDoge",
   "@myDogeFriends": {
     "description": "MyDoge friends"
   },
@@ -1544,7 +1544,7 @@
   "@seedBackupTip3": {
     "description": "Digital copy"
   },
-  "keepSeedSafeNotice": "Bất cứ ai có hạt giống của bạn đều có thể truy cập vào tất cả tài sản của bạn. Hãy giữ thông tin cho chính mình.",
+  "keepSeedSafeNotice": "Bất kỳ ai có cụm từ khôi phục của bạn đều có thể truy cập tất cả tài sản của bạn. Đừng chia sẻ nó với bất kỳ ai.",
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
@@ -1560,11 +1560,11 @@
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "Bất cứ ai có hạt giống của bạn đều có thể truy cập vào tất cả tài sản của bạn. Hãy đảm bảo sao lưu hạt giống của bạn trước khi nhận chuyển khoản hoặc xóa ứng dụng.",
+  "keepSeedSafeNotice1": "Bất kỳ ai có cụm từ khôi phục của bạn đều có thể truy cập tất cả tài sản của bạn. Hãy sao lưu cụm từ khôi phục trước khi nhận chuyển khoản hoặc xóa ứng dụng.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge sẽ không lưu trữ hạt giống của bạn trên máy chủ của nó và do đó không thể khôi phục ví của bạn sau khi bị mất.",
+  "keepSeedSafeNotice2": "MyDoge sẽ không lưu trữ cụm từ khôi phục của bạn trên máy chủ, do đó không thể khôi phục ví nếu bạn làm mất.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
@@ -1680,7 +1680,7 @@
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "Mua Doge",
+  "buyDoge": "Mua DOGE",
   "@buyDoge": {
     "description": "Buy Doge"
   },
@@ -1704,7 +1704,7 @@
   "@inscribeForTransfer": {
     "description": "Inscribe for transfer"
   },
-  "inscribeForTransferHint": "Sẵn sàng để gửi? Bước này sẽ mở khóa mã thông báo Drc20 của bạn để chuyển.",
+  "inscribeForTransferHint": "Sẵn sàng để gửi? Bước này sẽ mở khóa token Drc20 của bạn để chuyển.",
   "@inscribeForTransferHint": {
     "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
   },
@@ -1828,7 +1828,7 @@
   "@youCanCreateWallet": {
     "description": "You can always create a Social Wallet here."
   },
-  "getDogeTestToken": "Nhận mã thông báo mạng thử nghiệm DOGE \n(giá trị 0)",
+  "getDogeTestToken": "Nhận token testnet DOGE \n(giá trị 0)",
   "@getDogeTestToken": {
     "description": "Get DOGE testnet tokens \n (zero value)"
   },
@@ -2068,7 +2068,7 @@
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "Để tăng cường bảo mật ví và giảm nguy cơ bị tấn công độc hại, Ví MyDoge sử dụng cơ chế lưu ký Cubist để lưu trữ cụm từ khôi phục của bạn một cách an toàn.\nĐể xem nó, hãy gửi yêu cầu. Nó sẽ có sẵn sau 48 giờ và có thể xem được trong 3 ngày.",
+  "viewSeedPhraseTip1": "Để tăng cường bảo mật ví và giảm nguy cơ bị tấn công độc hại, Ví MyDoge sử dụng cơ chế lưu ký Cubist để lưu trữ cụm từ khôi phục của bạn một cách an toàn.\nĐể xem, hãy gửi yêu cầu. Cụm từ này sẽ có sau 48 giờ và có thể xem trong 3 ngày.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
@@ -2076,11 +2076,11 @@
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "cụm từ khôi phục là một tập hợp từ 12 đến 24 từ đóng vai trò là chìa khóa cho ví của bạn. Giống như thẻ ngân hàng không có PIN, bất kỳ ai có nó đều có thể truy cập và chuyển tiền của bạn.",
+  "seedPhraseHelpContent": "Cụm từ khôi phục là một tập hợp 12 đến 24 từ đóng vai trò là khóa cho ví của bạn. Giống như thẻ ngân hàng không có PIN, bất kỳ ai có nó đều có thể truy cập và chuyển tiền của bạn.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "cụm từ khôi phục của bạn không được MyDoge lưu trữ.\nĐể xem lại, bạn sẽ phải đợi 48 giờ.",
+  "keepSeedSafeAlertContent": "Cụm từ khôi phục của bạn không được MyDoge lưu trữ.\nĐể xem lại, bạn sẽ phải đợi 48 giờ.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
@@ -2088,19 +2088,19 @@
   "@manageCrypto": {
     "description": "Manage crypto"
   },
-  "addCustomToken": "Thêm mã thông báo tùy chỉnh",
+  "addCustomToken": "Thêm token tùy chỉnh",
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "Trả gốc PIN",
+  "originalPayPIN": "PIN thanh toán hiện tại",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "Đặt thanh toán PIN mới",
+  "setNewPayPIN": "Đặt PIN thanh toán mới",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "Xác nhận thanh toán mới PIN",
+  "confirmNewPayPIN": "Xác nhận PIN thanh toán mới",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
@@ -2144,7 +2144,7 @@
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Yêu cầu Dapp",
+  "dappRequest": "Yêu cầu DApp",
   "@dappRequest": {
     "description": "Dapp request"
   },
@@ -2184,7 +2184,7 @@
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Giấy phép Dapp",
+  "dappPermission": "Quyền DApp",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
@@ -2228,7 +2228,7 @@
   "@authenticatingWithFaceID": {
     "description": "Authenticating with Face ID..."
   },
-  "disableToken": "Tắt bộ lọc mã thông báo rủi ro?",
+  "disableToken": "Tắt bộ lọc token rủi ro?",
   "@disableToken": {
     "description": "Disable risky token filter?"
   },
@@ -2256,11 +2256,11 @@
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "cụm từ khôi phục của bạn sẽ được hiển thị ở đây sau",
+  "viewSeedPhraseRequestTip": "Cụm từ khôi phục của bạn sẽ được hiển thị ở đây sau",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "cụm từ khôi phục của bạn đã sẵn sàng để xem",
+  "receivedMnemonicTitle": "Cụm từ khôi phục của bạn đã sẵn sàng để xem",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
@@ -2268,7 +2268,7 @@
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "Ví MyDoge không lưu trữ cụm từ khôi phục của người dùng. Mỗi lần bạn yêu cầu xem chúng, bạn phải đợi 48 giờ để truy xuất chúng từ Cubist.",
+  "receivedMnemonicSubTip2": "Ví MyDoge không lưu trữ cụm từ khôi phục của người dùng. Mỗi lần bạn yêu cầu xem, bạn phải đợi 48 giờ để truy xuất từ Cubist.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
@@ -2292,7 +2292,7 @@
   "@enterCodeDescription": {
     "description": "A 4-digit code was sent to "
   },
-  "seedPhraseHelpTitle": "cụm từ khôi phục là gì?",
+  "seedPhraseHelpTitle": "Cụm từ khôi phục là gì?",
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
@@ -2332,11 +2332,11 @@
   "@potentialHoneypot": {
     "description": "Potential honeypot"
   },
-  "tokenNotList": "Mã thông báo không được liệt kê",
+  "tokenNotList": "Token chưa được niêm yết",
   "@tokenNotList": {
     "description": "Token not listed"
   },
-  "tokenNotListHint": "Mã thông báo không được liệt kê và có thể có rủi ro. Hãy tiến hành thận trọng.",
+  "tokenNotListHint": "Token chưa được niêm yết và có thể có rủi ro. Hãy thận trọng.",
   "@tokenNotListHint": {
     "description": "Token is not listed and may be risky. Please proceed with caution."
   },
@@ -2348,7 +2348,7 @@
   "@slippageTooHighHint": {
     "description": "Trading could lead to potential losses, please trade carefully."
   },
-  "tokenNotListHint2": "Mã thông báo không được liệt kê. Giao dịch có thể dẫn đến mất tài sản.",
+  "tokenNotListHint2": "Token chưa được niêm yết. Giao dịch có thể dẫn đến mất tài sản.",
   "@tokenNotListHint2": {
     "description": "Token is not listed. Trading may result in asset loss."
   },
@@ -2360,7 +2360,7 @@
   "@getStartWithDogeWallet": {
     "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
-  "filterHighRiskTokens": "Lọc các mã thông báo có rủi ro cao chỉ bằng một cú nhấp chuột. Sẽ không có tài sản nào bị mất.",
+  "filterHighRiskTokens": "Lọc token rủi ro cao chỉ bằng một lần chạm. Sẽ không có tài sản nào bị mất.",
   "@filterHighRiskTokens": {
     "description": "Filter out high-risk tokens with one click. No assets will be lost."
   },
@@ -2612,7 +2612,7 @@
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "Không phải chìa khóa của bạn, không phải tiền điện tử của bạn.",
+  "viewSeedPhraseDesc1": "Không phải khóa của bạn, không phải crypto của bạn.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
@@ -2652,7 +2652,7 @@
   "@activity": {
     "description": "Activity"
   },
-  "tokens": "Mã thông báo",
+  "tokens": "Token",
   "@tokens": {
     "description": "Tokens"
   },
@@ -2664,11 +2664,11 @@
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
   },
-  "dogeOSTestnetDesc": "Yêu cầu mã thông báo mạng thử nghiệm để thử nghiệm ứng dụng trong môi trường an toàn — không cần tiền thật.",
+  "dogeOSTestnetDesc": "Yêu cầu token testnet để thử nghiệm ứng dụng trong môi trường an toàn — không cần tiền thật.",
   "@dogeOSTestnetDesc": {
     "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
   },
-  "requestTokens": "Yêu cầu mã thông báo",
+  "requestTokens": "Yêu cầu token",
   "@requestTokens": {
     "description": "Request tokens"
   },
@@ -2708,7 +2708,7 @@
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "Yêu cầu mã thông báo Testnet",
+  "claimTestnetTitle": "Nhận token testnet",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
@@ -2724,7 +2724,7 @@
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "Yêu cầu mã thông báo",
+  "claimTokens": "Nhận token",
   "@claimTokens": {
     "description": "Claim tokens"
   },
@@ -2928,7 +2928,7 @@
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "NẠP TIỀN",
+  "depositTOKEN": "NẠP TOKEN",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
@@ -2940,7 +2940,7 @@
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "Bạn có Doge không?",
+  "doYouHaveDoge": "Bạn có DOGE không?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
@@ -2964,11 +2964,11 @@
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "Ước tính. Khí đốt",
+  "estGas": "Ước tính gas",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "Ước tính. Thời gian",
+  "estTime": "Ước tính thời gian",
   "@estTime": {
     "description": "Est. Time"
   },
@@ -2988,7 +2988,7 @@
   "@fee": {
     "description": "Fee"
   },
-  "filterRiskTokens": "Lọc mã thông báo rủi ro",
+  "filterRiskTokens": "Lọc token rủi ro",
   "@filterRiskTokens": {
     "description": "Filter risk tokens"
   },
@@ -3044,7 +3044,7 @@
   "@later": {
     "description": "Later"
   },
-  "manageToken": "Quản lý mã thông báo",
+  "manageToken": "Quản lý token",
   "@manageToken": {
     "description": "Manage token"
   },
@@ -3136,11 +3136,11 @@
   "@searchCrypto": {
     "description": "Search crypto"
   },
-  "searchToken": "Mã thông báo tìm kiếm",
+  "searchToken": "Tìm token",
   "@searchToken": {
     "description": "Search token"
   },
-  "searchTokenName": "Tìm kiếm tên mã thông báo",
+  "searchTokenName": "Tìm tên token",
   "@searchTokenName": {
     "description": "Search token name"
   },
@@ -3204,11 +3204,11 @@
   "@successItsDone": {
     "description": "Success it’s done"
   },
-  "swapOrder": "Hoán đổi lệnh",
+  "swapOrder": "Lệnh hoán đổi",
   "@swapOrder": {
     "description": "Swap order"
   },
-  "swipeTODEPOSIT": "Vuốt sang NẠP TIỀN",
+  "swipeTODEPOSIT": "VUỐT ĐỂ NẠP",
   "@swipeTODEPOSIT": {
     "description": "SWIPE TO DEPOSIT"
   },
@@ -3260,7 +3260,7 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "Không có tiêu đề Dapp",
+  "untitledDapp": "DApp chưa đặt tên",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },
