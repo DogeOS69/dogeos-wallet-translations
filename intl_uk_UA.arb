@@ -1,294 +1,294 @@
 {
-  "@@locale": "zh_CN",
-  "tabMarket": "市场",
+  "@@locale": "uk_UA",
+  "tabMarket": "Ринок",
   "@tabMarket": {
     "description": "Market"
   },
-  "tabHome": "首页",
+  "tabHome": "додому",
   "@tabHome": {
     "description": "Home"
   },
-  "tabDiscover": "发现",
+  "tabDiscover": "Відкрийте для себе",
   "@tabDiscover": {
     "description": "Discover"
   },
-  "tabAlpha": "阿尔法",
+  "tabAlpha": "Альфа",
   "@tabAlpha": {
     "description": "Alpha"
   },
-  "tabEarn": "赚取",
+  "tabEarn": "заробити",
   "@tabEarn": {
     "description": "Earn"
   },
-  "tabTrade": "交易",
+  "tabTrade": "Торгівля",
   "@tabTrade": {
     "description": "Trade"
   },
-  "tabChat": "聊天",
+  "tabChat": "Чат",
   "@tabChat": {
     "description": "Chat"
   },
-  "tabWallet": "钱包",
+  "tabWallet": "Гаманець",
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "搜索名称或地址",
+  "searchBarDesc": "Пошук імені або адреси",
   "@searchBarDesc": {
     "description": "Search name or address"
   },
-  "totalBalance": "总余额",
+  "totalBalance": "Загальний баланс",
   "@totalBalance": {
     "description": "Total balance"
   },
-  "favorite": "收藏",
+  "favorite": "улюблений",
   "@favorite": {
     "description": "Favorite"
   },
-  "trending": "趋势",
+  "trending": "В тренді",
   "@trending": {
     "description": "Trending"
   },
-  "allAssets": "所有资产",
+  "allAssets": "Усі активи",
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "输入您的电子邮件",
+  "enterYourEmail": "Введіть адресу електронної пошти",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "电子邮件",
+  "email": "Електронна пошта",
   "@email": {
     "description": "Email"
   },
-  "password": "密码",
+  "password": "Пароль",
   "@password": {
     "description": "Password"
   },
-  "forgetThePassword": "忘记密码？",
+  "forgetThePassword": "Забули пароль?",
   "@forgetThePassword": {
     "description": "Forget the password？"
   },
-  "continueBtn": "继续",
+  "continueBtn": "Продовжити",
   "@continueBtn": {
     "description": "Continue"
   },
-  "setPassword": "设置密码",
+  "setPassword": "Встановити пароль",
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "设置您的密码。将来您也可以通过电子邮件直接登录。",
+  "setPasswordDesc": "Встановіть пароль. Ви також зможете ввійти безпосередньо через електронну пошту в майбутньому.",
   "@setPasswordDesc": {
     "description": "Set your password. You can also log in directly through email in the future.  "
   },
-  "emailCode": "电子邮件验证码",
+  "emailCode": "Код підтвердження електронної пошти",
   "@emailCode": {
     "description": "Email verification code"
   },
-  "emailCodeDesc": "输入您的验证码",
+  "emailCodeDesc": "Введіть код підтвердження",
   "@emailCodeDesc": {
     "description": "Enter your verification code"
   },
-  "resend": "重新发送",
+  "resend": "Надіслати повторно",
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "绑定电子邮件",
+  "bindEmail": "Прив’язати електронну пошту",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "为 lucasscott3@email.com 设置密码。这样您将来也可以通过电子邮件直接登录。",
+  "bindEmailDesc": "Встановіть свій пароль для lucasscott3@email.com. Тож у майбутньому ви також зможете увійти безпосередньо через електронну пошту.",
   "@bindEmailDesc": {
     "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
   },
-  "setYourProfile": "设置您的个人资料",
+  "setYourProfile": "Налаштуйте свій профіль",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "选择您的帐户用户名。它最多可以包含 30 个字符（仅限字母和数字）。如果您愿意，可以稍后更改。",
+  "setYourProfileDesc1": "Виберіть ім'я користувача облікового запису. Він може містити до 30 символів (лише букви та цифри). Ви можете змінити це пізніше, якщо хочете.",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "密码必须是 6-20 个字符，由数字、大小写字母和特殊字符组成。",
+  "setYourProfileDesc2": "Пароль має складатися з 6-20 символів, які складаються з цифр, великих і малих літер, а також спеціальних символів.",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "连接 X",
+  "connectX": "Підключити X",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "链接您的 X 帐户以启动您自己的密钥并最大化 MyDoge 体验。只会访问个人资料图片、姓名和您的关注列表！\n\n请注意，连接到 X 后，出于帐户资产安全考虑，无法进行更改或解除绑定。",
+  "connectXDesc": "Пов’яжіть свій обліковий запис X, щоб запустити власний ключ і отримати максимум можливостей від MyDoge. Доступ матиме лише зображення профілю, ім’я та ваш наступний список!\n\nЗауважте, що після підключення до X зміни або скасування прив’язки неможливі для безпеки активів облікового запису.",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
-  "connect": "连接",
+  "connect": "Підключитися",
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "恭喜！",
+  "congratulations": "Вітаю",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "您已准备就绪！\n立即与您的 My Doge 一起玩吧。",
+  "congratulationsDesc": "Ви готові!\nПоспілкуйтеся зі своїм My Doge зараз.",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
-  "enterApp": "进入应用",
+  "enterApp": "Введіть додаток",
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle2": "购买、发送和接收狗狗币",
+  "socialLoginTitle2": "Купуйте, надсилайте та отримуйте Dogecoin",
   "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc2": "在 X 上打赏，保护您的狗狗币，并轻松管理您自己的资金。",
+  "socialLoginDesc2": "Порада на X, забезпечте свій Doge і з легкістю керуйте власними коштами.",
   "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle1": "探索 DogeOS 生态系统",
+  "socialLoginTitle1": "Дослідіть екосистему DogeOS",
   "@socialLoginTitle1": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc1": "在 DogeOS 世界中使用 $DOGE 解锁 DeFi、NFT、游戏等。",
+  "socialLoginDesc1": "Розблокуйте DeFi, NFTs, ігри та багато іншого з $DOGE у всесвіті DogeOS.",
   "@socialLoginDesc1": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "多链交易",
+  "socialLoginTitle3": "Багатоланцюгова торгівля",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "在主要区块链之间无缝交易，获得真正的多链体验。",
+  "socialLoginDesc3": "Безпроблемно торгуйте між основними блокчейнами для справжнього мультиланцюжкового досвіду.",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
-  "continueWithEmail": "使用电子邮件继续",
+  "continueWithEmail": "Продовжити з електронною поштою",
   "@continueWithEmail": {
     "description": "Continue with Email"
   },
-  "or": "或",
+  "or": "Або",
   "@or": {
     "description": "Or"
   },
-  "resetPwd": "重置密码",
+  "resetPwd": "Скинути пароль",
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "我们想确保是您本人。输入您的电子邮件，我们会向您发送验证码。",
+  "resetPwdDesc": "Ми хочемо переконатися, що це справді ти. Введіть свою електронну адресу, і ми надішлемо вам код підтвердження.",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
-  "send": "发送",
+  "send": "Надіслати",
   "@send": {
     "description": "Send"
   },
-  "deposit": "存入",
+  "deposit": "Депозит",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "跨链桥",
+  "bridge": "Bridge",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "兑换",
+  "swap": "Своп",
   "@swap": {
     "description": "Swap"
   },
-  "trade": "交易",
+  "trade": "Торгівля",
   "@trade": {
     "description": "Trade"
   },
-  "buy": "购买",
+  "buy": "купити",
   "@buy": {
     "description": "Buy"
   },
-  "sell": "出售",
+  "sell": "Продати",
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "加密货币",
+  "cryptoTab": "Крипто",
   "@cryptoTab": {
     "description": "Crypto"
   },
-  "keyTab": "密钥",
+  "keyTab": "ключ",
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "管理钱包",
+  "manageWallet": "Керуйте гаманцем",
   "@manageWallet": {
     "description": "Manage wallet"
   },
-  "createNewWallet": "创建新钱包",
+  "createNewWallet": "Створити новий гаманець",
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "导入钱包",
+  "importWallet": "Імпортувати гаманець",
   "@importWallet": {
     "description": "Import wallet"
   },
-  "chooseHowToSend": "选择发送方式",
+  "chooseHowToSend": "Виберіть спосіб відправлення",
   "@chooseHowToSend": {
     "description": "Choose how to send"
   },
-  "yourFriendsTitle": "您的朋友",
+  "yourFriendsTitle": "Ваші друзі",
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "在 Mydoge 内转账",
+  "yourFriendsDesc": "Трансфер в межах Mydoge",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
-  "externalWalletTitle": "外部钱包",
+  "externalWalletTitle": "Зовнішній гаманець",
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "将狗狗币发送到加密地址",
+  "externalWalletDesc": "Надішліть Doge на криптоадресу",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "选择代币",
+  "selectToken": "Виберіть токен",
   "@selectToken": {
     "description": "Select token"
   },
-  "searchAssets": "搜索资产",
+  "searchAssets": "Пошук активів",
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "接收地址",
+  "receivingAddress": "Адреса отримання",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "{text} 地址",
+  "assetAddress": "Адреса {text}",
   "@assetAddress": {
     "description": "{text} address"
   },
-  "paste": "粘贴",
+  "paste": "Вставити",
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "交易",
+  "transactions": "Транзакції",
   "@transactions": {
     "description": "Transactions"
   },
-  "myWallet": "我的钱包",
+  "myWallet": "Мій гаманець",
   "@myWallet": {
     "description": "My wallet"
   },
-  "confirm": "确认",
+  "confirm": "Підтвердити",
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "选择加密货币",
+  "selectCrypto": "Виберіть Crypto",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "搜索代币名称或地址",
+  "searchTokenNameOrAddress": "Пошук назви або адреси токена",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "网络：",
+  "network": "Мережа:",
   "@network": {
     "description": "Network："
   },
-  "all": "全部",
+  "all": "все",
   "@all": {
     "description": "All"
   },
@@ -296,207 +296,207 @@
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "可能会丢失",
+  "mayBeLost": "Може бути втрачено",
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Doge 地址",
+  "tokenAddress": "Doge адреса",
   "@tokenAddress": {
     "description": "Doge Address"
   },
-  "scroll": "滚动",
+  "scroll": "Прокрутка",
   "@scroll": {
     "description": "Scroll"
   },
-  "copy": "复制",
+  "copy": "Копія",
   "@copy": {
     "description": "Copy"
   },
-  "selectToDogeFriends": "选择给狗狗币朋友",
+  "selectToDogeFriends": "Виберіть до друзів Doge",
   "@selectToDogeFriends": {
     "description": "Select to Doge friends"
   },
-  "searchFriends": "搜索朋友",
+  "searchFriends": "Пошук друзів",
   "@searchFriends": {
     "description": "Search friends"
   },
-  "chooseWallet": "选择钱包",
+  "chooseWallet": "Виберіть гаманець",
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "余额：",
+  "balance": "Баланс:",
   "@balance": {
     "description": "Balance："
   },
-  "max": "最大",
+  "max": "МАКС",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "给朋友发送 Gas",
+  "sendGasToFriends": "Надіслати газ друзям",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "正在更换代币",
+  "changingTokens": "Зміна токенів",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "购买 {token}",
+  "buyToken": "Купити {token}",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "出售 {token}",
+  "sellToken": "Продам {token}",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "DogeOS 钱包",
+  "socialWallet": "Соціальний гаманець",
   "@socialWallet": {
     "description": "Social Wallet"
   },
-  "enjoyWalletWithSocialLogin": "通过社交登录多链钱包享受完整的 MyDoge 钱包体验，同时保留您的 MyDoge Classic 资产。",
+  "enjoyWalletWithSocialLogin": "Насолоджуйтесь усіма можливостями гаманця MyDoge Wallet за допомогою багатоланцюжкового гаманця Social Login, зберігаючи свій актив MyDoge Classic.",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
-  "skip": "跳过",
+  "skip": "Пропустити",
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "使用...创建",
+  "createWith": "Створити за допомогою",
   "@createWith": {
     "description": "Create with"
   },
-  "addressBook": "地址簿",
+  "addressBook": "Адресна книга",
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "没有地址",
+  "noAddress": "Без адреси",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "将钱包添加到您的地址簿，以便在需要转移加密货币时轻松访问",
+  "noAddressDesc": "Легко додайте гаманці до адресної книги \nдоступ, коли вам потрібно передати крипто",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
-  "addAddress": "添加地址",
+  "addAddress": "Додайте адресу",
   "@addAddress": {
     "description": "Add address"
   },
-  "name": "姓名",
+  "name": "Ім'я",
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "输入一个 20 个字符以下的名称",
+  "namePlaceholder": "Введіть назву до 20 символів",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
-  "address": "地址",
+  "address": "Адреса",
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "输入一个地址",
+  "addressPlaceholder": "Введіть адресу",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
-  "deleteAddress": "删除地址",
+  "deleteAddress": "Видалити адресу",
   "@deleteAddress": {
     "description": "Delete address"
   },
-  "deleteAddressDesc": "您要删除该地址吗？",
+  "deleteAddressDesc": "Ви бажаєте видалити адресу?",
   "@deleteAddressDesc": {
     "description": "Do you want to delete the address?"
   },
-  "cancel": "取消",
+  "cancel": "Скасувати",
   "@cancel": {
     "description": "Cancel"
   },
-  "cancelLowercase": "取消",
+  "cancelLowercase": "скасувати",
   "@cancelLowercase": {
     "description": "cancel"
   },
-  "delete": "删除",
+  "delete": "Видалити",
   "@delete": {
     "description": "Delete"
   },
-  "update": "更新",
+  "update": "оновлення",
   "@update": {
     "description": "Update"
   },
-  "settings": "设置",
+  "settings": "Налаштування",
   "@settings": {
     "description": "Settings"
   },
-  "yourAccount": "您的帐户",
+  "yourAccount": "Ваш рахунок",
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "编辑个人资料",
+  "editProfile": "Редагувати профіль",
   "@editProfile": {
     "description": "Edit profile"
   },
-  "recoverPassword": "恢复密码",
+  "recoverPassword": "Відновити пароль",
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "您如何使用 MyDoge",
+  "howYouUseMyDoge": "Як ви використовуєте MyDoge",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
-  "pushNotifications": "推送通知",
+  "pushNotifications": "Push-повідомлення",
   "@pushNotifications": {
     "description": "Push notifications"
   },
-  "privacySettings": "隐私设置",
+  "privacySettings": "Налаштування конфіденційності",
   "@privacySettings": {
     "description": "Privacy settings"
   },
-  "language": "语言",
+  "language": "Мова",
   "@language": {
     "description": "Language"
   },
-  "vol24h": "24 小时交易量",
+  "vol24h": "24h Vol",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "24 小时最高价",
+  "high24h": "24 години Високий",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "24 小时最低价",
+  "low24h": "24 години низький",
   "@low24h": {
     "description": "24h Low"
   },
-  "yourBalance": "您的余额",
+  "yourBalance": "Ваш баланс",
   "@yourBalance": {
     "description": "Your Balance"
   },
-  "value": "价值",
+  "value": "Значення",
   "@value": {
     "description": "Value"
   },
-  "quantity": "数量",
+  "quantity": "Кількість",
   "@quantity": {
     "description": "Quantity"
   },
-  "addCash": "添加现金",
+  "addCash": "Додати готівку",
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "房间",
+  "room": "Кімната",
   "@room": {
     "description": "Room"
   },
-  "refer": "推荐",
+  "refer": "Зверніться",
   "@refer": {
     "description": "Refer"
   },
-  "receive": "接收",
+  "receive": "Отримати",
   "@receive": {
     "description": "Receive"
   },
-  "stats": "统计数据",
+  "stats": "статистика",
   "@stats": {
     "description": "Stats"
   },
-  "marketCap": "市值",
+  "marketCap": "Ринкова капіталізація",
   "@marketCap": {
     "description": "Market Cap"
   },
@@ -504,43 +504,43 @@
   "@fdv": {
     "description": "FDV"
   },
-  "liquidity": "流动性",
+  "liquidity": "Ліквідність",
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "24 小时成交额",
+  "turnover24h": "Цілодобовий обіг",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "24 小时变化",
+  "change24h": "Зміна 24 години",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "合约",
+  "contract": "Договір",
   "@contract": {
     "description": "Contract"
   },
-  "total": "总计",
+  "total": "Всього",
   "@total": {
     "description": "Total"
   },
-  "to": "至",
+  "to": "до",
   "@to": {
     "description": "To"
   },
-  "toLowerCase": "至",
+  "toLowerCase": "до",
   "@toLowerCase": {
     "description": "to"
   },
-  "from": "从",
+  "from": "Від",
   "@from": {
     "description": "From"
   },
-  "fromLowerCase": "从",
+  "fromLowerCase": "від",
   "@fromLowerCase": {
     "description": "from"
   },
-  "task": "任务",
+  "task": "завдання",
   "@task": {
     "description": "Task"
   },
@@ -548,47 +548,47 @@
   "@dapp": {
     "description": "Dapp"
   },
-  "referralRewards": "推荐奖励",
+  "referralRewards": "Винагороди за рекомендацію",
   "@referralRewards": {
     "description": "Referral Rewards"
   },
-  "friendsInvited": "已邀请的朋友",
+  "friendsInvited": "Друзі запрошені",
   "@friendsInvited": {
     "description": "Friends invited"
   },
-  "youHaveEarned": "您已赚取",
+  "youHaveEarned": "Ви заробили",
   "@youHaveEarned": {
     "description": "You have earned"
   },
-  "point": "积分",
+  "point": "точка",
   "@point": {
     "description": "Point"
   },
-  "referAFriend": "推荐朋友",
+  "referAFriend": "Запропонуйте другу",
   "@referAFriend": {
     "description": "Refer a friend"
   },
-  "referExplain": "您推荐的每位朋友，您都可以赚取 50%~75% 的交易费。",
+  "referExplain": "Заробляйте від 50% до 75% торгових комісій за кожного друга, якого ви запропонували.",
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "领取",
+  "claim": "Отримати",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "将 $DOGE 跨链到 DogeOS",
+  "bridgeDOGEToDogeOS": "Переказати $DOGE через bridge у DogeOS",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
-  "followDogeOSOnX": "在 X 上关注 DogeOS",
+  "followDogeOSOnX": "Слідкуйте за DogeOS на X",
   "@followDogeOSOnX": {
     "description": "Follow DogeOS on X"
   },
-  "followMyDogeOnX": "在 X 上关注 MyDoge",
+  "followMyDogeOnX": "Слідкуйте за MyDoge на X",
   "@followMyDogeOnX": {
     "description": "Follow MyDoge on X"
   },
-  "completeOneSwapOnDogeOS": "在 DogeOS 上完成一次 swap",
+  "completeOneSwapOnDogeOS": "Виконайте один своп на DogeOS",
   "@completeOneSwapOnDogeOS": {
     "description": "Complete one swap on DogeOS"
   },
@@ -596,11 +596,11 @@
   "@dogeverse": {
     "description": "Dogeverse"
   },
-  "connectToDogeverseNow": "立即连接到 Dogeverse",
+  "connectToDogeverseNow": "Підключіться до Dogeverse зараз",
   "@connectToDogeverseNow": {
     "description": "Connect to Dogeverse now"
   },
-  "dogeOSEcosystem": "DogeOS 生态系统",
+  "dogeOSEcosystem": "Екосистема DogeOS",
   "@dogeOSEcosystem": {
     "description": "DogeOS Ecosystem"
   },
@@ -608,35 +608,35 @@
   "@dogeSwap": {
     "description": "DogeSwap"
   },
-  "orbiterFinanceIsADecentralized": "Orbiter Finance 是一个去中心化的",
+  "orbiterFinanceIsADecentralized": "Orbiter Finance є децентралізованою",
   "@orbiterFinanceIsADecentralized": {
     "description": "Orbiter Finance is a decentralized"
   },
-  "bitcoinLayer2Network": "比特币二层网络",
+  "bitcoinLayer2Network": "Мережа Bitcoin рівня 2",
   "@bitcoinLayer2Network": {
     "description": "Bitcoin layer-2 network"
   },
-  "buildingTheSpiderChain": "构建蜘蛛链，第一个 EVM L2",
+  "buildingTheSpiderChain": "Створення ланцюга Spider, перший EVM L2",
   "@buildingTheSpiderChain": {
     "description": "Building the Spider chain, the first EVM L2"
   },
-  "solanaEcosystem": "Solana 生态系统",
+  "solanaEcosystem": "Екосистема Солана",
   "@solanaEcosystem": {
     "description": "Solana Ecosystem"
   },
-  "solanaFinance": "Solana 金融",
+  "solanaFinance": "Солана Фінанси",
   "@solanaFinance": {
     "description": "Solana Finance"
   },
-  "earnDesc": "您推荐的每位朋友，您都可以赚取 50%~75% 的交易费。",
+  "earnDesc": "Заробляйте від 50% до 75% торгових комісій за кожного друга, якого ви запропонували.",
   "@earnDesc": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "referFriends": "推荐朋友",
+  "referFriends": "Запропонуйте друзям",
   "@referFriends": {
     "description": "Refer friends"
   },
-  "appearance": "外观",
+  "appearance": "Зовнішній вигляд",
   "@appearance": {
     "description": "Appearance"
   },
@@ -644,203 +644,203 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "连接 Apple",
+  "connectApple": "Підключіть Apple",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "连接 Meta",
+  "connectMeta": "Підключити Meta",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "连接 Instagram",
+  "connectInstagram": "Підключіть Instagram",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "连接 Kakao",
+  "connectKakao": "Підключіть Kakao",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "连接 Line",
+  "connectLine": "Підключити лінію",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "您的社交链接",
+  "yourSocialLink": "Ваше соціальне посилання",
   "@yourSocialLink": {
     "description": "Your social link"
   },
-  "others": "其他",
+  "others": "інші",
   "@others": {
     "description": "Others"
   },
-  "additionalSettings": "其他设置",
+  "additionalSettings": "Додаткові налаштування",
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "社区准则",
+  "communityGuidelines": "Правила спільноти",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "条款",
+  "terms": "Терміни",
   "@terms": {
     "description": "Terms"
   },
-  "deleteAccount": "删除帐户",
+  "deleteAccount": "Видалити акаунт",
   "@deleteAccount": {
     "description": "Delete account"
   },
-  "logOut": "退出登录",
+  "logOut": "Вийти",
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "您确定要退出登录吗？",
+  "confirmToExit": "Ви впевнені, що бажаєте вийти?",
   "@confirmToExit": {
     "description": "Are you sure you want to log out?"
   },
-  "follow": "关注",
+  "follow": "Слідуйте",
   "@follow": {
     "description": "Follow"
   },
-  "warning": "警告",
+  "warning": "УВАГА",
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "此操作不可逆",
+  "willDeleteAccount": "Ця дія незворотна",
   "@willDeleteAccount": {
     "description": "This action is irreversible"
   },
-  "willDeleteAccountDesc1": "删除您的帐户将永久删除您的 MyDoge 钱包和个人资料。",
+  "willDeleteAccountDesc1": "Видалення вашого облікового запису призведе до остаточного видалення вашого MyDoge Wallet і профілю.",
   "@willDeleteAccountDesc1": {
     "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
   },
-  "willDeleteAccountDesc2": "请务必备份您的钱包并保存所有重要内容 — 此操作无法撤消。",
+  "willDeleteAccountDesc2": "Обов’язково створіть резервну копію свого гаманця та збережіть усе важливе — цю дію неможливо скасувати.",
   "@willDeleteAccountDesc2": {
     "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
   },
-  "slideToConfirm": "滑动删除",
+  "slideToConfirm": "Проведіть пальцем, щоб видалити",
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "DogeOS 跨链桥",
+  "dogeOsBridge": "Bridge DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
-  "noContacts": "没有联系人",
+  "noContacts": "Немає контактів",
   "@noContacts": {
     "description": "No contacts"
   },
-  "noContactsRemind": "将钱包添加到您的地址簿，以便在需要转移加密货币时轻松访问",
+  "noContactsRemind": "Додайте гаманці до своєї адресної книги для легкого доступу, коли вам потрібно переказати криптовалюту",
   "@noContactsRemind": {
     "description": "Add wallets to your address book for easy access when you need to transfer crypto"
   },
-  "networkText": "网络",
+  "networkText": "Мережа",
   "@networkText": {
     "description": "Network"
   },
-  "updateAddress": "更新地址",
+  "updateAddress": "Оновити адресу",
   "@updateAddress": {
     "description": "Update address"
   },
-  "makeSureSend": "请确保您发送到 ",
+  "makeSureSend": "Переконайтеся, що ви надсилаєте на адресу",
   "@makeSureSend": {
     "description": "Please make sure you are sending to "
   },
-  "chainPoint": "链。",
+  "chainPoint": "ланцюг.",
   "@chainPoint": {
     "description": "Chain."
   },
-  "otherFunds": "从任何其他链发送可能会导致 ",
+  "otherFunds": "Надсилання з будь-якої іншої мережі може призвести до",
   "@otherFunds": {
     "description": "Sending from any other chain may result in "
   },
-  "lossOfFunds": "资金损失。",
+  "lossOfFunds": "втрата коштів.",
   "@lossOfFunds": {
     "description": "loss of funds."
   },
-  "maybeLost2": "可能会丢失！",
+  "maybeLost2": "Може загубитися!",
   "@maybeLost2": {
     "description": "May be lost!"
   },
-  "copyAddress": "复制地址",
+  "copyAddress": "Копіювати адресу",
   "@copyAddress": {
     "description": "Copy Address"
   },
-  "errorNetwork": "网络错误",
+  "errorNetwork": "Помилка мережі",
   "@errorNetwork": {
     "description": "Error network"
   },
-  "errorNetworkRemind": "您的网络出现了一些问题，请检查并尝试刷新",
+  "errorNetworkRemind": "У вашій мережі виникли проблеми. Перевірте та спробуйте оновити",
   "@errorNetworkRemind": {
     "description": "Your network is experiencing some problems, please check and try refreshing"
   },
-  "refresh": "刷新",
+  "refresh": "Оновити",
   "@refresh": {
     "description": "Refresh"
   },
-  "bindTipTitle": "链接验证器应用",
+  "bindTipTitle": "Підключити застосунок-автентифікатор",
   "@bindTipTitle": {
     "description": "Link Authenticator App"
   },
-  "bindTipSubtitle": "链接验证器应用将增强您帐户的安全性。当您导出钱包时将应用它。",
+  "bindTipSubtitle": "Підключення програми автентифікації підвищить безпеку вашого облікового запису. Його буде застосовано під час експорту вашого гаманця.",
   "@bindTipSubtitle": {
     "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
   },
-  "link": "链接",
+  "link": "Посилання",
   "@link": {
     "description": "Link"
   },
-  "emailCodeText": "电子邮件代码",
+  "emailCodeText": "Код електронної пошти",
   "@emailCodeText": {
     "description": "Email code"
   },
-  "emailCodeSubtitle": "一封电子邮件已发送到您的收件箱 {email}。\r\n请输入电子邮件中的验证码。",
+  "emailCodeSubtitle": "Електронний лист надіслано на вашу скриньку {email}.\r\nБудь ласка, введіть код підтвердження в електронному листі.",
   "@emailCodeSubtitle": {
     "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
   },
-  "bindStepTitle": "链接验证器应用",
+  "bindStepTitle": "Підключити застосунок-автентифікатор",
   "@bindStepTitle": {
     "description": "Link Authenticator App"
   },
-  "step1": "步骤 1：",
+  "step1": "Крок 1:",
   "@step1": {
     "description": "Step 1: "
   },
-  "bindStepOneLabelDescription": "下载验证器应用。",
+  "bindStepOneLabelDescription": "Завантажте програму автентифікації.",
   "@bindStepOneLabelDescription": {
     "description": "Download an authenticator app."
   },
-  "forExampleLabel": "例如：",
+  "forExampleLabel": "Наприклад:",
   "@forExampleLabel": {
     "description": "For example: "
   },
-  "step2": "步骤 2：",
+  "step2": "Крок 2:",
   "@step2": {
     "description": "Step 2: "
   },
-  "bindStepTwoLabelDescription": "请复制下面的 16 位密钥或扫描二维码",
+  "bindStepTwoLabelDescription": "Будь ласка, скопіюйте 16-значний ключ нижче або відскануйте QR-код",
   "@bindStepTwoLabelDescription": {
     "description": "Please copy the 16-digit key below or scan the QR code"
   },
-  "caution": "注意",
+  "caution": "Обережно",
   "@caution": {
     "description": "Caution"
   },
-  "bindStepCautionContent": "请妥善保管此密钥，因为它用于导出您的钱包，如果丢失将无法恢复！",
+  "bindStepCautionContent": "Зберігайте цей ключ у безпеці, оскільки він використовується для експорту вашого гаманця і не може бути відновлений у разі втрати!",
   "@bindStepCautionContent": {
     "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
   },
-  "pleaseNote": "请注意",
+  "pleaseNote": "Зверніть увагу",
   "@pleaseNote": {
     "description": "Please note"
   },
-  "bindStepCautionNoteSubtitle": "Google Authenticator 成功链接后，将无法更改。",
+  "bindStepCautionNoteSubtitle": "Після успішного підключення Google Authenticator його неможливо змінити.",
   "@bindStepCautionNoteSubtitle": {
     "description": "Once Google Authenticator is successfully linked, it cannot be changed."
   },
-  "bindStepCautionNoteContent": "为了您的钱包资产安全，请将 Google Authenticator 存放在安全的地方并妥善保管。如果 Google Authenticator 丢失，可能会导致无法访问您的钱包。",
+  "bindStepCautionNoteContent": "Для безпеки активів вашого гаманця зберігайте Google Authenticator у безпечному місці та добре захищайте його. Якщо Google Authenticator буде втрачено, це може призвести до неможливості отримати доступ до вашого гаманця.",
   "@bindStepCautionNoteContent": {
     "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
   },
-  "gotIt": "知道了",
+  "gotIt": "зрозумів",
   "@gotIt": {
     "description": "Got it"
   },
@@ -848,119 +848,119 @@
   "@googleAuthenticator": {
     "description": "Google Authenticator"
   },
-  "verifySubtitle": "请输入您的 Google Authenticator 生成的数字。",
+  "verifySubtitle": "Будь ласка, введіть номер, згенерований вашим Google Authenticator.",
   "@verifySubtitle": {
     "description": "Please enter the number generated by your Google Authenticator."
   },
-  "bindSuccessTip": "验证器已成功链接",
+  "bindSuccessTip": "Автентифікатор успішно підключено",
   "@bindSuccessTip": {
     "description": "Authenticator linked successfully"
   },
-  "bindFailedTip": "验证器代码不正确，链接失败",
+  "bindFailedTip": "Код автентифікатора неправильний, зв’язування не вдалося",
   "@bindFailedTip": {
     "description": "Authenticator code is incorrect, linking failed"
   },
-  "retry": "重试",
+  "retry": "Повторіть спробу",
   "@retry": {
     "description": "Retry"
   },
-  "selectNetwork": "选择网络",
+  "selectNetwork": "Виберіть мережу",
   "@selectNetwork": {
     "description": "Select network"
   },
-  "addToFavorites": "添加到收藏夹",
+  "addToFavorites": "Додати в обране",
   "@addToFavorites": {
     "description": "Add to favorites"
   },
-  "addToFavorite": "添加到收藏夹",
+  "addToFavorite": "Додати в улюблені",
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "设置支付密码",
+  "setPayPin": "Встановити PIN оплати",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
-  "setPayPinSubtitle": "请设置支付密码以保护您的资产。当您进行交易时将需要此密码。",
+  "setPayPinSubtitle": "Встановіть PIN оплати, щоб захистити свої активи. Цей PIN знадобиться під час здійснення транзакцій.",
   "@setPayPinSubtitle": {
     "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
   },
-  "showTip": "显示密码",
+  "showTip": "Показати PIN-код",
   "@showTip": {
     "description": "Show Pin"
   },
-  "hideTip": "隐藏密码",
+  "hideTip": "Сховати шпильку",
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "确认支付密码",
+  "confirmPayPin": "Підтвердити PIN оплати",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
-  "confirmNotMatchTip": "两个支付密码不匹配。",
+  "confirmNotMatchTip": "Два платіжні контакти не збігаються.",
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "输入支付密码",
+  "enterPayPin": "Введіть PIN оплати",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
-  "forgotPin": "忘记密码",
+  "forgotPin": "Забув шпильку",
   "@forgotPin": {
     "description": "Forgot pin"
   },
-  "enterCode": "输入代码",
+  "enterCode": "Введіть код",
   "@enterCode": {
     "description": "Enter Code"
   },
-  "changeEmailCodeSubtitle": "一个 4 位数的代码已发送到 {email}",
+  "changeEmailCodeSubtitle": "На {email} надіслано 4-значний код",
   "@changeEmailCodeSubtitle": {
     "description": "A 4-digit code was sent to {email}"
   },
-  "request": "请求",
+  "request": "запит",
   "@request": {
     "description": "Request"
   },
-  "incorrectCode": "代码不正确",
+  "incorrectCode": "Невірний код",
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "忘记支付密码？",
+  "forgetPayPin": "Забули PIN оплати?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "显示支付密码",
+  "showPayPin": "Показати PIN оплати",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "隐藏支付密码",
+  "hidePayPin": "Приховати PIN оплати",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
-  "setRecoveryEmail": "设置恢复电子邮件",
+  "setRecoveryEmail": "Налаштуйте електронну адресу для відновлення",
   "@setRecoveryEmail": {
     "description": "Set Recovery Email"
   },
-  "setRecoveryEmailSubtitle": "为确保您的资产安全，请设置恢复电子邮件。此电子邮件将用于在您无法访问帐户时进行帐户恢复。",
+  "setRecoveryEmailSubtitle": "Щоб захистити ваші активи, укажіть резервну електронну адресу. Вона використовуватиметься для відновлення акаунта, якщо ви втратите доступ.",
   "@setRecoveryEmailSubtitle": {
     "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
   },
-  "enterEmailAddress": "输入您的电子邮件地址",
+  "enterEmailAddress": "Введіть адресу електронної пошти",
   "@enterEmailAddress": {
     "description": "Enter your Email address"
   },
-  "emailErrorTip": "此电子邮件不可用",
+  "emailErrorTip": "Цей електронний лист недоступний",
   "@emailErrorTip": {
     "description": "This email is not available"
   },
-  "codeResendSecond": "重新发送({second})",
+  "codeResendSecond": "Повторно ({second})",
   "@codeResendSecond": {
     "description": "Resend({second})"
   },
-  "scanQRCode": "扫描二维码",
+  "scanQRCode": "Відскануйте QR-код",
   "@scanQRCode": {
     "description": "Scan QR Code"
   },
-  "album": "相册",
+  "album": "Альбом",
   "@album": {
     "description": "Album"
   },
@@ -968,83 +968,83 @@
   "@alignQRCode": {
     "description": ""
   },
-  "enterSeedPhrase": "输入助记词",
+  "enterSeedPhrase": "Введіть seed-фразу",
   "@enterSeedPhrase": {
     "description": "Enter seed phrase"
   },
-  "enterSeedPhraseRemind": "如果您使用助记词导入钱包，请用空格分隔每个单词。",
+  "enterSeedPhraseRemind": "Якщо ви імпортуєте гаманець за seed-фразою, розділяйте слова пробілами.",
   "@enterSeedPhraseRemind": {
     "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
   },
-  "clear": "清除",
+  "clear": "ясно",
   "@clear": {
     "description": "Clear"
   },
-  "howToBackUp": "为什么以及如何备份您的钱包",
+  "howToBackUp": "Навіщо і як робити резервну копію\r\nваш гаманець",
   "@howToBackUp": {
     "description": "Why and How to back up\r\nyour wallet"
   },
-  "backUpRemind": "为了能够在更换设备时访问您的帐户和资产，我们强烈建议您按照以下流程备份您的钱包。",
+  "backUpRemind": "Щоб мати доступ до своїх облікових записів і активів, коли ви змінюєте пристрій, ми наполегливо рекомендуємо виконати наведений нижче процес для резервного копіювання гаманця.",
   "@backUpRemind": {
     "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
   },
-  "backUpStep1": "1. 单击按钮查看助记词。",
+  "backUpStep1": "1. Натисніть кнопку, щоб переглянути seed-фрази.",
   "@backUpStep1": {
     "description": "1. Click the button to view the seed phrases."
   },
-  "backUpStep2": "将助记词保存在其他人无法访问的安全地方。",
+  "backUpStep2": "Зберігайте seed-фрази у безпечному місці, де ніхто інший не матиме до нього доступу.",
   "@backUpStep2": {
     "description": "Keep the seed phrases in a safe place where no one else can access to it."
   },
-  "backUpWarning": "警告：请妥善保管您的助记词，切勿与任何人分享。任何拥有您私钥的人都可以窃取您钱包中的所有资产。",
+  "backUpWarning": "ПОПЕРЕДЖЕННЯ: Зберігайте свій seed-фрази у безпеці та НІКОЛИ нікому не діліться ним. Кожен, хто має ваш закритий ключ, може викрасти всі активи у вашому гаманці.",
   "@backUpWarning": {
     "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
   },
-  "showSeed": "显示我的助记词",
+  "showSeed": "Показати мої seed-фрази",
   "@showSeed": {
     "description": "Show My Seed Phrases"
   },
-  "seedPhrases": "助记词",
+  "seedPhrases": "Seed-фрази",
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
-  "close": "关闭",
+  "close": "Закрити",
   "@close": {
     "description": "Close"
   },
-  "addressLowerCase": "地址",
+  "addressLowerCase": "адресу",
   "@addressLowerCase": {
     "description": "address"
   },
-  "enterAddress": "请输入有效地址",
+  "enterAddress": "Введіть дійсну адресу",
   "@enterAddress": {
     "description": "Please enter a valid address"
   },
-  "addToAddress": "添加到地址",
+  "addToAddress": "Додати до адреси",
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "余额：",
+  "balanceLabel": "Баланс:",
   "@balanceLabel": {
     "description": "Balance: "
   },
-  "sendTo": "发送到",
+  "sendTo": "Надіслати до",
   "@sendTo": {
     "description": "Send to"
   },
-  "routeSelection": "路线选择",
+  "routeSelection": "Вибір маршруту",
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "滑点",
+  "slippage": "Прослизання",
   "@slippage": {
     "description": "Slippage"
   },
-  "about": "关于",
+  "about": "про",
   "@about": {
     "description": "About"
   },
-  "site": "网站",
+  "site": "Сайт",
   "@site": {
     "description": "Site"
   },
@@ -1052,311 +1052,311 @@
   "@twitter": {
     "description": "Twitter"
   },
-  "twitterLowercase": "twitter",
+  "twitterLowercase": "твіттер",
   "@twitterLowercase": {
     "description": "twitter"
   },
-  "telegram": "Telegram",
+  "telegram": "Телеграма",
   "@telegram": {
     "description": "Telegram"
   },
-  "networkUppercase": "网络",
+  "networkUppercase": "Мережа",
   "@networkUppercase": {
     "description": "Network"
   },
-  "customTokens": "自定义代币",
+  "customTokens": "Користувацькі токени",
   "@customTokens": {
     "description": "Custom Tokens"
   },
-  "allTokens": "所有代币",
+  "allTokens": "Усі токени",
   "@allTokens": {
     "description": "All tokens"
   },
-  "filterTokens": "过滤风险代币",
+  "filterTokens": "Фільтруйте ризиковані токени",
   "@filterTokens": {
     "description": "Filter risky tokens"
   },
-  "contractAddress": "合约地址",
+  "contractAddress": "Адреса договору",
   "@contractAddress": {
     "description": "Contract address"
   },
-  "tokenSymbol": "代币符号",
+  "tokenSymbol": "Символ токена",
   "@tokenSymbol": {
     "description": "Token symbol"
   },
-  "decimalsOfPrecision": "精度小数",
+  "decimalsOfPrecision": "Десяткові знаки точності",
   "@decimalsOfPrecision": {
     "description": "Decimals of precision"
   },
-  "turnOffRisk": "关闭风险代币过滤器？",
+  "turnOffRisk": "Вимкнути фільтр ризикованих токенів?",
   "@turnOffRisk": {
     "description": "Turn off risky tokens filter？"
   },
-  "sureTurnOff": "您确定要关闭风险代币过滤器吗？这可能会导致资产损失。",
+  "sureTurnOff": "Ви впевнені, що хочете вимкнути фільтр ризикованих токенів? Це може призвести до втрати активів.",
   "@sureTurnOff": {
     "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
   },
-  "turnOff": "关闭",
+  "turnOff": "Вимкнути",
   "@turnOff": {
     "description": "Turn off"
   },
-  "fail": "失败",
+  "fail": "провал",
   "@fail": {
     "description": "fail"
   },
-  "pending": "待定",
+  "pending": "В очікуванні",
   "@pending": {
     "description": "Pending"
   },
-  "warningText": "交易成功后，资金最多可能需要 20 分钟才能到达您的钱包。",
+  "warningText": "Після успішної трансакції кошти можуть надійти у ваш гаманець протягом 20 хвилин.",
   "@warningText": {
     "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
   },
-  "myWalletAddress": "我的钱包地址",
+  "myWalletAddress": "Адреса мого гаманця",
   "@myWalletAddress": {
     "description": "My wallet address"
   },
-  "hi": "嗨，{name}",
+  "hi": "Привіт, {name}",
   "@hi": {
     "description": "Hi, {name}"
   },
-  "dogeDevnetBalance": "$DOGE (devnet) 余额",
+  "dogeDevnetBalance": "$DOGE (devnet) баланс",
   "@dogeDevnetBalance": {
     "description": "$DOGE (devnet) balance"
   },
-  "dogeDevnetFaucet": "DogeOS Devnet Faucet",
+  "dogeDevnetFaucet": "Фаусет devnet DogeOS",
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
-  "myDogeTokenBalance": "我的 $DOGE (dev token) 余额",
+  "myDogeTokenBalance": "Мій баланс $DOGE (токен розробника).",
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "什么是 Faucet？",
+  "whatIsFaucet": "Що таке фаусет?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Faucet 可让你领取免费代币，用于在",
+  "whatIsFaucetHint": "Фаусет дозволяє отримати безкоштовні токени для тестування в",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
-  "devnet": " devnet ",
+  "devnet": "devnet",
   "@devnet": {
     "description": " devnet "
   },
-  "whatIsFaucetHint2": "上领取免费代币用于测试目的 — 这是一个模拟真实交易而不使用真实资产的区块链环境。",
+  "whatIsFaucetHint2": "— середовище блокчейн, яке імітує реальні транзакції без використання реальних активів.",
   "@whatIsFaucetHint2": {
     "description": "— a blockchain environment that simulates real transactions without using real assets."
   },
-  "thestDevnetTokens": "这些 devnet 代币是",
+  "thestDevnetTokens": "Це токени devnet",
   "@thestDevnetTokens": {
     "description": "These devnet tokens are"
   },
-  "notRealDoge": " 不是真正的 DOGE",
+  "notRealDoge": "не справжній DOGE",
   "@notRealDoge": {
     "description": " not real DOGE"
   },
-  "and": " 和 ",
+  "and": "і",
   "@and": {
     "description": " and "
   },
-  "haveNoMonetary": "没有货币价值",
+  "haveNoMonetary": "не мають грошової оцінки",
   "@haveNoMonetary": {
     "description": "have no monetary value"
   },
-  "howMuchDoge": "我可以获得多少 Devnet DOGE？",
+  "howMuchDoge": "Скільки Devnet DOGE я можу отримати?",
   "@howMuchDoge": {
     "description": " How Much Devnet DOGE Can I Get?"
   },
-  "youCanRequest": "您可以请求",
+  "youCanRequest": "Ви можете запитати",
   "@youCanRequest": {
     "description": "You can request"
   },
-  "perDayDoge": " 每天 42.069 ÐOGE。",
+  "perDayDoge": "42,069 ÐOGE на день.",
   "@perDayDoge": {
     "description": " 42.069 ÐOGE per day."
   },
-  "noRealFunds": " 不涉及真实资金 — 仅用于测试。",
+  "noRealFunds": "Ніяких реальних коштів не залучається — це лише для тестування.",
   "@noRealFunds": {
     "description": " No real funds are involved — it’s just for testing."
   },
-  "WhatCanIDo": "我可以用 Devnet DOGE 做什么？",
+  "WhatCanIDo": "Що я можу робити з Devnet DOGE?",
   "@WhatCanIDo": {
     "description": " What Can I Do With Devnet DOGE?"
   },
-  "WhatCanIDoHint": " 使用您的 devnet ÐOGE，您可以：",
+  "WhatCanIDoHint": "За допомогою Devnet ÐOGE ви можете:",
   "@WhatCanIDoHint": {
     "description": " With your devnet ÐOGE, you can:"
   },
-  "WhatCanIDoHint1": "安全地试用新功能",
+  "WhatCanIDoHint1": "Випробуйте нові функції безпечно",
   "@WhatCanIDoHint1": {
     "description": "Try out new features safely"
   },
-  "WhatCanIDoHint2": "在没有财务风险的情况下与 dApp 交互",
+  "WhatCanIDoHint2": "Взаємодійте з dApps без фінансового ризику",
   "@WhatCanIDoHint2": {
     "description": "Interact with dApps without financial risk"
   },
-  "helpUsTest": "帮助我们测试",
+  "helpUsTest": "Допоможіть нам перевірити",
   "@helpUsTest": {
     "description": "Help us test"
   },
-  "performanceUnderLoad": " 负载下的性能 ",
+  "performanceUnderLoad": "продуктивність під навантаженням",
   "@performanceUnderLoad": {
     "description": " performance under load "
   },
-  "performanceUnderLoadHint": "— 您的活动有助于在我们扩展 DogeOS 时进行重要的压力测试！",
+  "performanceUnderLoadHint": "— ваша діяльність сприяє важливому стрес-тесту під час масштабування DogeOS!",
   "@performanceUnderLoadHint": {
     "description": "— your activity contributes to important stress testing as we scale DogeOS!"
   },
-  "claimNow": "立即领取 Ð42.069！",
+  "claimNow": "Отримайте Ð42,069 зараз!",
   "@claimNow": {
     "description": "Claim Ð42.069 now!"
   },
-  "blockOrReport": "屏蔽或举报",
+  "blockOrReport": "Заблокувати або повідомити",
   "@blockOrReport": {
     "description": "Block or Report"
   },
-  "blockOrReportHint": "MyDoge 将审查所有被举报的个人资料，以查看是否存在任何违反我们准则的行为。您也可以屏蔽该个人资料，以防止他们查看您的帖子。",
+  "blockOrReportHint": "MyDoge перегляне всі профілі, про які повідомляється, щоб перевірити, чи є порушення наших інструкцій. Ви також можете заблокувати профіль, щоб вони не могли переглядати ваші публікації.",
   "@blockOrReportHint": {
     "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
   },
-  "report": "举报",
+  "report": "звіт",
   "@report": {
     "description": "Report"
   },
-  "block": "屏蔽",
+  "block": "Блокувати",
   "@block": {
     "description": "Block"
   },
-  "nevermind": "没关系",
+  "nevermind": "Неважливо",
   "@nevermind": {
     "description": "Nevermind"
   },
-  "allComments": "所有评论",
+  "allComments": "Всі коментарі",
   "@allComments": {
     "description": "All Comments"
   },
-  "noCommentYet": "暂无评论",
+  "noCommentYet": "Поки немає коментарів",
   "@noCommentYet": {
     "description": "No comment yet"
   },
-  "saySomething": "说点什么...",
+  "saySomething": "Скажи щось...",
   "@saySomething": {
     "description": "Say something..."
   },
-  "sureToDelete": "确定要删除此评论吗？",
+  "sureToDelete": "Справді видалити цей коментар?",
   "@sureToDelete": {
     "description": "Sure to delete this comment?"
   },
-  "copyProfileURL": "复制个人资料网址",
+  "copyProfileURL": "Копіювати URL профілю",
   "@copyProfileURL": {
     "description": "Copy Profile URL"
   },
-  "quickAmount": "快速金额",
+  "quickAmount": "Швидка сума",
   "@quickAmount": {
     "description": "Quick amount"
   },
-  "unblockUser": "取消屏蔽用户？",
+  "unblockUser": "Розблокувати користувача?",
   "@unblockUser": {
     "description": "Unblock User?"
   },
-  "unblockUserHint": "这将取消屏蔽该用户，您将继续看到他们的帖子。",
+  "unblockUserHint": "Це розблокує користувача, і ви й надалі бачитимете його публікації.",
   "@unblockUserHint": {
     "description": "This will unblock the user and you will continue to see their posts."
   },
-  "unblock": "取消屏蔽",
+  "unblock": "Розблокувати",
   "@unblock": {
     "description": "Unblock"
   },
-  "following": "正在关注",
+  "following": "Слідую",
   "@following": {
     "description": "Following"
   },
-  "shop": "商店",
+  "shop": "Магазин",
   "@shop": {
     "description": "Shop"
   },
-  "settingsAndSupport": "设置和支持",
+  "settingsAndSupport": "Налаштування та підтримка",
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "通过以下方式发送和接收打赏",
+  "sendAndReceive": "Надсилайте й отримуйте чайові через",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
-  "readFAQ": "阅读 MyDogeTip 常见问题解答",
+  "readFAQ": "Прочитайте поширені запитання щодо MyDogeTip",
   "@readFAQ": {
     "description": "Read the MyDogeTip FAQ"
   },
-  "signOutUser": "退出 @{handle}",
+  "signOutUser": "Вийти @{handle}",
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "更改支付密码",
+  "changePayPin": "Змінити PIN оплати",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
-  "displayCurrency": "显示货币",
+  "displayCurrency": "Показати валюту",
   "@displayCurrency": {
     "description": "Display currency"
   },
-  "aboutMyDoge": "关于 MyDoge",
+  "aboutMyDoge": "Про MyDoge",
   "@aboutMyDoge": {
     "description": "About MyDoge"
   },
-  "version": "版本 {version}",
+  "version": "Версія {version}",
   "@version": {
     "description": "Version {version}"
   },
-  "nickname": "昵称",
+  "nickname": "псевдонім",
   "@nickname": {
     "description": "Nickname"
   },
-  "username": "用户名",
+  "username": "Ім'я користувача",
   "@username": {
     "description": "User name"
   },
-  "followers": "关注者",
+  "followers": "Послідовники",
   "@followers": {
     "description": "Followers"
   },
-  "newPost": "新帖子",
+  "newPost": "Нова пошта",
   "@newPost": {
     "description": "New Post"
   },
-  "post": "发布",
+  "post": "Опублікувати",
   "@post": {
     "description": "Post"
   },
-  "share": "分享",
+  "share": "Поділіться",
   "@share": {
     "description": "Share"
   },
-  "tips": "打赏",
+  "tips": "Чайові",
   "@tips": {
     "description": "Tips"
   },
-  "message": "消息",
+  "message": "повідомлення",
   "@message": {
     "description": "Message"
   },
-  "shareProfile": "分享个人资料",
+  "shareProfile": "Поділитися профілем",
   "@shareProfile": {
     "description": "Share profile"
   },
-  "findFriends": "寻找朋友",
+  "findFriends": "Знайти друзів",
   "@findFriends": {
     "description": "Find Friends"
   },
-  "searchResults": "搜索结果",
+  "searchResults": "Результати пошуку",
   "@searchResults": {
     "description": "Search Results"
   },
-  "startTyping": "开始输入",
+  "startTyping": "почати друкувати",
   "@startTyping": {
     "description": "start typing"
   },
-  "shopWithDoge": "使用狗狗币购物",
+  "shopWithDoge": "Купуйте з Doge",
   "@shopWithDoge": {
     "description": "Shop with Doge"
   },
@@ -1364,23 +1364,23 @@
   "@getDogeCom": {
     "description": "GetDoge.com"
   },
-  "giftCards": "礼品卡",
+  "giftCards": "Подарункові карти",
   "@giftCards": {
     "description": "Gift Cards"
   },
-  "soon": "即将推出",
+  "soon": "скоро",
   "@soon": {
     "description": "soon"
   },
-  "switchNetwork": "切换网络",
+  "switchNetwork": "Переключити мережу",
   "@switchNetwork": {
     "description": "Switch network"
   },
-  "empty": "空",
+  "empty": "Порожній",
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "预计收到",
+  "estReceive": "Очік. отримання",
   "@estReceive": {
     "description": "Est. Receive"
   },
@@ -1388,103 +1388,103 @@
   "@doge": {
     "description": "Doge"
   },
-  "scanQrCodeDesc": "扫描以支付确切金额。",
+  "scanQrCodeDesc": "Скануйте, щоб заплатити з точною сумою.",
   "@scanQrCodeDesc": {
     "description": "Scan to pay with the exact amount."
   },
-  "clearAmount": "清除金额",
+  "clearAmount": "Очистити суму",
   "@clearAmount": {
     "description": "Clear amount"
   },
-  "inputPINToContinue": "输入您的 PIN 码以继续",
+  "inputPINToContinue": "Щоб продовжити, введіть свій PIN",
   "@inputPINToContinue": {
     "description": "Enter your PIN to continue"
   },
-  "verifyYourPIN": "验证您的 PIN 码以创建 DogeOS 钱包。",
+  "verifyYourPIN": "Підтвердьте свій PIN, щоб створити соціальний гаманець.",
   "@verifyYourPIN": {
     "description": "Verify your PIN to create a Social Wallet."
   },
-  "incorrectPin": "您输入的 PIN 码不正确",
+  "incorrectPin": "Ви ввели неправильний PIN",
   "@incorrectPin": {
     "description": "The PIN you entered is incorrect"
   },
-  "iCloudBackupFailed": "iCloud 备份失败",
+  "iCloudBackupFailed": "Помилка резервного копіювання iCloud",
   "@iCloudBackupFailed": {
     "description": "iCloud backup failed"
   },
-  "pleaseTurnOnYourICloud": "在备份或导入钱包之前，请在设备设置中启用 iCloud。",
+  "pleaseTurnOnYourICloud": "Будь ласка, увімкніть iCloud у налаштуваннях пристрою, перш ніж створювати резервні копії чи імпортувати гаманець.",
   "@pleaseTurnOnYourICloud": {
     "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
   },
-  "goToSettingPage": "转到设置页面",
+  "goToSettingPage": "Перейдіть на сторінку налаштувань",
   "@goToSettingPage": {
     "description": "Go to setting page"
   },
-  "deleteBackup": "删除备份",
+  "deleteBackup": "Видалити резервну копію",
   "@deleteBackup": {
     "description": "Delete backup"
   },
-  "deleteBackupOrNot": "您要删除备份吗？",
+  "deleteBackupOrNot": "Бажаєте видалити резервну копію?",
   "@deleteBackupOrNot": {
     "description": "Do you want to delete the backup?"
   },
-  "sendToCrypto": "发送到加密地址",
+  "sendToCrypto": "Надіслати на криптоадресу",
   "@sendToCrypto": {
     "description": "Send to a crypto address"
   },
-  "importSeedPhrase": "使用助记词导入",
+  "importSeedPhrase": "Імпортувати за seed-фразою",
   "@importSeedPhrase": {
     "description": "Import with seed phrase"
   },
-  "importGoogleDrive": "从 Google 云端硬盘导入",
+  "importGoogleDrive": "Імпортувати з гугл диска",
   "@importGoogleDrive": {
     "description": "Import from google drive"
   },
-  "importICloud": "从 iCloud 导入",
+  "importICloud": "Імпортувати з iCloud",
   "@importICloud": {
     "description": "Import from iCloud"
   },
-  "reminder": "提醒",
+  "reminder": "Нагадування",
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "我们注意到你之前使用的钱包来自 Social Wallet，助记词由 Cubist 保护。你将升级到该社交钱包。此外，你之前的 Dogeverse 内容将无法再访问。\n\n如有疑问，请联系我们的支持团队。",
+  "reminderDesc": "Ми помітили, що гаманець, яким ви раніше користувалися, був Social Wallet із seed-фразою, захищеною через Cubist. Ви перейдете на цей соціальний гаманець. Крім того, ваш попередній вміст Dogeverse більше не доступний.\n\nЯкщо у вас є запитання, зверніться до служби підтримки.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
-  "importNotes": "社交登录重要说明",
+  "importNotes": "Важливі зауваження щодо входу в соціальні мережі",
   "@importNotes": {
     "description": "Important notes on social login"
   },
-  "importNotesDesc": "如果您使用 X 登录，MyDogeTip 功能将链接到您的 X 帐户。",
+  "importNotesDesc": "Якщо ви входите за допомогою X, функція MyDogeTip буде пов’язана з вашим обліковим записом X.",
   "@importNotesDesc": {
     "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
   },
-  "maybeLater": "也许以后",
+  "maybeLater": "Можливо пізніше",
   "@maybeLater": {
     "description": "Maybe later"
   },
-  "depositToken": "存入 {tokenName}",
+  "depositToken": "Депозит {tokenName}",
   "@depositToken": {
     "description": "Deposit {tokenName}"
   },
-  "selectDepositMethod": "选择存款方式",
+  "selectDepositMethod": "Виберіть спосіб депозиту",
   "@selectDepositMethod": {
     "description": "Select deposit method"
   },
-  "myDogeFriends": "MyDoge 朋友",
+  "myDogeFriends": "Друзі MyDoge",
   "@myDogeFriends": {
     "description": "MyDoge friends"
   },
-  "setAmount": "设置金额",
+  "setAmount": "Встановити суму",
   "@setAmount": {
     "description": "Set amount"
   },
-  "amount": "金额",
+  "amount": "Сума",
   "@amount": {
     "description": "Amount"
   },
-  "amountLowercase": "金额",
+  "amountLowercase": "сума",
   "@amountLowercase": {
     "description": "amount"
   },
@@ -1492,323 +1492,323 @@
   "@dogeUppercase": {
     "description": "DOGE"
   },
-  "allNetworks": "所有网络",
+  "allNetworks": "Всі мережі",
   "@allNetworks": {
     "description": "All networks"
   },
-  "popularNetworks": "热门网络",
+  "popularNetworks": "Популярні мережі",
   "@popularNetworks": {
     "description": "Popular networks"
   },
-  "oops": "切换到 DogeOS 钱包",
+  "oops": "Перейдіть на соціальний гаманець",
   "@oops": {
     "description": "Switch to Social Wallet"
   },
-  "oopsDesc": "糟糕！您当前正在使用 MyDoge Classic 钱包。请切换到您的 DogeOS 钱包以访问此功能。",
+  "oopsDesc": "Ой! Зараз ви використовуєте гаманець MyDoge Classic. Перейдіть до свого соціального гаманця, щоб отримати доступ до цієї функції.",
   "@oopsDesc": {
     "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
   },
-  "switchWallet": "切换钱包",
+  "switchWallet": "Змінити гаманець",
   "@switchWallet": {
     "description": "Switch wallet"
   },
-  "termsOfUse": "使用条款",
+  "termsOfUse": "Умови використання",
   "@termsOfUse": {
     "description": "Terms of Use"
   },
-  "privacyPolicy": "隐私政策",
+  "privacyPolicy": "Політика конфіденційності",
   "@privacyPolicy": {
     "description": "Privacy Policy"
   },
-  "shareMyDoge": "分享 MyDoge",
+  "shareMyDoge": "Поділіться MyDoge",
   "@shareMyDoge": {
     "description": "Share MyDoge"
   },
-  "visitOurWebsite": "访问我们的网站",
+  "visitOurWebsite": "Відвідайте наш сайт",
   "@visitOurWebsite": {
     "description": "Visit Our Website"
   },
-  "viewSeedPhrase": "查看助记词",
+  "viewSeedPhrase": "Переглянути seed-фразу",
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "抄写",
+  "seedBackupTip1": "Записати",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
-  "seedBackupTip2": "屏幕截图",
+  "seedBackupTip2": "Скріншоти",
   "@seedBackupTip2": {
     "description": "Screenshots"
   },
-  "seedBackupTip3": "数字副本",
+  "seedBackupTip3": "Цифрова копія",
   "@seedBackupTip3": {
     "description": "Digital copy"
   },
-  "keepSeedSafeNotice": "任何拥有您种子的人都可以访问您的所有资产。请将信息保密。",
+  "keepSeedSafeNotice": "Будь-хто, хто має вашу seed-фразу, може отримати доступ до всіх ваших активів. Нікому її не повідомляйте.",
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
-  "hide": "隐藏",
+  "hide": "Сховати",
   "@hide": {
     "description": "Hide"
   },
-  "warningTitleNotice": "出于安全原因，如果您关闭或刷新页面，您将需要重新申请并等待至少 48 小时。请确保在离开前记住您的助记词。",
+  "warningTitleNotice": "З міркувань безпеки, якщо ви закриєте або оновите сторінку, потрібно буде повторно подати запит і зачекати щонайменше 48 годин. Перед виходом переконайтеся, що ви зберегли свою seed-фразу.",
   "@warningTitleNotice": {
     "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
   },
-  "keepSeedSafeTitle": "妥善保管助记词",
+  "keepSeedSafeTitle": "Зберігайте seed-фразу в безпеці",
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "任何拥有您种子的人都可以访问您的所有资产。请务必在收到转账或删除应用程序之前备份您的种子。",
+  "keepSeedSafeNotice1": "Будь-хто, хто має вашу seed-фразу, може отримати доступ до всіх ваших активів. Створіть резервну копію seed-фрази перед отриманням переказів або видаленням застосунку.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge 不会在其服务器上存储您的种子，因此一旦丢失，将无法恢复您的钱包。",
+  "keepSeedSafeNotice2": "MyDoge не зберігає вашу seed-фразу на сервері й не зможе відновити гаманець, якщо її буде втрачено.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
-  "seedAlreadyBackup": "已备份",
+  "seedAlreadyBackup": "Уже створено резервну копію",
   "@seedAlreadyBackup": {
     "description": "Already backed up"
   },
-  "backupSecurity": "备份与安全",
+  "backupSecurity": "Резервне копіювання та безпека",
   "@backupSecurity": {
     "description": "Backup  & Security"
   },
-  "backupYourWalletHint": "将您的钱包保存到云端并使用密码保护。您还可以写下您的助记词或将其复制到密码管理器中。",
+  "backupYourWalletHint": "Збережіть гаманець у хмарі та захистіть його паролем. Також можна записати seed-фразу або зберегти її в менеджері паролів.",
   "@backupYourWalletHint": {
     "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
   },
-  "haveNotBackUp": "您尚未将钱包备份到云端。",
+  "haveNotBackUp": "Ви не створили резервну копію свого гаманця в хмарі.",
   "@haveNotBackUp": {
     "description": "You haven't backed up your wallet to the cloud."
   },
-  "backupToICloud": "备份到 iCloud",
+  "backupToICloud": "Резервне копіювання в iCloud",
   "@backupToICloud": {
     "description": "Back up to iCloud"
   },
-  "backupToGoogle": "备份到 Google 云端硬盘",
+  "backupToGoogle": "Резервне копіювання на Google Drive",
   "@backupToGoogle": {
     "description": "Back up to Google Drive"
   },
-  "createRecoveryPassword": "创建云恢复密码",
+  "createRecoveryPassword": "Створіть пароль відновлення Cloud",
   "@createRecoveryPassword": {
     "description": "Create Cloud recovery password"
   },
-  "createRecoveryPasswordHint": "您需要为云备份恢复创建一个密码。选择一个至少 8 个字符的难忘密码；密码越长越安全。",
+  "createRecoveryPasswordHint": "Вам потрібно створити пароль для відновлення резервної копії в хмарі. Виберіть пароль, що запам'ятовується, мінімум з 8 символів; довші паролі безпечніші.",
   "@createRecoveryPasswordHint": {
     "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
   },
-  "ifYouLoseRecoveryPassword": "丢失此密码意味着您无法恢复备份。",
+  "ifYouLoseRecoveryPassword": "Втрата цього пароля означає, що ви не зможете відновити резервну копію.",
   "@ifYouLoseRecoveryPassword": {
     "description": "Losing this password means you can’t recover your backup."
   },
-  "confirmPassword": "确认密码",
+  "confirmPassword": "Підтвердьте пароль",
   "@confirmPassword": {
     "description": "Confirm password"
   },
-  "confirmBackup": "确认备份",
+  "confirmBackup": "Підтвердити резервне копіювання",
   "@confirmBackup": {
     "description": "Confirm backup"
   },
-  "haveBackUp": "您已将钱包备份到云端。",
+  "haveBackUp": "Ви створили резервну копію свого гаманця в хмарі.",
   "@haveBackUp": {
     "description": "You have backed up your wallet to the cloud."
   },
-  "passwordRules": "密码必须至少为 8 个字符",
+  "passwordRules": "Пароль має бути не менше 8 символів",
   "@passwordRules": {
     "description": "Password must be at least 8 characters"
   },
-  "passwordNotMatch": "密码不匹配",
+  "passwordNotMatch": "Пароль не збігається",
   "@passwordNotMatch": {
     "description": "Password does not match"
   },
-  "someChain": "{chain} 链。",
+  "someChain": "Ланцюг {chain}.",
   "@someChain": {
     "description": "{chain} Chain."
   },
-  "inputYourRecoveryPassword": "输入您的云恢复密码",
+  "inputYourRecoveryPassword": "Введіть пароль для відновлення хмари",
   "@inputYourRecoveryPassword": {
     "description": "Input your Cloud Recovery Password"
   },
-  "importExistingWallet": "导入现有钱包",
+  "importExistingWallet": "Імпорт наявного гаманця",
   "@importExistingWallet": {
     "description": "Import existing wallet"
   },
-  "walletName": "钱包名称",
+  "walletName": "Назва гаманця",
   "@walletName": {
     "description": "Wallet name"
   },
-  "backupYourWallet": "备份您的钱包",
+  "backupYourWallet": "Зробіть резервну копію свого гаманця",
   "@backupYourWallet": {
     "description": "Back up your wallet"
   },
-  "deleteWallet": "删除云备份？",
+  "deleteWallet": "Видалити резервну копію в хмарі?",
   "@deleteWallet": {
     "description": "Delete Cloud backup?"
   },
-  "renameWallet": "重命名钱包",
+  "renameWallet": "Перейменувати гаманець",
   "@renameWallet": {
     "description": "Rename Wallet"
   },
-  "enterName": "输入一个名称",
+  "enterName": "Введіть назву",
   "@enterName": {
     "description": "Enter a name"
   },
-  "sureToDeleteWallet": "您将失去从云端恢复钱包的能力。您确定要继续吗？",
+  "sureToDeleteWallet": "Ви втратите можливість відновити свій гаманець із хмари. Ви впевнені, що бажаєте продовжити?",
   "@sureToDeleteWallet": {
     "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
   },
-  "profileIsPublic": "个人资料是公开的",
+  "profileIsPublic": "Профіль відкритий",
   "@profileIsPublic": {
     "description": "Profile is Public"
   },
-  "showWalletAddress": "显示钱包地址和打赏按钮",
+  "showWalletAddress": "Показати адресу гаманця та кнопку чайових",
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "可转让：",
+  "transferableLabel": "Можливість передачі:",
   "@transferableLabel": {
     "description": "Transferable: "
   },
-  "transferable": "可转让",
+  "transferable": "Переказний",
   "@transferable": {
     "description": "Transferable"
   },
-  "inscribe": "铭刻",
+  "inscribe": "Вписати",
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "购买 DOGE",
+  "buyDoge": "Купити DOGE",
   "@buyDoge": {
     "description": "Buy Doge"
   },
-  "totalVolume": "总交易量",
+  "totalVolume": "Загальний обсяг",
   "@totalVolume": {
     "description": "Total volume"
   },
-  "Volume24h": "24 小时交易量",
+  "Volume24h": "24-годинний обсяг",
   "@Volume24h": {
     "description": "24h volume"
   },
-  "holders": "持有者",
+  "holders": "Тримачі",
   "@holders": {
     "description": "Holders"
   },
-  "sales": "销售额",
+  "sales": "Продажі",
   "@sales": {
     "description": "Sales"
   },
-  "inscribeForTransfer": "铭刻以进行转让",
+  "inscribeForTransfer": "Записатися на переведення",
   "@inscribeForTransfer": {
     "description": "Inscribe for transfer"
   },
-  "inscribeForTransferHint": "准备好发送了吗？此步骤将解锁您的 Drc20 代币以进行转让。",
+  "inscribeForTransferHint": "Готові відправити? Цей крок розблокує ваші токени Drc20 для передачі.",
   "@inscribeForTransferHint": {
     "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
   },
-  "selectAnInscription": "选择要发送的铭文",
+  "selectAnInscription": "Виберіть напис для відправки",
   "@selectAnInscription": {
     "description": "Select an inscription to send"
   },
-  "transferToken": "转让 {token}",
+  "transferToken": "Передача {token}",
   "@transferToken": {
     "description": "Transfer {token}"
   },
-  "confirmTransfer": "确认转让",
+  "confirmTransfer": "Підтвердити передачу",
   "@confirmTransfer": {
     "description": "Confirm Transfer"
   },
-  "noNFTsFound": "未找到 NFT",
+  "noNFTsFound": "NFTs не знайдено",
   "@noNFTsFound": {
     "description": "No NFTs Found"
   },
-  "yoursNFTAppearHere": "您的 NFT 将出现在此处",
+  "yoursNFTAppearHere": "Тут з’явиться ваш NFTs",
   "@yoursNFTAppearHere": {
     "description": "Your NFTs will appear here"
   },
-  "titleCopied": "{title} 已复制到剪贴板",
+  "titleCopied": "{title} скопійовано в буфер обміну",
   "@titleCopied": {
     "description": "{title} copied to clipboard"
   },
-  "transfer": "转让",
+  "transfer": "Трансфер",
   "@transfer": {
     "description": "Transfer"
   },
-  "NFTDetails": "NFT 详情",
+  "NFTDetails": "NFT Деталі",
   "@NFTDetails": {
     "description": "NFT Details"
   },
-  "inscriptionID": "铭文 ID",
+  "inscriptionID": "ID напису",
   "@inscriptionID": {
     "description": "Inscription ID"
   },
-  "outputValue": "输出值",
+  "outputValue": "Вихідне значення",
   "@outputValue": {
     "description": "Output Value"
   },
-  "preview": "预览",
+  "preview": "Попередній перегляд",
   "@preview": {
     "description": "Preview"
   },
-  "content": "内容",
+  "content": "Зміст",
   "@content": {
     "description": "Content"
   },
-  "contentType": "内容类型",
+  "contentType": "Тип вмісту",
   "@contentType": {
     "description": "Content Type"
   },
-  "timestamp": "时间戳",
+  "timestamp": "Мітка часу",
   "@timestamp": {
     "description": "Timestamp"
   },
-  "genesisTransaction": "创世交易",
+  "genesisTransaction": "Трансакція Genesis",
   "@genesisTransaction": {
     "description": "Genesis Transaction"
   },
-  "showLess": "显示更少",
+  "showLess": "Показати менше",
   "@showLess": {
     "description": "Show Less"
   },
-  "showMore": "显示更多",
+  "showMore": "Показати більше",
   "@showMore": {
     "description": "Show More"
   },
-  "errorLoadingNFTs": "加载 NFT 时出错：{error}",
+  "errorLoadingNFTs": "Помилка завантаження NFTs: {error}",
   "@errorLoadingNFTs": {
     "description": "Error loading NFTs: {error}"
   },
-  "errorCreatingTransaction": "创建交易时出错：{error}",
+  "errorCreatingTransaction": "Помилка створення транзакції: {error}",
   "@errorCreatingTransaction": {
     "description": "Error creating transaction: {error}"
   },
-  "addMessage": "添加消息",
+  "addMessage": "Додати повідомлення",
   "@addMessage": {
     "description": "Add message"
   },
-  "toSomeone": "给 {someone}",
+  "toSomeone": "до {someone}",
   "@toSomeone": {
     "description": "to {someone}"
   },
-  "recent": "最近",
+  "recent": "Останні",
   "@recent": {
     "description": "Recent"
   },
-  "noSearchResult": "没有搜索结果",
+  "noSearchResult": "Немає результатів пошуку",
   "@noSearchResult": {
     "description": "No search result"
   },
-  "searchForPeople": "搜索人员或输入地址",
+  "searchForPeople": "Знайдіть людей або введіть адресу",
   "@searchForPeople": {
     "description": "Search for people or input an address"
   },
-  "multiChain": "多链",
+  "multiChain": "Багатоланцюговий",
   "@multiChain": {
     "description": "Multi-chain"
   },
-  "transferFundsToDogeWallet": "一键将您的资金转移到 DogeOS 钱包！",
+  "transferFundsToDogeWallet": "Перемістіть свої кошти в Social Wallet одним дотиком!",
   "@transferFundsToDogeWallet": {
     "description": "Move your funds to Social Wallet in one tap!"
   },
@@ -1816,19 +1816,19 @@
   "@drc20": {
     "description": "Drc20"
   },
-  "NFTs": "NFT",
+  "NFTs": "NFTs",
   "@NFTs": {
     "description": "NFTs"
   },
-  "noDrc20Found": "这里什么都没有！",
+  "noDrc20Found": "Тут ще нічого немає!",
   "@noDrc20Found": {
     "description": "Nothing here yet!"
   },
-  "youCanCreateWallet": "您随时可以在这里创建 DogeOS 钱包。",
+  "youCanCreateWallet": "Тут ви завжди можете створити соціальний гаманець.",
   "@youCanCreateWallet": {
     "description": "You can always create a Social Wallet here."
   },
-  "getDogeTestToken": "获取 DOGE 测试网代币 \n (零价值)",
+  "getDogeTestToken": "Отримати токени тестової мережі DOGE \n(нульова вартість)",
   "@getDogeTestToken": {
     "description": "Get DOGE testnet tokens \n (zero value)"
   },
@@ -1836,443 +1836,443 @@
   "@devnetUpperCase": {
     "description": "Devnet"
   },
-  "legalTerms": "法律条款",
+  "legalTerms": "Юридичні умови",
   "@legalTerms": {
     "description": "Legal terms"
   },
-  "pleaseReadOur": "请阅读我们的",
+  "pleaseReadOur": "Будь ласка, прочитайте наш",
   "@pleaseReadOur": {
     "description": "Please read our"
   },
-  "eula": " EULA",
+  "eula": "EULA",
   "@eula": {
     "description": " EULA"
   },
-  "agreeContinue": " 同意并继续",
+  "agreeContinue": "Погодитися та продовжити",
   "@agreeContinue": {
     "description": " Agree & Continue"
   },
-  "enableBiometrics": "启用生物识别？",
+  "enableBiometrics": "Увімкнути біометрію?",
   "@enableBiometrics": {
     "description": "Enable biometrics?"
   },
-  "no": "否",
+  "no": "немає",
   "@no": {
     "description": "No"
   },
-  "yes": "是",
+  "yes": "так",
   "@yes": {
     "description": "Yes"
   },
-  "enable": "启用",
+  "enable": "Увімкнути",
   "@enable": {
     "description": "Enable"
   },
-  "setNewPhoto": "设置新照片",
+  "setNewPhoto": "Встановити нове фото",
   "@setNewPhoto": {
     "description": "Set new photo"
   },
-  "chooseFromGallery": "从图库中选择",
+  "chooseFromGallery": "Виберіть із галереї",
   "@chooseFromGallery": {
     "description": "Choose from gallery"
   },
-  "takeAPhoto": "拍照",
+  "takeAPhoto": "Зробіть фото",
   "@takeAPhoto": {
     "description": "Take a photo"
   },
-  "authenticationFailed": "身份验证失败",
+  "authenticationFailed": "Помилка автентифікації",
   "@authenticationFailed": {
     "description": "Authentication failed"
   },
-  "authenticationFailedHint": "您的身份验证尝试出现问题。",
+  "authenticationFailedHint": "Під час вашої спроби автентифікації виникла проблема.",
   "@authenticationFailedHint": {
     "description": "There was an issue with your authentication attempt."
   },
-  "tryAgain": "重试",
+  "tryAgain": "Спробуйте знову",
   "@tryAgain": {
     "description": "Try again"
   },
-  "faceIDNotEnabled": "面容 ID 未启用",
+  "faceIDNotEnabled": "Face ID не ввімкнено",
   "@faceIDNotEnabled": {
     "description": "Face ID Not Enabled"
   },
-  "pleaseEnabledFaceID": "请在“设置”中启用面容 ID 以继续。",
+  "pleaseEnabledFaceID": "Щоб продовжити, увімкніть ідентифікатор обличчя в налаштуваннях.",
   "@pleaseEnabledFaceID": {
     "description": "Please enable Face ID in Settings to continue."
   },
-  "goToSettings": "转到设置",
+  "goToSettings": "Перейдіть до Налаштувань",
   "@goToSettings": {
     "description": "Go to Settings"
   },
-  "cancelRequest": "取消请求",
+  "cancelRequest": "Скасувати запит",
   "@cancelRequest": {
     "description": "Cancel request"
   },
-  "cancelRequestHint": "您确定要取消吗？如果您想设置新的通行密钥，这将重新开始等待期。",
+  "cancelRequestHint": "Ви впевнені, що бажаєте скасувати? Це перезапустить період очікування, якщо ви хочете налаштувати новий Passkey.",
   "@cancelRequestHint": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
-  "stillAccessYourClassicWallet": "您下次登录时仍可以访问您的 MyDoge Classic。但是，您的帖子将无法访问。如果需要，请立即备份您的数据。",
+  "stillAccessYourClassicWallet": "Ви все ще матимете доступ до свого MyDoge Classic під час наступного входу. Однак ваші публікації будуть недоступні. Будь ласка, зробіть резервну копію даних зараз, якщо потрібно.",
   "@stillAccessYourClassicWallet": {
     "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
   },
-  "permissionDenied": "权限被拒绝",
+  "permissionDenied": "У дозволі відмовлено",
   "@permissionDenied": {
     "description": "Permission Denied"
   },
-  "whatIsYourEmail": "您的电子邮件是什么",
+  "whatIsYourEmail": "Яка ваша електронна адреса",
   "@whatIsYourEmail": {
     "description": "What’s your email"
   },
-  "enableFaceID": "启用面容 ID",
+  "enableFaceID": "Увімкнути Face ID",
   "@enableFaceID": {
     "description": "Enable Face ID"
   },
-  "enableFaceIDHint": "为确保您的帐户安全，请确保在使用该应用程序时启用面容 ID。",
+  "enableFaceIDHint": "Щоб захистити свій обліковий запис, переконайтеся, що Face ID залишається ввімкненим під час використання програми.",
   "@enableFaceIDHint": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "setUpPasskey": "设置通行密钥",
+  "setUpPasskey": "Налаштуйте Passkey",
   "@setUpPasskey": {
     "description": "Set Up Passkey"
   },
-  "settingUp": "正在设置...",
+  "settingUp": "Налаштування...",
   "@settingUp": {
     "description": "Setting up..."
   },
-  "settingUpHint": "通行密钥设置已取消。\r\n请重试。",
+  "settingUpHint": "Налаштування Passkey скасовано.\r\nСпробуйте ще раз.",
   "@settingUpHint": {
     "description": "Passkey setup was canceled.\r\nPlease try again."
   },
-  "verifyWithPasskey": "使用通行密钥验证",
+  "verifyWithPasskey": "Підтвердьте за допомогою Passkey",
   "@verifyWithPasskey": {
     "description": "Verify With Passkey"
   },
-  "verifying": "正在验证...",
+  "verifying": "Перевірка...",
   "@verifying": {
     "description": "Verifying..."
   },
-  "verificationCanceled": "验证已取消。",
+  "verificationCanceled": "Перевірку скасовано.",
   "@verificationCanceled": {
     "description": "Verification was canceled."
   },
-  "noPasskeyFound": "未找到通行密钥",
+  "noPasskeyFound": "Passkey не знайдено",
   "@noPasskeyFound": {
     "description": "No Passkey found"
   },
-  "keepAccountSafe": "为确保您的帐户安全，请确保在使用该应用程序时启用面容 ID。",
+  "keepAccountSafe": "Щоб захистити свій обліковий запис, переконайтеся, що Face ID залишається ввімкненим під час використання програми.",
   "@keepAccountSafe": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "setUpNewPasskey": "设置新的通行密钥",
+  "setUpNewPasskey": "Налаштуйте новий Passkey",
   "@setUpNewPasskey": {
     "description": "Set up a new passkey"
   },
-  "poweredBy": "由...提供支持",
+  "poweredBy": "На основі",
   "@poweredBy": {
     "description": "Powered by"
   },
-  "IAccept": "我接受",
+  "IAccept": "Я приймаю",
   "@IAccept": {
     "description": "I accept"
   },
-  "orContinueWith": "或继续使用",
+  "orContinueWith": "або продовжити",
   "@orContinueWith": {
     "description": "or continue with"
   },
-  "verifyEmail": "验证电子邮件",
+  "verifyEmail": "Підтвердити електронну адресу",
   "@verifyEmail": {
     "description": "Verify Email"
   },
-  "verifyEmailHint": "一次性登录链接已发送至",
+  "verifyEmailHint": "Посилання для одноразового входу надіслано на адресу",
   "@verifyEmailHint": {
     "description": "A one-time sign-in link has been sent to"
   },
-  "doNotSeeEmail": "没有看到电子邮件？检查您的垃圾邮件文件夹，或 ",
+  "doNotSeeEmail": "Не бачили електронного листа? Перевірте папку зі спамом або",
   "@doNotSeeEmail": {
     "description": "Didn’t see email? Check your spam folder, or "
   },
-  "settingUpPasskeyHint": "为了您的帐户安全，设置新的通行密钥需要 48 小时的等待期。",
+  "settingUpPasskeyHint": "Для безпеки вашого облікового запису для створення нового Passkey потрібен 48-годинний період очікування.",
   "@settingUpPasskeyHint": {
     "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
   },
-  "verificationLinkSent": "一次性验证链接将发送到\r\n您的电子邮件。",
+  "verificationLinkSent": "Буде надіслано одноразове посилання для підтвердження\r\nна вашу електронну пошту.",
   "@verificationLinkSent": {
     "description": "A one-time verification link will be sent\r\nto your email."
   },
-  "hours": "小时",
+  "hours": "години",
   "@hours": {
     "description": "Hours"
   },
-  "minutes": "分钟",
+  "minutes": "хвилин",
   "@minutes": {
     "description": "Minutes"
   },
-  "seconds": "秒",
+  "seconds": "секунд",
   "@seconds": {
     "description": "Seconds"
   },
-  "resendCode": "重新发送代码",
+  "resendCode": "Повторно надіслати код",
   "@resendCode": {
     "description": "Resend code"
   },
-  "emailAddress": "电子邮件地址",
+  "emailAddress": "Адреса електронної пошти",
   "@emailAddress": {
     "description": "Email address"
   },
-  "apple": "apple",
+  "apple": "яблуко",
   "@apple": {
     "description": "apple"
   },
-  "allNewWallet": "全新的\nMyDoge 钱包",
+  "allNewWallet": "ВСІ-Нові \nГаманець MyDoge",
   "@allNewWallet": {
     "description": "ALL-New \nMyDoge Wallet"
   },
-  "getStart": "开始",
+  "getStart": "Почніть роботу",
   "@getStart": {
     "description": "Get started"
   },
-  "welcomeToMydogeWallet": "欢迎来到全新的 MyDoge 钱包体验，它具有社交登录、多链钱包功能。\n\n您的 MyDoge Classic、资产以及您喜爱 MyDoge 的一切都将迁移到新的体验中。",
+  "welcomeToMydogeWallet": "Ласкаво просимо до абсолютно нового гаманця MyDoge із функцією соціального входу та багатоланцюжкового гаманця.\n\nВаш MyDoge Classic, активи та все, що вам подобається в MyDoge, буде переміщено в новий досвід.",
   "@welcomeToMydogeWallet": {
     "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
   },
-  "myDogeWallet": "MyDoge 钱包",
+  "myDogeWallet": "Гаманець MyDoge",
   "@myDogeWallet": {
     "description": "MyDoge Wallet"
   },
-  "initializing": "正在初始化...",
+  "initializing": "Ініціалізація...",
   "@initializing": {
     "description": "Initializing..."
   },
-  "risks": "未验证",
+  "risks": "Неперевірений",
   "@risks": {
     "description": "Unverified"
   },
-  "waitingUserToConnectX": "正在等待用户连接 X",
+  "waitingUserToConnectX": "Очікування підключення користувача X",
   "@waitingUserToConnectX": {
     "description": "Waiting user to connect X"
   },
-  "history": "历史记录",
+  "history": "історія",
   "@history": {
     "description": "History"
   },
-  "noActivity": "没有活动",
+  "noActivity": "Немає активності",
   "@noActivity": {
     "description": "No Activity"
   },
-  "notification": "通知",
+  "notification": "Сповіщення",
   "@notification": {
     "description": "Notification"
   },
-  "noData": "没有数据",
+  "noData": "Немає даних",
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "为了增强钱包安全性并降低恶意攻击的风险，MyDoge 钱包使用 Cubist 托管机制来安全地存储您的助记词。\n要查看它，请提交请求。它将在 48 小时后可用，并可查看 3 天。",
+  "viewSeedPhraseTip1": "Щоб підвищити безпеку гаманця та зменшити ризик атак, MyDoge Wallet використовує механізм зберігання Cubist для безпечного зберігання вашої seed-фрази.\nЩоб переглянути її, надішліть запит. Вона буде доступна через 48 годин і залишатиметься доступною для перегляду 3 дні.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
-  "receivedMnemonicTip1": "您的访问权限将在 {day} 天 {hour} 小时 {minute} 分钟后过期。请在此之前备份。",
+  "receivedMnemonicTip1": "Ваш доступ закінчиться через {day} днів, {hour} годин і {minute} хвилин. Створіть резервну копію до цього.",
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "助记词是一组 12 到 24 个单词，用作您钱包的密钥。就像没有 PIN 码的银行卡一样，任何拥有它的人都可以访问和转移您的资金。",
+  "seedPhraseHelpContent": "Seed-фраза — це набір із 12–24 слів, який служить ключем до вашого гаманця. Як банківська картка без PIN-коду, вона дозволяє будь-кому, хто її має, отримати доступ до ваших коштів і переказати їх.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "您的助记词不由 MyDoge 存储。\n要再次查看它，您需要等待 48 小时。",
+  "keepSeedSafeAlertContent": "Ваша seed-фраза не зберігається в MyDoge.\nЩоб переглянути її знову, потрібно зачекати 48 годин.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
-  "manageCrypto": "管理加密货币",
+  "manageCrypto": "Керуйте криптовалютою",
   "@manageCrypto": {
     "description": "Manage crypto"
   },
-  "addCustomToken": "添加自定义代币",
+  "addCustomToken": "Додати користувацький токен",
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "原始支付密码",
+  "originalPayPIN": "Поточний PIN оплати",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "设置新的支付密码",
+  "setNewPayPIN": "Встановити новий PIN оплати",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "确认新的支付密码",
+  "confirmNewPayPIN": "Підтвердити новий PIN оплати",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
-  "twoFactor": "双因素身份验证 (2FA)",
+  "twoFactor": "Двофакторна автентифікація (2FA)",
   "@twoFactor": {
     "description": "Two-Factor Authentication (2FA)"
   },
-  "twoFactorHint": "为了增强您帐户的安全性，我们强烈建议您至少启用一种 2FA。",
+  "twoFactorHint": "Щоб підвищити безпеку вашого облікового запису, ми наполегливо рекомендуємо ввімкнути принаймні одну 2FA.",
   "@twoFactorHint": {
     "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
   },
-  "minAmount": "最小金额为 {amount}",
+  "minAmount": "Мінімальна сума: {amount}",
   "@minAmount": {
     "description": "Min amount is {amount}"
   },
-  "maxAmount": "最大金额为 {amount}",
+  "maxAmount": "Максимальна сума – {amount}",
   "@maxAmount": {
     "description": "Max amount is {amount}"
   },
-  "connectedDApp": "已连接的 DApp",
+  "connectedDApp": "Підключив DApp",
   "@connectedDApp": {
     "description": "Connected DApp"
   },
-  "disconnectedAll": "全部断开连接",
+  "disconnectedAll": "Відключити все",
   "@disconnectedAll": {
     "description": "Disconnect All"
   },
-  "disconnected": "断开连接",
+  "disconnected": "Відключити",
   "@disconnected": {
     "description": "Disconnect"
   },
-  "connected": "已连接",
+  "connected": "Підключено",
   "@connected": {
     "description": "Connected"
   },
-  "connectedWallet": "{name} 已连接到 {walletName}",
+  "connectedWallet": "{name} підключено до {walletName}",
   "@connectedWallet": {
     "description": "{name} connected to {walletName}"
   },
-  "connectedNetwork": "{amount} 个网络连接",
+  "connectedNetwork": "Підключення до мережі {amount}",
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "DApp 请求",
+  "dappRequest": "Запит DApp",
   "@dappRequest": {
     "description": "Dapp request"
   },
-  "fromLabel": "来自：",
+  "fromLabel": "від:",
   "@fromLabel": {
     "description": "from: "
   },
-  "approve": "批准",
+  "approve": "Затвердити",
   "@approve": {
     "description": "Approve"
   },
-  "sign": "签名",
+  "sign": "Знак",
   "@sign": {
     "description": "Sign"
   },
-  "walletAddress": "钱包地址",
+  "walletAddress": "Адреса гаманця",
   "@walletAddress": {
     "description": "Wallet address"
   },
-  "dAppContract": "DApp 合约",
+  "dAppContract": "Контракт DApp",
   "@dAppContract": {
     "description": "DApp Contract"
   },
-  "gasFee": "Gas 费",
+  "gasFee": "Комісія за газ",
   "@gasFee": {
     "description": "Gas Fee"
   },
-  "data": "数据",
+  "data": "Дані",
   "@data": {
     "description": "Data"
   },
-  "connectYourWallet": "连接您的钱包",
+  "connectYourWallet": "Підключіть свій гаманець",
   "@connectYourWallet": {
     "description": "Connect your wallet"
   },
-  "requestFrom": "来自...的请求 ",
+  "requestFrom": "Запит від",
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "DApp 权限",
+  "dappPermission": "Дозвіл DApp",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
-  "accessYourETH": "访问您的链上 ETH 信息",
+  "accessYourETH": "Отримайте доступ до інформації про ETH у мережі",
   "@accessYourETH": {
     "description": "Access your ETH on-chain information"
   },
-  "requestTransaction": "请求您的交易授权",
+  "requestTransaction": "Запит на дозвіл транзакції від вас",
   "@requestTransaction": {
     "description": "Request transaction authorization from you"
   },
-  "note": "注意",
+  "note": "Примітка",
   "@note": {
     "description": "Note"
   },
-  "notShareYourPrivateKey": "授权不会共享您的私钥信息。",
+  "notShareYourPrivateKey": "Авторизація не передасть інформацію про ваш закритий ключ.",
   "@notShareYourPrivateKey": {
     "description": "Authorization will not share your private key information."
   },
-  "networkNotSupported": "不支持的网络",
+  "networkNotSupported": "Мережа не підтримується",
   "@networkNotSupported": {
     "description": "Network not supported"
   },
-  "amountNetwork": "{amount} 个网络",
+  "amountNetwork": "Мережі {amount}",
   "@amountNetwork": {
     "description": "{amount} networks"
   },
-  "manage": "管理",
+  "manage": "Керувати",
   "@manage": {
     "description": "Manage"
   },
-  "switzerComplete": "Switzer 完成",
+  "switzerComplete": "Switzer Complete",
   "@switzerComplete": {
     "description": "Switzer Complete"
   },
-  "noSearchResults": "没有搜索结果",
+  "noSearchResults": "Немає результатів пошуку",
   "@noSearchResults": {
     "description": "No search results"
   },
-  "authenticatingWithFaceID": "正在使用面容 ID 进行身份验证...",
+  "authenticatingWithFaceID": "Автентифікація за допомогою Face ID...",
   "@authenticatingWithFaceID": {
     "description": "Authenticating with Face ID..."
   },
-  "disableToken": "禁用风险代币过滤器？",
+  "disableToken": "Вимкнути фільтр ризикованих токенів?",
   "@disableToken": {
     "description": "Disable risky token filter?"
   },
-  "disable": "禁用",
+  "disable": "Вимкнути",
   "@disable": {
     "description": "Disable"
   },
-  "disableTokenHint": "这可能会使您面临风险代币和潜在的资产损失。",
+  "disableTokenHint": "Це може наражати вас на ризиковані токени та потенційну втрату активів.",
   "@disableTokenHint": {
     "description": "This may expose you to risky tokens and potential asset loss."
   },
-  "keepSeedSafeAlertTitle": "您是否已保存助记词？",
+  "keepSeedSafeAlertTitle": "Ви зберегли свою seed-фразу?",
   "@keepSeedSafeAlertTitle": {
     "description": "Have you saved your seed phrase?"
   },
-  "cancelViewRequest": "取消查看请求",
+  "cancelViewRequest": "Скасувати запит на перегляд",
   "@cancelViewRequest": {
     "description": "Cancel the view request"
   },
-  "featurePoweredBy": "此功能由...提供支持 ",
+  "featurePoweredBy": "Ця функція підтримується",
   "@featurePoweredBy": {
     "description": "This feature is powered by "
   },
-  "viewSeedPhraseRequestTitle": "您已请求查看助记词。",
+  "viewSeedPhraseRequestTitle": "Ви надіслали запит на перегляд seed-фрази.",
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "您的助记词将在此处显示",
+  "viewSeedPhraseRequestTip": "Ваша seed-фраза буде показана тут після",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "您的助记词已准备好查看",
+  "receivedMnemonicTitle": "Ваша seed-фраза готова до перегляду",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
-  "receivedMnemonicSubTip1": "请妥善保管您的助记词。",
+  "receivedMnemonicSubTip1": "Зберігайте seed-фразу в безпеці.",
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "MyDoge 钱包不存储用户的助记词。每次您请求查看时，都必须等待 48 小时才能从 Cubist 检索。",
+  "receivedMnemonicSubTip2": "MyDoge Wallet не зберігає seed-фрази користувачів. Щоразу, коли ви запитуєте перегляд, потрібно зачекати 48 годин, щоб отримати їх із Cubist.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
-  "applyViewSeedPhrase": "请求查看助记词",
+  "applyViewSeedPhrase": "Запитати перегляд seed-фрази",
   "@applyViewSeedPhrase": {
     "description": "Request to view seed phrase"
   },
@@ -2284,143 +2284,143 @@
   "@viewSeedPhraseTip3": {
     "description": ""
   },
-  "viewSeedPhraseTip4": "您将在 48 小时后能够查看它。",
+  "viewSeedPhraseTip4": "Ви зможете переглянути його через 48 годин.",
   "@viewSeedPhraseTip4": {
     "description": "You’ll be able to view it after 48 hours."
   },
-  "enterCodeDescription": "一个 4 位数的代码已发送到 ",
+  "enterCodeDescription": "На адресу надіслано 4-значний код",
   "@enterCodeDescription": {
     "description": "A 4-digit code was sent to "
   },
-  "seedPhraseHelpTitle": "什么是助记词？",
+  "seedPhraseHelpTitle": "Що таке seed-фраза?",
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
-  "seedPhraseHelpNoticeTitle": "如何保证其安全？",
+  "seedPhraseHelpNoticeTitle": "Як зберегти її в безпеці?",
   "@seedPhraseHelpNoticeTitle": {
     "description": "How to keep it secure?"
   },
-  "seedPhraseHelpNotice1": "将其写下来或存储在离线设备中，例如冷钱包。",
+  "seedPhraseHelpNotice1": "Запишіть її або зберігайте на офлайн-пристрої, наприклад у холодному гаманці.",
   "@seedPhraseHelpNotice1": {
     "description": "Write it down or store it in an offline device such as a cold wallet."
   },
-  "seedPhraseHelpNotice2": "切勿通过截屏存储。",
+  "seedPhraseHelpNotice2": "Ніколи не зберігайте її за допомогою скріншотів.",
   "@seedPhraseHelpNotice2": {
     "description": "Never store it by taking screenshots."
   },
-  "seedPhraseHelpNotice3": "切勿将其存储在社交媒体应用、电子邮件、移动备忘录、云服务等中。",
+  "seedPhraseHelpNotice3": "Ніколи не зберігайте її в соцмережах, електронній пошті, нотатках, хмарних сервісах тощо.",
   "@seedPhraseHelpNotice3": {
     "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
   },
-  "seedPhraseHelpNoticeHideTip": "不再显示此内容",
+  "seedPhraseHelpNoticeHideTip": "Не показувати це знову",
   "@seedPhraseHelpNoticeHideTip": {
     "description": "Don't show this again"
   },
-  "done": "完成",
+  "done": "Готово",
   "@done": {
     "description": "Done"
   },
-  "keep": "保留",
+  "keep": "Тримайте",
   "@keep": {
     "description": "Keep"
   },
-  "verifyEmailToProtectAccount": "验证您的电子邮件以帮助保护您的帐户。",
+  "verifyEmailToProtectAccount": "Підтвердьте свою електронну адресу, щоб захистити свій обліковий запис.",
   "@verifyEmailToProtectAccount": {
     "description": "Verify your email to help protect your account."
   },
-  "potentialHoneypot": "潜在的蜜罐",
+  "potentialHoneypot": "Потенційна приманка",
   "@potentialHoneypot": {
     "description": "Potential honeypot"
   },
-  "tokenNotList": "代币未列出",
+  "tokenNotList": "Токена немає в списку",
   "@tokenNotList": {
     "description": "Token not listed"
   },
-  "tokenNotListHint": "代币未列出，可能存在风险。请谨慎操作。",
+  "tokenNotListHint": "Токена немає в списку та може бути ризикованим. Будь ласка, будьте обережні.",
   "@tokenNotListHint": {
     "description": "Token is not listed and may be risky. Please proceed with caution."
   },
-  "slippageTooHigh": "滑点过高",
+  "slippageTooHigh": "Ковзання занадто високе",
   "@slippageTooHigh": {
     "description": "Slippage is too high"
   },
-  "slippageTooHighHint": "交易可能导致潜在损失，请谨慎交易。",
+  "slippageTooHighHint": "Торгівля може призвести до потенційних втрат, торгуйте обережно.",
   "@slippageTooHighHint": {
     "description": "Trading could lead to potential losses, please trade carefully."
   },
-  "tokenNotListHint2": "代币未列出。交易可能导致资产损失。",
+  "tokenNotListHint2": "Токена немає в списку. Торгівля може призвести до втрати активів.",
   "@tokenNotListHint2": {
     "description": "Token is not listed. Trading may result in asset loss."
   },
-  "insufficientBalance": "余额不足",
+  "insufficientBalance": "Недостатній баланс",
   "@insufficientBalance": {
     "description": "Insufficient balance"
   },
-  "getStartWithDogeWallet": "通过社交登录开始使用 DogeOS 钱包 — 您当前的钱包作为 MyDoge Classic 保持安全。",
+  "getStartWithDogeWallet": "Почніть роботу з соціальним гаманцем через соціальну мережу — ваш поточний гаманець залишається в безпеці як MyDoge Classic.",
   "@getStartWithDogeWallet": {
     "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
-  "filterHighRiskTokens": "一键过滤高风险代币。不会丢失任何资产。",
+  "filterHighRiskTokens": "Фільтруйте токени високого ризику одним натисканням. Жодні активи не буде втрачено.",
   "@filterHighRiskTokens": {
     "description": "Filter out high-risk tokens with one click. No assets will be lost."
   },
-  "setUpProfile": "为新的 MyDoge 体验设置您的个人资料？",
+  "setUpProfile": "Налаштувати свій профіль для нового досвіду MyDoge?",
   "@setUpProfile": {
     "description": "Set up your profile for the new MyDoge experience?"
   },
-  "invalidWalletAddress": "钱包地址无效。请检查格式。",
+  "invalidWalletAddress": "Недійсна адреса гаманця. Будь ласка, перевірте формат.",
   "@invalidWalletAddress": {
     "description": "Invalid wallet address. Please check the format."
   },
-  "loginTitle1": "你的Dogecoin\r\n钱包，但更好",
+  "loginTitle1": "Ваш Dogecoin\r\nГаманець, але краще",
   "@loginTitle1": {
     "description": "Your Dogecoin\r\nWallet, but Betterer"
   },
-  "loginDesc1": "深受全球领导者信赖",
+  "loginDesc1": "Довіряють постачальники по всьому світу",
   "@loginDesc1": {
     "description": "Trusted by shibes worldwide"
   },
-  "loginTitle2": "加入互联网上最受欢迎的运动",
+  "loginTitle2": "Приєднуйтеся до улюбленого руху в Інтернеті",
   "@loginTitle2": {
     "description": "Join the internet’s favorite movement"
   },
-  "loginDesc2": "一个可以赚取模因的社交钱包。",
+  "loginDesc2": "Соціальний гаманець, де заробляють меми.",
   "@loginDesc2": {
     "description": "A social wallet where memes earn."
   },
-  "loginTitle3": "发现 Web3 的趋势",
+  "loginTitle3": "Дізнайтеся, що в тренді Web3",
   "@loginTitle3": {
     "description": "Discover what’s trending in Web3"
   },
-  "loginDesc3": "充满应用程序、任务和游戏的世界",
+  "loginDesc3": "Світ додатків, квестів та ігор",
   "@loginDesc3": {
     "description": "A world of apps, quests and games"
   },
-  "loginTitle4": "小费多多，\r\n非常友善",
+  "loginTitle4": "Багато чайових,\r\nтак shibe дружній",
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "给你的朋友打赏并一起交易",
+  "loginDesc4": "Давайте чайові своїм френам і торгуйте разом",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },
-  "connectWithX": "与 X 连接",
+  "connectWithX": "Підключіться до X",
   "@connectWithX": {
     "description": "Connect with X"
   },
-  "signWithOther": "使用其他选项注册",
+  "signWithOther": "Зареєструйтеся з іншими варіантами",
   "@signWithOther": {
     "description": "Sign up with other options"
   },
-  "byUsingDogeOs": "使用 DogeOS，即表示您同意接受我们的",
+  "byUsingDogeOs": "Використовуючи DogeOS, ви погоджуєтеся прийняти наші",
   "@byUsingDogeOs": {
     "description": "By using DogeOS, you agree to accept our"
   },
-  "chooseLoginTitle": "明智地选择，希贝",
+  "chooseLoginTitle": "Вибирайте мудро, shibe",
   "@chooseLoginTitle": {
     "description": "Choose wisely, shibe"
   },
-  "chooseLoginDesc": "使用您的 Apple 或 Google 帐户添加钱包。保持冷静，您的信息将保密。",
+  "chooseLoginDesc": "Додайте гаманець за допомогою облікового запису Apple або Google. Зберігайте спокій, ваша інформація залишиться конфіденційною.",
   "@chooseLoginDesc": {
     "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
   },
@@ -2428,475 +2428,475 @@
   "@x": {
     "description": "X"
   },
-  "google": "谷歌",
+  "google": "Google",
   "@google": {
     "description": "Google"
   },
-  "whatYourEmail": "你的电子邮件是什么？",
+  "whatYourEmail": "Яка ваша електронна адреса?",
   "@whatYourEmail": {
     "description": "What’s your email?"
   },
-  "verifyOtpEmail": "验证 OTP 电子邮件",
+  "verifyOtpEmail": "Підтвердьте електронну адресу OTP",
   "@verifyOtpEmail": {
     "description": "Verify OTP email"
   },
-  "aVerificationCode": "验证码已发送至",
+  "aVerificationCode": "Код підтвердження надіслано на адресу",
   "@aVerificationCode": {
     "description": "A verification code has been sent to "
   },
-  "toKeepYourAccountSafe": "为了确保您的帐户安全，请确保在使用该应用程序时保持面容 ID 处于启用状态。",
+  "toKeepYourAccountSafe": "Щоб захистити свій обліковий запис, переконайтеся, що Face ID залишається ввімкненим під час використання програми.",
   "@toKeepYourAccountSafe": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "authFailedTitle": "认证\n失败了",
+  "authFailedTitle": "Аутентифікація\nне вдалося",
   "@authFailedTitle": {
     "description": "Authentication\nfailed"
   },
-  "authFailedDesc": "您的身份验证尝试出现问题。",
+  "authFailedDesc": "Під час вашої спроби автентифікації виникла проблема.",
   "@authFailedDesc": {
     "description": "There was an issue with your authentication attempt."
   },
-  "faceIdNotEnabledTitle": "人脸识别 \n未启用",
+  "faceIdNotEnabledTitle": "Face ID \nНе ввімкнено",
   "@faceIdNotEnabledTitle": {
     "description": "Face ID \nNot Enabled"
   },
-  "faceIdNotEnabledDesc": "请在“设置”中启用面容 ID 才能继续。",
+  "faceIdNotEnabledDesc": "Щоб продовжити, увімкніть ідентифікатор обличчя в налаштуваннях.",
   "@faceIdNotEnabledDesc": {
     "description": "Please enable Face ID in Settings to continue."
   },
-  "goToSetting": "前往“设置”",
+  "goToSetting": "Перейдіть до Налаштувань",
   "@goToSetting": {
     "description": "Go to Settings"
   },
-  "setupAuthTitle": "设置身份验证",
+  "setupAuthTitle": "Налаштувати автентифікацію",
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "为了您帐户的安全，导出助记词需要身份验证。",
+  "setupAuthDesc": "З міркувань безпеки акаунта експорт seed-фрази вимагає автентифікації.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
-  "goSetup": "去设置",
+  "goSetup": "Ідіть налаштувати",
   "@goSetup": {
     "description": "Go set up"
   },
-  "cancelRequestTitle": "取消请求",
+  "cancelRequestTitle": "Скасувати запит",
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "您确定要取消吗？如果您想设置新的 通行密钥，这将重新开始等待期。",
+  "cancelRequestDesc": "Ви впевнені, що бажаєте скасувати? Це перезапустить період очікування, якщо ви хочете налаштувати новий Passkey.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
-  "sureToExitTitle": "您确定要退出吗？",
+  "sureToExitTitle": "Ви впевнені, що бажаєте вийти?",
   "@sureToExitTitle": {
     "description": "Are you sure you want to exit?"
   },
-  "sureToExitDesc": "新请求将需要 48 小时的等待期。",
+  "sureToExitDesc": "Для нового запиту знадобиться 48-годинний період очікування.",
   "@sureToExitDesc": {
     "description": "New request will require a 48-hour waiting period."
   },
-  "hour48SecurityTitle": "48小时安全验证",
+  "hour48SecurityTitle": "48-годинна перевірка безпеки",
   "@hour48SecurityTitle": {
     "description": "48-hour security verification"
   },
-  "hour48SecurityDesc": "绑定需要48小时安全验证，防范风险。如果不是您本人操作，请立即更改 OTP 电子邮件密码。",
+  "hour48SecurityDesc": "Щоб запобігти ризикам, прив’язка вимагає 48 годин перевірки безпеки. Якщо ви цього не зробили, негайно змініть пароль електронної пошти OTP.",
   "@hour48SecurityDesc": {
     "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
   },
-  "whereDidISetItUpTitle": "我在哪里设置的？",
+  "whereDidISetItUpTitle": "Де я це встановив?",
   "@whereDidISetItUpTitle": {
     "description": "Where did I set it up?"
   },
-  "whereDidISetItUpDesc": "如果您之前在由 Tomo 提供支持的产品（包括 WLFI 钱包、Tomo 钱包或 MyDoge 钱包）中设置过验证器，则可以找到该验证器。",
+  "whereDidISetItUpDesc": "Ви можете знайти автентифікатор, якщо ви раніше налаштували його в продуктах на базі Tomo, зокрема WLFI Wallet, Tomo Wallet або MyDoge Wallet.",
   "@whereDidISetItUpDesc": {
     "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
   },
-  "authMethod": "认证方式",
+  "authMethod": "Метод автентифікації",
   "@authMethod": {
     "description": "Authentication Method"
   },
-  "authMethodDesc": "帐户登录和助记词导出需要身份验证器，增加额外的保护层。",
+  "authMethodDesc": "Для входу в акаунт і експорту seed-фрази потрібен автентифікатор, що додає додатковий рівень захисту.",
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
-  "passkey": "通行密钥",
+  "passkey": "Passkey",
   "@passkey": {
     "description": "Passkey"
   },
-  "authenticator": "验证器",
+  "authenticator": "Автентифікатор",
   "@authenticator": {
     "description": "Authenticator"
   },
-  "setUp": "设置",
+  "setUp": "Налаштувати",
   "@setUp": {
     "description": "Set up"
   },
-  "optEmail": "OTP 电子邮件",
+  "optEmail": "OTP Електронна пошта",
   "@optEmail": {
     "description": "OTP Email"
   },
-  "linked": "链接",
+  "linked": "Пов'язано",
   "@linked": {
     "description": "Linked"
   },
-  "chooseVerification": "选择验证",
+  "chooseVerification": "Виберіть перевірку",
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "链接验证器应用程序",
+  "linkAuthenticatorApp": "Програма автентифікації посилань",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
-  "stepNum": "步骤{stepNumber}：",
+  "stepNum": "Крок {stepNumber}:",
   "@stepNum": {
     "description": "Step {stepNumber}: "
   },
-  "step1Desc": "下载身份验证器应用程序。",
+  "step1Desc": "Завантажте програму автентифікації.",
   "@step1Desc": {
     "description": "Download an authenticator app."
   },
-  "forExample": "例如：",
+  "forExample": "Наприклад:",
   "@forExample": {
     "description": "For example: "
   },
-  "step2Desc": "复制下方16位密钥或扫描二维码",
+  "step2Desc": "Скопіюйте 16-значний ключ нижче або відскануйте QR-код",
   "@step2Desc": {
     "description": "Copy the 16-digit key below or scan the QR code"
   },
-  "verifyAuthenticator": "验证验证器",
+  "verifyAuthenticator": "Перевірте автентифікатор",
   "@verifyAuthenticator": {
     "description": "Verify authenticator"
   },
-  "enterThe6Digit": "输入验证器提供的 6 位代码。",
+  "enterThe6Digit": "Введіть 6-значний код з аутентифікатора.",
   "@enterThe6Digit": {
     "description": "Enter the 6-digit code from the authenticator."
   },
-  "useAlternativeVerification": "使用替代验证",
+  "useAlternativeVerification": "Використовуйте альтернативну перевірку",
   "@useAlternativeVerification": {
     "description": "Use alternative verification"
   },
-  "copySuccess": "复制成功",
+  "copySuccess": "Успішне копіювання",
   "@copySuccess": {
     "description": "Copy Success"
   },
-  "addPasskey": "添加通行密钥",
+  "addPasskey": "Додайте Passkey",
   "@addPasskey": {
     "description": "Add passkey"
   },
-  "whereDidISetItUp": "我在哪里设置的？",
+  "whereDidISetItUp": "Де я це встановив?",
   "@whereDidISetItUp": {
     "description": "Where did I set it up?"
   },
-  "requestSeedTitle": "请求助记词",
+  "requestSeedTitle": "Запит seed-фрази",
   "@requestSeedTitle": {
     "description": "Request Seed Phrase"
   },
-  "hour48": "48小时",
+  "hour48": "48-годинний",
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "为了保障您的资产安全，查看助记词前需要等待 48 小时。",
+  "requestSeedDesc1": "Для безпеки ваших активів перед показом seed-фрази потрібен 48-годинний період очікування.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "倒计时结束后，您可以查看助记词。",
+  "requestSeedDesc2": "Ви зможете переглянути seed-фразу після завершення зворотного відліку.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
-  "passkeyNotCompleted": "通行密钥验证未完成。",
+  "passkeyNotCompleted": "Перевірку Passkey не завершено.",
   "@passkeyNotCompleted": {
     "description": "Passkey verification was not completed."
   },
-  "passkeyNotCompletedDesc": "您可以更换其他验证方式，或者重试。",
+  "passkeyNotCompletedDesc": "Ви можете переключитися на інші методи перевірки або спробувати ще раз.",
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "不是你的私钥，就不是你的币。",
+  "viewSeedPhraseDesc1": "Не ваші ключі — не ваша криптовалюта.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
-  "viewSeedPhraseDesc2": "仅在安全且私密的环境中进行。",
+  "viewSeedPhraseDesc2": "Продовжуйте лише в безпечному та приватному середовищі.",
   "@viewSeedPhraseDesc2": {
     "description": "Proceed only in a secure and private environment."
   },
-  "viewSeedPhraseDesc3": "永远不要与任何人分享。",
+  "viewSeedPhraseDesc3": "Не діліться цим ні з ким, ніколи.",
   "@viewSeedPhraseDesc3": {
     "description": "Don't share it with anyone, ever."
   },
-  "doNotShare": "永远不要与任何人分享。",
+  "doNotShare": "Не діліться цим ні з ким, ніколи.",
   "@doNotShare": {
     "description": "Don't share it with anyone, ever."
   },
-  "alreadyBackedUp": "已经备份了",
+  "alreadyBackedUp": "Уже створено резервну копію",
   "@alreadyBackedUp": {
     "description": "Already backed up"
   },
-  "clickToReveal": "点击显示",
+  "clickToReveal": "Натисніть, щоб відкрити",
   "@clickToReveal": {
     "description": "Click to reveal"
   },
-  "home": "家",
+  "home": "додому",
   "@home": {
     "description": "Home"
   },
-  "wallet": "钱包",
+  "wallet": "Гаманець",
   "@wallet": {
     "description": "Wallet"
   },
-  "market": "市场",
+  "market": "Ринок",
   "@market": {
     "description": "Market"
   },
-  "activity": "活动",
+  "activity": "діяльність",
   "@activity": {
     "description": "Activity"
   },
-  "tokens": "代币",
+  "tokens": "Токени",
   "@tokens": {
     "description": "Tokens"
   },
-  "collectibles": "收藏品",
+  "collectibles": "Предмети колекціонування",
   "@collectibles": {
     "description": "Collectibles"
   },
-  "dogeOSTestnetTitle": "DogeOS 测试网 Faucet",
+  "dogeOSTestnetTitle": "Фаусет testnet DogeOS",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
   },
-  "dogeOSTestnetDesc": "请求测试网代币在安全的环境中试验该应用程序 - 不需要真正的资金。",
+  "dogeOSTestnetDesc": "Надішліть запит на токени testnet, щоб експериментувати з додатком у безпечному середовищі — реальні кошти не потрібні.",
   "@dogeOSTestnetDesc": {
     "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
   },
-  "requestTokens": "请求代币",
+  "requestTokens": "Запит токенів",
   "@requestTokens": {
     "description": "Request tokens"
   },
-  "noNFTsfound": "未找到 NFTs",
+  "noNFTsfound": "NFTs не знайдено",
   "@noNFTsfound": {
     "description": "No NFTs found"
   },
-  "passkeySetupNotCompleted": "通行密钥设置未完成。",
+  "passkeySetupNotCompleted": "Налаштування Passkey не завершено.",
   "@passkeySetupNotCompleted": {
     "description": "Passkey setup was not completed. "
   },
-  "sureToLogOut": "您确定要退出吗？",
+  "sureToLogOut": "Ви впевнені, що бажаєте вийти?",
   "@sureToLogOut": {
     "description": "Are you sure you want to log out?"
   },
-  "communityPicks": "社区精选",
+  "communityPicks": "Вибір спільноти",
   "@communityPicks": {
     "description": "Community Picks"
   },
-  "suggestedForYou": "为您推荐",
+  "suggestedForYou": "Рекомендовано для вас",
   "@suggestedForYou": {
     "description": "Suggested For You"
   },
-  "earn": "赚",
+  "earn": "заробити",
   "@earn": {
     "description": "Earn"
   },
-  "fullCatalogue": "完整目录",
+  "fullCatalogue": "Повний каталог",
   "@fullCatalogue": {
     "description": "Full Catalogue"
   },
-  "setupWallet": "设置钱包",
+  "setupWallet": "Налаштувати гаманець",
   "@setupWallet": {
     "description": "Setup wallet"
   },
-  "setupWalletDesc": "通过社交登录创建您的社交钱包 - 解锁完整的 DogeOS 生态系统，同时您的经典钱包保持安全。",
+  "setupWalletDesc": "Створіть свій соціальний гаманець за допомогою соціального входу — розблокуйте повну екосистему DogeOS, поки ваш класичний гаманець залишається в безпеці.",
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "领取测试网代币",
+  "claimTestnetTitle": "Отримати токени testnet",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
-  "claimTestnetDesc": "不涉及真正的资金，这些是\n练习基金仅用于试验目的。",
+  "claimTestnetDesc": "Ніяких реальних коштів не залучено, це\nлише для пробних цілей.",
   "@claimTestnetDesc": {
     "description": "No real funds are involved, these are\npractice funds for trial purposes only."
   },
-  "claimableEvery24Hours": "每24小时可领取一次！",
+  "claimableEvery24Hours": "Заявка кожні 24 години!",
   "@claimableEvery24Hours": {
     "description": "Claimable every 24 hours!"
   },
-  "youGet": "你会得到：",
+  "youGet": "Ви отримаєте:",
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "领取代币",
+  "claimTokens": "Отримати токени",
   "@claimTokens": {
     "description": "Claim tokens"
   },
-  "open": "打开",
+  "open": "ВІДЧИНЕНО",
   "@open": {
     "description": "Open"
   },
-  "biometricsPin": "生物识别/PIN",
+  "biometricsPin": "Біометрія/PIN",
   "@biometricsPin": {
     "description": "Biometrics/PIN"
   },
-  "advancedSettings": "高级设置",
+  "advancedSettings": "Розширені налаштування",
   "@advancedSettings": {
     "description": "Advanced Settings"
   },
-  "chooseLanguage": "选择语言",
+  "chooseLanguage": "Виберіть мову",
   "@chooseLanguage": {
     "description": "Choose language"
   },
-  "englishLanguage": "英语",
+  "englishLanguage": "англійська",
   "@englishLanguage": {
     "description": "English"
   },
-  "spanishLanguage": "西班牙语",
+  "spanishLanguage": "Español",
   "@spanishLanguage": {
     "description": "Español"
   },
-  "developerMode": "开发者模式",
+  "developerMode": "Режим розробника",
   "@developerMode": {
     "description": "Developer Mode"
   },
-  "developerModeDescription": "解锁打开的浏览器以进行测试",
+  "developerModeDescription": "Розблоковує відкритий браузер для тестування",
   "@developerModeDescription": {
     "description": "Unlocks open browser for testing"
   },
-  "label24hChange": "24小时变化",
+  "label24hChange": "Зміна 24 години",
   "@label24hChange": {
     "description": "24H Change"
   },
-  "label24hTurnover": "24小时成交量",
+  "label24hTurnover": "24H Оборот",
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "使用不同助记词的新钱包",
+  "aNewWalletWithADifferentSeedPhrase": "Новий гаманець з іншою seed-фразою",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
-  "aPersonalizedAlphaFeedComingSoon": "个性化 Alpha feed（即将推出）",
+  "aPersonalizedAlphaFeedComingSoon": "Персоналізована альфа-версія (незабаром)",
   "@aPersonalizedAlphaFeedComingSoon": {
     "description": "A personalized Alpha feed (coming soon)"
   },
-  "accessAWorldOfAppsQuestsAndGames": "进入充满应用程序、任务和游戏的世界",
+  "accessAWorldOfAppsQuestsAndGames": "Отримайте доступ до світу програм, квестів та ігор",
   "@accessAWorldOfAppsQuestsAndGames": {
     "description": "Access a world of apps, quests and games"
   },
-  "account": "帐户",
+  "account": "Обліковий запис",
   "@account": {
     "description": "Account"
   },
-  "allCategories": "所有类别",
+  "allCategories": "Всі Категорії",
   "@allCategories": {
     "description": "All Categories"
   },
-  "allowContactAccess": "允许联系人访问",
+  "allowContactAccess": "Дозволити доступ до контактів",
   "@allowContactAccess": {
     "description": "Allow contact access"
   },
-  "andWhenDoIGetMyDOGEBack": "我什么时候可以拿回我的 DOGE？",
+  "andWhenDoIGetMyDOGEBack": "І коли я отримаю свій DOGE назад?",
   "@andWhenDoIGetMyDOGEBack": {
     "description": "And when do I get my DOGE back?"
   },
-  "anyWalletWorks": "有什么钱包可以用吗？",
+  "anyWalletWorks": "Чи працює якийсь гаманець?",
   "@anyWalletWorks": {
     "description": "Any wallet works?"
   },
-  "assets": "资产",
+  "assets": "Активи",
   "@assets": {
     "description": "Assets"
   },
-  "atLeast6Characters": "至少 6 个字符",
+  "atLeast6Characters": "Мінімум 6 символів",
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "至少 6 个字符",
+  "atLeast6Password": "Мінімум 6 символів",
   "@atLeast6Password": {
     "description": "At least 6 characters"
   },
-  "autoFollowKOLsYouAlreadyFollowComingSoon": "自动关注您已经关注的 KOLs（即将推出）",
+  "autoFollowKOLsYouAlreadyFollowComingSoon": "Автопідписка на KOLs, на яку ви вже підписалися (незабаром)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
     "description": "Auto-follow KOLs you already follow (coming soon)"
   },
-  "backUpNow": "立即备份",
+  "backUpNow": "Резервне копіювання зараз",
   "@backUpNow": {
     "description": "Back up now"
   },
-  "backUpWallet": "备份钱包",
+  "backUpWallet": "Резервне копіювання гаманця",
   "@backUpWallet": {
     "description": "Back up wallet"
   },
-  "backupNow": "立即备份",
+  "backupNow": "Резервне копіювання зараз",
   "@backupNow": {
     "description": "Backup now"
   },
-  "biometrics": "生物识别技术",
+  "biometrics": "Біометрія",
   "@biometrics": {
     "description": "Biometrics"
   },
-  "bridgeRoute": "跨链桥路径",
+  "bridgeRoute": "Маршрут bridge",
   "@bridgeRoute": {
     "description": "Bridge Route"
   },
-  "btcAddressType": "BTC 地址类型",
+  "btcAddressType": "Тип адреси BTC",
   "@btcAddressType": {
     "description": "BTC address type"
   },
-  "buy2": "买",
+  "buy2": "КУПИТИ",
   "@buy2": {
     "description": "BUY"
   },
-  "changePIN": "更改 PIN",
+  "changePIN": "Змінити PIN",
   "@changePIN": {
     "description": "Change PIN"
   },
-  "checkYourPIN": "检查您的 PIN",
+  "checkYourPIN": "Перевірте свій PIN",
   "@checkYourPIN": {
     "description": "Check your PIN"
   },
-  "classicWallet": "经典钱包",
+  "classicWallet": "Класичний гаманець",
   "@classicWallet": {
     "description": "Classic Wallet"
   },
-  "clickToView": "点击查看",
+  "clickToView": "Натисніть, щоб переглянути",
   "@clickToView": {
     "description": "Click to view"
   },
-  "cloudBackup": "云备份",
+  "cloudBackup": "Хмарне резервне копіювання",
   "@cloudBackup": {
     "description": "Cloud backup"
   },
-  "collections": "收藏",
+  "collections": "Колекції",
   "@collections": {
     "description": "Collections"
   },
-  "connectXForMyDogeTip": "连接 X 为 MyDogeTip",
+  "connectXForMyDogeTip": "Підключіть X для MyDogeTip",
   "@connectXForMyDogeTip": {
     "description": "Connect  X for MyDogeTip"
   },
-  "contact": "接触",
+  "contact": "контакт",
   "@contact": {
     "description": "Contact"
   },
-  "continueWith": "继续",
+  "continueWith": "Продовжити з",
   "@continueWith": {
     "description": "Continue with"
   },
-  "continueWithApple": "继续使用苹果",
+  "continueWithApple": "Продовжуйте з Apple",
   "@continueWithApple": {
     "description": "Continue with Apple"
   },
-  "continueWithX": "继续 X",
+  "continueWithX": "Продовжуйте з X",
   "@continueWithX": {
     "description": "Continue with X"
   },
-  "contractCalled": "合约名为",
+  "contractCalled": "Договір викликаний",
   "@contractCalled": {
     "description": "Contract Called"
   },
-  "createWallet": "创建钱包",
+  "createWallet": "Створити гаманець",
   "@createWallet": {
     "description": "Create wallet"
   },
-  "creatingWallet": "正在创建钱包...",
+  "creatingWallet": "Створення гаманця...",
   "@creatingWallet": {
     "description": "Creating wallet..."
   },
@@ -2908,195 +2908,195 @@
   "@dapps": {
     "description": "dApps"
   },
-  "date": "日期",
+  "date": "Дата",
   "@date": {
     "description": "Date"
   },
-  "date2": "日期",
+  "date2": "ДАТА",
   "@date2": {
     "description": "DATE"
   },
-  "deleteWallet2": "删除钱包",
+  "deleteWallet2": "Видалити гаманець",
   "@deleteWallet2": {
     "description": "Delete Wallet"
   },
-  "deleteWallet3": "删除钱包",
+  "deleteWallet3": "Видалити гаманець",
   "@deleteWallet3": {
     "description": "Delete wallet"
   },
-  "deliveryAddress": "送货地址",
+  "deliveryAddress": "Адреса доставки",
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "存入代币",
+  "depositTOKEN": "ВНЕСТИ ТОКЕН",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
-  "disconnectX": "断开 X",
+  "disconnectX": "Відключити X",
   "@disconnectX": {
     "description": "Disconnect X"
   },
-  "disconnectXForMyDogeTip": "断开 MyDogeTip 的 X",
+  "disconnectXForMyDogeTip": "Відключіть X для MyDogeTip",
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "你有 DOGE 吗？",
+  "doYouHaveDoge": "У вас є DOGE?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
-  "dogeosValidators": "DogeOS 验证器",
+  "dogeosValidators": "DogeOS Валідатори",
   "@dogeosValidators": {
     "description": "DogeOS Validators"
   },
-  "earnAPY": "赚取 APY",
+  "earnAPY": "ЗАРАБОТАТИ APY",
   "@earnAPY": {
     "description": "EARN APY"
   },
-  "easyTHEREBUDDY": "放轻松，伙计",
+  "easyTHEREBUDDY": "СПОКІЙНО, ДРУЖЕ",
   "@easyTHEREBUDDY": {
     "description": "EASY THERE,BUDDY"
   },
-  "editProfile2": "编辑个人资料",
+  "editProfile2": "Редагувати профіль",
   "@editProfile2": {
     "description": "Edit Profile"
   },
-  "enterCurrentPassword": "输入当前密码",
+  "enterCurrentPassword": "Введіть поточний пароль",
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "预估 Gas",
+  "estGas": "Очік. газ",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "预估时间",
+  "estTime": "Очік. час",
   "@estTime": {
     "description": "Est. Time"
   },
-  "estNetworkFee": "预计网络费用",
+  "estNetworkFee": "Орієнтовна плата за мережу",
   "@estNetworkFee": {
     "description": "Est. network fee"
   },
-  "failedToLoad": "加载失败",
+  "failedToLoad": "Не вдалося завантажити",
   "@failedToLoad": {
     "description": "Failed to load"
   },
-  "faq": "常问问题",
+  "faq": "FAQ",
   "@faq": {
     "description": "FAQ"
   },
-  "fee": "费用",
+  "fee": "Комісія",
   "@fee": {
     "description": "Fee"
   },
-  "filterRiskTokens": "过滤风险代币",
+  "filterRiskTokens": "Фільтр ризикованих токенів",
   "@filterRiskTokens": {
     "description": "Filter risk tokens"
   },
-  "followBack": "跟着回来",
+  "followBack": "Слідуйте назад",
   "@followBack": {
     "description": "Follow back"
   },
-  "fromASingleChainToMultiChainWallet": "从单链钱包到多链钱包",
+  "fromASingleChainToMultiChainWallet": "Від одного ланцюжка до гаманця з кількома ланцюжками",
   "@fromASingleChainToMultiChainWallet": {
     "description": "From a single chain to multi-chain wallet"
   },
-  "fromNetwork": "来自网络",
+  "fromNetwork": "З мережі",
   "@fromNetwork": {
     "description": "From network"
   },
-  "fromTheGrandHeist": "出自《大抢劫》。",
+  "fromTheGrandHeist": "з The Grand Heist.",
   "@fromTheGrandHeist": {
     "description": "from The Grand Heist."
   },
-  "fullySecureAndSelfCustodialLikeBefore": "像以前一样完全安全和自我保管。",
+  "fullySecureAndSelfCustodialLikeBefore": "Повністю безпечний і самоохоронний, як і раніше.",
   "@fullySecureAndSelfCustodialLikeBefore": {
     "description": "Fully secure and self custodial, like before."
   },
-  "fundYourWalletToGetStarted": "为钱包充值以开始使用",
+  "fundYourWalletToGetStarted": "Поповніть свій гаманець, щоб почати",
   "@fundYourWalletToGetStarted": {
     "description": "Fund your wallet to get started"
   },
-  "gasFee2": "Gas 费",
+  "gasFee2": "Комісія за газ",
   "@gasFee2": {
     "description": "Gas fee"
   },
-  "get": "得到",
+  "get": "отримати",
   "@get": {
     "description": "Get"
   },
-  "goBACK": "回去",
+  "goBACK": "ПОВЕРНІТЬСЯ НАЗАД",
   "@goBACK": {
     "description": "GO BACK"
   },
-  "howDoIParticipate": "我该如何参与？",
+  "howDoIParticipate": "Як взяти участь?",
   "@howDoIParticipate": {
     "description": "How do I participate?"
   },
-  "how": "如何？",
+  "how": "як?",
   "@how": {
     "description": "How?"
   },
-  "justLeavingThisHereMydogeCom": "只需将其留在这里：\\n\\nmydoge.com",
+  "justLeavingThisHereMydogeCom": "Просто залишаю це тут:\\n\\nmydoge.com",
   "@justLeavingThisHereMydogeCom": {
     "description": "Just leaving this here:\\n\\nmydoge.com"
   },
-  "later": "之后",
+  "later": "Пізніше",
   "@later": {
     "description": "Later"
   },
-  "manageToken": "管理代币",
+  "manageToken": "Керувати токеном",
   "@manageToken": {
     "description": "Manage token"
   },
-  "me": "我？",
+  "me": "я?",
   "@me": {
     "description": "Me?"
   },
-  "migratingAssets": "迁移资产...",
+  "migratingAssets": "Перенесення активів...",
   "@migratingAssets": {
     "description": "Migrating Assets..."
   },
-  "migratingFromClassicToSocial": "从经典迁移到社交",
+  "migratingFromClassicToSocial": "Перехід із класичного до соціального",
   "@migratingFromClassicToSocial": {
     "description": "Migrating from Classic to Social"
   },
-  "muchExcitement": "非常兴奋",
+  "muchExcitement": "Багато хвилювання",
   "@muchExcitement": {
     "description": "Much excitement"
   },
-  "network2": "网络",
+  "network2": "МЕРЕЖА",
   "@network2": {
     "description": "NETWORK"
   },
-  "networkFee": "网络费",
+  "networkFee": "Плата за мережу",
   "@networkFee": {
     "description": "Network Fee"
   },
-  "networkFee2": "网络费",
+  "networkFee2": "плата за мережу",
   "@networkFee2": {
     "description": "network fee"
   },
-  "next": "下一个",
+  "next": "Далі",
   "@next": {
     "description": "Next"
   },
-  "noInscriptions": "无铭文",
+  "noInscriptions": "Без написів",
   "@noInscriptions": {
     "description": "No inscriptions"
   },
-  "noMessagesYet": "还没有消息",
+  "noMessagesYet": "Поки немає повідомлень",
   "@noMessagesYet": {
     "description": "No messages yet"
   },
-  "noResults": "没有结果",
+  "noResults": "Результатів немає",
   "@noResults": {
     "description": "No results"
   },
-  "notifications": "通知",
+  "notifications": "Сповіщення",
   "@notifications": {
     "description": "Notifications"
   },
-  "paymentMethod": "付款方式",
+  "paymentMethod": "Спосіб оплати",
   "@paymentMethod": {
     "description": "Payment method"
   },
@@ -3104,155 +3104,155 @@
   "@pin": {
     "description": "PIN"
   },
-  "prev": "上一篇",
+  "prev": "попередня",
   "@prev": {
     "description": "Prev"
   },
-  "reEnterNewPassword": "重新输入新密码",
+  "reEnterNewPassword": "Повторно введіть новий пароль",
   "@reEnterNewPassword": {
     "description": "Re-enter new password"
   },
-  "readOurFAQs": "阅读我们的常见问题解答",
+  "readOurFAQs": "Прочитайте наші поширені запитання",
   "@readOurFAQs": {
     "description": "Read our FAQ’s"
   },
-  "refund": "退款",
+  "refund": "Повернення коштів",
   "@refund": {
     "description": "Refund"
   },
-  "renameWallet2": "重命名钱包",
+  "renameWallet2": "Перейменувати гаманець",
   "@renameWallet2": {
     "description": "Rename wallet"
   },
-  "reset": "重置",
+  "reset": "СКИДАННЯ",
   "@reset": {
     "description": "RESET"
   },
-  "resetWallet": "重置钱包",
+  "resetWallet": "Скинути гаманець",
   "@resetWallet": {
     "description": "Reset wallet"
   },
-  "searchCrypto": "搜索加密货币",
+  "searchCrypto": "Пошук крипто",
   "@searchCrypto": {
     "description": "Search crypto"
   },
-  "searchToken": "搜索代币",
+  "searchToken": "Пошук токена",
   "@searchToken": {
     "description": "Search token"
   },
-  "searchTokenName": "搜索代币名称",
+  "searchTokenName": "Пошук назви токена",
   "@searchTokenName": {
     "description": "Search token name"
   },
-  "seedPhraseBackup": "助记词备份",
+  "seedPhraseBackup": "Резервна копія seed-фрази",
   "@seedPhraseBackup": {
     "description": "Seed phrase backup"
   },
-  "selectAll": "选择全部",
+  "selectAll": "Виберіть усі",
   "@selectAll": {
     "description": "Select All"
   },
-  "selectNetwork2": "选择网络",
+  "selectNetwork2": "Виберіть Мережа",
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "发送和接收打赏",
+  "sendAndReceiveTipsSendAndReceiveTips": "Надсилати й отримувати чайові",
   "@sendAndReceiveTipsSendAndReceiveTips": {
     "description": "Send & Receive Tips"
   },
-  "serviceUNAVAILABLE": "暂停服务",
+  "serviceUNAVAILABLE": "СЕРВІС НЕДОСТУПНИЙ",
   "@serviceUNAVAILABLE": {
     "description": "SERVICE UNAVAILABLE"
   },
-  "setANewPIN": "设置新的 PIN",
+  "setANewPIN": "Встановіть новий PIN",
   "@setANewPIN": {
     "description": "Set a New PIN"
   },
-  "signInWithEmailOrASocialLogin": "使用电子邮件或社交登录名登录",
+  "signInWithEmailOrASocialLogin": "Увійдіть за допомогою електронної пошти або соціальної мережі",
   "@signInWithEmailOrASocialLogin": {
     "description": "Sign in with email or a social login"
   },
-  "signInWithGoogle": "使用 Google 登录",
+  "signInWithGoogle": "Увійдіть за допомогою Google",
   "@signInWithGoogle": {
     "description": "Sign in with Google"
   },
-  "signatureFAILED": "签名失败",
+  "signatureFAILED": "ПІДПИС ПОМИЛАСЯ",
   "@signatureFAILED": {
     "description": "SIGNATURE FAILED"
   },
-  "sites": "站点",
+  "sites": "Сайти",
   "@sites": {
     "description": "Sites"
   },
-  "skipThisStep": "跳过此步骤",
+  "skipThisStep": "Пропустіть цей крок",
   "@skipThisStep": {
     "description": "Skip this Step"
   },
-  "socialLoginAndRecovery": "社交登录和恢复",
+  "socialLoginAndRecovery": "Соціальний вхід і відновлення",
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "斯彭德",
+  "spender": "Спендер",
   "@spender": {
     "description": "Spender"
   },
-  "status": "地位",
+  "status": "Статус",
   "@status": {
     "description": "Status"
   },
-  "successItsDone": "成功就完成了",
+  "successItsDone": "Успіх це зроблено",
   "@successItsDone": {
     "description": "Success it’s done"
   },
-  "swapOrder": "Swap 订单",
+  "swapOrder": "Порядок обміну",
   "@swapOrder": {
     "description": "Swap order"
   },
-  "swipeTODEPOSIT": "滑动存入",
+  "swipeTODEPOSIT": "ПРОВЕДІТЬ, ЩОБ ВНЕСТИ",
   "@swipeTODEPOSIT": {
     "description": "SWIPE TO DEPOSIT"
   },
-  "switchWallet2": "切换钱包",
+  "switchWallet2": "Змінити гаманець",
   "@switchWallet2": {
     "description": "Switch Wallet"
   },
-  "termsOfUse2": "使用条款。",
+  "termsOfUse2": "Умови використання.",
   "@termsOfUse2": {
     "description": "Terms of Use."
   },
-  "thenWhatAreYouWaitingFor": "那你还等什么？",
+  "thenWhatAreYouWaitingFor": "Тоді чого ви чекаєте?",
   "@thenWhatAreYouWaitingFor": {
     "description": "Then what are you waiting for?"
   },
-  "toNetwork": "至网络",
+  "toNetwork": "До мережі",
   "@toNetwork": {
     "description": "To network"
   },
-  "toTheMoon": "去月球",
+  "toTheMoon": "До місяця",
   "@toTheMoon": {
     "description": "To the moon"
   },
-  "transaction": "交易",
+  "transaction": "Транзакція",
   "@transaction": {
     "description": "Transaction"
   },
-  "transaction2": "交易",
+  "transaction2": "транзакція",
   "@transaction2": {
     "description": "transaction"
   },
-  "transaction1": "交易1",
+  "transaction1": "Транзакція 1",
   "@transaction1": {
     "description": "Transaction 1"
   },
-  "transaction22": "交易2",
+  "transaction22": "Транзакція 2",
   "@transaction22": {
     "description": "Transaction 2"
   },
-  "transactionFAILED": "交易失败",
+  "transactionFAILED": "ТРАНЗАКЦІЯ НЕ ВДАЛАСЯ",
   "@transactionFAILED": {
     "description": "TRANSACTION FAILED"
   },
-  "transactionTIMEDOUT": "交易超时",
+  "transactionTIMEDOUT": "ЧАС ТРАНЗАКЦІЇ ВИЧЕРПАНО",
   "@transactionTIMEDOUT": {
     "description": "TRANSACTION TIMED OUT"
   },
@@ -3260,91 +3260,91 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "未命名 DApp",
+  "untitledDapp": "DApp без назви",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },
-  "upgradeToASocialWallet": "升级到社交钱包",
+  "upgradeToASocialWallet": "Перейдіть на соціальний гаманець",
   "@upgradeToASocialWallet": {
     "description": "Upgrade to a Social Wallet"
   },
-  "useEmailInstead": "使用电子邮件代替",
+  "useEmailInstead": "Натомість використовуйте електронну пошту",
   "@useEmailInstead": {
     "description": "Use Email instead"
   },
-  "useMAX": "使用最大",
+  "useMAX": "ВИКОРИСТАННЯ МАКС",
   "@useMAX": {
     "description": "USE MAX"
   },
-  "username2": "用户名",
+  "username2": "Ім'я користувача",
   "@username2": {
     "description": "Username"
   },
-  "vaultAddress": "金库地址",
+  "vaultAddress": "Адреса сховища",
   "@vaultAddress": {
     "description": "Vault Address"
   },
-  "verifyYourPIN2": "验证您的 PIN",
+  "verifyYourPIN2": "Перевірте свій PIN",
   "@verifyYourPIN2": {
     "description": "Verify your PIN"
   },
-  "walletUsed": "使用的钱包",
+  "walletUsed": "Використаний гаманець",
   "@walletUsed": {
     "description": "Wallet used"
   },
-  "welcomeToYourSocialWallet": "欢迎使用您的社交钱包",
+  "welcomeToYourSocialWallet": "Ласкаво просимо до вашого соціального гаманця",
   "@welcomeToYourSocialWallet": {
     "description": "Welcome to your Social Wallet"
   },
-  "wellWeCalledIt69DaysForAReason": "好吧，我们称之为 69 天是有原因的......",
+  "wellWeCalledIt69DaysForAReason": "Ну, ми назвали це 69 днів неспроста....",
   "@wellWeCalledIt69DaysForAReason": {
     "description": "Well, we called it 69 days for a reason...."
   },
-  "whatIsADogecoinAddressHowDoIGetOne": "什么是 Dogecoin 地址？我怎样才能得到一个？",
+  "whatIsADogecoinAddressHowDoIGetOne": "Що таке адреса Dogecoin? Як отримати один?",
   "@whatIsADogecoinAddressHowDoIGetOne": {
     "description": "What is a Dogecoin address? How do I get one?"
   },
-  "whatIsThisAbout": "这是关于什么的？",
+  "whatIsThisAbout": "про що це?",
   "@whatIsThisAbout": {
     "description": "What is this about?"
   },
-  "whatsNext": "接下来会发生什么？",
+  "whatsNext": "що далі",
   "@whatsNext": {
     "description": "what's next?"
   },
-  "whoCanParticipate": "谁可以参加？",
+  "whoCanParticipate": "Хто може брати участь?",
   "@whoCanParticipate": {
     "description": "Who can participate?"
   },
-  "woof": "纬。",
+  "woof": "Гав",
   "@woof": {
     "description": "Woof."
   },
-  "yesYou": "是的，你。",
+  "yesYou": "Так ти.",
   "@yesYou": {
     "description": "Yes, you."
   },
-  "yes2": "是的...",
+  "yes2": "так...",
   "@yes2": {
     "description": "Yes..."
   },
-  "youAreAllSetHangOutWithYourMyDogeNow": "一切就绪！\\n现在就和你的 My Doge 一起出去玩吧。",
+  "youAreAllSetHangOutWithYourMyDogeNow": "Усе готово!\\nПоспілкуйтеся зі своїм My Doge зараз.",
   "@youAreAllSetHangOutWithYourMyDogeNow": {
     "description": "You are all set!\\nHang out with your My Doge now."
   },
-  "youSure": "你确定吗？",
+  "youSure": "Ви впевнені?",
   "@youSure": {
     "description": "You sure?"
   },
-  "you": "你。",
+  "you": "Ви.",
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "您的资金将被锁定，直到主网启动（目标：约 69 天，可能会有所不同）。\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваші кошти буде заблоковано до запуску основної мережі (орієнтовно: ~69 днів, може змінюватися).\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
     "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary).\\n\\n"
   },
-  "yourWalletIsReady": "你的钱包已经准备好了",
+  "yourWalletIsReady": "Ваш гаманець готовий",
   "@yourWalletIsReady": {
     "description": "Your wallet is ready"
   }
