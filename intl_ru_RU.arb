@@ -1,0 +1,3351 @@
+{
+  "@@locale": "ru_RU",
+  "tabMarket": "Рынок",
+  "@tabMarket": {
+    "description": "Market"
+  },
+  "tabHome": "Дом",
+  "@tabHome": {
+    "description": "Home"
+  },
+  "tabDiscover": "Обнаружить",
+  "@tabDiscover": {
+    "description": "Discover"
+  },
+  "tabAlpha": "Альфа",
+  "@tabAlpha": {
+    "description": "Alpha"
+  },
+  "tabEarn": "Зарабатывать",
+  "@tabEarn": {
+    "description": "Earn"
+  },
+  "tabTrade": "Торговля",
+  "@tabTrade": {
+    "description": "Trade"
+  },
+  "tabChat": "Чат",
+  "@tabChat": {
+    "description": "Chat"
+  },
+  "tabWallet": "Кошелек",
+  "@tabWallet": {
+    "description": "Wallet"
+  },
+  "searchBarDesc": "Поиск имени или адреса",
+  "@searchBarDesc": {
+    "description": "Search name or address"
+  },
+  "totalBalance": "Общий баланс",
+  "@totalBalance": {
+    "description": "Total balance"
+  },
+  "favorite": "Любимый",
+  "@favorite": {
+    "description": "Favorite"
+  },
+  "trending": "Тенденции",
+  "@trending": {
+    "description": "Trending"
+  },
+  "allAssets": "Все активы",
+  "@allAssets": {
+    "description": "All Assets"
+  },
+  "enterYourEmail": "Введите адрес электронной почты",
+  "@enterYourEmail": {
+    "description": "Enter your email"
+  },
+  "email": "Электронная почта",
+  "@email": {
+    "description": "Email"
+  },
+  "password": "Пароль",
+  "@password": {
+    "description": "Password"
+  },
+  "forgetThePassword": "Забыли пароль?",
+  "@forgetThePassword": {
+    "description": "Forget the password？"
+  },
+  "continueBtn": "Продолжать",
+  "@continueBtn": {
+    "description": "Continue"
+  },
+  "setPassword": "Установить пароль",
+  "@setPassword": {
+    "description": "Set password"
+  },
+  "setPasswordDesc": "Установите свой пароль. В будущем вы также сможете войти в систему напрямую по электронной почте.",
+  "@setPasswordDesc": {
+    "description": "Set your password. You can also log in directly through email in the future.  "
+  },
+  "emailCode": "Код подтверждения электронной почты",
+  "@emailCode": {
+    "description": "Email verification code"
+  },
+  "emailCodeDesc": "Введите свой код подтверждения",
+  "@emailCodeDesc": {
+    "description": "Enter your verification code"
+  },
+  "resend": "Отправить повторно",
+  "@resend": {
+    "description": "Resend"
+  },
+  "bindEmail": "Привязать электронную почту",
+  "@bindEmail": {
+    "description": "Bind email"
+  },
+  "bindEmailDesc": "Установите пароль для lucasscott3@email.com. Таким образом, в будущем вы также сможете войти в систему напрямую по электронной почте.",
+  "@bindEmailDesc": {
+    "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
+  },
+  "setYourProfile": "Установите свой профиль",
+  "@setYourProfile": {
+    "description": "Set your profile"
+  },
+  "setYourProfileDesc1": "Выберите имя пользователя своей учетной записи. Он может содержать до 30 символов (только буквы и цифры). Если хотите, вы можете изменить его позже.",
+  "@setYourProfileDesc1": {
+    "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
+  },
+  "setYourProfileDesc2": "Пароль должен состоять из 6–20 символов, состоящих из цифр, прописных и строчных букв, а также специальных символов.",
+  "@setYourProfileDesc2": {
+    "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
+  },
+  "connectX": "Подключите X",
+  "@connectX": {
+    "description": "Connect X"
+  },
+  "connectXDesc": "Свяжите свою учетную запись X, чтобы запустить собственный ключ и получить максимум от MyDoge. Доступ будет только к изображению профиля, имени и списку подписчиков!\n\nОбратите внимание, что после подключения к X изменения или отвязка невозможны в целях безопасности активов учетной записи.",
+  "@connectXDesc": {
+    "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
+  },
+  "connect": "Соединять",
+  "@connect": {
+    "description": "Connect"
+  },
+  "congratulations": "Поздравления",
+  "@congratulations": {
+    "description": "Congratulations"
+  },
+  "congratulationsDesc": "Все готово!\nОбщайтесь со своим My Doge прямо сейчас.",
+  "@congratulationsDesc": {
+    "description": "You are all set!\nHang out with your My Doge now."
+  },
+  "enterApp": "Войти в приложение",
+  "@enterApp": {
+    "description": "Enter App"
+  },
+  "socialLoginTitle2": "Купить, отправить и получить Dogecoin",
+  "@socialLoginTitle2": {
+    "description": "Buy, Send & Receive Dogecoin"
+  },
+  "socialLoginDesc2": "Дайте чаевые X, защитите своего Doge и с легкостью управляйте своими средствами.",
+  "@socialLoginDesc2": {
+    "description": "Tip on X, secure your Doge, and manage your own funds with ease."
+  },
+  "socialLoginTitle1": "Изучите экосистему DogeOS",
+  "@socialLoginTitle1": {
+    "description": "Explore the DogeOS Ecosystem"
+  },
+  "socialLoginDesc1": "Разблокируйте DeFi, NFTs, игры и многое другое с помощью $DOGE во вселенной DogeOS.",
+  "@socialLoginDesc1": {
+    "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
+  },
+  "socialLoginTitle3": "Мультичейн трейдинг",
+  "@socialLoginTitle3": {
+    "description": "Multichain Trading"
+  },
+  "socialLoginDesc3": "Беспрепятственно торгуйте между основными блокчейнами, чтобы получить настоящий мультичейн-опыт.",
+  "@socialLoginDesc3": {
+    "description": "Trade seamlessly across major blockchains for a true multichain experience."
+  },
+  "continueWithEmail": "Продолжить с электронной почтой",
+  "@continueWithEmail": {
+    "description": "Continue with Email"
+  },
+  "or": "Или",
+  "@or": {
+    "description": "Or"
+  },
+  "resetPwd": "Сбросить пароль",
+  "@resetPwd": {
+    "description": "Reset Password"
+  },
+  "resetPwdDesc": "Мы хотим убедиться, что это действительно вы. Введите свой адрес электронной почты, и мы вышлем вам код подтверждения.",
+  "@resetPwdDesc": {
+    "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
+  },
+  "send": "Отправлять",
+  "@send": {
+    "description": "Send"
+  },
+  "deposit": "Депозит",
+  "@deposit": {
+    "description": "Deposit"
+  },
+  "bridge": "Мост",
+  "@bridge": {
+    "description": "Bridge"
+  },
+  "swap": "Менять",
+  "@swap": {
+    "description": "Swap"
+  },
+  "trade": "Торговля",
+  "@trade": {
+    "description": "Trade"
+  },
+  "buy": "Купить",
+  "@buy": {
+    "description": "Buy"
+  },
+  "sell": "Продавать",
+  "@sell": {
+    "description": "Sell"
+  },
+  "cryptoTab": "Крипто",
+  "@cryptoTab": {
+    "description": "Crypto"
+  },
+  "keyTab": "Ключ",
+  "@keyTab": {
+    "description": "Key"
+  },
+  "manageWallet": "Управление кошельком",
+  "@manageWallet": {
+    "description": "Manage wallet"
+  },
+  "createNewWallet": "Создать новый кошелек",
+  "@createNewWallet": {
+    "description": "Create New wallet"
+  },
+  "importWallet": "Импортировать кошелек",
+  "@importWallet": {
+    "description": "Import wallet"
+  },
+  "chooseHowToSend": "Выберите способ отправки",
+  "@chooseHowToSend": {
+    "description": "Choose how to send"
+  },
+  "yourFriendsTitle": "Ваши друзья",
+  "@yourFriendsTitle": {
+    "description": "Your friends"
+  },
+  "yourFriendsDesc": "Трансфер внутри Mydoge",
+  "@yourFriendsDesc": {
+    "description": "Transfer within Mydoge"
+  },
+  "externalWalletTitle": "Внешний кошелек",
+  "@externalWalletTitle": {
+    "description": "External Wallet"
+  },
+  "externalWalletDesc": "Отправить Doge на криптоадрес",
+  "@externalWalletDesc": {
+    "description": "Send Doge to a crypto address"
+  },
+  "selectToken": "Выберите токен",
+  "@selectToken": {
+    "description": "Select token"
+  },
+  "searchAssets": "Поиск активов",
+  "@searchAssets": {
+    "description": "Search assets"
+  },
+  "receivingAddress": "Адрес получения",
+  "@receivingAddress": {
+    "description": "Receiving address"
+  },
+  "assetAddress": "{text} адрес",
+  "@assetAddress": {
+    "description": "{text} address"
+  },
+  "paste": "Вставить",
+  "@paste": {
+    "description": "Paste"
+  },
+  "transactions": "Транзакции",
+  "@transactions": {
+    "description": "Transactions"
+  },
+  "myWallet": "Мой кошелек",
+  "@myWallet": {
+    "description": "My wallet"
+  },
+  "confirm": "Подтверждать",
+  "@confirm": {
+    "description": "Confirm"
+  },
+  "selectCrypto": "Выберите Криптовалюту",
+  "@selectCrypto": {
+    "description": "Select Crypto"
+  },
+  "searchTokenNameOrAddress": "Поиск имени или адреса токена",
+  "@searchTokenNameOrAddress": {
+    "description": "Search token name or address"
+  },
+  "network": "Сеть:",
+  "@network": {
+    "description": "Network："
+  },
+  "all": "Все",
+  "@all": {
+    "description": "All"
+  },
+  "dogeChain": "Цепь Дога",
+  "@dogeChain": {
+    "description": "Doge Chain"
+  },
+  "mayBeLost": "Может быть потерян",
+  "@mayBeLost": {
+    "description": "May be lost"
+  },
+  "tokenAddress": "Адрес Дожа",
+  "@tokenAddress": {
+    "description": "Doge Address"
+  },
+  "scroll": "Прокрутка",
+  "@scroll": {
+    "description": "Scroll"
+  },
+  "copy": "Копировать",
+  "@copy": {
+    "description": "Copy"
+  },
+  "selectToDogeFriends": "Выбрать в друзья Doge",
+  "@selectToDogeFriends": {
+    "description": "Select to Doge friends"
+  },
+  "searchFriends": "Поиск друзей",
+  "@searchFriends": {
+    "description": "Search friends"
+  },
+  "chooseWallet": "Выбрать кошелек",
+  "@chooseWallet": {
+    "description": "Choose wallet"
+  },
+  "balance": "Баланс:",
+  "@balance": {
+    "description": "Balance："
+  },
+  "max": "МАКС",
+  "@max": {
+    "description": "MAX"
+  },
+  "sendGasToFriends": "Отправь газ друзьям",
+  "@sendGasToFriends": {
+    "description": "Send gas to friends"
+  },
+  "changingTokens": "Изменение токенов",
+  "@changingTokens": {
+    "description": "Changing Tokens"
+  },
+  "buyToken": "Купить {token}",
+  "@buyToken": {
+    "description": "Buy {token}"
+  },
+  "sellToken": "Продать {token}",
+  "@sellToken": {
+    "description": "Sell {token}"
+  },
+  "socialWallet": "Социальный кошелек",
+  "@socialWallet": {
+    "description": "Social Wallet"
+  },
+  "enjoyWalletWithSocialLogin": "Наслаждайтесь всеми возможностями кошелька MyDoge с помощью мультичейн-кошелька с входом в социальную сеть, сохраняя при этом свой актив MyDoge Classic.",
+  "@enjoyWalletWithSocialLogin": {
+    "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
+  },
+  "skip": "Пропускать",
+  "@skip": {
+    "description": "Skip"
+  },
+  "createWith": "Создать с",
+  "@createWith": {
+    "description": "Create with"
+  },
+  "addressBook": "Адресная книга",
+  "@addressBook": {
+    "description": "Address book"
+  },
+  "noAddress": "Нет адреса",
+  "@noAddress": {
+    "description": "No address"
+  },
+  "noAddressDesc": "Добавьте кошельки в свою адресную книгу для удобства \nдоступ, когда вам нужно перевести криптовалюту",
+  "@noAddressDesc": {
+    "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
+  },
+  "addAddress": "Добавить адрес",
+  "@addAddress": {
+    "description": "Add address"
+  },
+  "name": "Имя",
+  "@name": {
+    "description": "Name"
+  },
+  "namePlaceholder": "Введите имя длиной до 20 символов",
+  "@namePlaceholder": {
+    "description": "Enter a name under 20 characters"
+  },
+  "address": "Адрес",
+  "@address": {
+    "description": "Address"
+  },
+  "addressPlaceholder": "Введите адрес",
+  "@addressPlaceholder": {
+    "description": "Enter an address"
+  },
+  "deleteAddress": "Удалить адрес",
+  "@deleteAddress": {
+    "description": "Delete address"
+  },
+  "deleteAddressDesc": "Вы хотите удалить адрес?",
+  "@deleteAddressDesc": {
+    "description": "Do you want to delete the address?"
+  },
+  "cancel": "Отмена",
+  "@cancel": {
+    "description": "Cancel"
+  },
+  "cancelLowercase": "отмена",
+  "@cancelLowercase": {
+    "description": "cancel"
+  },
+  "delete": "Удалить",
+  "@delete": {
+    "description": "Delete"
+  },
+  "update": "Обновлять",
+  "@update": {
+    "description": "Update"
+  },
+  "settings": "Настройки",
+  "@settings": {
+    "description": "Settings"
+  },
+  "yourAccount": "Ваш аккаунт",
+  "@yourAccount": {
+    "description": "Your account"
+  },
+  "editProfile": "Редактировать профиль",
+  "@editProfile": {
+    "description": "Edit profile"
+  },
+  "recoverPassword": "Восстановить пароль",
+  "@recoverPassword": {
+    "description": "Recover password"
+  },
+  "howYouUseMyDoge": "Как вы используете MyDoge",
+  "@howYouUseMyDoge": {
+    "description": "How you use MyDoge"
+  },
+  "pushNotifications": "Push-уведомления",
+  "@pushNotifications": {
+    "description": "Push notifications"
+  },
+  "privacySettings": "Настройки конфиденциальности",
+  "@privacySettings": {
+    "description": "Privacy settings"
+  },
+  "language": "Язык",
+  "@language": {
+    "description": "Language"
+  },
+  "vol24h": "24 часа том",
+  "@vol24h": {
+    "description": "24h Vol"
+  },
+  "high24h": "24 часа максимум",
+  "@high24h": {
+    "description": "24h High"
+  },
+  "low24h": "24-часовой низкий уровень",
+  "@low24h": {
+    "description": "24h Low"
+  },
+  "yourBalance": "Ваш баланс",
+  "@yourBalance": {
+    "description": "Your Balance"
+  },
+  "value": "Ценить",
+  "@value": {
+    "description": "Value"
+  },
+  "quantity": "Количество",
+  "@quantity": {
+    "description": "Quantity"
+  },
+  "addCash": "Добавить деньги",
+  "@addCash": {
+    "description": "Add cash"
+  },
+  "room": "Комната",
+  "@room": {
+    "description": "Room"
+  },
+  "refer": "Ссылаться",
+  "@refer": {
+    "description": "Refer"
+  },
+  "receive": "Получать",
+  "@receive": {
+    "description": "Receive"
+  },
+  "stats": "Статистика",
+  "@stats": {
+    "description": "Stats"
+  },
+  "marketCap": "Рыночная капитализация",
+  "@marketCap": {
+    "description": "Market Cap"
+  },
+  "fdv": "ЗЗТЕРМ28ЗЗ",
+  "@fdv": {
+    "description": "FDV"
+  },
+  "liquidity": "Ликвидность",
+  "@liquidity": {
+    "description": "Liquidity"
+  },
+  "turnover24h": "24-часовой оборот",
+  "@turnover24h": {
+    "description": "24h Turnover"
+  },
+  "change24h": "24-часовая смена",
+  "@change24h": {
+    "description": "24h Change"
+  },
+  "contract": "Договор",
+  "@contract": {
+    "description": "Contract"
+  },
+  "total": "Общий",
+  "@total": {
+    "description": "Total"
+  },
+  "to": "К",
+  "@to": {
+    "description": "To"
+  },
+  "toLowerCase": "к",
+  "@toLowerCase": {
+    "description": "to"
+  },
+  "from": "От",
+  "@from": {
+    "description": "From"
+  },
+  "fromLowerCase": "от",
+  "@fromLowerCase": {
+    "description": "from"
+  },
+  "task": "Задача",
+  "@task": {
+    "description": "Task"
+  },
+  "dapp": "ЗЗТЕРМ17ЗЗ",
+  "@dapp": {
+    "description": "Dapp"
+  },
+  "referralRewards": "Реферальные вознаграждения",
+  "@referralRewards": {
+    "description": "Referral Rewards"
+  },
+  "friendsInvited": "Друзья приглашены",
+  "@friendsInvited": {
+    "description": "Friends invited"
+  },
+  "youHaveEarned": "Вы заработали",
+  "@youHaveEarned": {
+    "description": "You have earned"
+  },
+  "point": "Точка",
+  "@point": {
+    "description": "Point"
+  },
+  "referAFriend": "Приведи друга",
+  "@referAFriend": {
+    "description": "Refer a friend"
+  },
+  "referExplain": "Зарабатывайте 50–75 % комиссий за торговлю за каждого приглашенного друга.",
+  "@referExplain": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "claim": "Требовать",
+  "@claim": {
+    "description": "Claim"
+  },
+  "bridgeDOGEToDogeOS": "Мост $DOGE к DogeOS",
+  "@bridgeDOGEToDogeOS": {
+    "description": "Bridge $DOGE to DogeOS"
+  },
+  "followDogeOSOnX": "Следуйте за DogeOS на X",
+  "@followDogeOSOnX": {
+    "description": "Follow DogeOS on X"
+  },
+  "followMyDogeOnX": "Следуйте MyDoge на X",
+  "@followMyDogeOnX": {
+    "description": "Follow MyDoge on X"
+  },
+  "completeOneSwapOnDogeOS": "Выполните один обмен на DogeOS.",
+  "@completeOneSwapOnDogeOS": {
+    "description": "Complete one swap on DogeOS"
+  },
+  "dogeverse": "ЗЗТЕРМ2ЗЗ",
+  "@dogeverse": {
+    "description": "Dogeverse"
+  },
+  "connectToDogeverseNow": "Подключитесь к Dogeverse прямо сейчас",
+  "@connectToDogeverseNow": {
+    "description": "Connect to Dogeverse now"
+  },
+  "dogeOSEcosystem": "Экосистема DogeOS",
+  "@dogeOSEcosystem": {
+    "description": "DogeOS Ecosystem"
+  },
+  "dogeSwap": "DogeSwap",
+  "@dogeSwap": {
+    "description": "DogeSwap"
+  },
+  "orbiterFinanceIsADecentralized": "Orbiter Finance — это децентрализованная",
+  "@orbiterFinanceIsADecentralized": {
+    "description": "Orbiter Finance is a decentralized"
+  },
+  "bitcoinLayer2Network": "Сеть биткойн-2 уровня",
+  "@bitcoinLayer2Network": {
+    "description": "Bitcoin layer-2 network"
+  },
+  "buildingTheSpiderChain": "Создание цепи Spider, первого EVM L2",
+  "@buildingTheSpiderChain": {
+    "description": "Building the Spider chain, the first EVM L2"
+  },
+  "solanaEcosystem": "Экосистема Солана",
+  "@solanaEcosystem": {
+    "description": "Solana Ecosystem"
+  },
+  "solanaFinance": "Солана Финанс",
+  "@solanaFinance": {
+    "description": "Solana Finance"
+  },
+  "earnDesc": "Зарабатывайте 50–75 % комиссий за торговлю за каждого приглашенного друга.",
+  "@earnDesc": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "referFriends": "Приглашайте друзей",
+  "@referFriends": {
+    "description": "Refer friends"
+  },
+  "appearance": "Появление",
+  "@appearance": {
+    "description": "Appearance"
+  },
+  "connectGoogle": "Google",
+  "@connectGoogle": {
+    "description": "Google"
+  },
+  "connectApple": "Подключите Apple",
+  "@connectApple": {
+    "description": "Connect Apple"
+  },
+  "connectMeta": "Подключить мета",
+  "@connectMeta": {
+    "description": "Connect Meta"
+  },
+  "connectInstagram": "Подключите Инстаграм",
+  "@connectInstagram": {
+    "description": "Connect Instagram"
+  },
+  "connectKakao": "Подключить Какао",
+  "@connectKakao": {
+    "description": "Connect Kakao"
+  },
+  "connectLine": "Подключить линию",
+  "@connectLine": {
+    "description": "Connect line"
+  },
+  "yourSocialLink": "Ваша социальная ссылка",
+  "@yourSocialLink": {
+    "description": "Your social link"
+  },
+  "others": "Другие",
+  "@others": {
+    "description": "Others"
+  },
+  "additionalSettings": "Дополнительные настройки",
+  "@additionalSettings": {
+    "description": "Additional settings"
+  },
+  "communityGuidelines": "Правила сообщества",
+  "@communityGuidelines": {
+    "description": "Community Guidelines"
+  },
+  "terms": "Условия",
+  "@terms": {
+    "description": "Terms"
+  },
+  "deleteAccount": "Удалить аккаунт",
+  "@deleteAccount": {
+    "description": "Delete account"
+  },
+  "logOut": "Выйти",
+  "@logOut": {
+    "description": "Log out"
+  },
+  "confirmToExit": "Вы уверены, что хотите выйти?",
+  "@confirmToExit": {
+    "description": "Are you sure you want to log out?"
+  },
+  "follow": "Следовать",
+  "@follow": {
+    "description": "Follow"
+  },
+  "warning": "Предупреждение",
+  "@warning": {
+    "description": "Warning"
+  },
+  "willDeleteAccount": "Это действие необратимо",
+  "@willDeleteAccount": {
+    "description": "This action is irreversible"
+  },
+  "willDeleteAccountDesc1": "Удаление вашей учетной записи приведет к безвозвратному удалению вашего кошелька и профиля MyDoge.",
+  "@willDeleteAccountDesc1": {
+    "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
+  },
+  "willDeleteAccountDesc2": "Обязательно сделайте резервную копию своего кошелька и сохраните все важное — это действие невозможно отменить.",
+  "@willDeleteAccountDesc2": {
+    "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
+  },
+  "slideToConfirm": "Слайд для удаления",
+  "@slideToConfirm": {
+    "description": "Slide to delete"
+  },
+  "dogeOsBridge": "DogeOS мост",
+  "@dogeOsBridge": {
+    "description": "DogeOS bridge"
+  },
+  "noContacts": "Нет контактов",
+  "@noContacts": {
+    "description": "No contacts"
+  },
+  "noContactsRemind": "Добавьте кошельки в свою адресную книгу для быстрого доступа, когда вам нужно перевести криптовалюту.",
+  "@noContactsRemind": {
+    "description": "Add wallets to your address book for easy access when you need to transfer crypto"
+  },
+  "networkText": "Сеть",
+  "@networkText": {
+    "description": "Network"
+  },
+  "updateAddress": "Обновить адрес",
+  "@updateAddress": {
+    "description": "Update address"
+  },
+  "makeSureSend": "Пожалуйста, убедитесь, что вы отправляете на",
+  "@makeSureSend": {
+    "description": "Please make sure you are sending to "
+  },
+  "chainPoint": "Цепь.",
+  "@chainPoint": {
+    "description": "Chain."
+  },
+  "otherFunds": "Отправка из любой другой цепочки может привести к",
+  "@otherFunds": {
+    "description": "Sending from any other chain may result in "
+  },
+  "lossOfFunds": "потеря средств.",
+  "@lossOfFunds": {
+    "description": "loss of funds."
+  },
+  "maybeLost2": "Можно потеряться!",
+  "@maybeLost2": {
+    "description": "May be lost!"
+  },
+  "copyAddress": "Копировать адрес",
+  "@copyAddress": {
+    "description": "Copy Address"
+  },
+  "errorNetwork": "Ошибка сети",
+  "@errorNetwork": {
+    "description": "Error network"
+  },
+  "errorNetworkRemind": "В вашей сети возникли проблемы. Проверьте и попробуйте обновить.",
+  "@errorNetworkRemind": {
+    "description": "Your network is experiencing some problems, please check and try refreshing"
+  },
+  "refresh": "Обновить",
+  "@refresh": {
+    "description": "Refresh"
+  },
+  "bindTipTitle": "Приложение для проверки подлинности ссылок",
+  "@bindTipTitle": {
+    "description": "Link Authenticator App"
+  },
+  "bindTipSubtitle": "Привязка приложения-аутентификатора повысит безопасность вашей учетной записи. Он будет применен при экспорте вашего кошелька.",
+  "@bindTipSubtitle": {
+    "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
+  },
+  "link": "Связь",
+  "@link": {
+    "description": "Link"
+  },
+  "emailCodeText": "Код электронной почты",
+  "@emailCodeText": {
+    "description": "Email code"
+  },
+  "emailCodeSubtitle": "На ваш почтовый ящик {email} было отправлено письмо.\r\nПожалуйста, введите код подтверждения в электронном письме.",
+  "@emailCodeSubtitle": {
+    "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
+  },
+  "bindStepTitle": "Приложение для проверки подлинности ссылок",
+  "@bindStepTitle": {
+    "description": "Link Authenticator App"
+  },
+  "step1": "Шаг 1:",
+  "@step1": {
+    "description": "Step 1: "
+  },
+  "bindStepOneLabelDescription": "Загрузите приложение для аутентификации.",
+  "@bindStepOneLabelDescription": {
+    "description": "Download an authenticator app."
+  },
+  "forExampleLabel": "Например:",
+  "@forExampleLabel": {
+    "description": "For example: "
+  },
+  "step2": "Шаг 2:",
+  "@step2": {
+    "description": "Step 2: "
+  },
+  "bindStepTwoLabelDescription": "Скопируйте 16-значный ключ ниже или отсканируйте QR-код.",
+  "@bindStepTwoLabelDescription": {
+    "description": "Please copy the 16-digit key below or scan the QR code"
+  },
+  "caution": "Осторожность",
+  "@caution": {
+    "description": "Caution"
+  },
+  "bindStepCautionContent": "Пожалуйста, храните этот ключ в безопасности, так как он используется для экспорта вашего кошелька и не может быть восстановлен в случае потери!",
+  "@bindStepCautionContent": {
+    "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
+  },
+  "pleaseNote": "Пожалуйста, обрати внимание",
+  "@pleaseNote": {
+    "description": "Please note"
+  },
+  "bindStepCautionNoteSubtitle": "После успешного связывания Google Authenticator его нельзя будет изменить.",
+  "@bindStepCautionNoteSubtitle": {
+    "description": "Once Google Authenticator is successfully linked, it cannot be changed."
+  },
+  "bindStepCautionNoteContent": "В целях безопасности активов вашего кошелька храните Google Authenticator в надежном месте и надежно защищайте его. Потеря Google Authenticator может привести к невозможности доступа к вашему кошельку.",
+  "@bindStepCautionNoteContent": {
+    "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
+  },
+  "gotIt": "Понятно",
+  "@gotIt": {
+    "description": "Got it"
+  },
+  "googleAuthenticator": "Google Аутентификатор",
+  "@googleAuthenticator": {
+    "description": "Google Authenticator"
+  },
+  "verifySubtitle": "Пожалуйста, введите номер, сгенерированный вашим Google Authenticator.",
+  "@verifySubtitle": {
+    "description": "Please enter the number generated by your Google Authenticator."
+  },
+  "bindSuccessTip": "Аутентификатор успешно подключен",
+  "@bindSuccessTip": {
+    "description": "Authenticator linked successfully"
+  },
+  "bindFailedTip": "Код аутентификатора неверен, привязка не удалась",
+  "@bindFailedTip": {
+    "description": "Authenticator code is incorrect, linking failed"
+  },
+  "retry": "Повторить попытку",
+  "@retry": {
+    "description": "Retry"
+  },
+  "selectNetwork": "Выберите сеть",
+  "@selectNetwork": {
+    "description": "Select network"
+  },
+  "addToFavorites": "Добавить в избранное",
+  "@addToFavorites": {
+    "description": "Add to favorites"
+  },
+  "addToFavorite": "Добавить в избранное",
+  "@addToFavorite": {
+    "description": "Add to favorite"
+  },
+  "setPayPin": "Установить платежный пин-код",
+  "@setPayPin": {
+    "description": "Set Pay Pin"
+  },
+  "setPayPinSubtitle": "Установите платежный PIN-код, чтобы защитить свои активы. Этот PIN-код потребуется при совершении транзакций.",
+  "@setPayPinSubtitle": {
+    "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
+  },
+  "showTip": "Показать пин",
+  "@showTip": {
+    "description": "Show Pin"
+  },
+  "hideTip": "Скрыть пин",
+  "@hideTip": {
+    "description": "Hide Pin"
+  },
+  "confirmPayPin": "Подтвердить платежный код",
+  "@confirmPayPin": {
+    "description": "Confirm Pay Pin"
+  },
+  "confirmNotMatchTip": "Два платежных контакта не совпадают.",
+  "@confirmNotMatchTip": {
+    "description": "The two pay pins do not match."
+  },
+  "enterPayPin": "Введите оплату PIN",
+  "@enterPayPin": {
+    "description": "Enter Pay PIN"
+  },
+  "forgotPin": "Забыл пин-код",
+  "@forgotPin": {
+    "description": "Forgot pin"
+  },
+  "enterCode": "Введите код",
+  "@enterCode": {
+    "description": "Enter Code"
+  },
+  "changeEmailCodeSubtitle": "На адрес {email} был отправлен 4-значный код.",
+  "@changeEmailCodeSubtitle": {
+    "description": "A 4-digit code was sent to {email}"
+  },
+  "request": "Запрос",
+  "@request": {
+    "description": "Request"
+  },
+  "incorrectCode": "Неправильный код",
+  "@incorrectCode": {
+    "description": "Incorrect code"
+  },
+  "forgetPayPin": "Забудьте о плате PIN?",
+  "@forgetPayPin": {
+    "description": "Forget the Pay PIN?"
+  },
+  "showPayPin": "Показать оплату PIN",
+  "@showPayPin": {
+    "description": "Show Pay PIN"
+  },
+  "hidePayPin": "Скрыть оплату PIN",
+  "@hidePayPin": {
+    "description": "Hide Pay PIN"
+  },
+  "setRecoveryEmail": "Установить резервный адрес электронной почты",
+  "@setRecoveryEmail": {
+    "description": "Set Recovery Email"
+  },
+  "setRecoveryEmailSubtitle": "Чтобы обеспечить безопасность вашего ресурса, установите резервный адрес электронной почты. Этот адрес электронной почты будет использоваться для восстановления учетной записи в случае, если вы потеряете доступ к своей учетной записи.",
+  "@setRecoveryEmailSubtitle": {
+    "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
+  },
+  "enterEmailAddress": "Введите свой адрес электронной почты",
+  "@enterEmailAddress": {
+    "description": "Enter your Email address"
+  },
+  "emailErrorTip": "Этот адрес электронной почты недоступен",
+  "@emailErrorTip": {
+    "description": "This email is not available"
+  },
+  "codeResendSecond": "Отправить повторно({second})",
+  "@codeResendSecond": {
+    "description": "Resend({second})"
+  },
+  "scanQRCode": "Сканировать QR-код",
+  "@scanQRCode": {
+    "description": "Scan QR Code"
+  },
+  "album": "Альбом",
+  "@album": {
+    "description": "Album"
+  },
+  "alignQRCode": "",
+  "@alignQRCode": {
+    "description": ""
+  },
+  "enterSeedPhrase": "Введите сид-фраза",
+  "@enterSeedPhrase": {
+    "description": "Enter seed phrase"
+  },
+  "enterSeedPhraseRemind": "Если вы используете сид-фраза для импорта кошелька, разделяйте каждое слово пробелом.",
+  "@enterSeedPhraseRemind": {
+    "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
+  },
+  "clear": "Прозрачный",
+  "@clear": {
+    "description": "Clear"
+  },
+  "howToBackUp": "Зачем и как выполнять резервное копирование\r\nтвой кошелек",
+  "@howToBackUp": {
+    "description": "Why and How to back up\r\nyour wallet"
+  },
+  "backUpRemind": "Чтобы иметь доступ к своим учетным записям и активам при смене устройства, мы настоятельно рекомендуем вам выполнить описанную ниже процедуру для резервного копирования вашего кошелька.",
+  "@backUpRemind": {
+    "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
+  },
+  "backUpStep1": "1. Нажмите кнопку, чтобы просмотреть сид-фразы.",
+  "@backUpStep1": {
+    "description": "1. Click the button to view the seed phrases."
+  },
+  "backUpStep2": "Храните сид-фразы в безопасном месте, где никто другой не сможет получить к нему доступ.",
+  "@backUpStep2": {
+    "description": "Keep the seed phrases in a safe place where no one else can access to it."
+  },
+  "backUpWarning": "ВНИМАНИЕ: храните свой сид-фразы в безопасности и НИКОГДА не передавайте его никому. Любой, у кого есть ваш закрытый ключ, может украсть все активы вашего кошелька.",
+  "@backUpWarning": {
+    "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
+  },
+  "showSeed": "Показать мой сид-фразы",
+  "@showSeed": {
+    "description": "Show My Seed Phrases"
+  },
+  "seedPhrases": "сид-фразы",
+  "@seedPhrases": {
+    "description": "Seed Phrases"
+  },
+  "close": "Закрывать",
+  "@close": {
+    "description": "Close"
+  },
+  "addressLowerCase": "адрес",
+  "@addressLowerCase": {
+    "description": "address"
+  },
+  "enterAddress": "Пожалуйста, введите действительный адрес",
+  "@enterAddress": {
+    "description": "Please enter a valid address"
+  },
+  "addToAddress": "Добавить по адресу",
+  "@addToAddress": {
+    "description": "Add to address"
+  },
+  "balanceLabel": "Баланс:",
+  "@balanceLabel": {
+    "description": "Balance: "
+  },
+  "sendTo": "Отправить",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "routeSelection": "Выбор маршрута",
+  "@routeSelection": {
+    "description": "Route selection"
+  },
+  "slippage": "проскальзывание",
+  "@slippage": {
+    "description": "Slippage"
+  },
+  "about": "О",
+  "@about": {
+    "description": "About"
+  },
+  "site": "Сайт",
+  "@site": {
+    "description": "Site"
+  },
+  "twitter": "Твиттер",
+  "@twitter": {
+    "description": "Twitter"
+  },
+  "twitterLowercase": "Твиттер",
+  "@twitterLowercase": {
+    "description": "twitter"
+  },
+  "telegram": "Телеграмма",
+  "@telegram": {
+    "description": "Telegram"
+  },
+  "networkUppercase": "Сеть",
+  "@networkUppercase": {
+    "description": "Network"
+  },
+  "customTokens": "Пользовательские токены",
+  "@customTokens": {
+    "description": "Custom Tokens"
+  },
+  "allTokens": "Все токены",
+  "@allTokens": {
+    "description": "All tokens"
+  },
+  "filterTokens": "Фильтруйте рискованные токены",
+  "@filterTokens": {
+    "description": "Filter risky tokens"
+  },
+  "contractAddress": "Адрес контракта",
+  "@contractAddress": {
+    "description": "Contract address"
+  },
+  "tokenSymbol": "Символ токена",
+  "@tokenSymbol": {
+    "description": "Token symbol"
+  },
+  "decimalsOfPrecision": "Десятичные знаки точности",
+  "@decimalsOfPrecision": {
+    "description": "Decimals of precision"
+  },
+  "turnOffRisk": "Отключить фильтр рискованных токенов？",
+  "@turnOffRisk": {
+    "description": "Turn off risky tokens filter？"
+  },
+  "sureTurnOff": "Вы уверены, что хотите отключить фильтр рискованных токенов? Это может привести к потере активов.",
+  "@sureTurnOff": {
+    "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
+  },
+  "turnOff": "Выключать",
+  "@turnOff": {
+    "description": "Turn off"
+  },
+  "fail": "неудача",
+  "@fail": {
+    "description": "fail"
+  },
+  "pending": "В ожидании",
+  "@pending": {
+    "description": "Pending"
+  },
+  "warningText": "После успешного завершения транзакции средства могут поступить на ваш кошелек в течение 20 минут.",
+  "@warningText": {
+    "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
+  },
+  "myWalletAddress": "Мой адрес кошелька",
+  "@myWalletAddress": {
+    "description": "My wallet address"
+  },
+  "hi": "Привет, {name}",
+  "@hi": {
+    "description": "Hi, {name}"
+  },
+  "dogeDevnetBalance": "Баланс $DOGE (devnet)",
+  "@dogeDevnetBalance": {
+    "description": "$DOGE (devnet) balance"
+  },
+  "dogeDevnetFaucet": "Кран Devnet DogeOs",
+  "@dogeDevnetFaucet": {
+    "description": "DogeOs Devnet faucet"
+  },
+  "myDogeTokenBalance": "Мой баланс $DOGE (токен разработки)",
+  "@myDogeTokenBalance": {
+    "description": "My $DOGE (dev token) balance"
+  },
+  "whatIsFaucet": "Что такое кран?",
+  "@whatIsFaucet": {
+    "description": " What is a Faucet?"
+  },
+  "whatIsFaucetHint": "Кран позволяет вам получать бесплатные токены для целей тестирования на",
+  "@whatIsFaucetHint": {
+    "description": "A faucet lets you claim free tokens for testing purposes on a"
+  },
+  "devnet": "Девнет",
+  "@devnet": {
+    "description": " devnet "
+  },
+  "whatIsFaucetHint2": "— среда блокчейна, которая имитирует реальные транзакции без использования реальных активов.",
+  "@whatIsFaucetHint2": {
+    "description": "— a blockchain environment that simulates real transactions without using real assets."
+  },
+  "thestDevnetTokens": "Эти токены devnet",
+  "@thestDevnetTokens": {
+    "description": "These devnet tokens are"
+  },
+  "notRealDoge": "не настоящий DOGE",
+  "@notRealDoge": {
+    "description": " not real DOGE"
+  },
+  "and": "и",
+  "@and": {
+    "description": " and "
+  },
+  "haveNoMonetary": "не имеют денежной ценности",
+  "@haveNoMonetary": {
+    "description": "have no monetary value"
+  },
+  "howMuchDoge": "Сколько Devnet DOGE я могу получить?",
+  "@howMuchDoge": {
+    "description": " How Much Devnet DOGE Can I Get?"
+  },
+  "youCanRequest": "Вы можете запросить",
+  "@youCanRequest": {
+    "description": "You can request"
+  },
+  "perDayDoge": "42,069 ÐOGE в день.",
+  "@perDayDoge": {
+    "description": " 42.069 ÐOGE per day."
+  },
+  "noRealFunds": "Никаких реальных средств не требуется — это просто тестирование.",
+  "@noRealFunds": {
+    "description": " No real funds are involved — it’s just for testing."
+  },
+  "WhatCanIDo": "Что я могу сделать с Devnet DOGE?",
+  "@WhatCanIDo": {
+    "description": " What Can I Do With Devnet DOGE?"
+  },
+  "WhatCanIDoHint": "С помощью devnet ÐOGE вы можете:",
+  "@WhatCanIDoHint": {
+    "description": " With your devnet ÐOGE, you can:"
+  },
+  "WhatCanIDoHint1": "Пробуйте новые функции безопасно",
+  "@WhatCanIDoHint1": {
+    "description": "Try out new features safely"
+  },
+  "WhatCanIDoHint2": "Взаимодействуйте с dApps без финансового риска",
+  "@WhatCanIDoHint2": {
+    "description": "Interact with dApps without financial risk"
+  },
+  "helpUsTest": "Помогите нам протестировать",
+  "@helpUsTest": {
+    "description": "Help us test"
+  },
+  "performanceUnderLoad": "производительность под нагрузкой",
+  "@performanceUnderLoad": {
+    "description": " performance under load "
+  },
+  "performanceUnderLoadHint": "— ваша активность способствует важному стресс-тестированию по мере масштабирования DogeOS!",
+  "@performanceUnderLoadHint": {
+    "description": "— your activity contributes to important stress testing as we scale DogeOS!"
+  },
+  "claimNow": "Получите 42,069 р прямо сейчас!",
+  "@claimNow": {
+    "description": "Claim Ð42.069 now!"
+  },
+  "blockOrReport": "Заблокировать или сообщить",
+  "@blockOrReport": {
+    "description": "Block or Report"
+  },
+  "blockOrReportHint": "MyDoge проверит все профили, на которые поступило сообщение, на предмет нарушений наших правил. Вы также можете заблокировать профиль, чтобы они не могли просматривать ваши сообщения.",
+  "@blockOrReportHint": {
+    "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
+  },
+  "report": "Отчет",
+  "@report": {
+    "description": "Report"
+  },
+  "block": "Блокировать",
+  "@block": {
+    "description": "Block"
+  },
+  "nevermind": "Неважно",
+  "@nevermind": {
+    "description": "Nevermind"
+  },
+  "allComments": "Все комментарии",
+  "@allComments": {
+    "description": "All Comments"
+  },
+  "noCommentYet": "Комментариев пока нет",
+  "@noCommentYet": {
+    "description": "No comment yet"
+  },
+  "saySomething": "Скажите что-то...",
+  "@saySomething": {
+    "description": "Say something..."
+  },
+  "sureToDelete": "Уверены удалить этот комментарий?",
+  "@sureToDelete": {
+    "description": "Sure to delete this comment?"
+  },
+  "copyProfileURL": "Копировать URL-адрес профиля",
+  "@copyProfileURL": {
+    "description": "Copy Profile URL"
+  },
+  "quickAmount": "Быстрая сумма",
+  "@quickAmount": {
+    "description": "Quick amount"
+  },
+  "unblockUser": "Разблокировать пользователя?",
+  "@unblockUser": {
+    "description": "Unblock User?"
+  },
+  "unblockUserHint": "Это разблокирует пользователя, и вы продолжите видеть его сообщения.",
+  "@unblockUserHint": {
+    "description": "This will unblock the user and you will continue to see their posts."
+  },
+  "unblock": "Разблокировать",
+  "@unblock": {
+    "description": "Unblock"
+  },
+  "following": "Следующий",
+  "@following": {
+    "description": "Following"
+  },
+  "shop": "Магазин",
+  "@shop": {
+    "description": "Shop"
+  },
+  "settingsAndSupport": "Настройки и поддержка",
+  "@settingsAndSupport": {
+    "description": "Settings and Support"
+  },
+  "sendAndReceive": "Отправляйте и получайте советы через",
+  "@sendAndReceive": {
+    "description": "Send and receive tips via"
+  },
+  "readFAQ": "Прочтите FAQ по MyDogeTip",
+  "@readFAQ": {
+    "description": "Read the MyDogeTip FAQ"
+  },
+  "signOutUser": "Выйти @{handle}",
+  "@signOutUser": {
+    "description": "Sign Out @{handle}"
+  },
+  "changePayPin": "Изменить оплату PIN",
+  "@changePayPin": {
+    "description": "Change Pay PIN"
+  },
+  "displayCurrency": "Отображать валюту",
+  "@displayCurrency": {
+    "description": "Display currency"
+  },
+  "aboutMyDoge": "О MyDoge",
+  "@aboutMyDoge": {
+    "description": "About MyDoge"
+  },
+  "version": "Версия {version}",
+  "@version": {
+    "description": "Version {version}"
+  },
+  "nickname": "Псевдоним",
+  "@nickname": {
+    "description": "Nickname"
+  },
+  "username": "Имя пользователя",
+  "@username": {
+    "description": "User name"
+  },
+  "followers": "Последователи",
+  "@followers": {
+    "description": "Followers"
+  },
+  "newPost": "Новое сообщение",
+  "@newPost": {
+    "description": "New Post"
+  },
+  "post": "Почта",
+  "@post": {
+    "description": "Post"
+  },
+  "share": "Делиться",
+  "@share": {
+    "description": "Share"
+  },
+  "tips": "Советы",
+  "@tips": {
+    "description": "Tips"
+  },
+  "message": "Сообщение",
+  "@message": {
+    "description": "Message"
+  },
+  "shareProfile": "Поделиться профилем",
+  "@shareProfile": {
+    "description": "Share profile"
+  },
+  "findFriends": "Найти друзей",
+  "@findFriends": {
+    "description": "Find Friends"
+  },
+  "searchResults": "Результаты поиска",
+  "@searchResults": {
+    "description": "Search Results"
+  },
+  "startTyping": "начни печатать",
+  "@startTyping": {
+    "description": "start typing"
+  },
+  "shopWithDoge": "Делайте покупки в Doge",
+  "@shopWithDoge": {
+    "description": "Shop with Doge"
+  },
+  "getDogeCom": "GetDoge.com",
+  "@getDogeCom": {
+    "description": "GetDoge.com"
+  },
+  "giftCards": "Подарочные карты",
+  "@giftCards": {
+    "description": "Gift Cards"
+  },
+  "soon": "скоро",
+  "@soon": {
+    "description": "soon"
+  },
+  "switchNetwork": "Переключить сеть",
+  "@switchNetwork": {
+    "description": "Switch network"
+  },
+  "empty": "Пустой",
+  "@empty": {
+    "description": "Empty"
+  },
+  "estReceive": "Стандартное восточное время. Получать",
+  "@estReceive": {
+    "description": "Est. Receive"
+  },
+  "doge": "Дож",
+  "@doge": {
+    "description": "Doge"
+  },
+  "scanQrCodeDesc": "Отсканируйте, чтобы оплатить точную сумму.",
+  "@scanQrCodeDesc": {
+    "description": "Scan to pay with the exact amount."
+  },
+  "clearAmount": "Очистить сумму",
+  "@clearAmount": {
+    "description": "Clear amount"
+  },
+  "inputPINToContinue": "Введите свой PIN, чтобы продолжить.",
+  "@inputPINToContinue": {
+    "description": "Enter your PIN to continue"
+  },
+  "verifyYourPIN": "Подтвердите свой PIN, чтобы создать социальный кошелек.",
+  "@verifyYourPIN": {
+    "description": "Verify your PIN to create a Social Wallet."
+  },
+  "incorrectPin": "Введенный вами PIN неверен.",
+  "@incorrectPin": {
+    "description": "The PIN you entered is incorrect"
+  },
+  "iCloudBackupFailed": "Резервное копирование iCloud не удалось",
+  "@iCloudBackupFailed": {
+    "description": "iCloud backup failed"
+  },
+  "pleaseTurnOnYourICloud": "Пожалуйста, включите iCloud в настройках вашего устройства перед резервным копированием или импортом вашего кошелька.",
+  "@pleaseTurnOnYourICloud": {
+    "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
+  },
+  "goToSettingPage": "Перейти на страницу настроек",
+  "@goToSettingPage": {
+    "description": "Go to setting page"
+  },
+  "deleteBackup": "Удалить резервную копию",
+  "@deleteBackup": {
+    "description": "Delete backup"
+  },
+  "deleteBackupOrNot": "Вы хотите удалить резервную копию?",
+  "@deleteBackupOrNot": {
+    "description": "Do you want to delete the backup?"
+  },
+  "sendToCrypto": "Отправить на криптоадрес",
+  "@sendToCrypto": {
+    "description": "Send to a crypto address"
+  },
+  "importSeedPhrase": "Импорт с помощью сид-фраза",
+  "@importSeedPhrase": {
+    "description": "Import with seed phrase"
+  },
+  "importGoogleDrive": "Импортировать с Google Диска",
+  "@importGoogleDrive": {
+    "description": "Import from google drive"
+  },
+  "importICloud": "Импорт из iCloud",
+  "@importICloud": {
+    "description": "Import from iCloud"
+  },
+  "reminder": "Напоминание",
+  "@reminder": {
+    "description": "Reminder"
+  },
+  "reminderDesc": "Мы заметили, что кошелек, который вы ранее использовали, был из социального кошелька, а начальная фраза была защищена с помощью Cubist. Вы перейдете на этот социальный кошелек. Кроме того, ваш предыдущий контент Dogeverse больше не доступен.\n\nЕсли у вас есть какие-либо вопросы, пожалуйста, свяжитесь с нашей службой поддержки.",
+  "@reminderDesc": {
+    "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+  },
+  "importNotes": "Важные примечания по входу в социальные сети",
+  "@importNotes": {
+    "description": "Important notes on social login"
+  },
+  "importNotesDesc": "Если вы войдете в систему с помощью X, функция MyDogeTip будет связана с вашей учетной записью X.",
+  "@importNotesDesc": {
+    "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
+  },
+  "maybeLater": "Может быть, позже",
+  "@maybeLater": {
+    "description": "Maybe later"
+  },
+  "depositToken": "Депозит {tokenName}",
+  "@depositToken": {
+    "description": "Deposit {tokenName}"
+  },
+  "selectDepositMethod": "Выберите метод депозита",
+  "@selectDepositMethod": {
+    "description": "Select deposit method"
+  },
+  "myDogeFriends": "MyDoge друзья",
+  "@myDogeFriends": {
+    "description": "MyDoge friends"
+  },
+  "setAmount": "Установить сумму",
+  "@setAmount": {
+    "description": "Set amount"
+  },
+  "amount": "Количество",
+  "@amount": {
+    "description": "Amount"
+  },
+  "amountLowercase": "количество",
+  "@amountLowercase": {
+    "description": "amount"
+  },
+  "dogeUppercase": "ЗЗТЕРМ20ЗЗ",
+  "@dogeUppercase": {
+    "description": "DOGE"
+  },
+  "allNetworks": "Все сети",
+  "@allNetworks": {
+    "description": "All networks"
+  },
+  "popularNetworks": "Популярные сети",
+  "@popularNetworks": {
+    "description": "Popular networks"
+  },
+  "oops": "Переключиться на социальный кошелек",
+  "@oops": {
+    "description": "Switch to Social Wallet"
+  },
+  "oopsDesc": "Упс! В настоящее время вы используете свой кошелек MyDoge Classic. Пожалуйста, переключитесь на свой социальный кошелек, чтобы получить доступ к этой функции.",
+  "@oopsDesc": {
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
+  },
+  "switchWallet": "Сменить кошелек",
+  "@switchWallet": {
+    "description": "Switch wallet"
+  },
+  "termsOfUse": "Условия эксплуатации",
+  "@termsOfUse": {
+    "description": "Terms of Use"
+  },
+  "privacyPolicy": "политика конфиденциальности",
+  "@privacyPolicy": {
+    "description": "Privacy Policy"
+  },
+  "shareMyDoge": "Поделиться",
+  "@shareMyDoge": {
+    "description": "Share MyDoge"
+  },
+  "visitOurWebsite": "Посетите наш сайт",
+  "@visitOurWebsite": {
+    "description": "Visit Our Website"
+  },
+  "viewSeedPhrase": "Посмотреть сид-фраза",
+  "@viewSeedPhrase": {
+    "description": "View seed phrase"
+  },
+  "seedBackupTip1": "Расшифровать",
+  "@seedBackupTip1": {
+    "description": "Transcribe"
+  },
+  "seedBackupTip2": "Скриншоты",
+  "@seedBackupTip2": {
+    "description": "Screenshots"
+  },
+  "seedBackupTip3": "Цифровая копия",
+  "@seedBackupTip3": {
+    "description": "Digital copy"
+  },
+  "keepSeedSafeNotice": "Любой, у кого есть ваше начальное число, может получить доступ ко всем вашим активам. Пожалуйста, сохраните информацию при себе.",
+  "@keepSeedSafeNotice": {
+    "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
+  },
+  "hide": "Скрывать",
+  "@hide": {
+    "description": "Hide"
+  },
+  "warningTitleNotice": "В целях безопасности, если вы закроете или обновите страницу, вам придется подать повторную заявку и подождать не менее 48 часов. Прежде чем уйти, убедитесь, что вы запомнили свой сид-фраза.",
+  "@warningTitleNotice": {
+    "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
+  },
+  "keepSeedSafeTitle": "Обеспечьте безопасность сид-фраза",
+  "@keepSeedSafeTitle": {
+    "description": "Keep seed phrase safe"
+  },
+  "keepSeedSafeNotice1": "Любой, у кого есть ваше начальное число, может получить доступ ко всем вашим активам. Обязательно сделайте резервную копию своего начального числа, прежде чем получать переводы или удалять приложение.",
+  "@keepSeedSafeNotice1": {
+    "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
+  },
+  "keepSeedSafeNotice2": "MyDoge не будет хранить ваш сид на своем сервере и, следовательно, не сможет восстановить ваш кошелек в случае его потери.",
+  "@keepSeedSafeNotice2": {
+    "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
+  },
+  "seedAlreadyBackup": "Резервная копия уже сохранена",
+  "@seedAlreadyBackup": {
+    "description": "Already backed up"
+  },
+  "backupSecurity": "Резервное копирование и безопасность",
+  "@backupSecurity": {
+    "description": "Backup  & Security"
+  },
+  "backupYourWalletHint": "Сохраните свой кошелек в облаке и защитите его паролем. Вы также можете записать свой сид-фраза или скопировать его в менеджер паролей.",
+  "@backupYourWalletHint": {
+    "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
+  },
+  "haveNotBackUp": "Вы не создали резервную копию своего кошелька в облаке.",
+  "@haveNotBackUp": {
+    "description": "You haven't backed up your wallet to the cloud."
+  },
+  "backupToICloud": "Резервное копирование в iCloud",
+  "@backupToICloud": {
+    "description": "Back up to iCloud"
+  },
+  "backupToGoogle": "Резервное копирование на Google Диск",
+  "@backupToGoogle": {
+    "description": "Back up to Google Drive"
+  },
+  "createRecoveryPassword": "Создать пароль для восстановления в облаке",
+  "@createRecoveryPassword": {
+    "description": "Create Cloud recovery password"
+  },
+  "createRecoveryPasswordHint": "Вам необходимо создать пароль для восстановления облачной резервной копии. Выберите запоминающийся пароль длиной не менее 8 символов; более длинные пароли более безопасны.",
+  "@createRecoveryPasswordHint": {
+    "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
+  },
+  "ifYouLoseRecoveryPassword": "Потеря этого пароля означает, что вы не сможете восстановить резервную копию.",
+  "@ifYouLoseRecoveryPassword": {
+    "description": "Losing this password means you can’t recover your backup."
+  },
+  "confirmPassword": "Подтвердите пароль",
+  "@confirmPassword": {
+    "description": "Confirm password"
+  },
+  "confirmBackup": "Подтвердите резервное копирование",
+  "@confirmBackup": {
+    "description": "Confirm backup"
+  },
+  "haveBackUp": "Вы создали резервную копию своего кошелька в облаке.",
+  "@haveBackUp": {
+    "description": "You have backed up your wallet to the cloud."
+  },
+  "passwordRules": "Пароль должен быть не менее 8 символов",
+  "@passwordRules": {
+    "description": "Password must be at least 8 characters"
+  },
+  "passwordNotMatch": "Пароль не совпадает",
+  "@passwordNotMatch": {
+    "description": "Password does not match"
+  },
+  "someChain": "{chain} Цепочка.",
+  "@someChain": {
+    "description": "{chain} Chain."
+  },
+  "inputYourRecoveryPassword": "Введите пароль облачного восстановления",
+  "@inputYourRecoveryPassword": {
+    "description": "Input your Cloud Recovery Password"
+  },
+  "importExistingWallet": "Импортировать существующий кошелек",
+  "@importExistingWallet": {
+    "description": "Import existing wallet"
+  },
+  "walletName": "Имя кошелька",
+  "@walletName": {
+    "description": "Wallet name"
+  },
+  "backupYourWallet": "Создайте резервную копию своего кошелька",
+  "@backupYourWallet": {
+    "description": "Back up your wallet"
+  },
+  "deleteWallet": "Удалить резервную копию в облаке?",
+  "@deleteWallet": {
+    "description": "Delete Cloud backup?"
+  },
+  "renameWallet": "Переименовать кошелек",
+  "@renameWallet": {
+    "description": "Rename Wallet"
+  },
+  "enterName": "Введите имя",
+  "@enterName": {
+    "description": "Enter a name"
+  },
+  "sureToDeleteWallet": "Вы потеряете возможность восстановить свой кошелек из облака. Вы уверены, что хотите продолжить?",
+  "@sureToDeleteWallet": {
+    "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
+  },
+  "profileIsPublic": "Профиль общедоступен",
+  "@profileIsPublic": {
+    "description": "Profile is Public"
+  },
+  "showWalletAddress": "Показать адрес кошелька и кнопку чаевых",
+  "@showWalletAddress": {
+    "description": "Show wallet address and Tip button"
+  },
+  "transferableLabel": "Передаваемый:",
+  "@transferableLabel": {
+    "description": "Transferable: "
+  },
+  "transferable": "Передаваемый",
+  "@transferable": {
+    "description": "Transferable"
+  },
+  "inscribe": "Вписать",
+  "@inscribe": {
+    "description": "Inscribe"
+  },
+  "buyDoge": "Купить Дожа",
+  "@buyDoge": {
+    "description": "Buy Doge"
+  },
+  "totalVolume": "Общий объем",
+  "@totalVolume": {
+    "description": "Total volume"
+  },
+  "Volume24h": "24-часовой объем",
+  "@Volume24h": {
+    "description": "24h volume"
+  },
+  "holders": "Держатели",
+  "@holders": {
+    "description": "Holders"
+  },
+  "sales": "Продажи",
+  "@sales": {
+    "description": "Sales"
+  },
+  "inscribeForTransfer": "Запишитесь на перевод",
+  "@inscribeForTransfer": {
+    "description": "Inscribe for transfer"
+  },
+  "inscribeForTransferHint": "Готовы отправить? Этот шаг разблокирует ваши токены Drc20 для передачи.",
+  "@inscribeForTransferHint": {
+    "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
+  },
+  "selectAnInscription": "Выберите надпись для отправки",
+  "@selectAnInscription": {
+    "description": "Select an inscription to send"
+  },
+  "transferToken": "Трансфер {token}",
+  "@transferToken": {
+    "description": "Transfer {token}"
+  },
+  "confirmTransfer": "Подтвердить перевод",
+  "@confirmTransfer": {
+    "description": "Confirm Transfer"
+  },
+  "noNFTsFound": "NFTs не найден",
+  "@noNFTsFound": {
+    "description": "No NFTs Found"
+  },
+  "yoursNFTAppearHere": "Здесь появится ваш NFTs.",
+  "@yoursNFTAppearHere": {
+    "description": "Your NFTs will appear here"
+  },
+  "titleCopied": "{title} скопировано в буфер обмена.",
+  "@titleCopied": {
+    "description": "{title} copied to clipboard"
+  },
+  "transfer": "Передача",
+  "@transfer": {
+    "description": "Transfer"
+  },
+  "NFTDetails": "NFT Подробности",
+  "@NFTDetails": {
+    "description": "NFT Details"
+  },
+  "inscriptionID": "Идентификатор надписи",
+  "@inscriptionID": {
+    "description": "Inscription ID"
+  },
+  "outputValue": "Выходное значение",
+  "@outputValue": {
+    "description": "Output Value"
+  },
+  "preview": "Предварительный просмотр",
+  "@preview": {
+    "description": "Preview"
+  },
+  "content": "Содержание",
+  "@content": {
+    "description": "Content"
+  },
+  "contentType": "Тип контента",
+  "@contentType": {
+    "description": "Content Type"
+  },
+  "timestamp": "Временная метка",
+  "@timestamp": {
+    "description": "Timestamp"
+  },
+  "genesisTransaction": "Транзакция Бытия",
+  "@genesisTransaction": {
+    "description": "Genesis Transaction"
+  },
+  "showLess": "Показать меньше",
+  "@showLess": {
+    "description": "Show Less"
+  },
+  "showMore": "Показать больше",
+  "@showMore": {
+    "description": "Show More"
+  },
+  "errorLoadingNFTs": "Ошибка загрузки NFTs: {error}.",
+  "@errorLoadingNFTs": {
+    "description": "Error loading NFTs: {error}"
+  },
+  "errorCreatingTransaction": "Ошибка создания транзакции: {error}.",
+  "@errorCreatingTransaction": {
+    "description": "Error creating transaction: {error}"
+  },
+  "addMessage": "Добавить сообщение",
+  "@addMessage": {
+    "description": "Add message"
+  },
+  "toSomeone": "в {someone}",
+  "@toSomeone": {
+    "description": "to {someone}"
+  },
+  "recent": "Недавний",
+  "@recent": {
+    "description": "Recent"
+  },
+  "noSearchResult": "Нет результатов поиска",
+  "@noSearchResult": {
+    "description": "No search result"
+  },
+  "searchForPeople": "Найдите людей или введите адрес",
+  "@searchForPeople": {
+    "description": "Search for people or input an address"
+  },
+  "multiChain": "Мультичейн",
+  "@multiChain": {
+    "description": "Multi-chain"
+  },
+  "transferFundsToDogeWallet": "Переведите свои средства в Социальный кошелек одним нажатием!",
+  "@transferFundsToDogeWallet": {
+    "description": "Move your funds to Social Wallet in one tap!"
+  },
+  "drc20": "Дрк20",
+  "@drc20": {
+    "description": "Drc20"
+  },
+  "NFTs": "ЗЗТЕРМ15ЗЗ",
+  "@NFTs": {
+    "description": "NFTs"
+  },
+  "noDrc20Found": "Здесь пока ничего!",
+  "@noDrc20Found": {
+    "description": "Nothing here yet!"
+  },
+  "youCanCreateWallet": "Вы всегда можете создать социальный кошелек здесь.",
+  "@youCanCreateWallet": {
+    "description": "You can always create a Social Wallet here."
+  },
+  "getDogeTestToken": "Получите токены тестовой сети DOGE \n(нулевое значение)",
+  "@getDogeTestToken": {
+    "description": "Get DOGE testnet tokens \n (zero value)"
+  },
+  "devnetUpperCase": "Девнет",
+  "@devnetUpperCase": {
+    "description": "Devnet"
+  },
+  "legalTerms": "Юридические условия",
+  "@legalTerms": {
+    "description": "Legal terms"
+  },
+  "pleaseReadOur": "Пожалуйста, прочитайте наш",
+  "@pleaseReadOur": {
+    "description": "Please read our"
+  },
+  "eula": "Лицензионное соглашение",
+  "@eula": {
+    "description": " EULA"
+  },
+  "agreeContinue": "Согласиться и продолжить",
+  "@agreeContinue": {
+    "description": " Agree & Continue"
+  },
+  "enableBiometrics": "Включить биометрию?",
+  "@enableBiometrics": {
+    "description": "Enable biometrics?"
+  },
+  "no": "Нет",
+  "@no": {
+    "description": "No"
+  },
+  "yes": "Да",
+  "@yes": {
+    "description": "Yes"
+  },
+  "enable": "Давать возможность",
+  "@enable": {
+    "description": "Enable"
+  },
+  "setNewPhoto": "Установить новую фотографию",
+  "@setNewPhoto": {
+    "description": "Set new photo"
+  },
+  "chooseFromGallery": "Выбрать из галереи",
+  "@chooseFromGallery": {
+    "description": "Choose from gallery"
+  },
+  "takeAPhoto": "Сфотографироваться",
+  "@takeAPhoto": {
+    "description": "Take a photo"
+  },
+  "authenticationFailed": "Аутентификация не удалась",
+  "@authenticationFailed": {
+    "description": "Authentication failed"
+  },
+  "authenticationFailedHint": "При попытке аутентификации возникла проблема.",
+  "@authenticationFailedHint": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "tryAgain": "Попробуйте еще раз",
+  "@tryAgain": {
+    "description": "Try again"
+  },
+  "faceIDNotEnabled": "Идентификатор лица не включен",
+  "@faceIDNotEnabled": {
+    "description": "Face ID Not Enabled"
+  },
+  "pleaseEnabledFaceID": "Пожалуйста, включите Face ID в настройках, чтобы продолжить.",
+  "@pleaseEnabledFaceID": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSettings": "Зайдите в настройки",
+  "@goToSettings": {
+    "description": "Go to Settings"
+  },
+  "cancelRequest": "Отменить запрос",
+  "@cancelRequest": {
+    "description": "Cancel request"
+  },
+  "cancelRequestHint": "Вы уверены, что хотите отменить? Это возобновит период ожидания, если вы захотите настроить новый Passkey.",
+  "@cancelRequestHint": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "stillAccessYourClassicWallet": "У вас по-прежнему будет доступ к MyDoge Classic при следующем входе в систему. Однако ваши сообщения не будут доступны. Если необходимо, сделайте резервную копию ваших данных сейчас.",
+  "@stillAccessYourClassicWallet": {
+    "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
+  },
+  "permissionDenied": "Доступ запрещен",
+  "@permissionDenied": {
+    "description": "Permission Denied"
+  },
+  "whatIsYourEmail": "Какой у тебя адрес электронной почты",
+  "@whatIsYourEmail": {
+    "description": "What’s your email"
+  },
+  "enableFaceID": "Включить идентификатор лица",
+  "@enableFaceID": {
+    "description": "Enable Face ID"
+  },
+  "enableFaceIDHint": "Чтобы обеспечить безопасность вашей учетной записи, убедитесь, что Face ID включен во время использования приложения.",
+  "@enableFaceIDHint": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpPasskey": "Настройка Passkey",
+  "@setUpPasskey": {
+    "description": "Set Up Passkey"
+  },
+  "settingUp": "Настройка...",
+  "@settingUp": {
+    "description": "Setting up..."
+  },
+  "settingUpHint": "Настройка Passkey отменена.\r\nПожалуйста, попробуйте еще раз.",
+  "@settingUpHint": {
+    "description": "Passkey setup was canceled.\r\nPlease try again."
+  },
+  "verifyWithPasskey": "Подтвердите с помощью Passkey",
+  "@verifyWithPasskey": {
+    "description": "Verify With Passkey"
+  },
+  "verifying": "Проверка...",
+  "@verifying": {
+    "description": "Verifying..."
+  },
+  "verificationCanceled": "Проверка отменена.",
+  "@verificationCanceled": {
+    "description": "Verification was canceled."
+  },
+  "noPasskeyFound": "Passkey не найдено",
+  "@noPasskeyFound": {
+    "description": "No Passkey found"
+  },
+  "keepAccountSafe": "Чтобы обеспечить безопасность вашей учетной записи, убедитесь, что Face ID включен во время использования приложения.",
+  "@keepAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpNewPasskey": "Настройте новый Passkey.",
+  "@setUpNewPasskey": {
+    "description": "Set up a new passkey"
+  },
+  "poweredBy": "Питаться от",
+  "@poweredBy": {
+    "description": "Powered by"
+  },
+  "IAccept": "Я принимаю",
+  "@IAccept": {
+    "description": "I accept"
+  },
+  "orContinueWith": "или продолжить с",
+  "@orContinueWith": {
+    "description": "or continue with"
+  },
+  "verifyEmail": "Подтвердите адрес электронной почты",
+  "@verifyEmail": {
+    "description": "Verify Email"
+  },
+  "verifyEmailHint": "Одноразовая ссылка для входа была отправлена ​​на адрес",
+  "@verifyEmailHint": {
+    "description": "A one-time sign-in link has been sent to"
+  },
+  "doNotSeeEmail": "Не видели письмо? Проверьте папку со спамом или",
+  "@doNotSeeEmail": {
+    "description": "Didn’t see email? Check your spam folder, or "
+  },
+  "settingUpPasskeyHint": "В целях безопасности вашей учетной записи для настройки нового Passkey требуется 48-часовой период ожидания.",
+  "@settingUpPasskeyHint": {
+    "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
+  },
+  "verificationLinkSent": "Будет отправлена одноразовая ссылка для подтверждения.\r\nна вашу электронную почту.",
+  "@verificationLinkSent": {
+    "description": "A one-time verification link will be sent\r\nto your email."
+  },
+  "hours": "Часы",
+  "@hours": {
+    "description": "Hours"
+  },
+  "minutes": "Минуты",
+  "@minutes": {
+    "description": "Minutes"
+  },
+  "seconds": "Секунды",
+  "@seconds": {
+    "description": "Seconds"
+  },
+  "resendCode": "Отправить код повторно",
+  "@resendCode": {
+    "description": "Resend code"
+  },
+  "emailAddress": "Адрес электронной почты",
+  "@emailAddress": {
+    "description": "Email address"
+  },
+  "apple": "яблоко",
+  "@apple": {
+    "description": "apple"
+  },
+  "allNewWallet": "ВСЕ-Новый \nMyDoge Кошелек",
+  "@allNewWallet": {
+    "description": "ALL-New \nMyDoge Wallet"
+  },
+  "getStart": "Начать",
+  "@getStart": {
+    "description": "Get started"
+  },
+  "welcomeToMydogeWallet": "Добро пожаловать в совершенно новый кошелек MyDoge с возможностью входа через социальную сеть и мультицепочным кошельком.\n\nВаш MyDoge Classic, ресурсы и все, что вам нравится в MyDoge, будут перенесены в новый интерфейс.",
+  "@welcomeToMydogeWallet": {
+    "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
+  },
+  "myDogeWallet": "MyDoge Кошелек",
+  "@myDogeWallet": {
+    "description": "MyDoge Wallet"
+  },
+  "initializing": "Инициализация...",
+  "@initializing": {
+    "description": "Initializing..."
+  },
+  "risks": "Непроверенный",
+  "@risks": {
+    "description": "Unverified"
+  },
+  "waitingUserToConnectX": "Ожидание пользователя для подключения X",
+  "@waitingUserToConnectX": {
+    "description": "Waiting user to connect X"
+  },
+  "history": "История",
+  "@history": {
+    "description": "History"
+  },
+  "noActivity": "Нет активности",
+  "@noActivity": {
+    "description": "No Activity"
+  },
+  "notification": "Уведомление",
+  "@notification": {
+    "description": "Notification"
+  },
+  "noData": "Нет данных",
+  "@noData": {
+    "description": "No data"
+  },
+  "viewSeedPhraseTip1": "Чтобы повысить безопасность кошелька и снизить риск злонамеренных атак, MyDoge Wallet использует механизм хранения Cubist для безопасного хранения вашего сид-фраза.\nДля просмотра оставьте заявку. Он будет доступен через 48 часов и доступен для просмотра в течение 3 дней.",
+  "@viewSeedPhraseTip1": {
+    "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
+  },
+  "receivedMnemonicTip1": "Срок действия вашего доступа истечет через {day} дней, {hour} часов и {minute} минут. Пожалуйста, сделайте резервную копию до этого.",
+  "@receivedMnemonicTip1": {
+    "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
+  },
+  "seedPhraseHelpContent": "сид-фраза — это набор из 12–24 слов, который служит ключом к вашему кошельку. Как и банковская карта без PIN, любой, у кого она есть, может получить доступ к вашим средствам и перевести их.",
+  "@seedPhraseHelpContent": {
+    "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
+  },
+  "keepSeedSafeAlertContent": "Ваш сид-фраза не сохраняется в MyDoge.\nЧтобы просмотреть его снова, вам придется подождать 48 часов.",
+  "@keepSeedSafeAlertContent": {
+    "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
+  },
+  "manageCrypto": "Управление криптовалютой",
+  "@manageCrypto": {
+    "description": "Manage crypto"
+  },
+  "addCustomToken": "Добавить пользовательский токен",
+  "@addCustomToken": {
+    "description": "Add custom token"
+  },
+  "originalPayPIN": "Первоначальный платеж PIN",
+  "@originalPayPIN": {
+    "description": "Original Pay PIN"
+  },
+  "setNewPayPIN": "Установить новую оплату PIN",
+  "@setNewPayPIN": {
+    "description": "Set new Pay PIN"
+  },
+  "confirmNewPayPIN": "Подтвердить новый платеж PIN",
+  "@confirmNewPayPIN": {
+    "description": "Confirm new Pay PIN"
+  },
+  "twoFactor": "Двухфакторная аутентификация (2FA)",
+  "@twoFactor": {
+    "description": "Two-Factor Authentication (2FA)"
+  },
+  "twoFactorHint": "Чтобы повысить безопасность вашей учетной записи, мы настоятельно рекомендуем включить хотя бы один 2FA.",
+  "@twoFactorHint": {
+    "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
+  },
+  "minAmount": "Минимальная сумма {amount}",
+  "@minAmount": {
+    "description": "Min amount is {amount}"
+  },
+  "maxAmount": "Максимальная сумма — {amount}.",
+  "@maxAmount": {
+    "description": "Max amount is {amount}"
+  },
+  "connectedDApp": "Подключен DApp",
+  "@connectedDApp": {
+    "description": "Connected DApp"
+  },
+  "disconnectedAll": "Отключить все",
+  "@disconnectedAll": {
+    "description": "Disconnect All"
+  },
+  "disconnected": "Отключить",
+  "@disconnected": {
+    "description": "Disconnect"
+  },
+  "connected": "Подключено",
+  "@connected": {
+    "description": "Connected"
+  },
+  "connectedWallet": "{name} подключен к {walletName}",
+  "@connectedWallet": {
+    "description": "{name} connected to {walletName}"
+  },
+  "connectedNetwork": "{amount} подключение к сети",
+  "@connectedNetwork": {
+    "description": "{amount} network connect"
+  },
+  "dappRequest": "Dapp запрос",
+  "@dappRequest": {
+    "description": "Dapp request"
+  },
+  "fromLabel": "от:",
+  "@fromLabel": {
+    "description": "from: "
+  },
+  "approve": "Утвердить",
+  "@approve": {
+    "description": "Approve"
+  },
+  "sign": "Знак",
+  "@sign": {
+    "description": "Sign"
+  },
+  "walletAddress": "Адрес кошелька",
+  "@walletAddress": {
+    "description": "Wallet address"
+  },
+  "dAppContract": "DApp Контракт",
+  "@dAppContract": {
+    "description": "DApp Contract"
+  },
+  "gasFee": "Комиссия за газ",
+  "@gasFee": {
+    "description": "Gas Fee"
+  },
+  "data": "Данные",
+  "@data": {
+    "description": "Data"
+  },
+  "connectYourWallet": "Подключите свой кошелек",
+  "@connectYourWallet": {
+    "description": "Connect your wallet"
+  },
+  "requestFrom": "Запрос от",
+  "@requestFrom": {
+    "description": "Request from "
+  },
+  "dappPermission": "Разрешение Dapp",
+  "@dappPermission": {
+    "description": "Dapp Permission"
+  },
+  "accessYourETH": "Получите доступ к информации о вашей цепочке ETH",
+  "@accessYourETH": {
+    "description": "Access your ETH on-chain information"
+  },
+  "requestTransaction": "Запросить у вас авторизацию транзакции",
+  "@requestTransaction": {
+    "description": "Request transaction authorization from you"
+  },
+  "note": "Примечание",
+  "@note": {
+    "description": "Note"
+  },
+  "notShareYourPrivateKey": "Авторизация не передает информацию о вашем личном ключе.",
+  "@notShareYourPrivateKey": {
+    "description": "Authorization will not share your private key information."
+  },
+  "networkNotSupported": "Сеть не поддерживается",
+  "@networkNotSupported": {
+    "description": "Network not supported"
+  },
+  "amountNetwork": "сети {amount}",
+  "@amountNetwork": {
+    "description": "{amount} networks"
+  },
+  "manage": "Управлять",
+  "@manage": {
+    "description": "Manage"
+  },
+  "switzerComplete": "Свитцер Полный",
+  "@switzerComplete": {
+    "description": "Switzer Complete"
+  },
+  "noSearchResults": "Нет результатов поиска",
+  "@noSearchResults": {
+    "description": "No search results"
+  },
+  "authenticatingWithFaceID": "Аутентификация с помощью Face ID...",
+  "@authenticatingWithFaceID": {
+    "description": "Authenticating with Face ID..."
+  },
+  "disableToken": "Отключить фильтр рискованных токенов?",
+  "@disableToken": {
+    "description": "Disable risky token filter?"
+  },
+  "disable": "Запрещать",
+  "@disable": {
+    "description": "Disable"
+  },
+  "disableTokenHint": "Это может подвергнуть вас риску использования токенов и потенциальной потере активов.",
+  "@disableTokenHint": {
+    "description": "This may expose you to risky tokens and potential asset loss."
+  },
+  "keepSeedSafeAlertTitle": "Вы сохранили свой сид-фраза?",
+  "@keepSeedSafeAlertTitle": {
+    "description": "Have you saved your seed phrase?"
+  },
+  "cancelViewRequest": "Отменить запрос на просмотр",
+  "@cancelViewRequest": {
+    "description": "Cancel the view request"
+  },
+  "featurePoweredBy": "Эта функция поддерживается",
+  "@featurePoweredBy": {
+    "description": "This feature is powered by "
+  },
+  "viewSeedPhraseRequestTitle": "Вы запросили просмотр сид-фраза.",
+  "@viewSeedPhraseRequestTitle": {
+    "description": "You have requested to view the seed phrase."
+  },
+  "viewSeedPhraseRequestTip": "Ваш сид-фраза будет показан здесь после",
+  "@viewSeedPhraseRequestTip": {
+    "description": "Your seed phrase will be shown here after"
+  },
+  "receivedMnemonicTitle": "Ваш сид-фраза готов к просмотру",
+  "@receivedMnemonicTitle": {
+    "description": "Your seed phrase is ready to view"
+  },
+  "receivedMnemonicSubTip1": "Пожалуйста, храните ваш сид-фраза в безопасности.",
+  "@receivedMnemonicSubTip1": {
+    "description": "Please keep your seed phrase safe."
+  },
+  "receivedMnemonicSubTip2": "MyDoge Кошелек не хранит сид-фразы пользователей. Каждый раз, когда вы запрашиваете их просмотр, вам придется подождать 48 часов, чтобы получить их с Cubist.",
+  "@receivedMnemonicSubTip2": {
+    "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
+  },
+  "applyViewSeedPhrase": "Запрос на просмотр сид-фраза",
+  "@applyViewSeedPhrase": {
+    "description": "Request to view seed phrase"
+  },
+  "viewSeedPhraseTip2": "",
+  "@viewSeedPhraseTip2": {
+    "description": ""
+  },
+  "viewSeedPhraseTip3": "",
+  "@viewSeedPhraseTip3": {
+    "description": ""
+  },
+  "viewSeedPhraseTip4": "Вы сможете просмотреть его через 48 часов.",
+  "@viewSeedPhraseTip4": {
+    "description": "You’ll be able to view it after 48 hours."
+  },
+  "enterCodeDescription": "На адрес был отправлен 4-значный код",
+  "@enterCodeDescription": {
+    "description": "A 4-digit code was sent to "
+  },
+  "seedPhraseHelpTitle": "Что такое сид-фраза?",
+  "@seedPhraseHelpTitle": {
+    "description": "What is a seed phrase?"
+  },
+  "seedPhraseHelpNoticeTitle": "Как обеспечить безопасность?",
+  "@seedPhraseHelpNoticeTitle": {
+    "description": "How to keep it secure?"
+  },
+  "seedPhraseHelpNotice1": "Запишите его или сохраните на автономном устройстве, например в холодном кошельке.",
+  "@seedPhraseHelpNotice1": {
+    "description": "Write it down or store it in an offline device such as a cold wallet."
+  },
+  "seedPhraseHelpNotice2": "Никогда не сохраняйте его, делая снимки экрана.",
+  "@seedPhraseHelpNotice2": {
+    "description": "Never store it by taking screenshots."
+  },
+  "seedPhraseHelpNotice3": "Никогда не храните его в приложениях социальных сетей, электронной почте, мобильных заметках, облачных сервисах и т. д.",
+  "@seedPhraseHelpNotice3": {
+    "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
+  },
+  "seedPhraseHelpNoticeHideTip": "Больше не показывать это",
+  "@seedPhraseHelpNoticeHideTip": {
+    "description": "Don't show this again"
+  },
+  "done": "Сделанный",
+  "@done": {
+    "description": "Done"
+  },
+  "keep": "Держать",
+  "@keep": {
+    "description": "Keep"
+  },
+  "verifyEmailToProtectAccount": "Подтвердите свой адрес электронной почты, чтобы защитить свою учетную запись.",
+  "@verifyEmailToProtectAccount": {
+    "description": "Verify your email to help protect your account."
+  },
+  "potentialHoneypot": "Потенциальная приманка",
+  "@potentialHoneypot": {
+    "description": "Potential honeypot"
+  },
+  "tokenNotList": "Токен не указан",
+  "@tokenNotList": {
+    "description": "Token not listed"
+  },
+  "tokenNotListHint": "Токен не указан в списке и может быть рискованным. Пожалуйста, действуйте осторожно.",
+  "@tokenNotListHint": {
+    "description": "Token is not listed and may be risky. Please proceed with caution."
+  },
+  "slippageTooHigh": "Проскальзывание слишком велико",
+  "@slippageTooHigh": {
+    "description": "Slippage is too high"
+  },
+  "slippageTooHighHint": "Торговля может привести к потенциальным убыткам, пожалуйста, торгуйте осторожно.",
+  "@slippageTooHighHint": {
+    "description": "Trading could lead to potential losses, please trade carefully."
+  },
+  "tokenNotListHint2": "Токена нет в списке. Торговля может привести к потере активов.",
+  "@tokenNotListHint2": {
+    "description": "Token is not listed. Trading may result in asset loss."
+  },
+  "insufficientBalance": "Недостаточный баланс",
+  "@insufficientBalance": {
+    "description": "Insufficient balance"
+  },
+  "getStartWithDogeWallet": "Начните работу с социальным кошельком, войдя в систему через социальную сеть — ваш текущий кошелек останется в безопасности как MyDoge Classic.",
+  "@getStartWithDogeWallet": {
+    "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
+  },
+  "filterHighRiskTokens": "Отфильтруйте токены с высоким уровнем риска одним щелчком мыши. Никакие активы не будут потеряны.",
+  "@filterHighRiskTokens": {
+    "description": "Filter out high-risk tokens with one click. No assets will be lost."
+  },
+  "setUpProfile": "Настройте свой профиль для нового опыта MyDoge?",
+  "@setUpProfile": {
+    "description": "Set up your profile for the new MyDoge experience?"
+  },
+  "invalidWalletAddress": "Неверный адрес кошелька. Пожалуйста, проверьте формат.",
+  "@invalidWalletAddress": {
+    "description": "Invalid wallet address. Please check the format."
+  },
+  "loginTitle1": "Ваш Dogecoin\r\nКошелек, но лучше",
+  "@loginTitle1": {
+    "description": "Your Dogecoin\r\nWallet, but Betterer"
+  },
+  "loginDesc1": "Нам доверяют Shibes по всему миру",
+  "@loginDesc1": {
+    "description": "Trusted by shibes worldwide"
+  },
+  "loginTitle2": "Присоединяйтесь к любимому движению Интернета",
+  "@loginTitle2": {
+    "description": "Join the internet’s favorite movement"
+  },
+  "loginDesc2": "Социальный кошелек, на котором зарабатывают мемы.",
+  "@loginDesc2": {
+    "description": "A social wallet where memes earn."
+  },
+  "loginTitle3": "Узнайте, что сейчас в тренде в Web3",
+  "@loginTitle3": {
+    "description": "Discover what’s trending in Web3"
+  },
+  "loginDesc3": "Мир приложений, квестов и игр",
+  "@loginDesc3": {
+    "description": "A world of apps, quests and games"
+  },
+  "loginTitle4": "Много чаевых,\r\nтакой дружелюбный",
+  "@loginTitle4": {
+    "description": "Much tipping,\r\nso shibe friendly"
+  },
+  "loginDesc4": "Дайте чаевые своим друзьям и торгуйте вместе",
+  "@loginDesc4": {
+    "description": "Tips your frens and trade together"
+  },
+  "connectWithX": "Свяжитесь с Х",
+  "@connectWithX": {
+    "description": "Connect with X"
+  },
+  "signWithOther": "Зарегистрируйтесь, используя другие варианты",
+  "@signWithOther": {
+    "description": "Sign up with other options"
+  },
+  "byUsingDogeOs": "Используя DogeOS, вы соглашаетесь принять наши",
+  "@byUsingDogeOs": {
+    "description": "By using DogeOS, you agree to accept our"
+  },
+  "chooseLoginTitle": "Выбирайте с умом, шибе",
+  "@chooseLoginTitle": {
+    "description": "Choose wisely, shibe"
+  },
+  "chooseLoginDesc": "Добавьте кошелек, используя свою учетную запись Apple или Google. Сохраняйте спокойствие, ваша информация останется конфиденциальной.",
+  "@chooseLoginDesc": {
+    "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
+  },
+  "x": "Х",
+  "@x": {
+    "description": "X"
+  },
+  "google": "Google",
+  "@google": {
+    "description": "Google"
+  },
+  "whatYourEmail": "Какой у вас адрес электронной почты?",
+  "@whatYourEmail": {
+    "description": "What’s your email?"
+  },
+  "verifyOtpEmail": "Подтвердите адрес электронной почты OTP",
+  "@verifyOtpEmail": {
+    "description": "Verify OTP email"
+  },
+  "aVerificationCode": "Код подтверждения был отправлен на адрес",
+  "@aVerificationCode": {
+    "description": "A verification code has been sent to "
+  },
+  "toKeepYourAccountSafe": "Чтобы обеспечить безопасность вашей учетной записи, убедитесь, что Face ID включен во время использования приложения.",
+  "@toKeepYourAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "authFailedTitle": "Аутентификация\nне удалось",
+  "@authFailedTitle": {
+    "description": "Authentication\nfailed"
+  },
+  "authFailedDesc": "При попытке аутентификации возникла проблема.",
+  "@authFailedDesc": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "faceIdNotEnabledTitle": "Идентификатор лица \nНе включено",
+  "@faceIdNotEnabledTitle": {
+    "description": "Face ID \nNot Enabled"
+  },
+  "faceIdNotEnabledDesc": "Пожалуйста, включите Face ID в настройках, чтобы продолжить.",
+  "@faceIdNotEnabledDesc": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSetting": "Зайдите в настройки",
+  "@goToSetting": {
+    "description": "Go to Settings"
+  },
+  "setupAuthTitle": "Настройка аутентификации",
+  "@setupAuthTitle": {
+    "description": "Set up authentication"
+  },
+  "setupAuthDesc": "В целях безопасности вашей учетной записи для экспорта сид-фраза требуется аутентификация.",
+  "@setupAuthDesc": {
+    "description": "For your account’s security, exporting the seed phrase requires authentication."
+  },
+  "goSetup": "Перейти к настройке",
+  "@goSetup": {
+    "description": "Go set up"
+  },
+  "cancelRequestTitle": "Отменить запрос",
+  "@cancelRequestTitle": {
+    "description": "Cancel request"
+  },
+  "cancelRequestDesc": "Вы уверены, что хотите отменить? Это возобновит период ожидания, если вы захотите настроить новый Passkey.",
+  "@cancelRequestDesc": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "sureToExitTitle": "Вы уверены, что хотите выйти?",
+  "@sureToExitTitle": {
+    "description": "Are you sure you want to exit?"
+  },
+  "sureToExitDesc": "Новый запрос потребует 48-часового периода ожидания.",
+  "@sureToExitDesc": {
+    "description": "New request will require a 48-hour waiting period."
+  },
+  "hour48SecurityTitle": "48-часовая проверка безопасности",
+  "@hour48SecurityTitle": {
+    "description": "48-hour security verification"
+  },
+  "hour48SecurityDesc": "Для привязки требуется 48 часов проверки безопасности для предотвращения рисков. Если вы этого не сделали, немедленно измените пароль электронной почты OTP.",
+  "@hour48SecurityDesc": {
+    "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
+  },
+  "whereDidISetItUpTitle": "Где я это установил?",
+  "@whereDidISetItUpTitle": {
+    "description": "Where did I set it up?"
+  },
+  "whereDidISetItUpDesc": "Вы можете найти аутентификатор, если ранее настроили его в продуктах на базе Tomo, включая WLFI Wallet, Tomo Wallet или MyDoge Wallet.",
+  "@whereDidISetItUpDesc": {
+    "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
+  },
+  "authMethod": "Метод аутентификации",
+  "@authMethod": {
+    "description": "Authentication Method"
+  },
+  "authMethodDesc": "Для входа в учетную запись и экспорта сид-фраза требуется аутентификатор, что добавляет дополнительный уровень защиты.",
+  "@authMethodDesc": {
+    "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
+  },
+  "passkey": "Passkey",
+  "@passkey": {
+    "description": "Passkey"
+  },
+  "authenticator": "Аутентификатор",
+  "@authenticator": {
+    "description": "Authenticator"
+  },
+  "setUp": "Настраивать",
+  "@setUp": {
+    "description": "Set up"
+  },
+  "optEmail": "OTP Электронная почта",
+  "@optEmail": {
+    "description": "OTP Email"
+  },
+  "linked": "Связано",
+  "@linked": {
+    "description": "Linked"
+  },
+  "chooseVerification": "Выберите подтверждение",
+  "@chooseVerification": {
+    "description": "Choose verification"
+  },
+  "linkAuthenticatorApp": "Приложение для проверки подлинности ссылок",
+  "@linkAuthenticatorApp": {
+    "description": "Link authenticator app"
+  },
+  "stepNum": "Шаг {stepNumber}:",
+  "@stepNum": {
+    "description": "Step {stepNumber}: "
+  },
+  "step1Desc": "Загрузите приложение для аутентификации.",
+  "@step1Desc": {
+    "description": "Download an authenticator app."
+  },
+  "forExample": "Например:",
+  "@forExample": {
+    "description": "For example: "
+  },
+  "step2Desc": "Скопируйте 16-значный ключ ниже или отсканируйте QR-код.",
+  "@step2Desc": {
+    "description": "Copy the 16-digit key below or scan the QR code"
+  },
+  "verifyAuthenticator": "Подтвердить аутентификатор",
+  "@verifyAuthenticator": {
+    "description": "Verify authenticator"
+  },
+  "enterThe6Digit": "Введите 6-значный код от аутентификатора.",
+  "@enterThe6Digit": {
+    "description": "Enter the 6-digit code from the authenticator."
+  },
+  "useAlternativeVerification": "Используйте альтернативную проверку",
+  "@useAlternativeVerification": {
+    "description": "Use alternative verification"
+  },
+  "copySuccess": "Копировать успех",
+  "@copySuccess": {
+    "description": "Copy Success"
+  },
+  "addPasskey": "Добавить Passkey",
+  "@addPasskey": {
+    "description": "Add passkey"
+  },
+  "whereDidISetItUp": "Где я это установил?",
+  "@whereDidISetItUp": {
+    "description": "Where did I set it up?"
+  },
+  "requestSeedTitle": "Запросить сид-фраза",
+  "@requestSeedTitle": {
+    "description": "Request Seed Phrase"
+  },
+  "hour48": "48-часовой",
+  "@hour48": {
+    "description": "48-hour"
+  },
+  "requestSeedDesc1": "Чтобы обеспечить безопасность ваших активов, перед раскрытием вашего сид-фраза требуется 48-часовой период ожидания.",
+  "@requestSeedDesc1": {
+    "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
+  },
+  "requestSeedDesc2": "Вы сможете просмотреть свой сид-фраза после завершения обратного отсчета.",
+  "@requestSeedDesc2": {
+    "description": "You can view your seed phrase after the countdown ends."
+  },
+  "passkeyNotCompleted": "Проверка Passkey не завершена.",
+  "@passkeyNotCompleted": {
+    "description": "Passkey verification was not completed."
+  },
+  "passkeyNotCompletedDesc": "Вы можете переключиться на другие методы проверки или повторить попытку.",
+  "@passkeyNotCompletedDesc": {
+    "description": "You can switch to other verification methods, or try again."
+  },
+  "viewSeedPhraseDesc1": "Ни ваши ключи, ни ваша криптовалюта.",
+  "@viewSeedPhraseDesc1": {
+    "description": "Not your keys, not your crypto."
+  },
+  "viewSeedPhraseDesc2": "Действуйте только в безопасной и конфиденциальной среде.",
+  "@viewSeedPhraseDesc2": {
+    "description": "Proceed only in a secure and private environment."
+  },
+  "viewSeedPhraseDesc3": "Не делитесь этим ни с кем и никогда.",
+  "@viewSeedPhraseDesc3": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "doNotShare": "Не делитесь этим ни с кем и никогда.",
+  "@doNotShare": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "alreadyBackedUp": "Резервная копия уже сохранена",
+  "@alreadyBackedUp": {
+    "description": "Already backed up"
+  },
+  "clickToReveal": "Нажмите, чтобы открыть",
+  "@clickToReveal": {
+    "description": "Click to reveal"
+  },
+  "home": "Дом",
+  "@home": {
+    "description": "Home"
+  },
+  "wallet": "Кошелек",
+  "@wallet": {
+    "description": "Wallet"
+  },
+  "market": "Рынок",
+  "@market": {
+    "description": "Market"
+  },
+  "activity": "Активность",
+  "@activity": {
+    "description": "Activity"
+  },
+  "tokens": "Токены",
+  "@tokens": {
+    "description": "Tokens"
+  },
+  "collectibles": "Коллекционирование",
+  "@collectibles": {
+    "description": "Collectibles"
+  },
+  "dogeOSTestnetTitle": "Фаусет тестнета DogeOS",
+  "@dogeOSTestnetTitle": {
+    "description": "DogeOS Testnet Faucet"
+  },
+  "dogeOSTestnetDesc": "Запросите токены тестовой сети, чтобы поэкспериментировать с приложением в безопасной среде — никаких реальных средств не требуется.",
+  "@dogeOSTestnetDesc": {
+    "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
+  },
+  "requestTokens": "Запросить токены",
+  "@requestTokens": {
+    "description": "Request tokens"
+  },
+  "noNFTsfound": "NFTs не найден",
+  "@noNFTsfound": {
+    "description": "No NFTs found"
+  },
+  "passkeySetupNotCompleted": "Настройка Passkey не завершена.",
+  "@passkeySetupNotCompleted": {
+    "description": "Passkey setup was not completed. "
+  },
+  "sureToLogOut": "Вы уверены, что хотите выйти?",
+  "@sureToLogOut": {
+    "description": "Are you sure you want to log out?"
+  },
+  "communityPicks": "Выбор сообщества",
+  "@communityPicks": {
+    "description": "Community Picks"
+  },
+  "suggestedForYou": "Предлагается для вас",
+  "@suggestedForYou": {
+    "description": "Suggested For You"
+  },
+  "earn": "Зарабатывать",
+  "@earn": {
+    "description": "Earn"
+  },
+  "fullCatalogue": "Полный каталог",
+  "@fullCatalogue": {
+    "description": "Full Catalogue"
+  },
+  "setupWallet": "Настройка кошелька",
+  "@setupWallet": {
+    "description": "Setup wallet"
+  },
+  "setupWalletDesc": "Создайте свой социальный кошелек с помощью входа через социальную сеть — разблокируйте всю экосистему DogeOS, пока ваш классический кошелек останется в безопасности.",
+  "@setupWalletDesc": {
+    "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
+  },
+  "claimTestnetTitle": "Получите токены тестовой сети",
+  "@claimTestnetTitle": {
+    "description": "Claim Testnet Tokens"
+  },
+  "claimTestnetDesc": "Никаких реальных средств не задействовано, это\nПрактикуйте средства только в пробных целях.",
+  "@claimTestnetDesc": {
+    "description": "No real funds are involved, these are\npractice funds for trial purposes only."
+  },
+  "claimableEvery24Hours": "Доступно каждые 24 часа!",
+  "@claimableEvery24Hours": {
+    "description": "Claimable every 24 hours!"
+  },
+  "youGet": "Вы получите:",
+  "@youGet": {
+    "description": "You’ll get:"
+  },
+  "claimTokens": "Получить токены",
+  "@claimTokens": {
+    "description": "Claim tokens"
+  },
+  "open": "Открыть",
+  "@open": {
+    "description": "Open"
+  },
+  "biometricsPin": "Биометрия/PIN",
+  "@biometricsPin": {
+    "description": "Biometrics/PIN"
+  },
+  "advancedSettings": "Расширенные настройки",
+  "@advancedSettings": {
+    "description": "Advanced Settings"
+  },
+  "chooseLanguage": "Выберите язык",
+  "@chooseLanguage": {
+    "description": "Choose language"
+  },
+  "englishLanguage": "Английский",
+  "@englishLanguage": {
+    "description": "English"
+  },
+  "spanishLanguage": "испанский",
+  "@spanishLanguage": {
+    "description": "Español"
+  },
+  "developerMode": "Режим разработчика",
+  "@developerMode": {
+    "description": "Developer Mode"
+  },
+  "developerModeDescription": "Разблокирует открытый браузер для тестирования",
+  "@developerModeDescription": {
+    "description": "Unlocks open browser for testing"
+  },
+  "label24hChange": "24-часовая смена",
+  "@label24hChange": {
+    "description": "24H Change"
+  },
+  "label24hTurnover": "24-часовой оборот",
+  "@label24hTurnover": {
+    "description": "24H Turnover"
+  },
+  "aNewWalletWithADifferentSeedPhrase": "Новый кошелек с другим сид-фраза.",
+  "@aNewWalletWithADifferentSeedPhrase": {
+    "description": "A new wallet with a different seed phrase"
+  },
+  "aPersonalizedAlphaFeedComingSoon": "Персонализированный альфа-канал (скоро)",
+  "@aPersonalizedAlphaFeedComingSoon": {
+    "description": "A personalized Alpha feed (coming soon)"
+  },
+  "accessAWorldOfAppsQuestsAndGames": "Получите доступ к миру приложений, квестов и игр",
+  "@accessAWorldOfAppsQuestsAndGames": {
+    "description": "Access a world of apps, quests and games"
+  },
+  "account": "Счет",
+  "@account": {
+    "description": "Account"
+  },
+  "allCategories": "Все категории",
+  "@allCategories": {
+    "description": "All Categories"
+  },
+  "allowContactAccess": "Разрешить доступ к контактам",
+  "@allowContactAccess": {
+    "description": "Allow contact access"
+  },
+  "andWhenDoIGetMyDOGEBack": "И когда я получу обратно свой DOGE?",
+  "@andWhenDoIGetMyDOGEBack": {
+    "description": "And when do I get my DOGE back?"
+  },
+  "anyWalletWorks": "Любой кошелек работает?",
+  "@anyWalletWorks": {
+    "description": "Any wallet works?"
+  },
+  "assets": "Ресурсы",
+  "@assets": {
+    "description": "Assets"
+  },
+  "atLeast6Characters": "Минимум 6 символов",
+  "@atLeast6Characters": {
+    "description": "At least 6 characters"
+  },
+  "atLeast6Password": "Минимум 6 паролей",
+  "@atLeast6Password": {
+    "description": "At least 6 password"
+  },
+  "autoFollowKOLsYouAlreadyFollowComingSoon": "Автоматическая подписка на KOLs, на которую вы уже подписаны (скоро)",
+  "@autoFollowKOLsYouAlreadyFollowComingSoon": {
+    "description": "Auto-follow KOLs you already follow (coming soon)"
+  },
+  "backUpNow": "Резервное копирование сейчас",
+  "@backUpNow": {
+    "description": "Back up now"
+  },
+  "backUpWallet": "Резервное копирование кошелька",
+  "@backUpWallet": {
+    "description": "Back up wallet"
+  },
+  "backupNow": "Резервное копирование сейчас",
+  "@backupNow": {
+    "description": "Backup now"
+  },
+  "biometrics": "Биометрия",
+  "@biometrics": {
+    "description": "Biometrics"
+  },
+  "bridgeRoute": "Маршрут бриджа",
+  "@bridgeRoute": {
+    "description": "Bridge Route"
+  },
+  "btcAddressType": "Тип адреса BTC",
+  "@btcAddressType": {
+    "description": "BTC address type"
+  },
+  "buy2": "КУПИТЬ",
+  "@buy2": {
+    "description": "BUY"
+  },
+  "changePIN": "Изменить PIN",
+  "@changePIN": {
+    "description": "Change PIN"
+  },
+  "checkYourPIN": "Проверьте свой PIN",
+  "@checkYourPIN": {
+    "description": "Check your PIN"
+  },
+  "classicWallet": "Классический кошелек",
+  "@classicWallet": {
+    "description": "Classic Wallet"
+  },
+  "clickToView": "Нажмите, чтобы просмотреть",
+  "@clickToView": {
+    "description": "Click to view"
+  },
+  "cloudBackup": "Облачное резервное копирование",
+  "@cloudBackup": {
+    "description": "Cloud backup"
+  },
+  "collections": "Коллекции",
+  "@collections": {
+    "description": "Collections"
+  },
+  "connectXForMyDogeTip": "Подключите X для MyDogeTip",
+  "@connectXForMyDogeTip": {
+    "description": "Connect  X for MyDogeTip"
+  },
+  "contact": "Контакт",
+  "@contact": {
+    "description": "Contact"
+  },
+  "continueWith": "Продолжить с",
+  "@continueWith": {
+    "description": "Continue with"
+  },
+  "continueWithApple": "Продолжить с Apple",
+  "@continueWithApple": {
+    "description": "Continue with Apple"
+  },
+  "continueWithX": "Продолжить с помощью X",
+  "@continueWithX": {
+    "description": "Continue with X"
+  },
+  "contractCalled": "Контракт вызван",
+  "@contractCalled": {
+    "description": "Contract Called"
+  },
+  "createWallet": "Создать кошелек",
+  "@createWallet": {
+    "description": "Create wallet"
+  },
+  "creatingWallet": "Создание кошелька...",
+  "@creatingWallet": {
+    "description": "Creating wallet..."
+  },
+  "dapp2": "ЗЗТЕРМ16ЗЗ",
+  "@dapp2": {
+    "description": "DApp"
+  },
+  "dapps": "ЗЗТЕРМ12ЗЗ",
+  "@dapps": {
+    "description": "dApps"
+  },
+  "date": "Дата",
+  "@date": {
+    "description": "Date"
+  },
+  "date2": "ДАТА",
+  "@date2": {
+    "description": "DATE"
+  },
+  "deleteWallet2": "Удалить кошелек",
+  "@deleteWallet2": {
+    "description": "Delete Wallet"
+  },
+  "deleteWallet3": "Удалить кошелек",
+  "@deleteWallet3": {
+    "description": "Delete wallet"
+  },
+  "deliveryAddress": "Адрес доставки",
+  "@deliveryAddress": {
+    "description": "Delivery address"
+  },
+  "depositTOKEN": "ДЕПОЗИТНЫЙ ТОКЕН",
+  "@depositTOKEN": {
+    "description": "DEPOSIT TOKEN"
+  },
+  "disconnectX": "Отключить Х",
+  "@disconnectX": {
+    "description": "Disconnect X"
+  },
+  "disconnectXForMyDogeTip": "Отключить X для MyDogeTip",
+  "@disconnectXForMyDogeTip": {
+    "description": "Disconnect X for MyDogeTip"
+  },
+  "doYouHaveDoge": "У тебя есть Дож?",
+  "@doYouHaveDoge": {
+    "description": "Do you have Doge?"
+  },
+  "dogeosValidators": "DogeOS Валидаторы",
+  "@dogeosValidators": {
+    "description": "DogeOS Validators"
+  },
+  "earnAPY": "ЗАРАБОТАЙТЕ APY",
+  "@earnAPY": {
+    "description": "EARN APY"
+  },
+  "easyTHEREBUDDY": "ПОЛЕГКО, ДРУГ",
+  "@easyTHEREBUDDY": {
+    "description": "EASY THERE,BUDDY"
+  },
+  "editProfile2": "Редактировать профиль",
+  "@editProfile2": {
+    "description": "Edit Profile"
+  },
+  "enterCurrentPassword": "Введите текущий пароль",
+  "@enterCurrentPassword": {
+    "description": "Enter current password"
+  },
+  "estGas": "Стандартное восточное время. Газ",
+  "@estGas": {
+    "description": "Est. Gas"
+  },
+  "estTime": "Стандартное восточное время. Время",
+  "@estTime": {
+    "description": "Est. Time"
+  },
+  "estNetworkFee": "Расчетная плата за сеть",
+  "@estNetworkFee": {
+    "description": "Est.network fee"
+  },
+  "failedToLoad": "Не удалось загрузить",
+  "@failedToLoad": {
+    "description": "Failed to load"
+  },
+  "faq": "Часто задаваемые вопросы",
+  "@faq": {
+    "description": "FAQ"
+  },
+  "fee": "Платеж",
+  "@fee": {
+    "description": "Fee"
+  },
+  "filterRiskTokens": "Фильтровать токены риска",
+  "@filterRiskTokens": {
+    "description": "Filter risk tokens"
+  },
+  "followBack": "Следовать обратно",
+  "@followBack": {
+    "description": "Follow back"
+  },
+  "fromASingleChainToMultiChainWallet": "От одной цепочки к мультицепочному кошельку",
+  "@fromASingleChainToMultiChainWallet": {
+    "description": "From a single chain to multi-chain wallet"
+  },
+  "fromNetwork": "Из сети",
+  "@fromNetwork": {
+    "description": "From network"
+  },
+  "fromTheGrandHeist": "из «Большого ограбления».",
+  "@fromTheGrandHeist": {
+    "description": "from The Grand Heist."
+  },
+  "fullySecureAndSelfCustodialLikeBefore": "Полностью безопасный и самостоятельный, как и раньше.",
+  "@fullySecureAndSelfCustodialLikeBefore": {
+    "description": "Fully secure and self custodial, like before."
+  },
+  "fundYourWalletToGetStarted": "Пополните свой кошелек, чтобы начать",
+  "@fundYourWalletToGetStarted": {
+    "description": "Fund your wallet to get started"
+  },
+  "gasFee2": "Комиссия за газ",
+  "@gasFee2": {
+    "description": "Gas fee"
+  },
+  "get": "Получать",
+  "@get": {
+    "description": "Get"
+  },
+  "goBACK": "ВОЗВРАЩАТЬСЯ",
+  "@goBACK": {
+    "description": "GO BACK"
+  },
+  "howDoIParticipate": "Как мне принять участие?",
+  "@howDoIParticipate": {
+    "description": "How do I participate?"
+  },
+  "how": "Как?",
+  "@how": {
+    "description": "How?"
+  },
+  "justLeavingThisHereMydogeCom": "Просто оставлю это здесь:\\n\\nmydoge.com",
+  "@justLeavingThisHereMydogeCom": {
+    "description": "Just leaving this here:\\n\\nmydoge.com"
+  },
+  "later": "Позже",
+  "@later": {
+    "description": "Later"
+  },
+  "manageToken": "Управление токеном",
+  "@manageToken": {
+    "description": "Manage token"
+  },
+  "me": "Мне?",
+  "@me": {
+    "description": "Me?"
+  },
+  "migratingAssets": "Перенос активов...",
+  "@migratingAssets": {
+    "description": "Migrating Assets..."
+  },
+  "migratingFromClassicToSocial": "Переход от классической версии к социальной сети",
+  "@migratingFromClassicToSocial": {
+    "description": "Migrating from Classic to Social"
+  },
+  "muchExcitement": "Большое волнение",
+  "@muchExcitement": {
+    "description": "Much excitement"
+  },
+  "network2": "СЕТЬ",
+  "@network2": {
+    "description": "NETWORK"
+  },
+  "networkFee": "Сетевая плата",
+  "@networkFee": {
+    "description": "Network Fee"
+  },
+  "networkFee2": "плата за сеть",
+  "@networkFee2": {
+    "description": "network fee"
+  },
+  "next": "Следующий",
+  "@next": {
+    "description": "Next"
+  },
+  "noInscriptions": "Нет надписей",
+  "@noInscriptions": {
+    "description": "No inscriptions"
+  },
+  "noMessagesYet": "Сообщений пока нет",
+  "@noMessagesYet": {
+    "description": "No messages yet"
+  },
+  "noResults": "Нет результатов",
+  "@noResults": {
+    "description": "No results"
+  },
+  "notifications": "Уведомления",
+  "@notifications": {
+    "description": "Notifications"
+  },
+  "paymentMethod": "Способ оплаты",
+  "@paymentMethod": {
+    "description": "Payment method"
+  },
+  "pin": "ЗЗТЕРМ25ЗЗ",
+  "@pin": {
+    "description": "PIN"
+  },
+  "prev": "Предыдущий",
+  "@prev": {
+    "description": "Prev"
+  },
+  "reEnterNewPassword": "Повторно введите новый пароль",
+  "@reEnterNewPassword": {
+    "description": "Re-enter new password"
+  },
+  "readOurFAQs": "Прочтите наши часто задаваемые вопросы",
+  "@readOurFAQs": {
+    "description": "Read our FAQ’s"
+  },
+  "refund": "Возвращать деньги",
+  "@refund": {
+    "description": "Refund"
+  },
+  "renameWallet2": "Переименовать кошелек",
+  "@renameWallet2": {
+    "description": "Rename wallet"
+  },
+  "reset": "ПЕРЕЗАГРУЗИТЬ",
+  "@reset": {
+    "description": "RESET"
+  },
+  "resetWallet": "Сбросить кошелек",
+  "@resetWallet": {
+    "description": "Reset wallet"
+  },
+  "searchCrypto": "Поиск криптовалюты",
+  "@searchCrypto": {
+    "description": "Search crypto"
+  },
+  "searchToken": "Поиск токена",
+  "@searchToken": {
+    "description": "Search token"
+  },
+  "searchTokenName": "Поиск по имени токена",
+  "@searchTokenName": {
+    "description": "Search token name"
+  },
+  "seedPhraseBackup": "Резервная копия сид-фразы",
+  "@seedPhraseBackup": {
+    "description": "Seed phrase backup"
+  },
+  "selectAll": "Выбрать все",
+  "@selectAll": {
+    "description": "Select All"
+  },
+  "selectNetwork2": "Выберите сеть",
+  "@selectNetwork2": {
+    "description": "Select Network"
+  },
+  "sendAndReceiveTipsSendAndReceiveTips": "Отправлять и получать советыОтправлять и получать советы",
+  "@sendAndReceiveTipsSendAndReceiveTips": {
+    "description": "Send & Receive TipsSend and receive tips"
+  },
+  "serviceUNAVAILABLE": "СЕРВИС НЕДОСТУПЕН",
+  "@serviceUNAVAILABLE": {
+    "description": "SERVICE UNAVAILABLE"
+  },
+  "setANewPIN": "Установите новый PIN",
+  "@setANewPIN": {
+    "description": "Set a New PIN"
+  },
+  "signInWithEmailOrASocialLogin": "Войдите, используя электронную почту или логин социальной сети.",
+  "@signInWithEmailOrASocialLogin": {
+    "description": "Sign in with email or a social login"
+  },
+  "signInWithGoogle": "Войти через Google",
+  "@signInWithGoogle": {
+    "description": "Sign in with Google"
+  },
+  "signatureFAILED": "ПОДПИСЬ НЕ УДАЛЕНА",
+  "@signatureFAILED": {
+    "description": "SIGNATURE FAILED"
+  },
+  "sites": "Сайты",
+  "@sites": {
+    "description": "Sites"
+  },
+  "skipThisStep": "Пропустить этот шаг",
+  "@skipThisStep": {
+    "description": "Skip this Step"
+  },
+  "socialLoginAndRecovery": "Социальный вход и восстановление",
+  "@socialLoginAndRecovery": {
+    "description": "Social login and recovery"
+  },
+  "spender": "Спендер",
+  "@spender": {
+    "description": "Spender"
+  },
+  "status": "Статус",
+  "@status": {
+    "description": "Status"
+  },
+  "successItsDone": "Успех, дело сделано",
+  "@successItsDone": {
+    "description": "Success it’s done"
+  },
+  "swapOrder": "Ордер своп",
+  "@swapOrder": {
+    "description": "Swap order"
+  },
+  "swipeTODEPOSIT": "ПРОВЕЛИТЕ, ЧТОБЫ ПОВЕСТИ НА ДЕПОЗИТ",
+  "@swipeTODEPOSIT": {
+    "description": "SWIPE TO DEPOSIT"
+  },
+  "switchWallet2": "Сменить кошелек",
+  "@switchWallet2": {
+    "description": "Switch Wallet"
+  },
+  "termsOfUse2": "Условия эксплуатации.",
+  "@termsOfUse2": {
+    "description": "Terms of Use."
+  },
+  "thenWhatAreYouWaitingFor": "Тогда чего же ты ждешь?",
+  "@thenWhatAreYouWaitingFor": {
+    "description": "Then what are you waiting for?"
+  },
+  "toNetwork": "В сеть",
+  "@toNetwork": {
+    "description": "To network"
+  },
+  "toTheMoon": "На луну",
+  "@toTheMoon": {
+    "description": "To the moon"
+  },
+  "transaction": "Сделка",
+  "@transaction": {
+    "description": "Transaction"
+  },
+  "transaction2": "сделка",
+  "@transaction2": {
+    "description": "transaction"
+  },
+  "transaction1": "Транзакция 1",
+  "@transaction1": {
+    "description": "Transaction 1"
+  },
+  "transaction22": "Транзакция 2",
+  "@transaction22": {
+    "description": "Transaction 2"
+  },
+  "transactionFAILED": "ТРАНЗАКЦИЯ НЕ удалась",
+  "@transactionFAILED": {
+    "description": "TRANSACTION FAILED"
+  },
+  "transactionTIMEDOUT": "ТРАНЗАКЦИЯ ИСТЕКЛА",
+  "@transactionTIMEDOUT": {
+    "description": "TRANSACTION TIMED OUT"
+  },
+  "tvl": "ЗЗТЕРМ27ЗЗ",
+  "@tvl": {
+    "description": "TVL"
+  },
+  "untitledDapp": "Без названия Dapp",
+  "@untitledDapp": {
+    "description": "Untitled Dapp"
+  },
+  "upgradeToASocialWallet": "Перейдите на социальный кошелек",
+  "@upgradeToASocialWallet": {
+    "description": "Upgrade to a Social Wallet"
+  },
+  "useEmailInstead": "Вместо этого используйте электронную почту",
+  "@useEmailInstead": {
+    "description": "Use Email instead"
+  },
+  "useMAX": "ИСПОЛЬЗУЙТЕ МАКС.",
+  "@useMAX": {
+    "description": "USE MAX"
+  },
+  "username2": "Имя пользователя",
+  "@username2": {
+    "description": "Username"
+  },
+  "vaultAddress": "Адрес хранилища",
+  "@vaultAddress": {
+    "description": "Vault Address"
+  },
+  "verifyYourPIN2": "Подтвердите свой PIN",
+  "@verifyYourPIN2": {
+    "description": "Verify your PIN"
+  },
+  "walletUsed": "Кошелек использован",
+  "@walletUsed": {
+    "description": "Wallet used"
+  },
+  "welcomeToYourSocialWallet": "Добро пожаловать в ваш социальный кошелек",
+  "@welcomeToYourSocialWallet": {
+    "description": "Welcome to your Social Wallet"
+  },
+  "wellWeCalledIt69DaysForAReason": "Ну, мы не просто так назвали его 69 днями....",
+  "@wellWeCalledIt69DaysForAReason": {
+    "description": "Well, we called it 69 days for a reason...."
+  },
+  "whatIsADogecoinAddressHowDoIGetOne": "Что такое адрес Dogecoin? Как мне его получить?",
+  "@whatIsADogecoinAddressHowDoIGetOne": {
+    "description": "What is a Dogecoin address? How do I get one?"
+  },
+  "whatIsThisAbout": "О чем это?",
+  "@whatIsThisAbout": {
+    "description": "What is this about?"
+  },
+  "whatsNext": "что дальше?",
+  "@whatsNext": {
+    "description": "what's next?"
+  },
+  "whoCanParticipate": "Кто может участвовать?",
+  "@whoCanParticipate": {
+    "description": "Who can participate?"
+  },
+  "woof": "Гав.",
+  "@woof": {
+    "description": "Woof."
+  },
+  "yesYou": "Да, ты.",
+  "@yesYou": {
+    "description": "Yes, you."
+  },
+  "yes2": "Да...",
+  "@yes2": {
+    "description": "Yes..."
+  },
+  "youAreAllSetHangOutWithYourMyDogeNow": "Все готово!\\nОбщайтесь со своим My Doge прямо сейчас.",
+  "@youAreAllSetHangOutWithYourMyDogeNow": {
+    "description": "You are all set!\\nHang out with your My Doge now."
+  },
+  "youSure": "Вы уверены?",
+  "@youSure": {
+    "description": "You sure?"
+  },
+  "you": "Ты.",
+  "@you": {
+    "description": "You."
+  },
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваши средства будут заблокированы до запуска основной сети (цель: ~69 дней, может варьироваться.\\n\\n",
+  "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+  },
+  "yourWalletIsReady": "Ваш кошелек готов",
+  "@yourWalletIsReady": {
+    "description": "Your wallet is ready"
+  }
+}

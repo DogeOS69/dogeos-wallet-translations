@@ -9,14 +9,31 @@ This repository contains Application Resource Bundle (ARB) files for internation
 ## Supported Languages
 
 - **English (US)** - `intl_en_US.arb` (Base language)
+- **Russian** - `intl_ru_RU.arb`
+- **Korean** - `intl_ko_KR.arb`
 - **Chinese (Simplified)** - `intl_zh_CN.arb`
+- **Spanish** - `intl_es_ES.arb`
+- **Vietnamese** - `intl_vi_VN.arb`
+- **Ukrainian** - `intl_uk_UA.arb`
+- **Portuguese** - `intl_pt_PT.arb`
+
+Legacy draft files for French and Japanese are also present in this repository,
+but they are not currently part of the app's supported locale set.
 
 ## File Structure
 
 ```
 dogeos-wallet-translations/
 ├── intl_en_US.arb          # English (US) translations - Base language
+├── intl_ru_RU.arb          # Russian translations
+├── intl_ko_KR.arb          # Korean translations
 ├── intl_zh_CN.arb          # Chinese (Simplified) translations
+├── intl_es_ES.arb          # Spanish translations
+├── intl_vi_VN.arb          # Vietnamese translations
+├── intl_uk_UA.arb          # Ukrainian translations
+├── intl_pt_PT.arb          # Portuguese translations
+├── intl_fr_FR.arb          # French draft translations
+├── intl_ja_JP.arb          # Japanese draft translations
 └── README.md               # This file
 ```
 

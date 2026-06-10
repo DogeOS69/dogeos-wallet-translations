@@ -1,0 +1,3351 @@
+{
+  "@@locale": "uk_UA",
+  "tabMarket": "Ринок",
+  "@tabMarket": {
+    "description": "Market"
+  },
+  "tabHome": "додому",
+  "@tabHome": {
+    "description": "Home"
+  },
+  "tabDiscover": "Відкрийте для себе",
+  "@tabDiscover": {
+    "description": "Discover"
+  },
+  "tabAlpha": "Альфа",
+  "@tabAlpha": {
+    "description": "Alpha"
+  },
+  "tabEarn": "заробити",
+  "@tabEarn": {
+    "description": "Earn"
+  },
+  "tabTrade": "Торгівля",
+  "@tabTrade": {
+    "description": "Trade"
+  },
+  "tabChat": "Чат",
+  "@tabChat": {
+    "description": "Chat"
+  },
+  "tabWallet": "Гаманець",
+  "@tabWallet": {
+    "description": "Wallet"
+  },
+  "searchBarDesc": "Пошук імені або адреси",
+  "@searchBarDesc": {
+    "description": "Search name or address"
+  },
+  "totalBalance": "Загальний баланс",
+  "@totalBalance": {
+    "description": "Total balance"
+  },
+  "favorite": "улюблений",
+  "@favorite": {
+    "description": "Favorite"
+  },
+  "trending": "В тренді",
+  "@trending": {
+    "description": "Trending"
+  },
+  "allAssets": "Усі активи",
+  "@allAssets": {
+    "description": "All Assets"
+  },
+  "enterYourEmail": "Введіть адресу електронної пошти",
+  "@enterYourEmail": {
+    "description": "Enter your email"
+  },
+  "email": "Електронна пошта",
+  "@email": {
+    "description": "Email"
+  },
+  "password": "Пароль",
+  "@password": {
+    "description": "Password"
+  },
+  "forgetThePassword": "Забули пароль?",
+  "@forgetThePassword": {
+    "description": "Forget the password？"
+  },
+  "continueBtn": "Продовжити",
+  "@continueBtn": {
+    "description": "Continue"
+  },
+  "setPassword": "Встановити пароль",
+  "@setPassword": {
+    "description": "Set password"
+  },
+  "setPasswordDesc": "Встановіть пароль. Ви також зможете ввійти безпосередньо через електронну пошту в майбутньому.",
+  "@setPasswordDesc": {
+    "description": "Set your password. You can also log in directly through email in the future.  "
+  },
+  "emailCode": "Код підтвердження електронної пошти",
+  "@emailCode": {
+    "description": "Email verification code"
+  },
+  "emailCodeDesc": "Введіть код підтвердження",
+  "@emailCodeDesc": {
+    "description": "Enter your verification code"
+  },
+  "resend": "Надіслати повторно",
+  "@resend": {
+    "description": "Resend"
+  },
+  "bindEmail": "Прив’язати електронну пошту",
+  "@bindEmail": {
+    "description": "Bind email"
+  },
+  "bindEmailDesc": "Встановіть свій пароль для lucasscott3@email.com. Тож у майбутньому ви також зможете увійти безпосередньо через електронну пошту.",
+  "@bindEmailDesc": {
+    "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
+  },
+  "setYourProfile": "Налаштуйте свій профіль",
+  "@setYourProfile": {
+    "description": "Set your profile"
+  },
+  "setYourProfileDesc1": "Виберіть ім'я користувача облікового запису. Він може містити до 30 символів (лише букви та цифри). Ви можете змінити це пізніше, якщо хочете.",
+  "@setYourProfileDesc1": {
+    "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
+  },
+  "setYourProfileDesc2": "Пароль має складатися з 6-20 символів, які складаються з цифр, великих і малих літер, а також спеціальних символів.",
+  "@setYourProfileDesc2": {
+    "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
+  },
+  "connectX": "Підключити X",
+  "@connectX": {
+    "description": "Connect X"
+  },
+  "connectXDesc": "Пов’яжіть свій обліковий запис X, щоб запустити власний ключ і отримати максимум можливостей від MyDoge. Доступ матиме лише зображення профілю, ім’я та ваш наступний список!\n\nЗауважте, що після підключення до X зміни або скасування прив’язки неможливі для безпеки активів облікового запису.",
+  "@connectXDesc": {
+    "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
+  },
+  "connect": "Підключитися",
+  "@connect": {
+    "description": "Connect"
+  },
+  "congratulations": "Вітаю",
+  "@congratulations": {
+    "description": "Congratulations"
+  },
+  "congratulationsDesc": "Ви готові!\nПоспілкуйтеся зі своїм My Doge зараз.",
+  "@congratulationsDesc": {
+    "description": "You are all set!\nHang out with your My Doge now."
+  },
+  "enterApp": "Введіть додаток",
+  "@enterApp": {
+    "description": "Enter App"
+  },
+  "socialLoginTitle2": "Купуйте, надсилайте та отримуйте Dogecoin",
+  "@socialLoginTitle2": {
+    "description": "Buy, Send & Receive Dogecoin"
+  },
+  "socialLoginDesc2": "Порада на X, забезпечте свій Doge і з легкістю керуйте власними коштами.",
+  "@socialLoginDesc2": {
+    "description": "Tip on X, secure your Doge, and manage your own funds with ease."
+  },
+  "socialLoginTitle1": "Дослідіть екосистему DogeOS",
+  "@socialLoginTitle1": {
+    "description": "Explore the DogeOS Ecosystem"
+  },
+  "socialLoginDesc1": "Розблокуйте DeFi, NFTs, ігри та багато іншого з $DOGE у всесвіті DogeOS.",
+  "@socialLoginDesc1": {
+    "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
+  },
+  "socialLoginTitle3": "Багатоланцюгова торгівля",
+  "@socialLoginTitle3": {
+    "description": "Multichain Trading"
+  },
+  "socialLoginDesc3": "Безпроблемно торгуйте між основними блокчейнами для справжнього мультиланцюжкового досвіду.",
+  "@socialLoginDesc3": {
+    "description": "Trade seamlessly across major blockchains for a true multichain experience."
+  },
+  "continueWithEmail": "Продовжити з електронною поштою",
+  "@continueWithEmail": {
+    "description": "Continue with Email"
+  },
+  "or": "Або",
+  "@or": {
+    "description": "Or"
+  },
+  "resetPwd": "Скинути пароль",
+  "@resetPwd": {
+    "description": "Reset Password"
+  },
+  "resetPwdDesc": "Ми хочемо переконатися, що це справді ти. Введіть свою електронну адресу, і ми надішлемо вам код підтвердження.",
+  "@resetPwdDesc": {
+    "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
+  },
+  "send": "Надіслати",
+  "@send": {
+    "description": "Send"
+  },
+  "deposit": "депозит",
+  "@deposit": {
+    "description": "Deposit"
+  },
+  "bridge": "Міст",
+  "@bridge": {
+    "description": "Bridge"
+  },
+  "swap": "Обмін",
+  "@swap": {
+    "description": "Swap"
+  },
+  "trade": "Торгівля",
+  "@trade": {
+    "description": "Trade"
+  },
+  "buy": "купити",
+  "@buy": {
+    "description": "Buy"
+  },
+  "sell": "Продати",
+  "@sell": {
+    "description": "Sell"
+  },
+  "cryptoTab": "Крипто",
+  "@cryptoTab": {
+    "description": "Crypto"
+  },
+  "keyTab": "ключ",
+  "@keyTab": {
+    "description": "Key"
+  },
+  "manageWallet": "Керуйте гаманцем",
+  "@manageWallet": {
+    "description": "Manage wallet"
+  },
+  "createNewWallet": "Створити новий гаманець",
+  "@createNewWallet": {
+    "description": "Create New wallet"
+  },
+  "importWallet": "Імпортний гаманець",
+  "@importWallet": {
+    "description": "Import wallet"
+  },
+  "chooseHowToSend": "Виберіть спосіб відправлення",
+  "@chooseHowToSend": {
+    "description": "Choose how to send"
+  },
+  "yourFriendsTitle": "Ваші друзі",
+  "@yourFriendsTitle": {
+    "description": "Your friends"
+  },
+  "yourFriendsDesc": "Трансфер в межах Mydoge",
+  "@yourFriendsDesc": {
+    "description": "Transfer within Mydoge"
+  },
+  "externalWalletTitle": "Зовнішній гаманець",
+  "@externalWalletTitle": {
+    "description": "External Wallet"
+  },
+  "externalWalletDesc": "Надішліть Doge на криптоадресу",
+  "@externalWalletDesc": {
+    "description": "Send Doge to a crypto address"
+  },
+  "selectToken": "Виберіть маркер",
+  "@selectToken": {
+    "description": "Select token"
+  },
+  "searchAssets": "Пошук активів",
+  "@searchAssets": {
+    "description": "Search assets"
+  },
+  "receivingAddress": "Адреса отримання",
+  "@receivingAddress": {
+    "description": "Receiving address"
+  },
+  "assetAddress": "Адреса {text}",
+  "@assetAddress": {
+    "description": "{text} address"
+  },
+  "paste": "Вставити",
+  "@paste": {
+    "description": "Paste"
+  },
+  "transactions": "транзакції",
+  "@transactions": {
+    "description": "Transactions"
+  },
+  "myWallet": "Мій гаманець",
+  "@myWallet": {
+    "description": "My wallet"
+  },
+  "confirm": "Підтвердити",
+  "@confirm": {
+    "description": "Confirm"
+  },
+  "selectCrypto": "Виберіть Crypto",
+  "@selectCrypto": {
+    "description": "Select Crypto"
+  },
+  "searchTokenNameOrAddress": "Ім'я або адреса токена пошуку",
+  "@searchTokenNameOrAddress": {
+    "description": "Search token name or address"
+  },
+  "network": "Мережа:",
+  "@network": {
+    "description": "Network："
+  },
+  "all": "все",
+  "@all": {
+    "description": "All"
+  },
+  "dogeChain": "Ланцюг дожів",
+  "@dogeChain": {
+    "description": "Doge Chain"
+  },
+  "mayBeLost": "Може бути втрачено",
+  "@mayBeLost": {
+    "description": "May be lost"
+  },
+  "tokenAddress": "Адреса дожа",
+  "@tokenAddress": {
+    "description": "Doge Address"
+  },
+  "scroll": "Прокрутка",
+  "@scroll": {
+    "description": "Scroll"
+  },
+  "copy": "Копія",
+  "@copy": {
+    "description": "Copy"
+  },
+  "selectToDogeFriends": "Виберіть до друзів Doge",
+  "@selectToDogeFriends": {
+    "description": "Select to Doge friends"
+  },
+  "searchFriends": "Пошук друзів",
+  "@searchFriends": {
+    "description": "Search friends"
+  },
+  "chooseWallet": "Виберіть гаманець",
+  "@chooseWallet": {
+    "description": "Choose wallet"
+  },
+  "balance": "Баланс:",
+  "@balance": {
+    "description": "Balance："
+  },
+  "max": "МАКС",
+  "@max": {
+    "description": "MAX"
+  },
+  "sendGasToFriends": "Надішліть газ друзям",
+  "@sendGasToFriends": {
+    "description": "Send gas to friends"
+  },
+  "changingTokens": "Зміна токенів",
+  "@changingTokens": {
+    "description": "Changing Tokens"
+  },
+  "buyToken": "Купити {token}",
+  "@buyToken": {
+    "description": "Buy {token}"
+  },
+  "sellToken": "Продам {token}",
+  "@sellToken": {
+    "description": "Sell {token}"
+  },
+  "socialWallet": "Соціальний гаманець",
+  "@socialWallet": {
+    "description": "Social Wallet"
+  },
+  "enjoyWalletWithSocialLogin": "Насолоджуйтесь усіма можливостями гаманця MyDoge Wallet за допомогою багатоланцюжкового гаманця Social Login, зберігаючи свій актив MyDoge Classic.",
+  "@enjoyWalletWithSocialLogin": {
+    "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
+  },
+  "skip": "Пропустити",
+  "@skip": {
+    "description": "Skip"
+  },
+  "createWith": "Створити за допомогою",
+  "@createWith": {
+    "description": "Create with"
+  },
+  "addressBook": "Адресна книга",
+  "@addressBook": {
+    "description": "Address book"
+  },
+  "noAddress": "Без адреси",
+  "@noAddress": {
+    "description": "No address"
+  },
+  "noAddressDesc": "Легко додайте гаманці до адресної книги \nдоступ, коли вам потрібно передати крипто",
+  "@noAddressDesc": {
+    "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
+  },
+  "addAddress": "Додайте адресу",
+  "@addAddress": {
+    "description": "Add address"
+  },
+  "name": "Ім'я",
+  "@name": {
+    "description": "Name"
+  },
+  "namePlaceholder": "Введіть назву до 20 символів",
+  "@namePlaceholder": {
+    "description": "Enter a name under 20 characters"
+  },
+  "address": "Адреса",
+  "@address": {
+    "description": "Address"
+  },
+  "addressPlaceholder": "Введіть адресу",
+  "@addressPlaceholder": {
+    "description": "Enter an address"
+  },
+  "deleteAddress": "Видалити адресу",
+  "@deleteAddress": {
+    "description": "Delete address"
+  },
+  "deleteAddressDesc": "Ви бажаєте видалити адресу?",
+  "@deleteAddressDesc": {
+    "description": "Do you want to delete the address?"
+  },
+  "cancel": "Скасувати",
+  "@cancel": {
+    "description": "Cancel"
+  },
+  "cancelLowercase": "скасувати",
+  "@cancelLowercase": {
+    "description": "cancel"
+  },
+  "delete": "Видалити",
+  "@delete": {
+    "description": "Delete"
+  },
+  "update": "оновлення",
+  "@update": {
+    "description": "Update"
+  },
+  "settings": "Налаштування",
+  "@settings": {
+    "description": "Settings"
+  },
+  "yourAccount": "Ваш рахунок",
+  "@yourAccount": {
+    "description": "Your account"
+  },
+  "editProfile": "Редагувати профіль",
+  "@editProfile": {
+    "description": "Edit profile"
+  },
+  "recoverPassword": "Відновити пароль",
+  "@recoverPassword": {
+    "description": "Recover password"
+  },
+  "howYouUseMyDoge": "Як ви використовуєте MyDoge",
+  "@howYouUseMyDoge": {
+    "description": "How you use MyDoge"
+  },
+  "pushNotifications": "Push-повідомлення",
+  "@pushNotifications": {
+    "description": "Push notifications"
+  },
+  "privacySettings": "Налаштування конфіденційності",
+  "@privacySettings": {
+    "description": "Privacy settings"
+  },
+  "language": "Мова",
+  "@language": {
+    "description": "Language"
+  },
+  "vol24h": "24h Vol",
+  "@vol24h": {
+    "description": "24h Vol"
+  },
+  "high24h": "24 години Високий",
+  "@high24h": {
+    "description": "24h High"
+  },
+  "low24h": "24 години низький",
+  "@low24h": {
+    "description": "24h Low"
+  },
+  "yourBalance": "Ваш баланс",
+  "@yourBalance": {
+    "description": "Your Balance"
+  },
+  "value": "Значення",
+  "@value": {
+    "description": "Value"
+  },
+  "quantity": "Кількість",
+  "@quantity": {
+    "description": "Quantity"
+  },
+  "addCash": "Додати готівку",
+  "@addCash": {
+    "description": "Add cash"
+  },
+  "room": "Кімната",
+  "@room": {
+    "description": "Room"
+  },
+  "refer": "Зверніться",
+  "@refer": {
+    "description": "Refer"
+  },
+  "receive": "Отримати",
+  "@receive": {
+    "description": "Receive"
+  },
+  "stats": "статистика",
+  "@stats": {
+    "description": "Stats"
+  },
+  "marketCap": "Ринкова капіталізація",
+  "@marketCap": {
+    "description": "Market Cap"
+  },
+  "fdv": "FDV",
+  "@fdv": {
+    "description": "FDV"
+  },
+  "liquidity": "Ліквідність",
+  "@liquidity": {
+    "description": "Liquidity"
+  },
+  "turnover24h": "Цілодобовий обіг",
+  "@turnover24h": {
+    "description": "24h Turnover"
+  },
+  "change24h": "Зміна 24 години",
+  "@change24h": {
+    "description": "24h Change"
+  },
+  "contract": "Договір",
+  "@contract": {
+    "description": "Contract"
+  },
+  "total": "Всього",
+  "@total": {
+    "description": "Total"
+  },
+  "to": "до",
+  "@to": {
+    "description": "To"
+  },
+  "toLowerCase": "до",
+  "@toLowerCase": {
+    "description": "to"
+  },
+  "from": "Від",
+  "@from": {
+    "description": "From"
+  },
+  "fromLowerCase": "від",
+  "@fromLowerCase": {
+    "description": "from"
+  },
+  "task": "завдання",
+  "@task": {
+    "description": "Task"
+  },
+  "dapp": "Dapp",
+  "@dapp": {
+    "description": "Dapp"
+  },
+  "referralRewards": "Винагороди за рекомендацію",
+  "@referralRewards": {
+    "description": "Referral Rewards"
+  },
+  "friendsInvited": "Друзі запрошені",
+  "@friendsInvited": {
+    "description": "Friends invited"
+  },
+  "youHaveEarned": "Ви заробили",
+  "@youHaveEarned": {
+    "description": "You have earned"
+  },
+  "point": "точка",
+  "@point": {
+    "description": "Point"
+  },
+  "referAFriend": "Запропонуйте другу",
+  "@referAFriend": {
+    "description": "Refer a friend"
+  },
+  "referExplain": "Заробляйте від 50% до 75% торгових комісій за кожного друга, якого ви запропонували.",
+  "@referExplain": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "claim": "Претензія",
+  "@claim": {
+    "description": "Claim"
+  },
+  "bridgeDOGEToDogeOS": "Міст $DOGE до DogeOS",
+  "@bridgeDOGEToDogeOS": {
+    "description": "Bridge $DOGE to DogeOS"
+  },
+  "followDogeOSOnX": "Слідкуйте за DogeOS на X",
+  "@followDogeOSOnX": {
+    "description": "Follow DogeOS on X"
+  },
+  "followMyDogeOnX": "Слідкуйте за MyDoge на X",
+  "@followMyDogeOnX": {
+    "description": "Follow MyDoge on X"
+  },
+  "completeOneSwapOnDogeOS": "Виконайте один своп на DogeOS",
+  "@completeOneSwapOnDogeOS": {
+    "description": "Complete one swap on DogeOS"
+  },
+  "dogeverse": "Dogeverse",
+  "@dogeverse": {
+    "description": "Dogeverse"
+  },
+  "connectToDogeverseNow": "Підключіться до Dogeverse зараз",
+  "@connectToDogeverseNow": {
+    "description": "Connect to Dogeverse now"
+  },
+  "dogeOSEcosystem": "Екосистема DogeOS",
+  "@dogeOSEcosystem": {
+    "description": "DogeOS Ecosystem"
+  },
+  "dogeSwap": "DogeSwap",
+  "@dogeSwap": {
+    "description": "DogeSwap"
+  },
+  "orbiterFinanceIsADecentralized": "Orbiter Finance є децентралізованою",
+  "@orbiterFinanceIsADecentralized": {
+    "description": "Orbiter Finance is a decentralized"
+  },
+  "bitcoinLayer2Network": "Мережа Bitcoin рівня 2",
+  "@bitcoinLayer2Network": {
+    "description": "Bitcoin layer-2 network"
+  },
+  "buildingTheSpiderChain": "Створення ланцюга Spider, перший EVM L2",
+  "@buildingTheSpiderChain": {
+    "description": "Building the Spider chain, the first EVM L2"
+  },
+  "solanaEcosystem": "Екосистема Солана",
+  "@solanaEcosystem": {
+    "description": "Solana Ecosystem"
+  },
+  "solanaFinance": "Солана Фінанси",
+  "@solanaFinance": {
+    "description": "Solana Finance"
+  },
+  "earnDesc": "Заробляйте від 50% до 75% торгових комісій за кожного друга, якого ви запропонували.",
+  "@earnDesc": {
+    "description": "Earn 50%~75% of trading fees for each friend you refer."
+  },
+  "referFriends": "Запропонуйте друзям",
+  "@referFriends": {
+    "description": "Refer friends"
+  },
+  "appearance": "Зовнішній вигляд",
+  "@appearance": {
+    "description": "Appearance"
+  },
+  "connectGoogle": "Google",
+  "@connectGoogle": {
+    "description": "Google"
+  },
+  "connectApple": "Підключіть Apple",
+  "@connectApple": {
+    "description": "Connect Apple"
+  },
+  "connectMeta": "Підключити Meta",
+  "@connectMeta": {
+    "description": "Connect Meta"
+  },
+  "connectInstagram": "Підключіть Instagram",
+  "@connectInstagram": {
+    "description": "Connect Instagram"
+  },
+  "connectKakao": "Підключіть Kakao",
+  "@connectKakao": {
+    "description": "Connect Kakao"
+  },
+  "connectLine": "Підключити лінію",
+  "@connectLine": {
+    "description": "Connect line"
+  },
+  "yourSocialLink": "Ваше соціальне посилання",
+  "@yourSocialLink": {
+    "description": "Your social link"
+  },
+  "others": "інші",
+  "@others": {
+    "description": "Others"
+  },
+  "additionalSettings": "Додаткові налаштування",
+  "@additionalSettings": {
+    "description": "Additional settings"
+  },
+  "communityGuidelines": "Правила спільноти",
+  "@communityGuidelines": {
+    "description": "Community Guidelines"
+  },
+  "terms": "Терміни",
+  "@terms": {
+    "description": "Terms"
+  },
+  "deleteAccount": "Видалити акаунт",
+  "@deleteAccount": {
+    "description": "Delete account"
+  },
+  "logOut": "Вийти",
+  "@logOut": {
+    "description": "Log out"
+  },
+  "confirmToExit": "Ви впевнені, що бажаєте вийти?",
+  "@confirmToExit": {
+    "description": "Are you sure you want to log out?"
+  },
+  "follow": "Слідуйте",
+  "@follow": {
+    "description": "Follow"
+  },
+  "warning": "УВАГА",
+  "@warning": {
+    "description": "Warning"
+  },
+  "willDeleteAccount": "Ця дія незворотна",
+  "@willDeleteAccount": {
+    "description": "This action is irreversible"
+  },
+  "willDeleteAccountDesc1": "Видалення вашого облікового запису призведе до остаточного видалення вашого MyDoge Wallet і профілю.",
+  "@willDeleteAccountDesc1": {
+    "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
+  },
+  "willDeleteAccountDesc2": "Обов’язково створіть резервну копію свого гаманця та збережіть усе важливе — цю дію неможливо скасувати.",
+  "@willDeleteAccountDesc2": {
+    "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
+  },
+  "slideToConfirm": "Проведіть пальцем, щоб видалити",
+  "@slideToConfirm": {
+    "description": "Slide to delete"
+  },
+  "dogeOsBridge": "Міст DogeOS",
+  "@dogeOsBridge": {
+    "description": "DogeOS bridge"
+  },
+  "noContacts": "Немає контактів",
+  "@noContacts": {
+    "description": "No contacts"
+  },
+  "noContactsRemind": "Додайте гаманці до своєї адресної книги для легкого доступу, коли вам потрібно переказати криптовалюту",
+  "@noContactsRemind": {
+    "description": "Add wallets to your address book for easy access when you need to transfer crypto"
+  },
+  "networkText": "Мережа",
+  "@networkText": {
+    "description": "Network"
+  },
+  "updateAddress": "Оновити адресу",
+  "@updateAddress": {
+    "description": "Update address"
+  },
+  "makeSureSend": "Переконайтеся, що ви надсилаєте на адресу",
+  "@makeSureSend": {
+    "description": "Please make sure you are sending to "
+  },
+  "chainPoint": "ланцюг.",
+  "@chainPoint": {
+    "description": "Chain."
+  },
+  "otherFunds": "Надсилання з будь-якої іншої мережі може призвести до",
+  "@otherFunds": {
+    "description": "Sending from any other chain may result in "
+  },
+  "lossOfFunds": "втрата коштів.",
+  "@lossOfFunds": {
+    "description": "loss of funds."
+  },
+  "maybeLost2": "Може загубитися!",
+  "@maybeLost2": {
+    "description": "May be lost!"
+  },
+  "copyAddress": "Копіювати адресу",
+  "@copyAddress": {
+    "description": "Copy Address"
+  },
+  "errorNetwork": "Помилка мережі",
+  "@errorNetwork": {
+    "description": "Error network"
+  },
+  "errorNetworkRemind": "У вашій мережі виникли проблеми. Перевірте та спробуйте оновити",
+  "@errorNetworkRemind": {
+    "description": "Your network is experiencing some problems, please check and try refreshing"
+  },
+  "refresh": "Оновити",
+  "@refresh": {
+    "description": "Refresh"
+  },
+  "bindTipTitle": "Програма автентифікації посилань",
+  "@bindTipTitle": {
+    "description": "Link Authenticator App"
+  },
+  "bindTipSubtitle": "Підключення програми автентифікації підвищить безпеку вашого облікового запису. Його буде застосовано під час експорту вашого гаманця.",
+  "@bindTipSubtitle": {
+    "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
+  },
+  "link": "Посилання",
+  "@link": {
+    "description": "Link"
+  },
+  "emailCodeText": "Код електронної пошти",
+  "@emailCodeText": {
+    "description": "Email code"
+  },
+  "emailCodeSubtitle": "Електронний лист надіслано на вашу скриньку {email}.\r\nБудь ласка, введіть код підтвердження в електронному листі.",
+  "@emailCodeSubtitle": {
+    "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
+  },
+  "bindStepTitle": "Програма автентифікації посилань",
+  "@bindStepTitle": {
+    "description": "Link Authenticator App"
+  },
+  "step1": "Крок 1:",
+  "@step1": {
+    "description": "Step 1: "
+  },
+  "bindStepOneLabelDescription": "Завантажте програму автентифікації.",
+  "@bindStepOneLabelDescription": {
+    "description": "Download an authenticator app."
+  },
+  "forExampleLabel": "Наприклад:",
+  "@forExampleLabel": {
+    "description": "For example: "
+  },
+  "step2": "Крок 2:",
+  "@step2": {
+    "description": "Step 2: "
+  },
+  "bindStepTwoLabelDescription": "Будь ласка, скопіюйте 16-значний ключ нижче або відскануйте QR-код",
+  "@bindStepTwoLabelDescription": {
+    "description": "Please copy the 16-digit key below or scan the QR code"
+  },
+  "caution": "Обережно",
+  "@caution": {
+    "description": "Caution"
+  },
+  "bindStepCautionContent": "Зберігайте цей ключ у безпеці, оскільки він використовується для експорту вашого гаманця і не може бути відновлений у разі втрати!",
+  "@bindStepCautionContent": {
+    "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
+  },
+  "pleaseNote": "Зверніть увагу",
+  "@pleaseNote": {
+    "description": "Please note"
+  },
+  "bindStepCautionNoteSubtitle": "Після успішного підключення Google Authenticator його неможливо змінити.",
+  "@bindStepCautionNoteSubtitle": {
+    "description": "Once Google Authenticator is successfully linked, it cannot be changed."
+  },
+  "bindStepCautionNoteContent": "Для безпеки активів вашого гаманця зберігайте Google Authenticator у безпечному місці та добре захищайте його. Якщо Google Authenticator буде втрачено, це може призвести до неможливості отримати доступ до вашого гаманця.",
+  "@bindStepCautionNoteContent": {
+    "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
+  },
+  "gotIt": "зрозумів",
+  "@gotIt": {
+    "description": "Got it"
+  },
+  "googleAuthenticator": "Google Authenticator",
+  "@googleAuthenticator": {
+    "description": "Google Authenticator"
+  },
+  "verifySubtitle": "Будь ласка, введіть номер, згенерований вашим Google Authenticator.",
+  "@verifySubtitle": {
+    "description": "Please enter the number generated by your Google Authenticator."
+  },
+  "bindSuccessTip": "Автентифікатор успішно підключено",
+  "@bindSuccessTip": {
+    "description": "Authenticator linked successfully"
+  },
+  "bindFailedTip": "Код автентифікатора неправильний, зв’язування не вдалося",
+  "@bindFailedTip": {
+    "description": "Authenticator code is incorrect, linking failed"
+  },
+  "retry": "Повторіть спробу",
+  "@retry": {
+    "description": "Retry"
+  },
+  "selectNetwork": "Виберіть мережу",
+  "@selectNetwork": {
+    "description": "Select network"
+  },
+  "addToFavorites": "Додати в обране",
+  "@addToFavorites": {
+    "description": "Add to favorites"
+  },
+  "addToFavorite": "Додати в улюблені",
+  "@addToFavorite": {
+    "description": "Add to favorite"
+  },
+  "setPayPin": "Встановити платіжний PIN-код",
+  "@setPayPin": {
+    "description": "Set Pay Pin"
+  },
+  "setPayPinSubtitle": "Встановіть платіжний PIN-код, щоб захистити свої активи. Цей PIN-код знадобиться під час здійснення транзакцій.",
+  "@setPayPinSubtitle": {
+    "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
+  },
+  "showTip": "Показати PIN-код",
+  "@showTip": {
+    "description": "Show Pin"
+  },
+  "hideTip": "Сховати шпильку",
+  "@hideTip": {
+    "description": "Hide Pin"
+  },
+  "confirmPayPin": "Підтвердьте Pay Pin",
+  "@confirmPayPin": {
+    "description": "Confirm Pay Pin"
+  },
+  "confirmNotMatchTip": "Два платіжні контакти не збігаються.",
+  "@confirmNotMatchTip": {
+    "description": "The two pay pins do not match."
+  },
+  "enterPayPin": "Введіть платіж PIN",
+  "@enterPayPin": {
+    "description": "Enter Pay PIN"
+  },
+  "forgotPin": "Забув шпильку",
+  "@forgotPin": {
+    "description": "Forgot pin"
+  },
+  "enterCode": "Введіть код",
+  "@enterCode": {
+    "description": "Enter Code"
+  },
+  "changeEmailCodeSubtitle": "На {email} надіслано 4-значний код",
+  "@changeEmailCodeSubtitle": {
+    "description": "A 4-digit code was sent to {email}"
+  },
+  "request": "запит",
+  "@request": {
+    "description": "Request"
+  },
+  "incorrectCode": "Невірний код",
+  "@incorrectCode": {
+    "description": "Incorrect code"
+  },
+  "forgetPayPin": "Забули Pay PIN?",
+  "@forgetPayPin": {
+    "description": "Forget the Pay PIN?"
+  },
+  "showPayPin": "Показати Pay PIN",
+  "@showPayPin": {
+    "description": "Show Pay PIN"
+  },
+  "hidePayPin": "Приховати Pay PIN",
+  "@hidePayPin": {
+    "description": "Hide Pay PIN"
+  },
+  "setRecoveryEmail": "Налаштуйте електронну адресу для відновлення",
+  "@setRecoveryEmail": {
+    "description": "Set Recovery Email"
+  },
+  "setRecoveryEmailSubtitle": "Щоб забезпечити безпеку свого ресурсу, установіть резервну електронну адресу. Ця електронна адреса буде використана для відновлення облікового запису, якщо ви втратите доступ до свого облікового запису.",
+  "@setRecoveryEmailSubtitle": {
+    "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
+  },
+  "enterEmailAddress": "Введіть адресу електронної пошти",
+  "@enterEmailAddress": {
+    "description": "Enter your Email address"
+  },
+  "emailErrorTip": "Цей електронний лист недоступний",
+  "@emailErrorTip": {
+    "description": "This email is not available"
+  },
+  "codeResendSecond": "Повторно ({second})",
+  "@codeResendSecond": {
+    "description": "Resend({second})"
+  },
+  "scanQRCode": "Відскануйте QR-код",
+  "@scanQRCode": {
+    "description": "Scan QR Code"
+  },
+  "album": "Альбом",
+  "@album": {
+    "description": "Album"
+  },
+  "alignQRCode": "",
+  "@alignQRCode": {
+    "description": ""
+  },
+  "enterSeedPhrase": "Введіть seed-фраза",
+  "@enterSeedPhrase": {
+    "description": "Enter seed phrase"
+  },
+  "enterSeedPhraseRemind": "Якщо ви використовуєте seed-фраза для імпорту гаманця, розділяйте кожне слово пробілом.",
+  "@enterSeedPhraseRemind": {
+    "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
+  },
+  "clear": "ясно",
+  "@clear": {
+    "description": "Clear"
+  },
+  "howToBackUp": "Навіщо і як робити резервну копію\r\nваш гаманець",
+  "@howToBackUp": {
+    "description": "Why and How to back up\r\nyour wallet"
+  },
+  "backUpRemind": "Щоб мати доступ до своїх облікових записів і активів, коли ви змінюєте пристрій, ми наполегливо рекомендуємо виконати наведений нижче процес для резервного копіювання гаманця.",
+  "@backUpRemind": {
+    "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
+  },
+  "backUpStep1": "1. Натисніть кнопку, щоб переглянути seed-фрази.",
+  "@backUpStep1": {
+    "description": "1. Click the button to view the seed phrases."
+  },
+  "backUpStep2": "Зберігайте seed-фрази у безпечному місці, де ніхто інший не матиме до нього доступу.",
+  "@backUpStep2": {
+    "description": "Keep the seed phrases in a safe place where no one else can access to it."
+  },
+  "backUpWarning": "ПОПЕРЕДЖЕННЯ: Зберігайте свій seed-фрази у безпеці та НІКОЛИ нікому не діліться ним. Кожен, хто має ваш закритий ключ, може викрасти всі активи у вашому гаманці.",
+  "@backUpWarning": {
+    "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
+  },
+  "showSeed": "Показати мій seed-фрази",
+  "@showSeed": {
+    "description": "Show My Seed Phrases"
+  },
+  "seedPhrases": "seed-фрази",
+  "@seedPhrases": {
+    "description": "Seed Phrases"
+  },
+  "close": "Закрити",
+  "@close": {
+    "description": "Close"
+  },
+  "addressLowerCase": "адресу",
+  "@addressLowerCase": {
+    "description": "address"
+  },
+  "enterAddress": "Введіть дійсну адресу",
+  "@enterAddress": {
+    "description": "Please enter a valid address"
+  },
+  "addToAddress": "Додати до адреси",
+  "@addToAddress": {
+    "description": "Add to address"
+  },
+  "balanceLabel": "Баланс:",
+  "@balanceLabel": {
+    "description": "Balance: "
+  },
+  "sendTo": "Надіслати до",
+  "@sendTo": {
+    "description": "Send to"
+  },
+  "routeSelection": "Вибір маршруту",
+  "@routeSelection": {
+    "description": "Route selection"
+  },
+  "slippage": "Ковзання",
+  "@slippage": {
+    "description": "Slippage"
+  },
+  "about": "про",
+  "@about": {
+    "description": "About"
+  },
+  "site": "Сайт",
+  "@site": {
+    "description": "Site"
+  },
+  "twitter": "Twitter",
+  "@twitter": {
+    "description": "Twitter"
+  },
+  "twitterLowercase": "твіттер",
+  "@twitterLowercase": {
+    "description": "twitter"
+  },
+  "telegram": "Телеграма",
+  "@telegram": {
+    "description": "Telegram"
+  },
+  "networkUppercase": "Мережа",
+  "@networkUppercase": {
+    "description": "Network"
+  },
+  "customTokens": "Спеціальні жетони",
+  "@customTokens": {
+    "description": "Custom Tokens"
+  },
+  "allTokens": "Усі жетони",
+  "@allTokens": {
+    "description": "All tokens"
+  },
+  "filterTokens": "Фільтруйте ризиковані токени",
+  "@filterTokens": {
+    "description": "Filter risky tokens"
+  },
+  "contractAddress": "Адреса договору",
+  "@contractAddress": {
+    "description": "Contract address"
+  },
+  "tokenSymbol": "Символ маркера",
+  "@tokenSymbol": {
+    "description": "Token symbol"
+  },
+  "decimalsOfPrecision": "Десяткові знаки точності",
+  "@decimalsOfPrecision": {
+    "description": "Decimals of precision"
+  },
+  "turnOffRisk": "Вимкнути фільтр ризикованих токенів？",
+  "@turnOffRisk": {
+    "description": "Turn off risky tokens filter？"
+  },
+  "sureTurnOff": "Ви впевнені, що бажаєте вимкнути фільтр ризикованих маркерів? Це може призвести до втрати активів.",
+  "@sureTurnOff": {
+    "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
+  },
+  "turnOff": "Вимкнути",
+  "@turnOff": {
+    "description": "Turn off"
+  },
+  "fail": "провал",
+  "@fail": {
+    "description": "fail"
+  },
+  "pending": "В очікуванні",
+  "@pending": {
+    "description": "Pending"
+  },
+  "warningText": "Після успішної трансакції кошти можуть надійти у ваш гаманець протягом 20 хвилин.",
+  "@warningText": {
+    "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
+  },
+  "myWalletAddress": "Адреса мого гаманця",
+  "@myWalletAddress": {
+    "description": "My wallet address"
+  },
+  "hi": "Привіт, {name}",
+  "@hi": {
+    "description": "Hi, {name}"
+  },
+  "dogeDevnetBalance": "$DOGE (devnet) баланс",
+  "@dogeDevnetBalance": {
+    "description": "$DOGE (devnet) balance"
+  },
+  "dogeDevnetFaucet": "Кран DogeOs Devnet",
+  "@dogeDevnetFaucet": {
+    "description": "DogeOs Devnet faucet"
+  },
+  "myDogeTokenBalance": "Мій баланс $DOGE (токен розробника).",
+  "@myDogeTokenBalance": {
+    "description": "My $DOGE (dev token) balance"
+  },
+  "whatIsFaucet": "Що таке кран?",
+  "@whatIsFaucet": {
+    "description": " What is a Faucet?"
+  },
+  "whatIsFaucetHint": "Кран дозволяє вимагати безкоштовні токени для цілей тестування на a",
+  "@whatIsFaucetHint": {
+    "description": "A faucet lets you claim free tokens for testing purposes on a"
+  },
+  "devnet": "devnet",
+  "@devnet": {
+    "description": " devnet "
+  },
+  "whatIsFaucetHint2": "— середовище блокчейн, яке імітує реальні транзакції без використання реальних активів.",
+  "@whatIsFaucetHint2": {
+    "description": "— a blockchain environment that simulates real transactions without using real assets."
+  },
+  "thestDevnetTokens": "Це токени devnet",
+  "@thestDevnetTokens": {
+    "description": "These devnet tokens are"
+  },
+  "notRealDoge": "не справжній DOGE",
+  "@notRealDoge": {
+    "description": " not real DOGE"
+  },
+  "and": "і",
+  "@and": {
+    "description": " and "
+  },
+  "haveNoMonetary": "не мають грошової оцінки",
+  "@haveNoMonetary": {
+    "description": "have no monetary value"
+  },
+  "howMuchDoge": "Скільки Devnet DOGE я можу отримати?",
+  "@howMuchDoge": {
+    "description": " How Much Devnet DOGE Can I Get?"
+  },
+  "youCanRequest": "Ви можете запитати",
+  "@youCanRequest": {
+    "description": "You can request"
+  },
+  "perDayDoge": "42,069 ÐOGE на день.",
+  "@perDayDoge": {
+    "description": " 42.069 ÐOGE per day."
+  },
+  "noRealFunds": "Ніяких реальних коштів не залучається — це лише для тестування.",
+  "@noRealFunds": {
+    "description": " No real funds are involved — it’s just for testing."
+  },
+  "WhatCanIDo": "Що я можу робити з Devnet DOGE?",
+  "@WhatCanIDo": {
+    "description": " What Can I Do With Devnet DOGE?"
+  },
+  "WhatCanIDoHint": "За допомогою Devnet ÐOGE ви можете:",
+  "@WhatCanIDoHint": {
+    "description": " With your devnet ÐOGE, you can:"
+  },
+  "WhatCanIDoHint1": "Випробуйте нові функції безпечно",
+  "@WhatCanIDoHint1": {
+    "description": "Try out new features safely"
+  },
+  "WhatCanIDoHint2": "Взаємодійте з dApps без фінансового ризику",
+  "@WhatCanIDoHint2": {
+    "description": "Interact with dApps without financial risk"
+  },
+  "helpUsTest": "Допоможіть нам перевірити",
+  "@helpUsTest": {
+    "description": "Help us test"
+  },
+  "performanceUnderLoad": "продуктивність під навантаженням",
+  "@performanceUnderLoad": {
+    "description": " performance under load "
+  },
+  "performanceUnderLoadHint": "— ваша діяльність сприяє важливому стрес-тесту під час масштабування DogeOS!",
+  "@performanceUnderLoadHint": {
+    "description": "— your activity contributes to important stress testing as we scale DogeOS!"
+  },
+  "claimNow": "Отримайте Ð42,069 зараз!",
+  "@claimNow": {
+    "description": "Claim Ð42.069 now!"
+  },
+  "blockOrReport": "Заблокувати або повідомити",
+  "@blockOrReport": {
+    "description": "Block or Report"
+  },
+  "blockOrReportHint": "MyDoge перегляне всі профілі, про які повідомляється, щоб перевірити, чи є порушення наших інструкцій. Ви також можете заблокувати профіль, щоб вони не могли переглядати ваші публікації.",
+  "@blockOrReportHint": {
+    "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
+  },
+  "report": "звіт",
+  "@report": {
+    "description": "Report"
+  },
+  "block": "Блокувати",
+  "@block": {
+    "description": "Block"
+  },
+  "nevermind": "Неважливо",
+  "@nevermind": {
+    "description": "Nevermind"
+  },
+  "allComments": "Всі коментарі",
+  "@allComments": {
+    "description": "All Comments"
+  },
+  "noCommentYet": "Поки немає коментарів",
+  "@noCommentYet": {
+    "description": "No comment yet"
+  },
+  "saySomething": "Скажи щось...",
+  "@saySomething": {
+    "description": "Say something..."
+  },
+  "sureToDelete": "Справді видалити цей коментар?",
+  "@sureToDelete": {
+    "description": "Sure to delete this comment?"
+  },
+  "copyProfileURL": "Копіювати URL профілю",
+  "@copyProfileURL": {
+    "description": "Copy Profile URL"
+  },
+  "quickAmount": "Швидка сума",
+  "@quickAmount": {
+    "description": "Quick amount"
+  },
+  "unblockUser": "Розблокувати користувача?",
+  "@unblockUser": {
+    "description": "Unblock User?"
+  },
+  "unblockUserHint": "Це розблокує користувача, і ви й надалі бачитимете його публікації.",
+  "@unblockUserHint": {
+    "description": "This will unblock the user and you will continue to see their posts."
+  },
+  "unblock": "Розблокувати",
+  "@unblock": {
+    "description": "Unblock"
+  },
+  "following": "Слідую",
+  "@following": {
+    "description": "Following"
+  },
+  "shop": "Магазин",
+  "@shop": {
+    "description": "Shop"
+  },
+  "settingsAndSupport": "Налаштування та підтримка",
+  "@settingsAndSupport": {
+    "description": "Settings and Support"
+  },
+  "sendAndReceive": "Надсилайте та отримуйте поради через",
+  "@sendAndReceive": {
+    "description": "Send and receive tips via"
+  },
+  "readFAQ": "Прочитайте поширені запитання щодо MyDogeTip",
+  "@readFAQ": {
+    "description": "Read the MyDogeTip FAQ"
+  },
+  "signOutUser": "Вийти @{handle}",
+  "@signOutUser": {
+    "description": "Sign Out @{handle}"
+  },
+  "changePayPin": "Змінити оплату PIN",
+  "@changePayPin": {
+    "description": "Change Pay PIN"
+  },
+  "displayCurrency": "Показати валюту",
+  "@displayCurrency": {
+    "description": "Display currency"
+  },
+  "aboutMyDoge": "Про MyDoge",
+  "@aboutMyDoge": {
+    "description": "About MyDoge"
+  },
+  "version": "Версія {version}",
+  "@version": {
+    "description": "Version {version}"
+  },
+  "nickname": "псевдонім",
+  "@nickname": {
+    "description": "Nickname"
+  },
+  "username": "Ім'я користувача",
+  "@username": {
+    "description": "User name"
+  },
+  "followers": "Послідовники",
+  "@followers": {
+    "description": "Followers"
+  },
+  "newPost": "Нова пошта",
+  "@newPost": {
+    "description": "New Post"
+  },
+  "post": "Опублікувати",
+  "@post": {
+    "description": "Post"
+  },
+  "share": "Поділіться",
+  "@share": {
+    "description": "Share"
+  },
+  "tips": "Поради",
+  "@tips": {
+    "description": "Tips"
+  },
+  "message": "повідомлення",
+  "@message": {
+    "description": "Message"
+  },
+  "shareProfile": "Поділитися профілем",
+  "@shareProfile": {
+    "description": "Share profile"
+  },
+  "findFriends": "Знайти друзів",
+  "@findFriends": {
+    "description": "Find Friends"
+  },
+  "searchResults": "Результати пошуку",
+  "@searchResults": {
+    "description": "Search Results"
+  },
+  "startTyping": "почати друкувати",
+  "@startTyping": {
+    "description": "start typing"
+  },
+  "shopWithDoge": "Купуйте з Doge",
+  "@shopWithDoge": {
+    "description": "Shop with Doge"
+  },
+  "getDogeCom": "GetDoge.com",
+  "@getDogeCom": {
+    "description": "GetDoge.com"
+  },
+  "giftCards": "Подарункові карти",
+  "@giftCards": {
+    "description": "Gift Cards"
+  },
+  "soon": "скоро",
+  "@soon": {
+    "description": "soon"
+  },
+  "switchNetwork": "Переключити мережу",
+  "@switchNetwork": {
+    "description": "Switch network"
+  },
+  "empty": "Порожній",
+  "@empty": {
+    "description": "Empty"
+  },
+  "estReceive": "Приблизно Отримати",
+  "@estReceive": {
+    "description": "Est. Receive"
+  },
+  "doge": "Дож",
+  "@doge": {
+    "description": "Doge"
+  },
+  "scanQrCodeDesc": "Скануйте, щоб заплатити з точною сумою.",
+  "@scanQrCodeDesc": {
+    "description": "Scan to pay with the exact amount."
+  },
+  "clearAmount": "Очистити суму",
+  "@clearAmount": {
+    "description": "Clear amount"
+  },
+  "inputPINToContinue": "Щоб продовжити, введіть свій PIN",
+  "@inputPINToContinue": {
+    "description": "Enter your PIN to continue"
+  },
+  "verifyYourPIN": "Підтвердьте свій PIN, щоб створити соціальний гаманець.",
+  "@verifyYourPIN": {
+    "description": "Verify your PIN to create a Social Wallet."
+  },
+  "incorrectPin": "Ви ввели неправильний PIN",
+  "@incorrectPin": {
+    "description": "The PIN you entered is incorrect"
+  },
+  "iCloudBackupFailed": "Помилка резервного копіювання iCloud",
+  "@iCloudBackupFailed": {
+    "description": "iCloud backup failed"
+  },
+  "pleaseTurnOnYourICloud": "Будь ласка, увімкніть iCloud у налаштуваннях пристрою, перш ніж створювати резервні копії чи імпортувати гаманець.",
+  "@pleaseTurnOnYourICloud": {
+    "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
+  },
+  "goToSettingPage": "Перейдіть на сторінку налаштувань",
+  "@goToSettingPage": {
+    "description": "Go to setting page"
+  },
+  "deleteBackup": "Видалити резервну копію",
+  "@deleteBackup": {
+    "description": "Delete backup"
+  },
+  "deleteBackupOrNot": "Бажаєте видалити резервну копію?",
+  "@deleteBackupOrNot": {
+    "description": "Do you want to delete the backup?"
+  },
+  "sendToCrypto": "Надіслати на криптоадресу",
+  "@sendToCrypto": {
+    "description": "Send to a crypto address"
+  },
+  "importSeedPhrase": "Імпортуйте за допомогою seed-фраза",
+  "@importSeedPhrase": {
+    "description": "Import with seed phrase"
+  },
+  "importGoogleDrive": "Імпортувати з гугл диска",
+  "@importGoogleDrive": {
+    "description": "Import from google drive"
+  },
+  "importICloud": "Імпортувати з iCloud",
+  "@importICloud": {
+    "description": "Import from iCloud"
+  },
+  "reminder": "Нагадування",
+  "@reminder": {
+    "description": "Reminder"
+  },
+  "reminderDesc": "Ми помітили, що гаманець, яким ви раніше користувалися, був із соціального гаманця, із початковим кодом, захищеним через Cubist. Ви перейдете на цей соціальний гаманець. Крім того, ваш попередній вміст Dogeverse більше не доступний.\n\nЯкщо у вас виникли запитання, зверніться до нашої служби підтримки.",
+  "@reminderDesc": {
+    "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
+  },
+  "importNotes": "Важливі зауваження щодо входу в соціальні мережі",
+  "@importNotes": {
+    "description": "Important notes on social login"
+  },
+  "importNotesDesc": "Якщо ви входите за допомогою X, функція MyDogeTip буде пов’язана з вашим обліковим записом X.",
+  "@importNotesDesc": {
+    "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
+  },
+  "maybeLater": "Можливо пізніше",
+  "@maybeLater": {
+    "description": "Maybe later"
+  },
+  "depositToken": "Депозит {tokenName}",
+  "@depositToken": {
+    "description": "Deposit {tokenName}"
+  },
+  "selectDepositMethod": "Виберіть спосіб депозиту",
+  "@selectDepositMethod": {
+    "description": "Select deposit method"
+  },
+  "myDogeFriends": "Друзі MyDoge",
+  "@myDogeFriends": {
+    "description": "MyDoge friends"
+  },
+  "setAmount": "Встановити суму",
+  "@setAmount": {
+    "description": "Set amount"
+  },
+  "amount": "Сума",
+  "@amount": {
+    "description": "Amount"
+  },
+  "amountLowercase": "сума",
+  "@amountLowercase": {
+    "description": "amount"
+  },
+  "dogeUppercase": "DOGE",
+  "@dogeUppercase": {
+    "description": "DOGE"
+  },
+  "allNetworks": "Всі мережі",
+  "@allNetworks": {
+    "description": "All networks"
+  },
+  "popularNetworks": "Популярні мережі",
+  "@popularNetworks": {
+    "description": "Popular networks"
+  },
+  "oops": "Перейдіть на соціальний гаманець",
+  "@oops": {
+    "description": "Switch to Social Wallet"
+  },
+  "oopsDesc": "Ой! Зараз ви використовуєте гаманець MyDoge Classic. Перейдіть до свого соціального гаманця, щоб отримати доступ до цієї функції.",
+  "@oopsDesc": {
+    "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
+  },
+  "switchWallet": "Змінити гаманець",
+  "@switchWallet": {
+    "description": "Switch wallet"
+  },
+  "termsOfUse": "Умови використання",
+  "@termsOfUse": {
+    "description": "Terms of Use"
+  },
+  "privacyPolicy": "Політика конфіденційності",
+  "@privacyPolicy": {
+    "description": "Privacy Policy"
+  },
+  "shareMyDoge": "Поділіться MyDoge",
+  "@shareMyDoge": {
+    "description": "Share MyDoge"
+  },
+  "visitOurWebsite": "Відвідайте наш сайт",
+  "@visitOurWebsite": {
+    "description": "Visit Our Website"
+  },
+  "viewSeedPhrase": "Переглянути seed-фраза",
+  "@viewSeedPhrase": {
+    "description": "View seed phrase"
+  },
+  "seedBackupTip1": "Транскрибувати",
+  "@seedBackupTip1": {
+    "description": "Transcribe"
+  },
+  "seedBackupTip2": "Скріншоти",
+  "@seedBackupTip2": {
+    "description": "Screenshots"
+  },
+  "seedBackupTip3": "Цифрова копія",
+  "@seedBackupTip3": {
+    "description": "Digital copy"
+  },
+  "keepSeedSafeNotice": "Будь-хто, хто має ваше насіння, може отримати доступ до всіх ваших активів. Зберігайте інформацію при собі.",
+  "@keepSeedSafeNotice": {
+    "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
+  },
+  "hide": "Сховати",
+  "@hide": {
+    "description": "Hide"
+  },
+  "warningTitleNotice": "З міркувань безпеки, якщо ви закриєте або оновите сторінку, вам потрібно буде повторно подати заявку та почекати щонайменше 48 годин. Будь ласка, переконайтеся, що ви запам'ятали свій seed-фраза перед від'їздом.",
+  "@warningTitleNotice": {
+    "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
+  },
+  "keepSeedSafeTitle": "Тримайте seed-фраза у безпеці",
+  "@keepSeedSafeTitle": {
+    "description": "Keep seed phrase safe"
+  },
+  "keepSeedSafeNotice1": "Будь-хто, хто має ваше насіння, може отримати доступ до всіх ваших активів. Будь ласка, обов’язково зробіть резервну копію початкового коду, перш ніж отримувати перекази або видаляти програму.",
+  "@keepSeedSafeNotice1": {
+    "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
+  },
+  "keepSeedSafeNotice2": "MyDoge не зберігатиме ваш початковий код на своєму сервері, і тому не зможе відновити ваш гаманець після його втрати.",
+  "@keepSeedSafeNotice2": {
+    "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
+  },
+  "seedAlreadyBackup": "Уже створено резервну копію",
+  "@seedAlreadyBackup": {
+    "description": "Already backed up"
+  },
+  "backupSecurity": "Резервне копіювання та безпека",
+  "@backupSecurity": {
+    "description": "Backup  & Security"
+  },
+  "backupYourWalletHint": "Збережіть свій гаманець у хмарі та захистіть його паролем. Ви також можете записати свій seed-фраза або скопіювати його в менеджер паролів.",
+  "@backupYourWalletHint": {
+    "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
+  },
+  "haveNotBackUp": "Ви не створили резервну копію свого гаманця в хмарі.",
+  "@haveNotBackUp": {
+    "description": "You haven't backed up your wallet to the cloud."
+  },
+  "backupToICloud": "Резервне копіювання в iCloud",
+  "@backupToICloud": {
+    "description": "Back up to iCloud"
+  },
+  "backupToGoogle": "Резервне копіювання на Google Drive",
+  "@backupToGoogle": {
+    "description": "Back up to Google Drive"
+  },
+  "createRecoveryPassword": "Створіть пароль відновлення Cloud",
+  "@createRecoveryPassword": {
+    "description": "Create Cloud recovery password"
+  },
+  "createRecoveryPasswordHint": "Вам потрібно створити пароль для відновлення резервної копії в хмарі. Виберіть пароль, що запам'ятовується, мінімум з 8 символів; довші паролі безпечніші.",
+  "@createRecoveryPasswordHint": {
+    "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
+  },
+  "ifYouLoseRecoveryPassword": "Втрата цього пароля означає, що ви не зможете відновити резервну копію.",
+  "@ifYouLoseRecoveryPassword": {
+    "description": "Losing this password means you can’t recover your backup."
+  },
+  "confirmPassword": "Підтвердьте пароль",
+  "@confirmPassword": {
+    "description": "Confirm password"
+  },
+  "confirmBackup": "Підтвердити резервне копіювання",
+  "@confirmBackup": {
+    "description": "Confirm backup"
+  },
+  "haveBackUp": "Ви створили резервну копію свого гаманця в хмарі.",
+  "@haveBackUp": {
+    "description": "You have backed up your wallet to the cloud."
+  },
+  "passwordRules": "Пароль має бути не менше 8 символів",
+  "@passwordRules": {
+    "description": "Password must be at least 8 characters"
+  },
+  "passwordNotMatch": "Пароль не збігається",
+  "@passwordNotMatch": {
+    "description": "Password does not match"
+  },
+  "someChain": "Ланцюг {chain}.",
+  "@someChain": {
+    "description": "{chain} Chain."
+  },
+  "inputYourRecoveryPassword": "Введіть пароль для відновлення хмари",
+  "@inputYourRecoveryPassword": {
+    "description": "Input your Cloud Recovery Password"
+  },
+  "importExistingWallet": "Імпорт наявного гаманця",
+  "@importExistingWallet": {
+    "description": "Import existing wallet"
+  },
+  "walletName": "Назва гаманця",
+  "@walletName": {
+    "description": "Wallet name"
+  },
+  "backupYourWallet": "Зробіть резервну копію свого гаманця",
+  "@backupYourWallet": {
+    "description": "Back up your wallet"
+  },
+  "deleteWallet": "Видалити резервну копію в хмарі?",
+  "@deleteWallet": {
+    "description": "Delete Cloud backup?"
+  },
+  "renameWallet": "Перейменувати гаманець",
+  "@renameWallet": {
+    "description": "Rename Wallet"
+  },
+  "enterName": "Введіть назву",
+  "@enterName": {
+    "description": "Enter a name"
+  },
+  "sureToDeleteWallet": "Ви втратите можливість відновити свій гаманець із хмари. Ви впевнені, що бажаєте продовжити?",
+  "@sureToDeleteWallet": {
+    "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
+  },
+  "profileIsPublic": "Профіль відкритий",
+  "@profileIsPublic": {
+    "description": "Profile is Public"
+  },
+  "showWalletAddress": "Показати адресу гаманця та кнопку підказки",
+  "@showWalletAddress": {
+    "description": "Show wallet address and Tip button"
+  },
+  "transferableLabel": "Можливість передачі:",
+  "@transferableLabel": {
+    "description": "Transferable: "
+  },
+  "transferable": "Переказний",
+  "@transferable": {
+    "description": "Transferable"
+  },
+  "inscribe": "Вписати",
+  "@inscribe": {
+    "description": "Inscribe"
+  },
+  "buyDoge": "Купити Doge",
+  "@buyDoge": {
+    "description": "Buy Doge"
+  },
+  "totalVolume": "Загальний обсяг",
+  "@totalVolume": {
+    "description": "Total volume"
+  },
+  "Volume24h": "24-годинний обсяг",
+  "@Volume24h": {
+    "description": "24h volume"
+  },
+  "holders": "Тримачі",
+  "@holders": {
+    "description": "Holders"
+  },
+  "sales": "Продажі",
+  "@sales": {
+    "description": "Sales"
+  },
+  "inscribeForTransfer": "Записатися на переведення",
+  "@inscribeForTransfer": {
+    "description": "Inscribe for transfer"
+  },
+  "inscribeForTransferHint": "Готові відправити? Цей крок розблокує ваші токени Drc20 для передачі.",
+  "@inscribeForTransferHint": {
+    "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
+  },
+  "selectAnInscription": "Виберіть напис для відправки",
+  "@selectAnInscription": {
+    "description": "Select an inscription to send"
+  },
+  "transferToken": "Передача {token}",
+  "@transferToken": {
+    "description": "Transfer {token}"
+  },
+  "confirmTransfer": "Підтвердити передачу",
+  "@confirmTransfer": {
+    "description": "Confirm Transfer"
+  },
+  "noNFTsFound": "NFTs не знайдено",
+  "@noNFTsFound": {
+    "description": "No NFTs Found"
+  },
+  "yoursNFTAppearHere": "Тут з’явиться ваш NFTs",
+  "@yoursNFTAppearHere": {
+    "description": "Your NFTs will appear here"
+  },
+  "titleCopied": "{title} скопійовано в буфер обміну",
+  "@titleCopied": {
+    "description": "{title} copied to clipboard"
+  },
+  "transfer": "Трансфер",
+  "@transfer": {
+    "description": "Transfer"
+  },
+  "NFTDetails": "NFT Деталі",
+  "@NFTDetails": {
+    "description": "NFT Details"
+  },
+  "inscriptionID": "ID напису",
+  "@inscriptionID": {
+    "description": "Inscription ID"
+  },
+  "outputValue": "Вихідне значення",
+  "@outputValue": {
+    "description": "Output Value"
+  },
+  "preview": "Попередній перегляд",
+  "@preview": {
+    "description": "Preview"
+  },
+  "content": "Зміст",
+  "@content": {
+    "description": "Content"
+  },
+  "contentType": "Тип вмісту",
+  "@contentType": {
+    "description": "Content Type"
+  },
+  "timestamp": "Мітка часу",
+  "@timestamp": {
+    "description": "Timestamp"
+  },
+  "genesisTransaction": "Трансакція Genesis",
+  "@genesisTransaction": {
+    "description": "Genesis Transaction"
+  },
+  "showLess": "Показати менше",
+  "@showLess": {
+    "description": "Show Less"
+  },
+  "showMore": "Показати більше",
+  "@showMore": {
+    "description": "Show More"
+  },
+  "errorLoadingNFTs": "Помилка завантаження NFTs: {error}",
+  "@errorLoadingNFTs": {
+    "description": "Error loading NFTs: {error}"
+  },
+  "errorCreatingTransaction": "Помилка створення транзакції: {error}",
+  "@errorCreatingTransaction": {
+    "description": "Error creating transaction: {error}"
+  },
+  "addMessage": "Додати повідомлення",
+  "@addMessage": {
+    "description": "Add message"
+  },
+  "toSomeone": "до {someone}",
+  "@toSomeone": {
+    "description": "to {someone}"
+  },
+  "recent": "Останні",
+  "@recent": {
+    "description": "Recent"
+  },
+  "noSearchResult": "Немає результатів пошуку",
+  "@noSearchResult": {
+    "description": "No search result"
+  },
+  "searchForPeople": "Знайдіть людей або введіть адресу",
+  "@searchForPeople": {
+    "description": "Search for people or input an address"
+  },
+  "multiChain": "Багатоланцюговий",
+  "@multiChain": {
+    "description": "Multi-chain"
+  },
+  "transferFundsToDogeWallet": "Перемістіть свої кошти в Social Wallet одним дотиком!",
+  "@transferFundsToDogeWallet": {
+    "description": "Move your funds to Social Wallet in one tap!"
+  },
+  "drc20": "Drc20",
+  "@drc20": {
+    "description": "Drc20"
+  },
+  "NFTs": "NFTs",
+  "@NFTs": {
+    "description": "NFTs"
+  },
+  "noDrc20Found": "Тут ще нічого немає!",
+  "@noDrc20Found": {
+    "description": "Nothing here yet!"
+  },
+  "youCanCreateWallet": "Тут ви завжди можете створити соціальний гаманець.",
+  "@youCanCreateWallet": {
+    "description": "You can always create a Social Wallet here."
+  },
+  "getDogeTestToken": "Отримайте маркери тестової мережі DOGE \n(нульове значення)",
+  "@getDogeTestToken": {
+    "description": "Get DOGE testnet tokens \n (zero value)"
+  },
+  "devnetUpperCase": "Devnet",
+  "@devnetUpperCase": {
+    "description": "Devnet"
+  },
+  "legalTerms": "Юридичні умови",
+  "@legalTerms": {
+    "description": "Legal terms"
+  },
+  "pleaseReadOur": "Будь ласка, прочитайте наш",
+  "@pleaseReadOur": {
+    "description": "Please read our"
+  },
+  "eula": "EULA",
+  "@eula": {
+    "description": " EULA"
+  },
+  "agreeContinue": "Погодитися та продовжити",
+  "@agreeContinue": {
+    "description": " Agree & Continue"
+  },
+  "enableBiometrics": "Увімкнути біометрію?",
+  "@enableBiometrics": {
+    "description": "Enable biometrics?"
+  },
+  "no": "немає",
+  "@no": {
+    "description": "No"
+  },
+  "yes": "так",
+  "@yes": {
+    "description": "Yes"
+  },
+  "enable": "Увімкнути",
+  "@enable": {
+    "description": "Enable"
+  },
+  "setNewPhoto": "Встановити нове фото",
+  "@setNewPhoto": {
+    "description": "Set new photo"
+  },
+  "chooseFromGallery": "Виберіть із галереї",
+  "@chooseFromGallery": {
+    "description": "Choose from gallery"
+  },
+  "takeAPhoto": "Зробіть фото",
+  "@takeAPhoto": {
+    "description": "Take a photo"
+  },
+  "authenticationFailed": "Помилка автентифікації",
+  "@authenticationFailed": {
+    "description": "Authentication failed"
+  },
+  "authenticationFailedHint": "Під час вашої спроби автентифікації виникла проблема.",
+  "@authenticationFailedHint": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "tryAgain": "Спробуйте знову",
+  "@tryAgain": {
+    "description": "Try again"
+  },
+  "faceIDNotEnabled": "Face ID не ввімкнено",
+  "@faceIDNotEnabled": {
+    "description": "Face ID Not Enabled"
+  },
+  "pleaseEnabledFaceID": "Щоб продовжити, увімкніть ідентифікатор обличчя в налаштуваннях.",
+  "@pleaseEnabledFaceID": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSettings": "Перейдіть до Налаштувань",
+  "@goToSettings": {
+    "description": "Go to Settings"
+  },
+  "cancelRequest": "Скасувати запит",
+  "@cancelRequest": {
+    "description": "Cancel request"
+  },
+  "cancelRequestHint": "Ви впевнені, що бажаєте скасувати? Це перезапустить період очікування, якщо ви хочете налаштувати новий Passkey.",
+  "@cancelRequestHint": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "stillAccessYourClassicWallet": "Ви все ще матимете доступ до свого MyDoge Classic під час наступного входу. Однак ваші публікації будуть недоступні. Будь ласка, зробіть резервну копію даних зараз, якщо потрібно.",
+  "@stillAccessYourClassicWallet": {
+    "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
+  },
+  "permissionDenied": "У дозволі відмовлено",
+  "@permissionDenied": {
+    "description": "Permission Denied"
+  },
+  "whatIsYourEmail": "Яка ваша електронна адреса",
+  "@whatIsYourEmail": {
+    "description": "What’s your email"
+  },
+  "enableFaceID": "Увімкнути Face ID",
+  "@enableFaceID": {
+    "description": "Enable Face ID"
+  },
+  "enableFaceIDHint": "Щоб захистити свій обліковий запис, переконайтеся, що Face ID залишається ввімкненим під час використання програми.",
+  "@enableFaceIDHint": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpPasskey": "Налаштуйте Passkey",
+  "@setUpPasskey": {
+    "description": "Set Up Passkey"
+  },
+  "settingUp": "Налаштування...",
+  "@settingUp": {
+    "description": "Setting up..."
+  },
+  "settingUpHint": "Налаштування Passkey скасовано.\r\nСпробуйте ще раз.",
+  "@settingUpHint": {
+    "description": "Passkey setup was canceled.\r\nPlease try again."
+  },
+  "verifyWithPasskey": "Підтвердьте за допомогою Passkey",
+  "@verifyWithPasskey": {
+    "description": "Verify With Passkey"
+  },
+  "verifying": "Перевірка...",
+  "@verifying": {
+    "description": "Verifying..."
+  },
+  "verificationCanceled": "Перевірку скасовано.",
+  "@verificationCanceled": {
+    "description": "Verification was canceled."
+  },
+  "noPasskeyFound": "Passkey не знайдено",
+  "@noPasskeyFound": {
+    "description": "No Passkey found"
+  },
+  "keepAccountSafe": "Щоб захистити свій обліковий запис, переконайтеся, що Face ID залишається ввімкненим під час використання програми.",
+  "@keepAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "setUpNewPasskey": "Налаштуйте новий Passkey",
+  "@setUpNewPasskey": {
+    "description": "Set up a new passkey"
+  },
+  "poweredBy": "На основі",
+  "@poweredBy": {
+    "description": "Powered by"
+  },
+  "IAccept": "Я приймаю",
+  "@IAccept": {
+    "description": "I accept"
+  },
+  "orContinueWith": "або продовжити",
+  "@orContinueWith": {
+    "description": "or continue with"
+  },
+  "verifyEmail": "Підтвердити електронну адресу",
+  "@verifyEmail": {
+    "description": "Verify Email"
+  },
+  "verifyEmailHint": "Посилання для одноразового входу надіслано на адресу",
+  "@verifyEmailHint": {
+    "description": "A one-time sign-in link has been sent to"
+  },
+  "doNotSeeEmail": "Не бачили електронного листа? Перевірте папку зі спамом або",
+  "@doNotSeeEmail": {
+    "description": "Didn’t see email? Check your spam folder, or "
+  },
+  "settingUpPasskeyHint": "Для безпеки вашого облікового запису для створення нового Passkey потрібен 48-годинний період очікування.",
+  "@settingUpPasskeyHint": {
+    "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
+  },
+  "verificationLinkSent": "Буде надіслано одноразове посилання для підтвердження\r\nна вашу електронну пошту.",
+  "@verificationLinkSent": {
+    "description": "A one-time verification link will be sent\r\nto your email."
+  },
+  "hours": "години",
+  "@hours": {
+    "description": "Hours"
+  },
+  "minutes": "хвилин",
+  "@minutes": {
+    "description": "Minutes"
+  },
+  "seconds": "секунд",
+  "@seconds": {
+    "description": "Seconds"
+  },
+  "resendCode": "Повторно надіслати код",
+  "@resendCode": {
+    "description": "Resend code"
+  },
+  "emailAddress": "Адреса електронної пошти",
+  "@emailAddress": {
+    "description": "Email address"
+  },
+  "apple": "яблуко",
+  "@apple": {
+    "description": "apple"
+  },
+  "allNewWallet": "ВСІ-Нові \nГаманець MyDoge",
+  "@allNewWallet": {
+    "description": "ALL-New \nMyDoge Wallet"
+  },
+  "getStart": "Почніть роботу",
+  "@getStart": {
+    "description": "Get started"
+  },
+  "welcomeToMydogeWallet": "Ласкаво просимо до абсолютно нового гаманця MyDoge із функцією соціального входу та багатоланцюжкового гаманця.\n\nВаш MyDoge Classic, активи та все, що вам подобається в MyDoge, буде переміщено в новий досвід.",
+  "@welcomeToMydogeWallet": {
+    "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
+  },
+  "myDogeWallet": "Гаманець MyDoge",
+  "@myDogeWallet": {
+    "description": "MyDoge Wallet"
+  },
+  "initializing": "Ініціалізація...",
+  "@initializing": {
+    "description": "Initializing..."
+  },
+  "risks": "Неперевірений",
+  "@risks": {
+    "description": "Unverified"
+  },
+  "waitingUserToConnectX": "Очікування підключення користувача X",
+  "@waitingUserToConnectX": {
+    "description": "Waiting user to connect X"
+  },
+  "history": "історія",
+  "@history": {
+    "description": "History"
+  },
+  "noActivity": "Немає активності",
+  "@noActivity": {
+    "description": "No Activity"
+  },
+  "notification": "Сповіщення",
+  "@notification": {
+    "description": "Notification"
+  },
+  "noData": "Немає даних",
+  "@noData": {
+    "description": "No data"
+  },
+  "viewSeedPhraseTip1": "Щоб підвищити безпеку гаманця та зменшити ризик зловмисних атак, MyDoge Wallet використовує механізм зберігання Cubist для надійного зберігання вашого seed-фраза.\nДля перегляду надішліть заявку. Він буде доступний через 48 годин і доступний для перегляду протягом 3 днів.",
+  "@viewSeedPhraseTip1": {
+    "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
+  },
+  "receivedMnemonicTip1": "Ваш доступ закінчиться через {day} днів, {hour} годин і {minute} хвилин. Створіть резервну копію до цього.",
+  "@receivedMnemonicTip1": {
+    "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
+  },
+  "seedPhraseHelpContent": "seed-фраза — це набір із 12–24 слів, який служить ключем до вашого гаманця. Як і банківська картка без PIN, будь-хто, хто її має, може отримати доступ до ваших коштів і переказати їх.",
+  "@seedPhraseHelpContent": {
+    "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
+  },
+  "keepSeedSafeAlertContent": "Ваш seed-фраза не зберігається в MyDoge.\nЩоб переглянути його знову, потрібно зачекати 48 годин.",
+  "@keepSeedSafeAlertContent": {
+    "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
+  },
+  "manageCrypto": "Керуйте криптовалютою",
+  "@manageCrypto": {
+    "description": "Manage crypto"
+  },
+  "addCustomToken": "Додайте спеціальний маркер",
+  "@addCustomToken": {
+    "description": "Add custom token"
+  },
+  "originalPayPIN": "Оригінальна оплата PIN",
+  "@originalPayPIN": {
+    "description": "Original Pay PIN"
+  },
+  "setNewPayPIN": "Встановіть новий Pay PIN",
+  "@setNewPayPIN": {
+    "description": "Set new Pay PIN"
+  },
+  "confirmNewPayPIN": "Підтвердьте новий Pay PIN",
+  "@confirmNewPayPIN": {
+    "description": "Confirm new Pay PIN"
+  },
+  "twoFactor": "Двофакторна автентифікація (2FA)",
+  "@twoFactor": {
+    "description": "Two-Factor Authentication (2FA)"
+  },
+  "twoFactorHint": "Щоб підвищити безпеку вашого облікового запису, ми наполегливо рекомендуємо ввімкнути принаймні одну 2FA.",
+  "@twoFactorHint": {
+    "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
+  },
+  "minAmount": "Мінімальна сума: {amount}",
+  "@minAmount": {
+    "description": "Min amount is {amount}"
+  },
+  "maxAmount": "Максимальна сума – {amount}",
+  "@maxAmount": {
+    "description": "Max amount is {amount}"
+  },
+  "connectedDApp": "Підключив DApp",
+  "@connectedDApp": {
+    "description": "Connected DApp"
+  },
+  "disconnectedAll": "Відключити все",
+  "@disconnectedAll": {
+    "description": "Disconnect All"
+  },
+  "disconnected": "Відключити",
+  "@disconnected": {
+    "description": "Disconnect"
+  },
+  "connected": "Підключено",
+  "@connected": {
+    "description": "Connected"
+  },
+  "connectedWallet": "{name} підключено до {walletName}",
+  "@connectedWallet": {
+    "description": "{name} connected to {walletName}"
+  },
+  "connectedNetwork": "Підключення до мережі {amount}",
+  "@connectedNetwork": {
+    "description": "{amount} network connect"
+  },
+  "dappRequest": "Запит Dapp",
+  "@dappRequest": {
+    "description": "Dapp request"
+  },
+  "fromLabel": "від:",
+  "@fromLabel": {
+    "description": "from: "
+  },
+  "approve": "Затвердити",
+  "@approve": {
+    "description": "Approve"
+  },
+  "sign": "Знак",
+  "@sign": {
+    "description": "Sign"
+  },
+  "walletAddress": "Адреса гаманця",
+  "@walletAddress": {
+    "description": "Wallet address"
+  },
+  "dAppContract": "Контракт DApp",
+  "@dAppContract": {
+    "description": "DApp Contract"
+  },
+  "gasFee": "Комісія за газ",
+  "@gasFee": {
+    "description": "Gas Fee"
+  },
+  "data": "Дані",
+  "@data": {
+    "description": "Data"
+  },
+  "connectYourWallet": "Підключіть свій гаманець",
+  "@connectYourWallet": {
+    "description": "Connect your wallet"
+  },
+  "requestFrom": "Запит від",
+  "@requestFrom": {
+    "description": "Request from "
+  },
+  "dappPermission": "Дозвіл Dapp",
+  "@dappPermission": {
+    "description": "Dapp Permission"
+  },
+  "accessYourETH": "Отримайте доступ до інформації про ETH у мережі",
+  "@accessYourETH": {
+    "description": "Access your ETH on-chain information"
+  },
+  "requestTransaction": "Запит на дозвіл транзакції від вас",
+  "@requestTransaction": {
+    "description": "Request transaction authorization from you"
+  },
+  "note": "Примітка",
+  "@note": {
+    "description": "Note"
+  },
+  "notShareYourPrivateKey": "Авторизація не передасть інформацію про ваш закритий ключ.",
+  "@notShareYourPrivateKey": {
+    "description": "Authorization will not share your private key information."
+  },
+  "networkNotSupported": "Мережа не підтримується",
+  "@networkNotSupported": {
+    "description": "Network not supported"
+  },
+  "amountNetwork": "Мережі {amount}",
+  "@amountNetwork": {
+    "description": "{amount} networks"
+  },
+  "manage": "Керувати",
+  "@manage": {
+    "description": "Manage"
+  },
+  "switzerComplete": "Switzer Complete",
+  "@switzerComplete": {
+    "description": "Switzer Complete"
+  },
+  "noSearchResults": "Немає результатів пошуку",
+  "@noSearchResults": {
+    "description": "No search results"
+  },
+  "authenticatingWithFaceID": "Автентифікація за допомогою Face ID...",
+  "@authenticatingWithFaceID": {
+    "description": "Authenticating with Face ID..."
+  },
+  "disableToken": "Вимкнути фільтр ризикованих маркерів?",
+  "@disableToken": {
+    "description": "Disable risky token filter?"
+  },
+  "disable": "Вимкнути",
+  "@disable": {
+    "description": "Disable"
+  },
+  "disableTokenHint": "Це може наражати вас на ризиковані токени та потенційну втрату активів.",
+  "@disableTokenHint": {
+    "description": "This may expose you to risky tokens and potential asset loss."
+  },
+  "keepSeedSafeAlertTitle": "Ви зберегли свій seed-фраза?",
+  "@keepSeedSafeAlertTitle": {
+    "description": "Have you saved your seed phrase?"
+  },
+  "cancelViewRequest": "Скасувати запит на перегляд",
+  "@cancelViewRequest": {
+    "description": "Cancel the view request"
+  },
+  "featurePoweredBy": "Ця функція підтримується",
+  "@featurePoweredBy": {
+    "description": "This feature is powered by "
+  },
+  "viewSeedPhraseRequestTitle": "Ви надіслали запит на перегляд seed-фраза.",
+  "@viewSeedPhraseRequestTitle": {
+    "description": "You have requested to view the seed phrase."
+  },
+  "viewSeedPhraseRequestTip": "Ваш seed-фраза буде показано тут пізніше",
+  "@viewSeedPhraseRequestTip": {
+    "description": "Your seed phrase will be shown here after"
+  },
+  "receivedMnemonicTitle": "Ваш seed-фраза готовий до перегляду",
+  "@receivedMnemonicTitle": {
+    "description": "Your seed phrase is ready to view"
+  },
+  "receivedMnemonicSubTip1": "Зберігайте свій seed-фраза у безпеці.",
+  "@receivedMnemonicSubTip1": {
+    "description": "Please keep your seed phrase safe."
+  },
+  "receivedMnemonicSubTip2": "MyDoge Wallet не зберігає seed-фрази користувачів. Щоразу, коли ви надсилаєте запит на їх перегляд, ви повинні чекати 48 годин, щоб отримати їх із Cubist.",
+  "@receivedMnemonicSubTip2": {
+    "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
+  },
+  "applyViewSeedPhrase": "Запит на перегляд seed-фраза",
+  "@applyViewSeedPhrase": {
+    "description": "Request to view seed phrase"
+  },
+  "viewSeedPhraseTip2": "",
+  "@viewSeedPhraseTip2": {
+    "description": ""
+  },
+  "viewSeedPhraseTip3": "",
+  "@viewSeedPhraseTip3": {
+    "description": ""
+  },
+  "viewSeedPhraseTip4": "Ви зможете переглянути його через 48 годин.",
+  "@viewSeedPhraseTip4": {
+    "description": "You’ll be able to view it after 48 hours."
+  },
+  "enterCodeDescription": "На адресу надіслано 4-значний код",
+  "@enterCodeDescription": {
+    "description": "A 4-digit code was sent to "
+  },
+  "seedPhraseHelpTitle": "Що таке seed-фраза?",
+  "@seedPhraseHelpTitle": {
+    "description": "What is a seed phrase?"
+  },
+  "seedPhraseHelpNoticeTitle": "Як убезпечити його?",
+  "@seedPhraseHelpNoticeTitle": {
+    "description": "How to keep it secure?"
+  },
+  "seedPhraseHelpNotice1": "Запишіть його або зберігайте в офлайн-пристрої, наприклад у холодному гаманці.",
+  "@seedPhraseHelpNotice1": {
+    "description": "Write it down or store it in an offline device such as a cold wallet."
+  },
+  "seedPhraseHelpNotice2": "Ніколи не зберігайте його, роблячи скріншоти.",
+  "@seedPhraseHelpNotice2": {
+    "description": "Never store it by taking screenshots."
+  },
+  "seedPhraseHelpNotice3": "Ніколи не зберігайте його в програмах соціальних мереж, електронних листах, мобільних нагадуваннях, хмарних службах тощо.",
+  "@seedPhraseHelpNotice3": {
+    "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
+  },
+  "seedPhraseHelpNoticeHideTip": "Не показувати це знову",
+  "@seedPhraseHelpNoticeHideTip": {
+    "description": "Don't show this again"
+  },
+  "done": "Готово",
+  "@done": {
+    "description": "Done"
+  },
+  "keep": "Тримайте",
+  "@keep": {
+    "description": "Keep"
+  },
+  "verifyEmailToProtectAccount": "Підтвердьте свою електронну адресу, щоб захистити свій обліковий запис.",
+  "@verifyEmailToProtectAccount": {
+    "description": "Verify your email to help protect your account."
+  },
+  "potentialHoneypot": "Потенційна приманка",
+  "@potentialHoneypot": {
+    "description": "Potential honeypot"
+  },
+  "tokenNotList": "Токена немає в списку",
+  "@tokenNotList": {
+    "description": "Token not listed"
+  },
+  "tokenNotListHint": "Токена немає в списку та може бути ризикованим. Будь ласка, будьте обережні.",
+  "@tokenNotListHint": {
+    "description": "Token is not listed and may be risky. Please proceed with caution."
+  },
+  "slippageTooHigh": "Ковзання занадто високе",
+  "@slippageTooHigh": {
+    "description": "Slippage is too high"
+  },
+  "slippageTooHighHint": "Торгівля може призвести до потенційних втрат, торгуйте обережно.",
+  "@slippageTooHighHint": {
+    "description": "Trading could lead to potential losses, please trade carefully."
+  },
+  "tokenNotListHint2": "Токена немає в списку. Торгівля може призвести до втрати активів.",
+  "@tokenNotListHint2": {
+    "description": "Token is not listed. Trading may result in asset loss."
+  },
+  "insufficientBalance": "Недостатній баланс",
+  "@insufficientBalance": {
+    "description": "Insufficient balance"
+  },
+  "getStartWithDogeWallet": "Почніть роботу з соціальним гаманцем через соціальну мережу — ваш поточний гаманець залишається в безпеці як MyDoge Classic.",
+  "@getStartWithDogeWallet": {
+    "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
+  },
+  "filterHighRiskTokens": "Відфільтруйте маркери високого ризику одним клацанням миші. Жодні активи не будуть втрачені.",
+  "@filterHighRiskTokens": {
+    "description": "Filter out high-risk tokens with one click. No assets will be lost."
+  },
+  "setUpProfile": "Налаштувати свій профіль для нового досвіду MyDoge?",
+  "@setUpProfile": {
+    "description": "Set up your profile for the new MyDoge experience?"
+  },
+  "invalidWalletAddress": "Недійсна адреса гаманця. Будь ласка, перевірте формат.",
+  "@invalidWalletAddress": {
+    "description": "Invalid wallet address. Please check the format."
+  },
+  "loginTitle1": "Ваш Dogecoin\r\nГаманець, але краще",
+  "@loginTitle1": {
+    "description": "Your Dogecoin\r\nWallet, but Betterer"
+  },
+  "loginDesc1": "Довіряють постачальники по всьому світу",
+  "@loginDesc1": {
+    "description": "Trusted by shibes worldwide"
+  },
+  "loginTitle2": "Приєднуйтеся до улюбленого руху в Інтернеті",
+  "@loginTitle2": {
+    "description": "Join the internet’s favorite movement"
+  },
+  "loginDesc2": "Соціальний гаманець, де заробляють меми.",
+  "@loginDesc2": {
+    "description": "A social wallet where memes earn."
+  },
+  "loginTitle3": "Дізнайтеся, що в тренді Web3",
+  "@loginTitle3": {
+    "description": "Discover what’s trending in Web3"
+  },
+  "loginDesc3": "Світ додатків, квестів та ігор",
+  "@loginDesc3": {
+    "description": "A world of apps, quests and games"
+  },
+  "loginTitle4": "Багато чайових,\r\nтак shibe дружній",
+  "@loginTitle4": {
+    "description": "Much tipping,\r\nso shibe friendly"
+  },
+  "loginDesc4": "Дайте поради своїм френсам і торгуйте разом",
+  "@loginDesc4": {
+    "description": "Tips your frens and trade together"
+  },
+  "connectWithX": "Підключіться до X",
+  "@connectWithX": {
+    "description": "Connect with X"
+  },
+  "signWithOther": "Зареєструйтеся з іншими варіантами",
+  "@signWithOther": {
+    "description": "Sign up with other options"
+  },
+  "byUsingDogeOs": "Використовуючи DogeOS, ви погоджуєтеся прийняти наші",
+  "@byUsingDogeOs": {
+    "description": "By using DogeOS, you agree to accept our"
+  },
+  "chooseLoginTitle": "Вибирайте мудро, shibe",
+  "@chooseLoginTitle": {
+    "description": "Choose wisely, shibe"
+  },
+  "chooseLoginDesc": "Додайте гаманець за допомогою облікового запису Apple або Google. Зберігайте спокій, ваша інформація залишиться конфіденційною.",
+  "@chooseLoginDesc": {
+    "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
+  },
+  "x": "X",
+  "@x": {
+    "description": "X"
+  },
+  "google": "Google",
+  "@google": {
+    "description": "Google"
+  },
+  "whatYourEmail": "Яка ваша електронна адреса?",
+  "@whatYourEmail": {
+    "description": "What’s your email?"
+  },
+  "verifyOtpEmail": "Підтвердьте електронну адресу OTP",
+  "@verifyOtpEmail": {
+    "description": "Verify OTP email"
+  },
+  "aVerificationCode": "Код підтвердження надіслано на адресу",
+  "@aVerificationCode": {
+    "description": "A verification code has been sent to "
+  },
+  "toKeepYourAccountSafe": "Щоб захистити свій обліковий запис, переконайтеся, що Face ID залишається ввімкненим під час використання програми.",
+  "@toKeepYourAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "authFailedTitle": "Аутентифікація\nне вдалося",
+  "@authFailedTitle": {
+    "description": "Authentication\nfailed"
+  },
+  "authFailedDesc": "Під час вашої спроби автентифікації виникла проблема.",
+  "@authFailedDesc": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "faceIdNotEnabledTitle": "Face ID \nНе ввімкнено",
+  "@faceIdNotEnabledTitle": {
+    "description": "Face ID \nNot Enabled"
+  },
+  "faceIdNotEnabledDesc": "Щоб продовжити, увімкніть ідентифікатор обличчя в налаштуваннях.",
+  "@faceIdNotEnabledDesc": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSetting": "Перейдіть до Налаштувань",
+  "@goToSetting": {
+    "description": "Go to Settings"
+  },
+  "setupAuthTitle": "Налаштувати автентифікацію",
+  "@setupAuthTitle": {
+    "description": "Set up authentication"
+  },
+  "setupAuthDesc": "Для безпеки вашого облікового запису експорт seed-фраза вимагає автентифікації.",
+  "@setupAuthDesc": {
+    "description": "For your account’s security, exporting the seed phrase requires authentication."
+  },
+  "goSetup": "Ідіть налаштувати",
+  "@goSetup": {
+    "description": "Go set up"
+  },
+  "cancelRequestTitle": "Скасувати запит",
+  "@cancelRequestTitle": {
+    "description": "Cancel request"
+  },
+  "cancelRequestDesc": "Ви впевнені, що бажаєте скасувати? Це перезапустить період очікування, якщо ви хочете налаштувати новий Passkey.",
+  "@cancelRequestDesc": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "sureToExitTitle": "Ви впевнені, що бажаєте вийти?",
+  "@sureToExitTitle": {
+    "description": "Are you sure you want to exit?"
+  },
+  "sureToExitDesc": "Для нового запиту знадобиться 48-годинний період очікування.",
+  "@sureToExitDesc": {
+    "description": "New request will require a 48-hour waiting period."
+  },
+  "hour48SecurityTitle": "48-годинна перевірка безпеки",
+  "@hour48SecurityTitle": {
+    "description": "48-hour security verification"
+  },
+  "hour48SecurityDesc": "Щоб запобігти ризикам, прив’язка вимагає 48 годин перевірки безпеки. Якщо ви цього не зробили, негайно змініть пароль електронної пошти OTP.",
+  "@hour48SecurityDesc": {
+    "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
+  },
+  "whereDidISetItUpTitle": "Де я це встановив?",
+  "@whereDidISetItUpTitle": {
+    "description": "Where did I set it up?"
+  },
+  "whereDidISetItUpDesc": "Ви можете знайти автентифікатор, якщо ви раніше налаштували його в продуктах на базі Tomo, зокрема WLFI Wallet, Tomo Wallet або MyDoge Wallet.",
+  "@whereDidISetItUpDesc": {
+    "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
+  },
+  "authMethod": "Метод автентифікації",
+  "@authMethod": {
+    "description": "Authentication Method"
+  },
+  "authMethodDesc": "Для входу в обліковий запис і експорту seed-фраза потрібен автентифікатор, що додає додатковий рівень захисту.",
+  "@authMethodDesc": {
+    "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
+  },
+  "passkey": "Passkey",
+  "@passkey": {
+    "description": "Passkey"
+  },
+  "authenticator": "Автентифікатор",
+  "@authenticator": {
+    "description": "Authenticator"
+  },
+  "setUp": "Налаштувати",
+  "@setUp": {
+    "description": "Set up"
+  },
+  "optEmail": "OTP Електронна пошта",
+  "@optEmail": {
+    "description": "OTP Email"
+  },
+  "linked": "Пов'язано",
+  "@linked": {
+    "description": "Linked"
+  },
+  "chooseVerification": "Виберіть перевірку",
+  "@chooseVerification": {
+    "description": "Choose verification"
+  },
+  "linkAuthenticatorApp": "Програма автентифікації посилань",
+  "@linkAuthenticatorApp": {
+    "description": "Link authenticator app"
+  },
+  "stepNum": "Крок {stepNumber}:",
+  "@stepNum": {
+    "description": "Step {stepNumber}: "
+  },
+  "step1Desc": "Завантажте програму автентифікації.",
+  "@step1Desc": {
+    "description": "Download an authenticator app."
+  },
+  "forExample": "Наприклад:",
+  "@forExample": {
+    "description": "For example: "
+  },
+  "step2Desc": "Скопіюйте 16-значний ключ нижче або відскануйте QR-код",
+  "@step2Desc": {
+    "description": "Copy the 16-digit key below or scan the QR code"
+  },
+  "verifyAuthenticator": "Перевірте автентифікатор",
+  "@verifyAuthenticator": {
+    "description": "Verify authenticator"
+  },
+  "enterThe6Digit": "Введіть 6-значний код з аутентифікатора.",
+  "@enterThe6Digit": {
+    "description": "Enter the 6-digit code from the authenticator."
+  },
+  "useAlternativeVerification": "Використовуйте альтернативну перевірку",
+  "@useAlternativeVerification": {
+    "description": "Use alternative verification"
+  },
+  "copySuccess": "Успішне копіювання",
+  "@copySuccess": {
+    "description": "Copy Success"
+  },
+  "addPasskey": "Додайте Passkey",
+  "@addPasskey": {
+    "description": "Add passkey"
+  },
+  "whereDidISetItUp": "Де я це встановив?",
+  "@whereDidISetItUp": {
+    "description": "Where did I set it up?"
+  },
+  "requestSeedTitle": "Запит seed-фраза",
+  "@requestSeedTitle": {
+    "description": "Request Seed Phrase"
+  },
+  "hour48": "48-годинний",
+  "@hour48": {
+    "description": "48-hour"
+  },
+  "requestSeedDesc1": "Щоб гарантувати безпеку ваших активів, потрібен 48-годинний період очікування, перш ніж розкрити ваш seed-фраза.",
+  "@requestSeedDesc1": {
+    "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
+  },
+  "requestSeedDesc2": "Ви можете переглянути свій seed-фраза після закінчення зворотного відліку.",
+  "@requestSeedDesc2": {
+    "description": "You can view your seed phrase after the countdown ends."
+  },
+  "passkeyNotCompleted": "Перевірку Passkey не завершено.",
+  "@passkeyNotCompleted": {
+    "description": "Passkey verification was not completed."
+  },
+  "passkeyNotCompletedDesc": "Ви можете переключитися на інші методи перевірки або спробувати ще раз.",
+  "@passkeyNotCompletedDesc": {
+    "description": "You can switch to other verification methods, or try again."
+  },
+  "viewSeedPhraseDesc1": "Не ваші ключі, не ваша криптографія.",
+  "@viewSeedPhraseDesc1": {
+    "description": "Not your keys, not your crypto."
+  },
+  "viewSeedPhraseDesc2": "Продовжуйте лише в безпечному та приватному середовищі.",
+  "@viewSeedPhraseDesc2": {
+    "description": "Proceed only in a secure and private environment."
+  },
+  "viewSeedPhraseDesc3": "Не діліться цим ні з ким, ніколи.",
+  "@viewSeedPhraseDesc3": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "doNotShare": "Не діліться цим ні з ким, ніколи.",
+  "@doNotShare": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "alreadyBackedUp": "Уже створено резервну копію",
+  "@alreadyBackedUp": {
+    "description": "Already backed up"
+  },
+  "clickToReveal": "Натисніть, щоб відкрити",
+  "@clickToReveal": {
+    "description": "Click to reveal"
+  },
+  "home": "додому",
+  "@home": {
+    "description": "Home"
+  },
+  "wallet": "Гаманець",
+  "@wallet": {
+    "description": "Wallet"
+  },
+  "market": "Ринок",
+  "@market": {
+    "description": "Market"
+  },
+  "activity": "діяльність",
+  "@activity": {
+    "description": "Activity"
+  },
+  "tokens": "Жетони",
+  "@tokens": {
+    "description": "Tokens"
+  },
+  "collectibles": "Предмети колекціонування",
+  "@collectibles": {
+    "description": "Collectibles"
+  },
+  "dogeOSTestnetTitle": "Фаусет testnet DogeOS",
+  "@dogeOSTestnetTitle": {
+    "description": "DogeOS Testnet Faucet"
+  },
+  "dogeOSTestnetDesc": "Надішліть запит на токени testnet, щоб експериментувати з додатком у безпечному середовищі — реальні кошти не потрібні.",
+  "@dogeOSTestnetDesc": {
+    "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
+  },
+  "requestTokens": "Запит жетонів",
+  "@requestTokens": {
+    "description": "Request tokens"
+  },
+  "noNFTsfound": "NFTs не знайдено",
+  "@noNFTsfound": {
+    "description": "No NFTs found"
+  },
+  "passkeySetupNotCompleted": "Налаштування Passkey не завершено.",
+  "@passkeySetupNotCompleted": {
+    "description": "Passkey setup was not completed. "
+  },
+  "sureToLogOut": "Ви впевнені, що бажаєте вийти?",
+  "@sureToLogOut": {
+    "description": "Are you sure you want to log out?"
+  },
+  "communityPicks": "Вибір спільноти",
+  "@communityPicks": {
+    "description": "Community Picks"
+  },
+  "suggestedForYou": "Рекомендовано для вас",
+  "@suggestedForYou": {
+    "description": "Suggested For You"
+  },
+  "earn": "заробити",
+  "@earn": {
+    "description": "Earn"
+  },
+  "fullCatalogue": "Повний каталог",
+  "@fullCatalogue": {
+    "description": "Full Catalogue"
+  },
+  "setupWallet": "Налаштувати гаманець",
+  "@setupWallet": {
+    "description": "Setup wallet"
+  },
+  "setupWalletDesc": "Створіть свій соціальний гаманець за допомогою соціального входу — розблокуйте повну екосистему DogeOS, поки ваш класичний гаманець залишається в безпеці.",
+  "@setupWalletDesc": {
+    "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
+  },
+  "claimTestnetTitle": "Вимагайте токени Testnet",
+  "@claimTestnetTitle": {
+    "description": "Claim Testnet Tokens"
+  },
+  "claimTestnetDesc": "Ніяких реальних коштів не залучено, це\nлише для пробних цілей.",
+  "@claimTestnetDesc": {
+    "description": "No real funds are involved, these are\npractice funds for trial purposes only."
+  },
+  "claimableEvery24Hours": "Заявка кожні 24 години!",
+  "@claimableEvery24Hours": {
+    "description": "Claimable every 24 hours!"
+  },
+  "youGet": "Ви отримаєте:",
+  "@youGet": {
+    "description": "You’ll get:"
+  },
+  "claimTokens": "Токени претензій",
+  "@claimTokens": {
+    "description": "Claim tokens"
+  },
+  "open": "ВІДЧИНЕНО",
+  "@open": {
+    "description": "Open"
+  },
+  "biometricsPin": "Біометрія/PIN",
+  "@biometricsPin": {
+    "description": "Biometrics/PIN"
+  },
+  "advancedSettings": "Розширені налаштування",
+  "@advancedSettings": {
+    "description": "Advanced Settings"
+  },
+  "chooseLanguage": "Виберіть мову",
+  "@chooseLanguage": {
+    "description": "Choose language"
+  },
+  "englishLanguage": "англійська",
+  "@englishLanguage": {
+    "description": "English"
+  },
+  "spanishLanguage": "Español",
+  "@spanishLanguage": {
+    "description": "Español"
+  },
+  "developerMode": "Режим розробника",
+  "@developerMode": {
+    "description": "Developer Mode"
+  },
+  "developerModeDescription": "Розблоковує відкритий браузер для тестування",
+  "@developerModeDescription": {
+    "description": "Unlocks open browser for testing"
+  },
+  "label24hChange": "Зміна 24 години",
+  "@label24hChange": {
+    "description": "24H Change"
+  },
+  "label24hTurnover": "24H Оборот",
+  "@label24hTurnover": {
+    "description": "24H Turnover"
+  },
+  "aNewWalletWithADifferentSeedPhrase": "Новий гаманець з іншим seed-фраза",
+  "@aNewWalletWithADifferentSeedPhrase": {
+    "description": "A new wallet with a different seed phrase"
+  },
+  "aPersonalizedAlphaFeedComingSoon": "Персоналізована альфа-версія (незабаром)",
+  "@aPersonalizedAlphaFeedComingSoon": {
+    "description": "A personalized Alpha feed (coming soon)"
+  },
+  "accessAWorldOfAppsQuestsAndGames": "Отримайте доступ до світу програм, квестів та ігор",
+  "@accessAWorldOfAppsQuestsAndGames": {
+    "description": "Access a world of apps, quests and games"
+  },
+  "account": "Обліковий запис",
+  "@account": {
+    "description": "Account"
+  },
+  "allCategories": "Всі Категорії",
+  "@allCategories": {
+    "description": "All Categories"
+  },
+  "allowContactAccess": "Дозволити доступ до контактів",
+  "@allowContactAccess": {
+    "description": "Allow contact access"
+  },
+  "andWhenDoIGetMyDOGEBack": "І коли я отримаю свій DOGE назад?",
+  "@andWhenDoIGetMyDOGEBack": {
+    "description": "And when do I get my DOGE back?"
+  },
+  "anyWalletWorks": "Чи працює якийсь гаманець?",
+  "@anyWalletWorks": {
+    "description": "Any wallet works?"
+  },
+  "assets": "Активи",
+  "@assets": {
+    "description": "Assets"
+  },
+  "atLeast6Characters": "Мінімум 6 символів",
+  "@atLeast6Characters": {
+    "description": "At least 6 characters"
+  },
+  "atLeast6Password": "Мінімум 6 паролів",
+  "@atLeast6Password": {
+    "description": "At least 6 password"
+  },
+  "autoFollowKOLsYouAlreadyFollowComingSoon": "Автопідписка на KOLs, на яку ви вже підписалися (незабаром)",
+  "@autoFollowKOLsYouAlreadyFollowComingSoon": {
+    "description": "Auto-follow KOLs you already follow (coming soon)"
+  },
+  "backUpNow": "Резервне копіювання зараз",
+  "@backUpNow": {
+    "description": "Back up now"
+  },
+  "backUpWallet": "Резервне копіювання гаманця",
+  "@backUpWallet": {
+    "description": "Back up wallet"
+  },
+  "backupNow": "Резервне копіювання зараз",
+  "@backupNow": {
+    "description": "Backup now"
+  },
+  "biometrics": "Біометрія",
+  "@biometrics": {
+    "description": "Biometrics"
+  },
+  "bridgeRoute": "Маршрут bridge",
+  "@bridgeRoute": {
+    "description": "Bridge Route"
+  },
+  "btcAddressType": "Тип адреси BTC",
+  "@btcAddressType": {
+    "description": "BTC address type"
+  },
+  "buy2": "КУПИТИ",
+  "@buy2": {
+    "description": "BUY"
+  },
+  "changePIN": "Змінити PIN",
+  "@changePIN": {
+    "description": "Change PIN"
+  },
+  "checkYourPIN": "Перевірте свій PIN",
+  "@checkYourPIN": {
+    "description": "Check your PIN"
+  },
+  "classicWallet": "Класичний гаманець",
+  "@classicWallet": {
+    "description": "Classic Wallet"
+  },
+  "clickToView": "Натисніть, щоб переглянути",
+  "@clickToView": {
+    "description": "Click to view"
+  },
+  "cloudBackup": "Хмарне резервне копіювання",
+  "@cloudBackup": {
+    "description": "Cloud backup"
+  },
+  "collections": "Колекції",
+  "@collections": {
+    "description": "Collections"
+  },
+  "connectXForMyDogeTip": "Підключіть X для MyDogeTip",
+  "@connectXForMyDogeTip": {
+    "description": "Connect  X for MyDogeTip"
+  },
+  "contact": "контакт",
+  "@contact": {
+    "description": "Contact"
+  },
+  "continueWith": "Продовжити з",
+  "@continueWith": {
+    "description": "Continue with"
+  },
+  "continueWithApple": "Продовжуйте з Apple",
+  "@continueWithApple": {
+    "description": "Continue with Apple"
+  },
+  "continueWithX": "Продовжуйте з X",
+  "@continueWithX": {
+    "description": "Continue with X"
+  },
+  "contractCalled": "Договір викликаний",
+  "@contractCalled": {
+    "description": "Contract Called"
+  },
+  "createWallet": "Створити гаманець",
+  "@createWallet": {
+    "description": "Create wallet"
+  },
+  "creatingWallet": "Створення гаманця...",
+  "@creatingWallet": {
+    "description": "Creating wallet..."
+  },
+  "dapp2": "DApp",
+  "@dapp2": {
+    "description": "DApp"
+  },
+  "dapps": "dApps",
+  "@dapps": {
+    "description": "dApps"
+  },
+  "date": "Дата",
+  "@date": {
+    "description": "Date"
+  },
+  "date2": "ДАТА",
+  "@date2": {
+    "description": "DATE"
+  },
+  "deleteWallet2": "Видалити гаманець",
+  "@deleteWallet2": {
+    "description": "Delete Wallet"
+  },
+  "deleteWallet3": "Видалити гаманець",
+  "@deleteWallet3": {
+    "description": "Delete wallet"
+  },
+  "deliveryAddress": "Адреса доставки",
+  "@deliveryAddress": {
+    "description": "Delivery address"
+  },
+  "depositTOKEN": "ДЕПОЗИТ ТОКЕН",
+  "@depositTOKEN": {
+    "description": "DEPOSIT TOKEN"
+  },
+  "disconnectX": "Відключити X",
+  "@disconnectX": {
+    "description": "Disconnect X"
+  },
+  "disconnectXForMyDogeTip": "Відключіть X для MyDogeTip",
+  "@disconnectXForMyDogeTip": {
+    "description": "Disconnect X for MyDogeTip"
+  },
+  "doYouHaveDoge": "У вас є Додж?",
+  "@doYouHaveDoge": {
+    "description": "Do you have Doge?"
+  },
+  "dogeosValidators": "DogeOS Валідатори",
+  "@dogeosValidators": {
+    "description": "DogeOS Validators"
+  },
+  "earnAPY": "ЗАРАБОТАТИ APY",
+  "@earnAPY": {
+    "description": "EARN APY"
+  },
+  "easyTHEREBUDDY": "СПОКІЙНО, ДРУЖЕ",
+  "@easyTHEREBUDDY": {
+    "description": "EASY THERE,BUDDY"
+  },
+  "editProfile2": "Редагувати профіль",
+  "@editProfile2": {
+    "description": "Edit Profile"
+  },
+  "enterCurrentPassword": "Введіть поточний пароль",
+  "@enterCurrentPassword": {
+    "description": "Enter current password"
+  },
+  "estGas": "Приблизно газ",
+  "@estGas": {
+    "description": "Est. Gas"
+  },
+  "estTime": "Приблизно час",
+  "@estTime": {
+    "description": "Est. Time"
+  },
+  "estNetworkFee": "Орієнтовна плата за мережу",
+  "@estNetworkFee": {
+    "description": "Est.network fee"
+  },
+  "failedToLoad": "Не вдалося завантажити",
+  "@failedToLoad": {
+    "description": "Failed to load"
+  },
+  "faq": "FAQ",
+  "@faq": {
+    "description": "FAQ"
+  },
+  "fee": "Комісія",
+  "@fee": {
+    "description": "Fee"
+  },
+  "filterRiskTokens": "Фільтр маркерів ризику",
+  "@filterRiskTokens": {
+    "description": "Filter risk tokens"
+  },
+  "followBack": "Слідуйте назад",
+  "@followBack": {
+    "description": "Follow back"
+  },
+  "fromASingleChainToMultiChainWallet": "Від одного ланцюжка до гаманця з кількома ланцюжками",
+  "@fromASingleChainToMultiChainWallet": {
+    "description": "From a single chain to multi-chain wallet"
+  },
+  "fromNetwork": "З мережі",
+  "@fromNetwork": {
+    "description": "From network"
+  },
+  "fromTheGrandHeist": "з The Grand Heist.",
+  "@fromTheGrandHeist": {
+    "description": "from The Grand Heist."
+  },
+  "fullySecureAndSelfCustodialLikeBefore": "Повністю безпечний і самоохоронний, як і раніше.",
+  "@fullySecureAndSelfCustodialLikeBefore": {
+    "description": "Fully secure and self custodial, like before."
+  },
+  "fundYourWalletToGetStarted": "Поповніть свій гаманець, щоб почати",
+  "@fundYourWalletToGetStarted": {
+    "description": "Fund your wallet to get started"
+  },
+  "gasFee2": "Комісія за газ",
+  "@gasFee2": {
+    "description": "Gas fee"
+  },
+  "get": "отримати",
+  "@get": {
+    "description": "Get"
+  },
+  "goBACK": "ПОВЕРНІТЬСЯ НАЗАД",
+  "@goBACK": {
+    "description": "GO BACK"
+  },
+  "howDoIParticipate": "Як взяти участь?",
+  "@howDoIParticipate": {
+    "description": "How do I participate?"
+  },
+  "how": "як?",
+  "@how": {
+    "description": "How?"
+  },
+  "justLeavingThisHereMydogeCom": "Просто залишаю це тут:\\n\\nmydoge.com",
+  "@justLeavingThisHereMydogeCom": {
+    "description": "Just leaving this here:\\n\\nmydoge.com"
+  },
+  "later": "Пізніше",
+  "@later": {
+    "description": "Later"
+  },
+  "manageToken": "Керувати токеном",
+  "@manageToken": {
+    "description": "Manage token"
+  },
+  "me": "я?",
+  "@me": {
+    "description": "Me?"
+  },
+  "migratingAssets": "Перенесення активів...",
+  "@migratingAssets": {
+    "description": "Migrating Assets..."
+  },
+  "migratingFromClassicToSocial": "Перехід із класичного до соціального",
+  "@migratingFromClassicToSocial": {
+    "description": "Migrating from Classic to Social"
+  },
+  "muchExcitement": "Багато хвилювання",
+  "@muchExcitement": {
+    "description": "Much excitement"
+  },
+  "network2": "МЕРЕЖА",
+  "@network2": {
+    "description": "NETWORK"
+  },
+  "networkFee": "Плата за мережу",
+  "@networkFee": {
+    "description": "Network Fee"
+  },
+  "networkFee2": "плата за мережу",
+  "@networkFee2": {
+    "description": "network fee"
+  },
+  "next": "Далі",
+  "@next": {
+    "description": "Next"
+  },
+  "noInscriptions": "Без написів",
+  "@noInscriptions": {
+    "description": "No inscriptions"
+  },
+  "noMessagesYet": "Поки немає повідомлень",
+  "@noMessagesYet": {
+    "description": "No messages yet"
+  },
+  "noResults": "Результатів немає",
+  "@noResults": {
+    "description": "No results"
+  },
+  "notifications": "Сповіщення",
+  "@notifications": {
+    "description": "Notifications"
+  },
+  "paymentMethod": "Спосіб оплати",
+  "@paymentMethod": {
+    "description": "Payment method"
+  },
+  "pin": "PIN",
+  "@pin": {
+    "description": "PIN"
+  },
+  "prev": "попередня",
+  "@prev": {
+    "description": "Prev"
+  },
+  "reEnterNewPassword": "Повторно введіть новий пароль",
+  "@reEnterNewPassword": {
+    "description": "Re-enter new password"
+  },
+  "readOurFAQs": "Прочитайте наші поширені запитання",
+  "@readOurFAQs": {
+    "description": "Read our FAQ’s"
+  },
+  "refund": "Повернення коштів",
+  "@refund": {
+    "description": "Refund"
+  },
+  "renameWallet2": "Перейменувати гаманець",
+  "@renameWallet2": {
+    "description": "Rename wallet"
+  },
+  "reset": "СКИДАННЯ",
+  "@reset": {
+    "description": "RESET"
+  },
+  "resetWallet": "Скинути гаманець",
+  "@resetWallet": {
+    "description": "Reset wallet"
+  },
+  "searchCrypto": "Пошук крипто",
+  "@searchCrypto": {
+    "description": "Search crypto"
+  },
+  "searchToken": "Маркер пошуку",
+  "@searchToken": {
+    "description": "Search token"
+  },
+  "searchTokenName": "Назва маркера пошуку",
+  "@searchTokenName": {
+    "description": "Search token name"
+  },
+  "seedPhraseBackup": "Резервна копія seed-фрази",
+  "@seedPhraseBackup": {
+    "description": "Seed phrase backup"
+  },
+  "selectAll": "Виберіть усі",
+  "@selectAll": {
+    "description": "Select All"
+  },
+  "selectNetwork2": "Виберіть Мережа",
+  "@selectNetwork2": {
+    "description": "Select Network"
+  },
+  "sendAndReceiveTipsSendAndReceiveTips": "Надсилання та отримання підказок Надсилання та отримання підказок",
+  "@sendAndReceiveTipsSendAndReceiveTips": {
+    "description": "Send & Receive TipsSend and receive tips"
+  },
+  "serviceUNAVAILABLE": "СЕРВІС НЕДОСТУПНИЙ",
+  "@serviceUNAVAILABLE": {
+    "description": "SERVICE UNAVAILABLE"
+  },
+  "setANewPIN": "Встановіть новий PIN",
+  "@setANewPIN": {
+    "description": "Set a New PIN"
+  },
+  "signInWithEmailOrASocialLogin": "Увійдіть за допомогою електронної пошти або соціальної мережі",
+  "@signInWithEmailOrASocialLogin": {
+    "description": "Sign in with email or a social login"
+  },
+  "signInWithGoogle": "Увійдіть за допомогою Google",
+  "@signInWithGoogle": {
+    "description": "Sign in with Google"
+  },
+  "signatureFAILED": "ПІДПИС ПОМИЛАСЯ",
+  "@signatureFAILED": {
+    "description": "SIGNATURE FAILED"
+  },
+  "sites": "Сайти",
+  "@sites": {
+    "description": "Sites"
+  },
+  "skipThisStep": "Пропустіть цей крок",
+  "@skipThisStep": {
+    "description": "Skip this Step"
+  },
+  "socialLoginAndRecovery": "Соціальний вхід і відновлення",
+  "@socialLoginAndRecovery": {
+    "description": "Social login and recovery"
+  },
+  "spender": "Спендер",
+  "@spender": {
+    "description": "Spender"
+  },
+  "status": "Статус",
+  "@status": {
+    "description": "Status"
+  },
+  "successItsDone": "Успіх це зроблено",
+  "@successItsDone": {
+    "description": "Success it’s done"
+  },
+  "swapOrder": "Порядок обміну",
+  "@swapOrder": {
+    "description": "Swap order"
+  },
+  "swipeTODEPOSIT": "ПРОВЕРХНІТЬ, ЩОБ ДЕПОЗИТ",
+  "@swipeTODEPOSIT": {
+    "description": "SWIPE TO DEPOSIT"
+  },
+  "switchWallet2": "Змінити гаманець",
+  "@switchWallet2": {
+    "description": "Switch Wallet"
+  },
+  "termsOfUse2": "Умови використання.",
+  "@termsOfUse2": {
+    "description": "Terms of Use."
+  },
+  "thenWhatAreYouWaitingFor": "Тоді чого ви чекаєте?",
+  "@thenWhatAreYouWaitingFor": {
+    "description": "Then what are you waiting for?"
+  },
+  "toNetwork": "До мережі",
+  "@toNetwork": {
+    "description": "To network"
+  },
+  "toTheMoon": "До місяця",
+  "@toTheMoon": {
+    "description": "To the moon"
+  },
+  "transaction": "Транзакція",
+  "@transaction": {
+    "description": "Transaction"
+  },
+  "transaction2": "угода",
+  "@transaction2": {
+    "description": "transaction"
+  },
+  "transaction1": "Транзакція 1",
+  "@transaction1": {
+    "description": "Transaction 1"
+  },
+  "transaction22": "Транзакція 2",
+  "@transaction22": {
+    "description": "Transaction 2"
+  },
+  "transactionFAILED": "ТРАНЗАКЦІЯ ПОМИЛАСЯ",
+  "@transactionFAILED": {
+    "description": "TRANSACTION FAILED"
+  },
+  "transactionTIMEDOUT": "ТРАНЗАКЦІЯ МИНУЛА",
+  "@transactionTIMEDOUT": {
+    "description": "TRANSACTION TIMED OUT"
+  },
+  "tvl": "TVL",
+  "@tvl": {
+    "description": "TVL"
+  },
+  "untitledDapp": "Без назви Dapp",
+  "@untitledDapp": {
+    "description": "Untitled Dapp"
+  },
+  "upgradeToASocialWallet": "Перейдіть на соціальний гаманець",
+  "@upgradeToASocialWallet": {
+    "description": "Upgrade to a Social Wallet"
+  },
+  "useEmailInstead": "Натомість використовуйте електронну пошту",
+  "@useEmailInstead": {
+    "description": "Use Email instead"
+  },
+  "useMAX": "ВИКОРИСТАННЯ МАКС",
+  "@useMAX": {
+    "description": "USE MAX"
+  },
+  "username2": "Ім'я користувача",
+  "@username2": {
+    "description": "Username"
+  },
+  "vaultAddress": "Адреса сховища",
+  "@vaultAddress": {
+    "description": "Vault Address"
+  },
+  "verifyYourPIN2": "Перевірте свій PIN",
+  "@verifyYourPIN2": {
+    "description": "Verify your PIN"
+  },
+  "walletUsed": "Гаманець б/у",
+  "@walletUsed": {
+    "description": "Wallet used"
+  },
+  "welcomeToYourSocialWallet": "Ласкаво просимо до вашого соціального гаманця",
+  "@welcomeToYourSocialWallet": {
+    "description": "Welcome to your Social Wallet"
+  },
+  "wellWeCalledIt69DaysForAReason": "Ну, ми назвали це 69 днів неспроста....",
+  "@wellWeCalledIt69DaysForAReason": {
+    "description": "Well, we called it 69 days for a reason...."
+  },
+  "whatIsADogecoinAddressHowDoIGetOne": "Що таке адреса Dogecoin? Як отримати один?",
+  "@whatIsADogecoinAddressHowDoIGetOne": {
+    "description": "What is a Dogecoin address? How do I get one?"
+  },
+  "whatIsThisAbout": "про що це?",
+  "@whatIsThisAbout": {
+    "description": "What is this about?"
+  },
+  "whatsNext": "що далі",
+  "@whatsNext": {
+    "description": "what's next?"
+  },
+  "whoCanParticipate": "Хто може брати участь?",
+  "@whoCanParticipate": {
+    "description": "Who can participate?"
+  },
+  "woof": "Гав",
+  "@woof": {
+    "description": "Woof."
+  },
+  "yesYou": "Так ти.",
+  "@yesYou": {
+    "description": "Yes, you."
+  },
+  "yes2": "так...",
+  "@yes2": {
+    "description": "Yes..."
+  },
+  "youAreAllSetHangOutWithYourMyDogeNow": "Усе готово!\\nПоспілкуйтеся зі своїм My Doge зараз.",
+  "@youAreAllSetHangOutWithYourMyDogeNow": {
+    "description": "You are all set!\\nHang out with your My Doge now."
+  },
+  "youSure": "Ви впевнені?",
+  "@youSure": {
+    "description": "You sure?"
+  },
+  "you": "Ви.",
+  "@you": {
+    "description": "You."
+  },
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваші кошти буде заблоковано до запуску основної мережі (цель: ~69 днів, може змінюватися).\\n\\n",
+  "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+  },
+  "yourWalletIsReady": "Ваш гаманець готовий",
+  "@yourWalletIsReady": {
+    "description": "Your wallet is ready"
+  }
+}

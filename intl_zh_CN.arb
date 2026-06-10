@@ -66,7 +66,7 @@
   },
   "forgetThePassword": "忘记密码？",
   "@forgetThePassword": {
-    "description": "Forget the password?"
+    "description": "Forget the password？"
   },
   "continueBtn": "继续",
   "@continueBtn": {
@@ -78,7 +78,7 @@
   },
   "setPasswordDesc": "设置您的密码。将来您也可以通过电子邮件直接登录。",
   "@setPasswordDesc": {
-    "description": "Set your password. You can also log in directly through email in the future."
+    "description": "Set your password. You can also log in directly through email in the future.  "
   },
   "emailCode": "电子邮件验证码",
   "@emailCode": {
@@ -98,7 +98,7 @@
   },
   "bindEmailDesc": "为 lucasscott3@email.com 设置密码。这样您将来也可以通过电子邮件直接登录。",
   "@bindEmailDesc": {
-    "description": "Set your password for lucasscott3@email.com. So you can also log in directly through email in the future."
+    "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
   },
   "setYourProfile": "设置您的个人资料",
   "@setYourProfile": {
@@ -286,7 +286,7 @@
   },
   "network": "网络：",
   "@network": {
-    "description": "Network:"
+    "description": "Network："
   },
   "all": "全部",
   "@all": {
@@ -326,13 +326,13 @@
   },
   "balance": "余额：",
   "@balance": {
-    "description": "Balance:"
+    "description": "Balance："
   },
   "max": "最大",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "向朋友发送汽油费",
+  "sendGasToFriends": "向朋友发送 Gas",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
@@ -1090,7 +1090,7 @@
   },
   "turnOffRisk": "关闭风险代币过滤器？",
   "@turnOffRisk": {
-    "description": "Turn off risky tokens filter?"
+    "description": "Turn off risky tokens filter？"
   },
   "sureTurnOff": "您确定要关闭风险代币过滤器吗？这可能会导致资产损失。",
   "@sureTurnOff": {
@@ -1574,7 +1574,7 @@
   },
   "backupSecurity": "备份与安全",
   "@backupSecurity": {
-    "description": "Backup & Security"
+    "description": "Backup  & Security"
   },
   "backupYourWalletHint": "将您的钱包保存到云端并使用密码保护。您还可以写下您的助记词或将其复制到密码管理器中。",
   "@backupYourWalletHint": {
@@ -1799,10 +1799,6 @@
   "noSearchResult": "没有搜索结果",
   "@noSearchResult": {
     "description": "No search result"
-  },
-  "sendTo": "发送到",
-  "@sendTo": {
-    "description": "Send to"
   },
   "searchForPeople": "搜索人员或输入地址",
   "@searchForPeople": {
@@ -2172,7 +2168,7 @@
   "@dAppContract": {
     "description": "DApp Contract"
   },
-  "gasFee": "汽油费",
+  "gasFee": "Gas 费",
   "@gasFee": {
     "description": "Gas Fee"
   },
@@ -2375,5 +2371,981 @@
   "invalidWalletAddress": "钱包地址无效。请检查格式。",
   "@invalidWalletAddress": {
     "description": "Invalid wallet address. Please check the format."
+  },
+  "loginTitle1": "你的Dogecoin\r\n钱包，但更好",
+  "@loginTitle1": {
+    "description": "Your Dogecoin\r\nWallet, but Betterer"
+  },
+  "loginDesc1": "深受全球领导者信赖",
+  "@loginDesc1": {
+    "description": "Trusted by shibes worldwide"
+  },
+  "loginTitle2": "加入互联网上最受欢迎的运动",
+  "@loginTitle2": {
+    "description": "Join the internet’s favorite movement"
+  },
+  "loginDesc2": "一个可以赚取模因的社交钱包。",
+  "@loginDesc2": {
+    "description": "A social wallet where memes earn."
+  },
+  "loginTitle3": "发现 Web3 的趋势",
+  "@loginTitle3": {
+    "description": "Discover what’s trending in Web3"
+  },
+  "loginDesc3": "充满应用程序、任务和游戏的世界",
+  "@loginDesc3": {
+    "description": "A world of apps, quests and games"
+  },
+  "loginTitle4": "小费多多，\r\n非常友善",
+  "@loginTitle4": {
+    "description": "Much tipping,\r\nso shibe friendly"
+  },
+  "loginDesc4": "给你的朋友小费并一起交易",
+  "@loginDesc4": {
+    "description": "Tips your frens and trade together"
+  },
+  "connectWithX": "与 X 连接",
+  "@connectWithX": {
+    "description": "Connect with X"
+  },
+  "signWithOther": "使用其他选项注册",
+  "@signWithOther": {
+    "description": "Sign up with other options"
+  },
+  "byUsingDogeOs": "使用 DogeOS，即表示您同意接受我们的",
+  "@byUsingDogeOs": {
+    "description": "By using DogeOS, you agree to accept our"
+  },
+  "chooseLoginTitle": "明智地选择，希贝",
+  "@chooseLoginTitle": {
+    "description": "Choose wisely, shibe"
+  },
+  "chooseLoginDesc": "使用您的 Apple 或 Google 帐户添加钱包。保持冷静，您的信息将保密。",
+  "@chooseLoginDesc": {
+    "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
+  },
+  "x": "X",
+  "@x": {
+    "description": "X"
+  },
+  "google": "谷歌",
+  "@google": {
+    "description": "Google"
+  },
+  "whatYourEmail": "你的电子邮件是什么？",
+  "@whatYourEmail": {
+    "description": "What’s your email?"
+  },
+  "verifyOtpEmail": "验证 OTP 电子邮件",
+  "@verifyOtpEmail": {
+    "description": "Verify OTP email"
+  },
+  "aVerificationCode": "验证码已发送至",
+  "@aVerificationCode": {
+    "description": "A verification code has been sent to "
+  },
+  "toKeepYourAccountSafe": "为了确保您的帐户安全，请确保在使用该应用程序时保持面容 ID 处于启用状态。",
+  "@toKeepYourAccountSafe": {
+    "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
+  },
+  "authFailedTitle": "认证\n失败了",
+  "@authFailedTitle": {
+    "description": "Authentication\nfailed"
+  },
+  "authFailedDesc": "您的身份验证尝试出现问题。",
+  "@authFailedDesc": {
+    "description": "There was an issue with your authentication attempt."
+  },
+  "faceIdNotEnabledTitle": "人脸识别 \n未启用",
+  "@faceIdNotEnabledTitle": {
+    "description": "Face ID \nNot Enabled"
+  },
+  "faceIdNotEnabledDesc": "请在“设置”中启用面容 ID 才能继续。",
+  "@faceIdNotEnabledDesc": {
+    "description": "Please enable Face ID in Settings to continue."
+  },
+  "goToSetting": "前往“设置”",
+  "@goToSetting": {
+    "description": "Go to Settings"
+  },
+  "setupAuthTitle": "设置身份验证",
+  "@setupAuthTitle": {
+    "description": "Set up authentication"
+  },
+  "setupAuthDesc": "为了您帐户的安全，导出 助记词 需要身份验证。",
+  "@setupAuthDesc": {
+    "description": "For your account’s security, exporting the seed phrase requires authentication."
+  },
+  "goSetup": "去设置",
+  "@goSetup": {
+    "description": "Go set up"
+  },
+  "cancelRequestTitle": "取消请求",
+  "@cancelRequestTitle": {
+    "description": "Cancel request"
+  },
+  "cancelRequestDesc": "您确定要取消吗？如果您想设置新的 通行密钥，这将重新开始等待期。",
+  "@cancelRequestDesc": {
+    "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
+  },
+  "sureToExitTitle": "您确定要退出吗？",
+  "@sureToExitTitle": {
+    "description": "Are you sure you want to exit?"
+  },
+  "sureToExitDesc": "新请求将需要 48 小时的等待期。",
+  "@sureToExitDesc": {
+    "description": "New request will require a 48-hour waiting period."
+  },
+  "hour48SecurityTitle": "48小时安全验证",
+  "@hour48SecurityTitle": {
+    "description": "48-hour security verification"
+  },
+  "hour48SecurityDesc": "绑定需要48小时安全验证，防范风险。如果不是您本人操作，请立即更改 OTP 电子邮件密码。",
+  "@hour48SecurityDesc": {
+    "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
+  },
+  "whereDidISetItUpTitle": "我在哪里设置的？",
+  "@whereDidISetItUpTitle": {
+    "description": "Where did I set it up?"
+  },
+  "whereDidISetItUpDesc": "如果您之前在由 Tomo 提供支持的产品（包括 WLFI 钱包、Tomo 钱包或 MyDoge 钱包）中设置过验证器，则可以找到该验证器。",
+  "@whereDidISetItUpDesc": {
+    "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
+  },
+  "authMethod": "认证方式",
+  "@authMethod": {
+    "description": "Authentication Method"
+  },
+  "authMethodDesc": "帐户登录和 助记词 导出需要身份验证器，增加额外的保护层。",
+  "@authMethodDesc": {
+    "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
+  },
+  "passkey": "通行密钥",
+  "@passkey": {
+    "description": "Passkey"
+  },
+  "authenticator": "验证器",
+  "@authenticator": {
+    "description": "Authenticator"
+  },
+  "setUp": "设置",
+  "@setUp": {
+    "description": "Set up"
+  },
+  "optEmail": "OTP 电子邮件",
+  "@optEmail": {
+    "description": "OTP Email"
+  },
+  "linked": "链接",
+  "@linked": {
+    "description": "Linked"
+  },
+  "chooseVerification": "选择验证",
+  "@chooseVerification": {
+    "description": "Choose verification"
+  },
+  "linkAuthenticatorApp": "链接验证器应用程序",
+  "@linkAuthenticatorApp": {
+    "description": "Link authenticator app"
+  },
+  "stepNum": "步骤{stepNumber}：",
+  "@stepNum": {
+    "description": "Step {stepNumber}: "
+  },
+  "step1Desc": "下载身份验证器应用程序。",
+  "@step1Desc": {
+    "description": "Download an authenticator app."
+  },
+  "forExample": "例如：",
+  "@forExample": {
+    "description": "For example: "
+  },
+  "step2Desc": "复制下方16位密钥或扫描二维码",
+  "@step2Desc": {
+    "description": "Copy the 16-digit key below or scan the QR code"
+  },
+  "verifyAuthenticator": "验证验证器",
+  "@verifyAuthenticator": {
+    "description": "Verify authenticator"
+  },
+  "enterThe6Digit": "输入验证器提供的 6 位代码。",
+  "@enterThe6Digit": {
+    "description": "Enter the 6-digit code from the authenticator."
+  },
+  "useAlternativeVerification": "使用替代验证",
+  "@useAlternativeVerification": {
+    "description": "Use alternative verification"
+  },
+  "copySuccess": "复制成功",
+  "@copySuccess": {
+    "description": "Copy Success"
+  },
+  "addPasskey": "添加通行密钥",
+  "@addPasskey": {
+    "description": "Add passkey"
+  },
+  "whereDidISetItUp": "我在哪里设置的？",
+  "@whereDidISetItUp": {
+    "description": "Where did I set it up?"
+  },
+  "requestSeedTitle": "请求 助记词",
+  "@requestSeedTitle": {
+    "description": "Request Seed Phrase"
+  },
+  "hour48": "48小时",
+  "@hour48": {
+    "description": "48-hour"
+  },
+  "requestSeedDesc1": "为了确保您的资产安全，在透露您的 助记词 之前需要等待 48 小时。",
+  "@requestSeedDesc1": {
+    "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
+  },
+  "requestSeedDesc2": "倒计时结束后，您可以查看您的 助记词。",
+  "@requestSeedDesc2": {
+    "description": "You can view your seed phrase after the countdown ends."
+  },
+  "passkeyNotCompleted": "通行密钥 验证未完成。",
+  "@passkeyNotCompleted": {
+    "description": "Passkey verification was not completed."
+  },
+  "passkeyNotCompletedDesc": "您可以更换其他验证方式，或者重试。",
+  "@passkeyNotCompletedDesc": {
+    "description": "You can switch to other verification methods, or try again."
+  },
+  "viewSeedPhraseDesc1": "不是你的钥匙，不是你的加密货币。",
+  "@viewSeedPhraseDesc1": {
+    "description": "Not your keys, not your crypto."
+  },
+  "viewSeedPhraseDesc2": "仅在安全且私密的环境中进行。",
+  "@viewSeedPhraseDesc2": {
+    "description": "Proceed only in a secure and private environment."
+  },
+  "viewSeedPhraseDesc3": "永远不要与任何人分享。",
+  "@viewSeedPhraseDesc3": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "doNotShare": "永远不要与任何人分享。",
+  "@doNotShare": {
+    "description": "Don't share it with anyone, ever."
+  },
+  "alreadyBackedUp": "已经备份了",
+  "@alreadyBackedUp": {
+    "description": "Already backed up"
+  },
+  "clickToReveal": "点击显示",
+  "@clickToReveal": {
+    "description": "Click to reveal"
+  },
+  "home": "家",
+  "@home": {
+    "description": "Home"
+  },
+  "wallet": "钱包",
+  "@wallet": {
+    "description": "Wallet"
+  },
+  "market": "市场",
+  "@market": {
+    "description": "Market"
+  },
+  "activity": "活动",
+  "@activity": {
+    "description": "Activity"
+  },
+  "tokens": "代币",
+  "@tokens": {
+    "description": "Tokens"
+  },
+  "collectibles": "收藏品",
+  "@collectibles": {
+    "description": "Collectibles"
+  },
+  "dogeOSTestnetTitle": "DogeOS 测试网水龙头",
+  "@dogeOSTestnetTitle": {
+    "description": "DogeOS Testnet Faucet"
+  },
+  "dogeOSTestnetDesc": "请求测试网代币在安全的环境中试验该应用程序 - 不需要真正的资金。",
+  "@dogeOSTestnetDesc": {
+    "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
+  },
+  "requestTokens": "请求令牌",
+  "@requestTokens": {
+    "description": "Request tokens"
+  },
+  "noNFTsfound": "未找到 NFTs",
+  "@noNFTsfound": {
+    "description": "No NFTs found"
+  },
+  "passkeySetupNotCompleted": "通行密钥 设置未完成。",
+  "@passkeySetupNotCompleted": {
+    "description": "Passkey setup was not completed. "
+  },
+  "sureToLogOut": "您确定要退出吗？",
+  "@sureToLogOut": {
+    "description": "Are you sure you want to log out?"
+  },
+  "communityPicks": "社区精选",
+  "@communityPicks": {
+    "description": "Community Picks"
+  },
+  "suggestedForYou": "为您推荐",
+  "@suggestedForYou": {
+    "description": "Suggested For You"
+  },
+  "earn": "赚",
+  "@earn": {
+    "description": "Earn"
+  },
+  "fullCatalogue": "完整目录",
+  "@fullCatalogue": {
+    "description": "Full Catalogue"
+  },
+  "setupWallet": "设置钱包",
+  "@setupWallet": {
+    "description": "Setup wallet"
+  },
+  "setupWalletDesc": "通过社交登录创建您的社交钱包 - 解锁完整的 DogeOS 生态系统，同时您的经典钱包保持安全。",
+  "@setupWalletDesc": {
+    "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
+  },
+  "claimTestnetTitle": "领取测试网代币",
+  "@claimTestnetTitle": {
+    "description": "Claim Testnet Tokens"
+  },
+  "claimTestnetDesc": "不涉及真正的资金，这些是\n练习基金仅用于试验目的。",
+  "@claimTestnetDesc": {
+    "description": "No real funds are involved, these are\npractice funds for trial purposes only."
+  },
+  "claimableEvery24Hours": "每24小时可领取一次！",
+  "@claimableEvery24Hours": {
+    "description": "Claimable every 24 hours!"
+  },
+  "youGet": "你会得到：",
+  "@youGet": {
+    "description": "You’ll get:"
+  },
+  "claimTokens": "领取代币",
+  "@claimTokens": {
+    "description": "Claim tokens"
+  },
+  "open": "打开",
+  "@open": {
+    "description": "Open"
+  },
+  "biometricsPin": "生物识别/PIN",
+  "@biometricsPin": {
+    "description": "Biometrics/PIN"
+  },
+  "advancedSettings": "高级设置",
+  "@advancedSettings": {
+    "description": "Advanced Settings"
+  },
+  "chooseLanguage": "选择语言",
+  "@chooseLanguage": {
+    "description": "Choose language"
+  },
+  "englishLanguage": "英语",
+  "@englishLanguage": {
+    "description": "English"
+  },
+  "spanishLanguage": "西班牙语",
+  "@spanishLanguage": {
+    "description": "Español"
+  },
+  "developerMode": "开发者模式",
+  "@developerMode": {
+    "description": "Developer Mode"
+  },
+  "developerModeDescription": "解锁打开的浏览器以进行测试",
+  "@developerModeDescription": {
+    "description": "Unlocks open browser for testing"
+  },
+  "label24hChange": "24小时变化",
+  "@label24hChange": {
+    "description": "24H Change"
+  },
+  "label24hTurnover": "24小时成交量",
+  "@label24hTurnover": {
+    "description": "24H Turnover"
+  },
+  "aNewWalletWithADifferentSeedPhrase": "具有不同 助记词 的新钱包",
+  "@aNewWalletWithADifferentSeedPhrase": {
+    "description": "A new wallet with a different seed phrase"
+  },
+  "aPersonalizedAlphaFeedComingSoon": "个性化 Alpha feed（即将推出）",
+  "@aPersonalizedAlphaFeedComingSoon": {
+    "description": "A personalized Alpha feed (coming soon)"
+  },
+  "accessAWorldOfAppsQuestsAndGames": "进入充满应用程序、任务和游戏的世界",
+  "@accessAWorldOfAppsQuestsAndGames": {
+    "description": "Access a world of apps, quests and games"
+  },
+  "account": "帐户",
+  "@account": {
+    "description": "Account"
+  },
+  "allCategories": "所有类别",
+  "@allCategories": {
+    "description": "All Categories"
+  },
+  "allowContactAccess": "允许联系人访问",
+  "@allowContactAccess": {
+    "description": "Allow contact access"
+  },
+  "andWhenDoIGetMyDOGEBack": "我什么时候可以拿回我的 DOGE？",
+  "@andWhenDoIGetMyDOGEBack": {
+    "description": "And when do I get my DOGE back?"
+  },
+  "anyWalletWorks": "有什么钱包可以用吗？",
+  "@anyWalletWorks": {
+    "description": "Any wallet works?"
+  },
+  "assets": "资产",
+  "@assets": {
+    "description": "Assets"
+  },
+  "atLeast6Characters": "至少 6 个字符",
+  "@atLeast6Characters": {
+    "description": "At least 6 characters"
+  },
+  "atLeast6Password": "至少6个密码",
+  "@atLeast6Password": {
+    "description": "At least 6 password"
+  },
+  "autoFollowKOLsYouAlreadyFollowComingSoon": "自动关注您已经关注的 KOLs（即将推出）",
+  "@autoFollowKOLsYouAlreadyFollowComingSoon": {
+    "description": "Auto-follow KOLs you already follow (coming soon)"
+  },
+  "backUpNow": "立即备份",
+  "@backUpNow": {
+    "description": "Back up now"
+  },
+  "backUpWallet": "备份钱包",
+  "@backUpWallet": {
+    "description": "Back up wallet"
+  },
+  "backupNow": "立即备份",
+  "@backupNow": {
+    "description": "Backup now"
+  },
+  "biometrics": "生物识别技术",
+  "@biometrics": {
+    "description": "Biometrics"
+  },
+  "bridgeRoute": "跨链桥路径",
+  "@bridgeRoute": {
+    "description": "Bridge Route"
+  },
+  "btcAddressType": "BTC 地址类型",
+  "@btcAddressType": {
+    "description": "BTC address type"
+  },
+  "buy2": "买",
+  "@buy2": {
+    "description": "BUY"
+  },
+  "changePIN": "更改 PIN",
+  "@changePIN": {
+    "description": "Change PIN"
+  },
+  "checkYourPIN": "检查您的 PIN",
+  "@checkYourPIN": {
+    "description": "Check your PIN"
+  },
+  "classicWallet": "经典钱包",
+  "@classicWallet": {
+    "description": "Classic Wallet"
+  },
+  "clickToView": "点击查看",
+  "@clickToView": {
+    "description": "Click to view"
+  },
+  "cloudBackup": "云备份",
+  "@cloudBackup": {
+    "description": "Cloud backup"
+  },
+  "collections": "收藏",
+  "@collections": {
+    "description": "Collections"
+  },
+  "connectXForMyDogeTip": "连接 X 为 MyDogeTip",
+  "@connectXForMyDogeTip": {
+    "description": "Connect  X for MyDogeTip"
+  },
+  "contact": "接触",
+  "@contact": {
+    "description": "Contact"
+  },
+  "continueWith": "继续",
+  "@continueWith": {
+    "description": "Continue with"
+  },
+  "continueWithApple": "继续使用苹果",
+  "@continueWithApple": {
+    "description": "Continue with Apple"
+  },
+  "continueWithX": "继续 X",
+  "@continueWithX": {
+    "description": "Continue with X"
+  },
+  "contractCalled": "合约名为",
+  "@contractCalled": {
+    "description": "Contract Called"
+  },
+  "createWallet": "创建钱包",
+  "@createWallet": {
+    "description": "Create wallet"
+  },
+  "creatingWallet": "正在创建钱包...",
+  "@creatingWallet": {
+    "description": "Creating wallet..."
+  },
+  "dapp2": "DApp",
+  "@dapp2": {
+    "description": "DApp"
+  },
+  "dapps": "dApps",
+  "@dapps": {
+    "description": "dApps"
+  },
+  "date": "日期",
+  "@date": {
+    "description": "Date"
+  },
+  "date2": "日期",
+  "@date2": {
+    "description": "DATE"
+  },
+  "deleteWallet2": "删除钱包",
+  "@deleteWallet2": {
+    "description": "Delete Wallet"
+  },
+  "deleteWallet3": "删除钱包",
+  "@deleteWallet3": {
+    "description": "Delete wallet"
+  },
+  "deliveryAddress": "送货地址",
+  "@deliveryAddress": {
+    "description": "Delivery address"
+  },
+  "depositTOKEN": "存款代币",
+  "@depositTOKEN": {
+    "description": "DEPOSIT TOKEN"
+  },
+  "disconnectX": "断开 X",
+  "@disconnectX": {
+    "description": "Disconnect X"
+  },
+  "disconnectXForMyDogeTip": "断开 MyDogeTip 的 X",
+  "@disconnectXForMyDogeTip": {
+    "description": "Disconnect X for MyDogeTip"
+  },
+  "doYouHaveDoge": "你有道格吗？",
+  "@doYouHaveDoge": {
+    "description": "Do you have Doge?"
+  },
+  "dogeosValidators": "DogeOS 验证器",
+  "@dogeosValidators": {
+    "description": "DogeOS Validators"
+  },
+  "earnAPY": "赚取 APY",
+  "@earnAPY": {
+    "description": "EARN APY"
+  },
+  "easyTHEREBUDDY": "放轻松，伙计",
+  "@easyTHEREBUDDY": {
+    "description": "EASY THERE,BUDDY"
+  },
+  "editProfile2": "编辑个人资料",
+  "@editProfile2": {
+    "description": "Edit Profile"
+  },
+  "enterCurrentPassword": "输入当前密码",
+  "@enterCurrentPassword": {
+    "description": "Enter current password"
+  },
+  "estGas": "预计。气体",
+  "@estGas": {
+    "description": "Est. Gas"
+  },
+  "estTime": "预计。时间",
+  "@estTime": {
+    "description": "Est. Time"
+  },
+  "estNetworkFee": "预计网络费用",
+  "@estNetworkFee": {
+    "description": "Est.network fee"
+  },
+  "failedToLoad": "加载失败",
+  "@failedToLoad": {
+    "description": "Failed to load"
+  },
+  "faq": "常问问题",
+  "@faq": {
+    "description": "FAQ"
+  },
+  "fee": "费用",
+  "@fee": {
+    "description": "Fee"
+  },
+  "filterRiskTokens": "过滤风险代币",
+  "@filterRiskTokens": {
+    "description": "Filter risk tokens"
+  },
+  "followBack": "跟着回来",
+  "@followBack": {
+    "description": "Follow back"
+  },
+  "fromASingleChainToMultiChainWallet": "从单链钱包到多链钱包",
+  "@fromASingleChainToMultiChainWallet": {
+    "description": "From a single chain to multi-chain wallet"
+  },
+  "fromNetwork": "来自网络",
+  "@fromNetwork": {
+    "description": "From network"
+  },
+  "fromTheGrandHeist": "出自《大抢劫》。",
+  "@fromTheGrandHeist": {
+    "description": "from The Grand Heist."
+  },
+  "fullySecureAndSelfCustodialLikeBefore": "像以前一样完全安全和自我保管。",
+  "@fullySecureAndSelfCustodialLikeBefore": {
+    "description": "Fully secure and self custodial, like before."
+  },
+  "fundYourWalletToGetStarted": "为钱包充值以开始使用",
+  "@fundYourWalletToGetStarted": {
+    "description": "Fund your wallet to get started"
+  },
+  "gasFee2": "Gas 费",
+  "@gasFee2": {
+    "description": "Gas fee"
+  },
+  "get": "得到",
+  "@get": {
+    "description": "Get"
+  },
+  "goBACK": "回去",
+  "@goBACK": {
+    "description": "GO BACK"
+  },
+  "howDoIParticipate": "我该如何参与？",
+  "@howDoIParticipate": {
+    "description": "How do I participate?"
+  },
+  "how": "如何？",
+  "@how": {
+    "description": "How?"
+  },
+  "justLeavingThisHereMydogeCom": "只需将其留在这里：\\n\\nmydoge.com",
+  "@justLeavingThisHereMydogeCom": {
+    "description": "Just leaving this here:\\n\\nmydoge.com"
+  },
+  "later": "之后",
+  "@later": {
+    "description": "Later"
+  },
+  "manageToken": "管理代币",
+  "@manageToken": {
+    "description": "Manage token"
+  },
+  "me": "我？",
+  "@me": {
+    "description": "Me?"
+  },
+  "migratingAssets": "迁移资产...",
+  "@migratingAssets": {
+    "description": "Migrating Assets..."
+  },
+  "migratingFromClassicToSocial": "从经典迁移到社交",
+  "@migratingFromClassicToSocial": {
+    "description": "Migrating from Classic to Social"
+  },
+  "muchExcitement": "非常兴奋",
+  "@muchExcitement": {
+    "description": "Much excitement"
+  },
+  "network2": "网络",
+  "@network2": {
+    "description": "NETWORK"
+  },
+  "networkFee": "网络费",
+  "@networkFee": {
+    "description": "Network Fee"
+  },
+  "networkFee2": "网络费",
+  "@networkFee2": {
+    "description": "network fee"
+  },
+  "next": "下一个",
+  "@next": {
+    "description": "Next"
+  },
+  "noInscriptions": "无铭文",
+  "@noInscriptions": {
+    "description": "No inscriptions"
+  },
+  "noMessagesYet": "还没有消息",
+  "@noMessagesYet": {
+    "description": "No messages yet"
+  },
+  "noResults": "没有结果",
+  "@noResults": {
+    "description": "No results"
+  },
+  "notifications": "通知",
+  "@notifications": {
+    "description": "Notifications"
+  },
+  "paymentMethod": "付款方式",
+  "@paymentMethod": {
+    "description": "Payment method"
+  },
+  "pin": "PIN",
+  "@pin": {
+    "description": "PIN"
+  },
+  "prev": "上一篇",
+  "@prev": {
+    "description": "Prev"
+  },
+  "reEnterNewPassword": "重新输入新密码",
+  "@reEnterNewPassword": {
+    "description": "Re-enter new password"
+  },
+  "readOurFAQs": "阅读我们的常见问题解答",
+  "@readOurFAQs": {
+    "description": "Read our FAQ’s"
+  },
+  "refund": "退款",
+  "@refund": {
+    "description": "Refund"
+  },
+  "renameWallet2": "重命名钱包",
+  "@renameWallet2": {
+    "description": "Rename wallet"
+  },
+  "reset": "重置",
+  "@reset": {
+    "description": "RESET"
+  },
+  "resetWallet": "重置钱包",
+  "@resetWallet": {
+    "description": "Reset wallet"
+  },
+  "searchCrypto": "搜索加密货币",
+  "@searchCrypto": {
+    "description": "Search crypto"
+  },
+  "searchToken": "搜索令牌",
+  "@searchToken": {
+    "description": "Search token"
+  },
+  "searchTokenName": "搜索代币名称",
+  "@searchTokenName": {
+    "description": "Search token name"
+  },
+  "seedPhraseBackup": "助记词备份",
+  "@seedPhraseBackup": {
+    "description": "Seed phrase backup"
+  },
+  "selectAll": "选择全部",
+  "@selectAll": {
+    "description": "Select All"
+  },
+  "selectNetwork2": "选择网络",
+  "@selectNetwork2": {
+    "description": "Select Network"
+  },
+  "sendAndReceiveTipsSendAndReceiveTips": "发送和接收提示发送和接收提示",
+  "@sendAndReceiveTipsSendAndReceiveTips": {
+    "description": "Send & Receive TipsSend and receive tips"
+  },
+  "serviceUNAVAILABLE": "暂停服务",
+  "@serviceUNAVAILABLE": {
+    "description": "SERVICE UNAVAILABLE"
+  },
+  "setANewPIN": "设置新的 PIN",
+  "@setANewPIN": {
+    "description": "Set a New PIN"
+  },
+  "signInWithEmailOrASocialLogin": "使用电子邮件或社交登录名登录",
+  "@signInWithEmailOrASocialLogin": {
+    "description": "Sign in with email or a social login"
+  },
+  "signInWithGoogle": "使用 Google 登录",
+  "@signInWithGoogle": {
+    "description": "Sign in with Google"
+  },
+  "signatureFAILED": "签名失败",
+  "@signatureFAILED": {
+    "description": "SIGNATURE FAILED"
+  },
+  "sites": "站点",
+  "@sites": {
+    "description": "Sites"
+  },
+  "skipThisStep": "跳过此步骤",
+  "@skipThisStep": {
+    "description": "Skip this Step"
+  },
+  "socialLoginAndRecovery": "社交登录和恢复",
+  "@socialLoginAndRecovery": {
+    "description": "Social login and recovery"
+  },
+  "spender": "斯彭德",
+  "@spender": {
+    "description": "Spender"
+  },
+  "status": "地位",
+  "@status": {
+    "description": "Status"
+  },
+  "successItsDone": "成功就完成了",
+  "@successItsDone": {
+    "description": "Success it’s done"
+  },
+  "swapOrder": "掉期订单",
+  "@swapOrder": {
+    "description": "Swap order"
+  },
+  "swipeTODEPOSIT": "刷卡存款",
+  "@swipeTODEPOSIT": {
+    "description": "SWIPE TO DEPOSIT"
+  },
+  "switchWallet2": "切换钱包",
+  "@switchWallet2": {
+    "description": "Switch Wallet"
+  },
+  "termsOfUse2": "使用条款。",
+  "@termsOfUse2": {
+    "description": "Terms of Use."
+  },
+  "thenWhatAreYouWaitingFor": "那你还等什么？",
+  "@thenWhatAreYouWaitingFor": {
+    "description": "Then what are you waiting for?"
+  },
+  "toNetwork": "至网络",
+  "@toNetwork": {
+    "description": "To network"
+  },
+  "toTheMoon": "去月球",
+  "@toTheMoon": {
+    "description": "To the moon"
+  },
+  "transaction": "交易",
+  "@transaction": {
+    "description": "Transaction"
+  },
+  "transaction2": "交易",
+  "@transaction2": {
+    "description": "transaction"
+  },
+  "transaction1": "交易1",
+  "@transaction1": {
+    "description": "Transaction 1"
+  },
+  "transaction22": "交易2",
+  "@transaction22": {
+    "description": "Transaction 2"
+  },
+  "transactionFAILED": "交易失败",
+  "@transactionFAILED": {
+    "description": "TRANSACTION FAILED"
+  },
+  "transactionTIMEDOUT": "交易超时",
+  "@transactionTIMEDOUT": {
+    "description": "TRANSACTION TIMED OUT"
+  },
+  "tvl": "TVL",
+  "@tvl": {
+    "description": "TVL"
+  },
+  "untitledDapp": "无标题 Dapp",
+  "@untitledDapp": {
+    "description": "Untitled Dapp"
+  },
+  "upgradeToASocialWallet": "升级到社交钱包",
+  "@upgradeToASocialWallet": {
+    "description": "Upgrade to a Social Wallet"
+  },
+  "useEmailInstead": "使用电子邮件代替",
+  "@useEmailInstead": {
+    "description": "Use Email instead"
+  },
+  "useMAX": "使用最大",
+  "@useMAX": {
+    "description": "USE MAX"
+  },
+  "username2": "用户名",
+  "@username2": {
+    "description": "Username"
+  },
+  "vaultAddress": "金库地址",
+  "@vaultAddress": {
+    "description": "Vault Address"
+  },
+  "verifyYourPIN2": "验证您的 PIN",
+  "@verifyYourPIN2": {
+    "description": "Verify your PIN"
+  },
+  "walletUsed": "使用的钱包",
+  "@walletUsed": {
+    "description": "Wallet used"
+  },
+  "welcomeToYourSocialWallet": "欢迎使用您的社交钱包",
+  "@welcomeToYourSocialWallet": {
+    "description": "Welcome to your Social Wallet"
+  },
+  "wellWeCalledIt69DaysForAReason": "好吧，我们称之为 69 天是有原因的......",
+  "@wellWeCalledIt69DaysForAReason": {
+    "description": "Well, we called it 69 days for a reason...."
+  },
+  "whatIsADogecoinAddressHowDoIGetOne": "什么是 Dogecoin 地址？我怎样才能得到一个？",
+  "@whatIsADogecoinAddressHowDoIGetOne": {
+    "description": "What is a Dogecoin address? How do I get one?"
+  },
+  "whatIsThisAbout": "这是关于什么的？",
+  "@whatIsThisAbout": {
+    "description": "What is this about?"
+  },
+  "whatsNext": "接下来会发生什么？",
+  "@whatsNext": {
+    "description": "what's next?"
+  },
+  "whoCanParticipate": "谁可以参加？",
+  "@whoCanParticipate": {
+    "description": "Who can participate?"
+  },
+  "woof": "纬。",
+  "@woof": {
+    "description": "Woof."
+  },
+  "yesYou": "是的，你。",
+  "@yesYou": {
+    "description": "Yes, you."
+  },
+  "yes2": "是的...",
+  "@yes2": {
+    "description": "Yes..."
+  },
+  "youAreAllSetHangOutWithYourMyDogeNow": "一切就绪！\\n现在就和你的 My Doge 一起出去玩吧。",
+  "@youAreAllSetHangOutWithYourMyDogeNow": {
+    "description": "You are all set!\\nHang out with your My Doge now."
+  },
+  "youSure": "你确定吗？",
+  "@youSure": {
+    "description": "You sure?"
+  },
+  "you": "你。",
+  "@you": {
+    "description": "You."
+  },
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "您的资金将被锁定，直到主网启动（目标：约 69 天，可能会有所不同。\\n\\n",
+  "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+  },
+  "yourWalletIsReady": "你的钱包已经准备好了",
+  "@yourWalletIsReady": {
+    "description": "Your wallet is ready"
   }
 }

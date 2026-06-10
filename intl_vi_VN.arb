@@ -1,502 +1,502 @@
 {
-  "@@locale": "es_ES",
-  "tabMarket": "Mercado",
+  "@@locale": "vi_VN",
+  "tabMarket": "Chợ",
   "@tabMarket": {
     "description": "Market"
   },
-  "tabHome": "Inicio",
+  "tabHome": "Trang chủ",
   "@tabHome": {
     "description": "Home"
   },
-  "tabDiscover": "Descubrir",
+  "tabDiscover": "Phát hiện",
   "@tabDiscover": {
     "description": "Discover"
   },
-  "tabAlpha": "Alfa",
+  "tabAlpha": "Alpha",
   "@tabAlpha": {
     "description": "Alpha"
   },
-  "tabEarn": "Ganar",
+  "tabEarn": "Kiếm",
   "@tabEarn": {
     "description": "Earn"
   },
-  "tabTrade": "Comerciar",
+  "tabTrade": "Buôn bán",
   "@tabTrade": {
     "description": "Trade"
   },
-  "tabChat": "Chat",
+  "tabChat": "Trò chuyện",
   "@tabChat": {
     "description": "Chat"
   },
-  "tabWallet": "Billetera",
+  "tabWallet": "Ví",
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "Buscar nombre o dirección",
+  "searchBarDesc": "Tìm kiếm tên hoặc địa chỉ",
   "@searchBarDesc": {
     "description": "Search name or address"
   },
-  "totalBalance": "Balance total",
+  "totalBalance": "Tổng số dư",
   "@totalBalance": {
     "description": "Total balance"
   },
-  "favorite": "Favorito",
+  "favorite": "Yêu thích",
   "@favorite": {
     "description": "Favorite"
   },
-  "trending": "Tendencias",
+  "trending": "Xu hướng",
   "@trending": {
     "description": "Trending"
   },
-  "allAssets": "Todos los activos",
+  "allAssets": "Tất cả tài sản",
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "Introduce tu correo electrónico",
+  "enterYourEmail": "Nhập email của bạn",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "Correo electrónico",
+  "email": "E-mail",
   "@email": {
     "description": "Email"
   },
-  "password": "Contraseña",
+  "password": "Mật khẩu",
   "@password": {
     "description": "Password"
   },
-  "forgetThePassword": "¿Olvidaste la contraseña?",
+  "forgetThePassword": "Quên mật khẩu?",
   "@forgetThePassword": {
     "description": "Forget the password？"
   },
-  "continueBtn": "Continuar",
+  "continueBtn": "Tiếp tục",
   "@continueBtn": {
     "description": "Continue"
   },
-  "setPassword": "Establecer contraseña",
+  "setPassword": "Đặt mật khẩu",
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "Establece tu contraseña. También puedes iniciar sesión directamente a través del correo electrónico en el futuro.",
+  "setPasswordDesc": "Đặt mật khẩu của bạn. Bạn cũng có thể đăng nhập trực tiếp qua email trong tương lai.",
   "@setPasswordDesc": {
     "description": "Set your password. You can also log in directly through email in the future.  "
   },
-  "emailCode": "Código de verificación de correo electrónico",
+  "emailCode": "Mã xác minh email",
   "@emailCode": {
     "description": "Email verification code"
   },
-  "emailCodeDesc": "Introduce tu código de verificación",
+  "emailCodeDesc": "Nhập mã xác minh của bạn",
   "@emailCodeDesc": {
     "description": "Enter your verification code"
   },
-  "resend": "Reenviar",
+  "resend": "Gửi lại",
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "Vincular correo electrónico",
+  "bindEmail": "Ràng buộc email",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "Establece tu contraseña para lucasscott3@email.com. Así también podrás iniciar sesión directamente a través del correo electrónico en el futuro.",
+  "bindEmailDesc": "Đặt mật khẩu của bạn cho lucasscott3@email.com. Vì vậy, bạn cũng có thể đăng nhập trực tiếp qua email trong tương lai.",
   "@bindEmailDesc": {
     "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
   },
-  "setYourProfile": "Configura tu perfil",
+  "setYourProfile": "Đặt hồ sơ của bạn",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "Elige tu nombre de usuario de la cuenta. Puede contener hasta 30 caracteres (solo letras y números). Puedes cambiarlo más tarde si quieres.",
+  "setYourProfileDesc1": "Chọn tên người dùng tài khoản của bạn. Nó có thể chứa tối đa 30 ký tự (chỉ chữ cái và số). Bạn có thể thay đổi nó sau nếu muốn.",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "La contraseña debe tener entre 6 y 20 caracteres y constar de números, letras mayúsculas y minúsculas y caracteres especiales.",
+  "setYourProfileDesc2": "Mật khẩu phải từ 6-20 ký tự bao gồm số, chữ hoa, chữ thường và ký tự đặc biệt.",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "Conectar X",
+  "connectX": "Kết nối X",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Vincula tu cuenta de X para lanzar tu propia Clave y maximizar la experiencia de MyDoge. ¡Solo se accederá a la foto de perfil, el nombre y tu lista de seguidos!\n\nTen en cuenta que después de conectarte a X, no es posible realizar cambios o desvincular por la seguridad de los activos de la cuenta.",
+  "connectXDesc": "Liên kết tài khoản X của bạn để khởi chạy Khóa của riêng bạn và tối đa hóa trải nghiệm MyDoge. Chỉ có ảnh hồ sơ, tên và danh sách sau đây của bạn mới được truy cập!\n\nXin lưu ý rằng sau khi kết nối với X, bạn không thể thay đổi hoặc hủy ràng buộc để bảo mật tài sản tài khoản.",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
-  "connect": "Conectar",
+  "connect": "Kết nối",
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "¡Felicidades!",
+  "congratulations": "Chúc mừng",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "¡Ya está todo listo!\nPasa el rato con tu MyDoge ahora.",
+  "congratulationsDesc": "Bạn đã sẵn sàng!\nĐi chơi với My Doge của bạn bây giờ.",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
-  "enterApp": "Entrar en la aplicación",
+  "enterApp": "Nhập ứng dụng",
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle2": "Comprar, enviar y recibir Dogecoin",
+  "socialLoginTitle2": "Mua, gửi và nhận Dogecoin",
   "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc2": "Da propinas en X, asegura tu Doge y gestiona tus propios fondos con facilidad.",
+  "socialLoginDesc2": "Mẹo về X, bảo mật Doge của bạn và quản lý tiền của riêng bạn một cách dễ dàng.",
   "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle1": "Explora el ecosistema DogeOS",
+  "socialLoginTitle1": "Khám phá hệ sinh thái DogeOS",
   "@socialLoginTitle1": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc1": "Desbloquea DeFi, NFT, juegos y más con $DOGE en el universo DogeOS.",
+  "socialLoginDesc1": "Mở khóa DeFi, NFTs, Trò chơi và hơn thế nữa với $DOGE trong vũ trụ DogeOS.",
   "@socialLoginDesc1": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "Comercio multicadena",
+  "socialLoginTitle3": "Giao dịch đa chuỗi",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "Comercia sin problemas a través de las principales cadenas de bloques para una verdadera experiencia multicadena.",
+  "socialLoginDesc3": "Giao dịch liền mạch trên các chuỗi khối lớn để có trải nghiệm đa chuỗi thực sự.",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
-  "continueWithEmail": "Continuar con correo electrónico",
+  "continueWithEmail": "Tiếp tục với Email",
   "@continueWithEmail": {
     "description": "Continue with Email"
   },
-  "or": "O",
+  "or": "Hoặc",
   "@or": {
     "description": "Or"
   },
-  "resetPwd": "Restablecer contraseña",
+  "resetPwd": "Đặt lại mật khẩu",
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "Queremos asegurarnos de que eres realmente tú. Introduce tu correo electrónico y te enviaremos un código de verificación.",
+  "resetPwdDesc": "Chúng tôi muốn chắc chắn rằng đó thực sự là bạn. Nhập email của bạn và chúng tôi sẽ gửi cho bạn mã xác minh.",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
-  "send": "Enviar",
+  "send": "Gửi",
   "@send": {
     "description": "Send"
   },
-  "deposit": "Depositar",
+  "deposit": "Tiền gửi",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Puente",
+  "bridge": "Cầu",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Intercambiar",
+  "swap": "Tráo đổi",
   "@swap": {
     "description": "Swap"
   },
-  "trade": "Comerciar",
+  "trade": "Buôn bán",
   "@trade": {
     "description": "Trade"
   },
-  "buy": "Comprar",
+  "buy": "Mua",
   "@buy": {
     "description": "Buy"
   },
-  "sell": "Vender",
+  "sell": "Bán",
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "Cripto",
+  "cryptoTab": "tiền điện tử",
   "@cryptoTab": {
     "description": "Crypto"
   },
-  "keyTab": "Clave",
+  "keyTab": "Chìa khóa",
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "Gestionar billetera",
+  "manageWallet": "Quản lý ví",
   "@manageWallet": {
     "description": "Manage wallet"
   },
-  "createNewWallet": "Crear nueva billetera",
+  "createNewWallet": "Tạo ví mới",
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "Importar billetera",
+  "importWallet": "Nhập ví",
   "@importWallet": {
     "description": "Import wallet"
   },
-  "chooseHowToSend": "Elige cómo enviar",
+  "chooseHowToSend": "Chọn cách gửi",
   "@chooseHowToSend": {
     "description": "Choose how to send"
   },
-  "yourFriendsTitle": "Tus amigos",
+  "yourFriendsTitle": "Bạn bè của bạn",
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Transferir dentro de Mydoge",
+  "yourFriendsDesc": "Chuyển giao trong Mydoge",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
-  "externalWalletTitle": "Billetera externa",
+  "externalWalletTitle": "Ví bên ngoài",
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Enviar Doge a una dirección de criptomonedas",
+  "externalWalletDesc": "Gửi Doge đến một địa chỉ tiền điện tử",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Seleccionar token",
+  "selectToken": "Chọn mã thông báo",
   "@selectToken": {
     "description": "Select token"
   },
-  "searchAssets": "Buscar activos",
+  "searchAssets": "Tìm kiếm nội dung",
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "Dirección de recepción",
+  "receivingAddress": "Địa chỉ nhận",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "Dirección de {text}",
+  "assetAddress": "Địa chỉ {text}",
   "@assetAddress": {
     "description": "{text} address"
   },
-  "paste": "Pegar",
+  "paste": "Dán",
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "Transacciones",
+  "transactions": "Giao dịch",
   "@transactions": {
     "description": "Transactions"
   },
-  "myWallet": "Mi billetera",
+  "myWallet": "Ví của tôi",
   "@myWallet": {
     "description": "My wallet"
   },
-  "confirm": "Confirmar",
+  "confirm": "Xác nhận",
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "Seleccionar cripto",
+  "selectCrypto": "Chọn tiền điện tử",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Buscar nombre de token o dirección",
+  "searchTokenNameOrAddress": "Tìm kiếm tên hoặc địa chỉ mã thông báo",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "Red:",
+  "network": "Mạng:",
   "@network": {
     "description": "Network："
   },
-  "all": "Todo",
+  "all": "Tất cả",
   "@all": {
     "description": "All"
   },
-  "dogeChain": "Cadena Doge",
+  "dogeChain": "Chuỗi Doge",
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "Puede perderse",
+  "mayBeLost": "Có thể bị mất",
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Dirección de Doge",
+  "tokenAddress": "Địa chỉ Doge",
   "@tokenAddress": {
     "description": "Doge Address"
   },
-  "scroll": "Desplazarse",
+  "scroll": "Cuộn",
   "@scroll": {
     "description": "Scroll"
   },
-  "copy": "Copiar",
+  "copy": "Sao chép",
   "@copy": {
     "description": "Copy"
   },
-  "selectToDogeFriends": "Seleccionar a amigos de Doge",
+  "selectToDogeFriends": "Chọn Doge bạn bè",
   "@selectToDogeFriends": {
     "description": "Select to Doge friends"
   },
-  "searchFriends": "Buscar amigos",
+  "searchFriends": "Tìm kiếm bạn bè",
   "@searchFriends": {
     "description": "Search friends"
   },
-  "chooseWallet": "Elegir billetera",
+  "chooseWallet": "Chọn ví",
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "Saldo:",
+  "balance": "Sự cân bằng:",
   "@balance": {
     "description": "Balance："
   },
-  "max": "MÁX",
+  "max": "TỐI ĐA",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Enviar gas a amigos",
+  "sendGasToFriends": "Gửi xăng cho bạn bè",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Cambiando tokens",
+  "changingTokens": "Thay đổi mã thông báo",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "Comprar {token}",
+  "buyToken": "Mua {token}",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "Vender {token}",
+  "sellToken": "Bán {token}",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "Billetera DogeOS",
+  "socialWallet": "Ví xã hội",
   "@socialWallet": {
     "description": "Social Wallet"
   },
-  "enjoyWalletWithSocialLogin": "Disfruta de la experiencia completa de la billetera MyDoge con una billetera multicadena de inicio de sesión social, todo mientras conservas tu activo clásico de MyDoge.",
+  "enjoyWalletWithSocialLogin": "Tận hưởng trải nghiệm Ví MyDoge đầy đủ với Ví đa chuỗi đăng nhập xã hội, trong khi vẫn giữ tài sản MyDoge Classic của bạn.",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
-  "skip": "Omitir",
+  "skip": "Nhảy",
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "Crear con",
+  "createWith": "Tạo với",
   "@createWith": {
     "description": "Create with"
   },
-  "addressBook": "Libreta de direcciones",
+  "addressBook": "Sổ địa chỉ",
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "Sin dirección",
+  "noAddress": "Không có địa chỉ",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "Agrega billeteras a tu libreta de direcciones para un fácil acceso cuando necesites transferir criptomonedas",
+  "noAddressDesc": "Thêm ví vào sổ địa chỉ của bạn một cách dễ dàng \ntruy cập khi bạn cần chuyển tiền điện tử",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
-  "addAddress": "Agregar dirección",
+  "addAddress": "Thêm địa chỉ",
   "@addAddress": {
     "description": "Add address"
   },
-  "name": "Nombre",
+  "name": "Tên",
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "Introduce un nombre de menos de 20 caracteres",
+  "namePlaceholder": "Nhập tên dưới 20 ký tự",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
-  "address": "Dirección",
+  "address": "Địa chỉ",
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "Introduce una dirección",
+  "addressPlaceholder": "Nhập địa chỉ",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
-  "deleteAddress": "Eliminar dirección",
+  "deleteAddress": "Xóa địa chỉ",
   "@deleteAddress": {
     "description": "Delete address"
   },
-  "deleteAddressDesc": "¿Quieres eliminar la dirección?",
+  "deleteAddressDesc": "Bạn có muốn xóa địa chỉ?",
   "@deleteAddressDesc": {
     "description": "Do you want to delete the address?"
   },
-  "cancel": "Cancelar",
+  "cancel": "Hủy bỏ",
   "@cancel": {
     "description": "Cancel"
   },
-  "cancelLowercase": "cancelar",
+  "cancelLowercase": "Hủy bỏ",
   "@cancelLowercase": {
     "description": "cancel"
   },
-  "delete": "Eliminar",
+  "delete": "Xóa bỏ",
   "@delete": {
     "description": "Delete"
   },
-  "update": "Actualizar",
+  "update": "Cập nhật",
   "@update": {
     "description": "Update"
   },
-  "settings": "Ajustes",
+  "settings": "Cài đặt",
   "@settings": {
     "description": "Settings"
   },
-  "yourAccount": "Tu cuenta",
+  "yourAccount": "Tài khoản của bạn",
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "Editar perfil",
+  "editProfile": "Chỉnh sửa hồ sơ",
   "@editProfile": {
     "description": "Edit profile"
   },
-  "recoverPassword": "Recuperar contraseña",
+  "recoverPassword": "Khôi phục mật khẩu",
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "Cómo usas MyDoge",
+  "howYouUseMyDoge": "Cách bạn sử dụng MyDoge",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
-  "pushNotifications": "Notificaciones push",
+  "pushNotifications": "Thông báo đẩy",
   "@pushNotifications": {
     "description": "Push notifications"
   },
-  "privacySettings": "Ajustes de privacidad",
+  "privacySettings": "Cài đặt quyền riêng tư",
   "@privacySettings": {
     "description": "Privacy settings"
   },
-  "language": "Idioma",
+  "language": "Ngôn ngữ",
   "@language": {
     "description": "Language"
   },
-  "vol24h": "Vol 24h",
+  "vol24h": "tập 24h",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "Máx 24h",
+  "high24h": "Cao 24h",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "Mín 24h",
+  "low24h": "Thấp trong 24h",
   "@low24h": {
     "description": "24h Low"
   },
-  "yourBalance": "Tu saldo",
+  "yourBalance": "Số dư của bạn",
   "@yourBalance": {
     "description": "Your Balance"
   },
-  "value": "Valor",
+  "value": "Giá trị",
   "@value": {
     "description": "Value"
   },
-  "quantity": "Cantidad",
+  "quantity": "Số lượng",
   "@quantity": {
     "description": "Quantity"
   },
-  "addCash": "Añadir efectivo",
+  "addCash": "Thêm tiền mặt",
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "Sala",
+  "room": "Phòng",
   "@room": {
     "description": "Room"
   },
-  "refer": "Referir",
+  "refer": "Tham khảo",
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Recibir",
+  "receive": "Nhận được",
   "@receive": {
     "description": "Receive"
   },
-  "stats": "Estadísticas",
+  "stats": "Thống kê",
   "@stats": {
     "description": "Stats"
   },
-  "marketCap": "Capitalización de mercado",
+  "marketCap": "Vốn hóa thị trường",
   "@marketCap": {
     "description": "Market Cap"
   },
@@ -504,43 +504,43 @@
   "@fdv": {
     "description": "FDV"
   },
-  "liquidity": "Liquidez",
+  "liquidity": "Thanh khoản",
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "Volumen de negocios 24h",
+  "turnover24h": "Doanh thu 24h",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "Cambio 24h",
+  "change24h": "Thay đổi 24h",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "Contrato",
+  "contract": "Hợp đồng",
   "@contract": {
     "description": "Contract"
   },
-  "total": "Total",
+  "total": "Tổng cộng",
   "@total": {
     "description": "Total"
   },
-  "to": "A",
+  "to": "ĐẾN",
   "@to": {
     "description": "To"
   },
-  "toLowerCase": "a",
+  "toLowerCase": "ĐẾN",
   "@toLowerCase": {
     "description": "to"
   },
-  "from": "De",
+  "from": "Từ",
   "@from": {
     "description": "From"
   },
-  "fromLowerCase": "de",
+  "fromLowerCase": "từ",
   "@fromLowerCase": {
     "description": "from"
   },
-  "task": "Tarea",
+  "task": "Nhiệm vụ",
   "@task": {
     "description": "Task"
   },
@@ -548,47 +548,47 @@
   "@dapp": {
     "description": "Dapp"
   },
-  "referralRewards": "Recompensas por recomendación",
+  "referralRewards": "Phần thưởng giới thiệu",
   "@referralRewards": {
     "description": "Referral Rewards"
   },
-  "friendsInvited": "Amigos invitados",
+  "friendsInvited": "Bạn bè được mời",
   "@friendsInvited": {
     "description": "Friends invited"
   },
-  "youHaveEarned": "Has ganado",
+  "youHaveEarned": "Bạn đã kiếm được",
   "@youHaveEarned": {
     "description": "You have earned"
   },
-  "point": "Punto",
+  "point": "Điểm",
   "@point": {
     "description": "Point"
   },
-  "referAFriend": "Recomendar a un amigo",
+  "referAFriend": "Giới thiệu một người bạn",
   "@referAFriend": {
     "description": "Refer a friend"
   },
-  "referExplain": "Gana entre el 50% y el 75% de las comisiones de negociación por cada amigo que recomiendes.",
+  "referExplain": "Kiếm 50%~75% phí giao dịch cho mỗi người bạn mà bạn giới thiệu.",
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "Reclamar",
+  "claim": "Khẳng định",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "Bridge de $DOGE a DogeOS",
+  "bridgeDOGEToDogeOS": "Cầu nối $DOGE tới DogeOS",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
-  "followDogeOSOnX": "Seguir a DogeOS en X",
+  "followDogeOSOnX": "Theo dõi DogeOS trên X",
   "@followDogeOSOnX": {
     "description": "Follow DogeOS on X"
   },
-  "followMyDogeOnX": "Seguir a MyDoge en X",
+  "followMyDogeOnX": "Theo dõi MyDoge trên X",
   "@followMyDogeOnX": {
     "description": "Follow MyDoge on X"
   },
-  "completeOneSwapOnDogeOS": "Completar un intercambio en DogeOS",
+  "completeOneSwapOnDogeOS": "Hoàn thành một lần hoán đổi trên DogeOS",
   "@completeOneSwapOnDogeOS": {
     "description": "Complete one swap on DogeOS"
   },
@@ -596,11 +596,11 @@
   "@dogeverse": {
     "description": "Dogeverse"
   },
-  "connectToDogeverseNow": "Conéctate a Dogeverse ahora",
+  "connectToDogeverseNow": "Kết nối với Dogeverse ngay bây giờ",
   "@connectToDogeverseNow": {
     "description": "Connect to Dogeverse now"
   },
-  "dogeOSEcosystem": "Ecosistema DogeOS",
+  "dogeOSEcosystem": "Hệ sinh thái DogeOS",
   "@dogeOSEcosystem": {
     "description": "DogeOS Ecosystem"
   },
@@ -608,35 +608,35 @@
   "@dogeSwap": {
     "description": "DogeSwap"
   },
-  "orbiterFinanceIsADecentralized": "Orbiter Finance es una red descentralizada",
+  "orbiterFinanceIsADecentralized": "Orbiter Finance là một nền tảng phi tập trung",
   "@orbiterFinanceIsADecentralized": {
     "description": "Orbiter Finance is a decentralized"
   },
-  "bitcoinLayer2Network": "Red de capa 2 de Bitcoin",
+  "bitcoinLayer2Network": "Mạng Bitcoin lớp 2",
   "@bitcoinLayer2Network": {
     "description": "Bitcoin layer-2 network"
   },
-  "buildingTheSpiderChain": "Construyendo la cadena Spider, la primera L2 de EVM",
+  "buildingTheSpiderChain": "Xây dựng chuỗi Spider, EVM L2 đầu tiên",
   "@buildingTheSpiderChain": {
     "description": "Building the Spider chain, the first EVM L2"
   },
-  "solanaEcosystem": "Ecosistema de Solana",
+  "solanaEcosystem": "Hệ sinh thái Solana",
   "@solanaEcosystem": {
     "description": "Solana Ecosystem"
   },
-  "solanaFinance": "Finanzas de Solana",
+  "solanaFinance": "Tài chính Solana",
   "@solanaFinance": {
     "description": "Solana Finance"
   },
-  "earnDesc": "Gana entre el 50% y el 75% de las comisiones de negociación por cada amigo que recomiendes.",
+  "earnDesc": "Kiếm 50%~75% phí giao dịch cho mỗi người bạn mà bạn giới thiệu.",
   "@earnDesc": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "referFriends": "Recomendar amigos",
+  "referFriends": "Giới thiệu bạn bè",
   "@referFriends": {
     "description": "Refer friends"
   },
-  "appearance": "Apariencia",
+  "appearance": "Vẻ bề ngoài",
   "@appearance": {
     "description": "Appearance"
   },
@@ -644,323 +644,323 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "Conectar Apple",
+  "connectApple": "Kết nối Apple",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Conectar Meta",
+  "connectMeta": "Kết nối Meta",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "Conectar Instagram",
+  "connectInstagram": "Kết nối Instagram",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "Conectar Kakao",
+  "connectKakao": "Kết nối Kakao",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Conectar línea",
+  "connectLine": "Kết nối đường dây",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "Tu enlace social",
+  "yourSocialLink": "Liên kết xã hội của bạn",
   "@yourSocialLink": {
     "description": "Your social link"
   },
-  "others": "Otros",
+  "others": "Người khác",
   "@others": {
     "description": "Others"
   },
-  "additionalSettings": "Ajustes adicionales",
+  "additionalSettings": "Cài đặt bổ sung",
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "Directrices de la comunidad",
+  "communityGuidelines": "Nguyên tắc cộng đồng",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "Términos",
+  "terms": "Điều khoản",
   "@terms": {
     "description": "Terms"
   },
-  "deleteAccount": "Eliminar cuenta",
+  "deleteAccount": "Xóa tài khoản",
   "@deleteAccount": {
     "description": "Delete account"
   },
-  "logOut": "Cerrar sesión",
+  "logOut": "Đăng xuất",
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "¿Estás seguro de que quieres cerrar la sesión?",
+  "confirmToExit": "Bạn có chắc chắn muốn đăng xuất không?",
   "@confirmToExit": {
     "description": "Are you sure you want to log out?"
   },
-  "follow": "Seguir",
+  "follow": "Theo",
   "@follow": {
     "description": "Follow"
   },
-  "warning": "Advertencia",
+  "warning": "Cảnh báo",
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "Esta acción es irreversible",
+  "willDeleteAccount": "Hành động này không thể thay đổi được",
   "@willDeleteAccount": {
     "description": "This action is irreversible"
   },
-  "willDeleteAccountDesc1": "Eliminar tu cuenta eliminará permanentemente tu billetera y perfil de MyDoge.",
+  "willDeleteAccountDesc1": "Xóa tài khoản của bạn sẽ xóa vĩnh viễn Ví và hồ sơ MyDoge của bạn.",
   "@willDeleteAccountDesc1": {
     "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
   },
-  "willDeleteAccountDesc2": "Asegúrate de hacer una copia de seguridad de tu billetera y guardar todo lo importante; esta acción no se puede deshacer.",
+  "willDeleteAccountDesc2": "Đảm bảo sao lưu ví của bạn và lưu mọi thứ quan trọng — hành động này không thể hoàn tác.",
   "@willDeleteAccountDesc2": {
     "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
   },
-  "slideToConfirm": "Desliza para eliminar",
+  "slideToConfirm": "Trượt để xóa",
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "Bridge de DogeOS",
+  "dogeOsBridge": "Cầu DogeOS",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
-  "noContacts": "Sin contactos",
+  "noContacts": "Không có liên hệ",
   "@noContacts": {
     "description": "No contacts"
   },
-  "noContactsRemind": "Agrega billeteras a tu libreta de direcciones para un fácil acceso cuando necesites transferir criptomonedas",
+  "noContactsRemind": "Thêm ví vào sổ địa chỉ của bạn để dễ dàng truy cập khi bạn cần chuyển tiền điện tử",
   "@noContactsRemind": {
     "description": "Add wallets to your address book for easy access when you need to transfer crypto"
   },
-  "networkText": "Red",
+  "networkText": "Mạng",
   "@networkText": {
     "description": "Network"
   },
-  "updateAddress": "Actualizar dirección",
+  "updateAddress": "Cập nhật địa chỉ",
   "@updateAddress": {
     "description": "Update address"
   },
-  "makeSureSend": "Asegúrate de que estás enviando a ",
+  "makeSureSend": "Hãy chắc chắn rằng bạn đang gửi đến",
   "@makeSureSend": {
     "description": "Please make sure you are sending to "
   },
-  "chainPoint": "Cadena.",
+  "chainPoint": "Xích.",
   "@chainPoint": {
     "description": "Chain."
   },
-  "otherFunds": "Enviar desde cualquier otra cadena puede resultar en ",
+  "otherFunds": "Gửi từ bất kỳ chuỗi nào khác có thể dẫn đến",
   "@otherFunds": {
     "description": "Sending from any other chain may result in "
   },
-  "lossOfFunds": "pérdida de fondos.",
+  "lossOfFunds": "mất tiền.",
   "@lossOfFunds": {
     "description": "loss of funds."
   },
-  "maybeLost2": "¡Puede perderse!",
+  "maybeLost2": "Có thể bị mất!",
   "@maybeLost2": {
     "description": "May be lost!"
   },
-  "copyAddress": "Copiar dirección",
+  "copyAddress": "Sao chép địa chỉ",
   "@copyAddress": {
     "description": "Copy Address"
   },
-  "errorNetwork": "Error de red",
+  "errorNetwork": "Lỗi mạng",
   "@errorNetwork": {
     "description": "Error network"
   },
-  "errorNetworkRemind": "Tu red está experimentando algunos problemas, por favor, comprueba y prueba a actualizar",
+  "errorNetworkRemind": "Mạng của bạn đang gặp một số vấn đề, vui lòng kiểm tra và thử làm mới",
   "@errorNetworkRemind": {
     "description": "Your network is experiencing some problems, please check and try refreshing"
   },
-  "refresh": "Actualizar",
+  "refresh": "Làm cho khỏe lại",
   "@refresh": {
     "description": "Refresh"
   },
-  "bindTipTitle": "Vincular aplicación de autenticación",
+  "bindTipTitle": "Ứng dụng xác thực liên kết",
   "@bindTipTitle": {
     "description": "Link Authenticator App"
   },
-  "bindTipSubtitle": "Vincular la aplicación de autenticación mejorará la seguridad de tu cuenta. Se aplicará cuando exportes tu billetera.",
+  "bindTipSubtitle": "Liên kết ứng dụng xác thực sẽ tăng cường tính bảo mật cho tài khoản của bạn. Nó sẽ được áp dụng khi bạn xuất ví của mình.",
   "@bindTipSubtitle": {
     "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
   },
-  "link": "Vincular",
+  "link": "liên kết",
   "@link": {
     "description": "Link"
   },
-  "emailCodeText": "Código de correo electrónico",
+  "emailCodeText": "Mã email",
   "@emailCodeText": {
     "description": "Email code"
   },
-  "emailCodeSubtitle": "Se ha enviado un correo electrónico a tu bandeja de entrada {email}.\r\nPlease enter the verification code in the email.",
+  "emailCodeSubtitle": "Một email đã được gửi tới hộp thư đến {email} của bạn.\r\nVui lòng nhập mã xác minh trong email.",
   "@emailCodeSubtitle": {
     "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
   },
-  "bindStepTitle": "Vincular aplicación de autenticación",
+  "bindStepTitle": "Ứng dụng xác thực liên kết",
   "@bindStepTitle": {
     "description": "Link Authenticator App"
   },
-  "step1": "Paso 1: ",
+  "step1": "Bước 1:",
   "@step1": {
     "description": "Step 1: "
   },
-  "bindStepOneLabelDescription": "Descarga una aplicación de autenticación.",
+  "bindStepOneLabelDescription": "Tải xuống ứng dụng xác thực.",
   "@bindStepOneLabelDescription": {
     "description": "Download an authenticator app."
   },
-  "forExampleLabel": "Por ejemplo: ",
+  "forExampleLabel": "Ví dụ:",
   "@forExampleLabel": {
     "description": "For example: "
   },
-  "step2": "Paso 2: ",
+  "step2": "Bước 2:",
   "@step2": {
     "description": "Step 2: "
   },
-  "bindStepTwoLabelDescription": "Copia la clave de 16 dígitos a continuación o escanea el código QR",
+  "bindStepTwoLabelDescription": "Vui lòng sao chép khóa 16 chữ số bên dưới hoặc quét mã QR",
   "@bindStepTwoLabelDescription": {
     "description": "Please copy the 16-digit key below or scan the QR code"
   },
-  "caution": "Precaución",
+  "caution": "Thận trọng",
   "@caution": {
     "description": "Caution"
   },
-  "bindStepCautionContent": "Guarda esta clave en un lugar seguro, ya que se utiliza para exportar tu billetera y no se puede recuperar si se pierde.",
+  "bindStepCautionContent": "Vui lòng giữ khóa này an toàn vì nó được sử dụng để xuất ví của bạn và không thể lấy lại được nếu bị mất!",
   "@bindStepCautionContent": {
     "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
   },
-  "pleaseNote": "Ten en cuenta",
+  "pleaseNote": "Xin lưu ý",
   "@pleaseNote": {
     "description": "Please note"
   },
-  "bindStepCautionNoteSubtitle": "Una vez que Google Authenticator se haya vinculado correctamente, no se podrá cambiar.",
+  "bindStepCautionNoteSubtitle": "Khi Google Authenticator được liên kết thành công, nó sẽ không thể thay đổi được.",
   "@bindStepCautionNoteSubtitle": {
     "description": "Once Google Authenticator is successfully linked, it cannot be changed."
   },
-  "bindStepCautionNoteContent": "Para la seguridad de los activos de tu billetera, guarda Google Authenticator en un lugar seguro y mantenlo bien protegido. Si se pierde Google Authenticator, es posible que no puedas acceder a tu billetera.",
+  "bindStepCautionNoteContent": "Để bảo mật tài sản ví của bạn, vui lòng lưu trữ Google Authenticator ở nơi an toàn và bảo vệ tốt. Nếu Google Authenticator bị mất, điều đó có thể dẫn đến việc không thể truy cập vào ví của bạn.",
   "@bindStepCautionNoteContent": {
     "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
   },
-  "gotIt": "Entendido",
+  "gotIt": "Hiểu rồi",
   "@gotIt": {
     "description": "Got it"
   },
-  "googleAuthenticator": "Autenticador de Google",
+  "googleAuthenticator": "Trình xác thực Google",
   "@googleAuthenticator": {
     "description": "Google Authenticator"
   },
-  "verifySubtitle": "Introduce el número generado por tu autenticador de Google.",
+  "verifySubtitle": "Vui lòng nhập số được tạo bởi Google Authenticator của bạn.",
   "@verifySubtitle": {
     "description": "Please enter the number generated by your Google Authenticator."
   },
-  "bindSuccessTip": "Autenticador vinculado correctamente",
+  "bindSuccessTip": "Trình xác thực được liên kết thành công",
   "@bindSuccessTip": {
     "description": "Authenticator linked successfully"
   },
-  "bindFailedTip": "El código del autenticador es incorrecto, la vinculación ha fallado",
+  "bindFailedTip": "Mã xác thực không chính xác, liên kết không thành công",
   "@bindFailedTip": {
     "description": "Authenticator code is incorrect, linking failed"
   },
-  "retry": "Reintentar",
+  "retry": "Thử lại",
   "@retry": {
     "description": "Retry"
   },
-  "selectNetwork": "Seleccionar red",
+  "selectNetwork": "Chọn mạng",
   "@selectNetwork": {
     "description": "Select network"
   },
-  "addToFavorites": "Añadir a favoritos",
+  "addToFavorites": "Thêm vào mục yêu thích",
   "@addToFavorites": {
     "description": "Add to favorites"
   },
-  "addToFavorite": "Añadir a favorito",
+  "addToFavorite": "Thêm vào yêu thích",
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "Establecer PIN de pago",
+  "setPayPin": "Đặt mã thanh toán",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
-  "setPayPinSubtitle": "Establece un PIN de pago para proteger tus activos. Este PIN se solicitará cuando realices transacciones.",
+  "setPayPinSubtitle": "Vui lòng đặt mã thanh toán để bảo đảm tài sản của bạn. Mã pin này sẽ được yêu cầu khi bạn thực hiện giao dịch.",
   "@setPayPinSubtitle": {
     "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
   },
-  "showTip": "Mostrar PIN",
+  "showTip": "Hiển thị Ghim",
   "@showTip": {
     "description": "Show Pin"
   },
-  "hideTip": "Ocultar PIN",
+  "hideTip": "Ẩn Ghim",
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "Confirmar PIN de pago",
+  "confirmPayPin": "Xác nhận mã thanh toán",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
-  "confirmNotMatchTip": "Los dos PIN de pago no coinciden.",
+  "confirmNotMatchTip": "Hai chân thanh toán không khớp nhau.",
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "Introduce el PIN de pago",
+  "enterPayPin": "Nhập thanh toán PIN",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
-  "forgotPin": "PIN olvidado",
+  "forgotPin": "Quên mã pin",
   "@forgotPin": {
     "description": "Forgot pin"
   },
-  "enterCode": "Introduce el código",
+  "enterCode": "Nhập mã",
   "@enterCode": {
     "description": "Enter Code"
   },
-  "changeEmailCodeSubtitle": "Se ha enviado un código de 4 dígitos a {email}",
+  "changeEmailCodeSubtitle": "Mã gồm 4 chữ số đã được gửi tới {email}",
   "@changeEmailCodeSubtitle": {
     "description": "A 4-digit code was sent to {email}"
   },
-  "request": "Solicitar",
+  "request": "Lời yêu cầu",
   "@request": {
     "description": "Request"
   },
-  "incorrectCode": "Código incorrecto",
+  "incorrectCode": "Mã không chính xác",
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "¿Olvidaste el PIN de pago?",
+  "forgetPayPin": "Quên thanh toán PIN?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "Mostrar PIN de pago",
+  "showPayPin": "Hiển thị thanh toán PIN",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "Ocultar PIN de pago",
+  "hidePayPin": "Ẩn thanh toán PIN",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
-  "setRecoveryEmail": "Establecer correo electrónico de recuperación",
+  "setRecoveryEmail": "Đặt email khôi phục",
   "@setRecoveryEmail": {
     "description": "Set Recovery Email"
   },
-  "setRecoveryEmailSubtitle": "Para garantizar la seguridad de tus activos, establece un correo electrónico de recuperación. Este correo electrónico se utilizará para la recuperación de la cuenta en caso de que pierdas el acceso a tu cuenta.",
+  "setRecoveryEmailSubtitle": "Để đảm bảo tính bảo mật cho tài sản của bạn, vui lòng đặt email khôi phục. Email này sẽ được sử dụng để khôi phục tài khoản trong trường hợp bạn mất quyền truy cập vào tài khoản của mình.",
   "@setRecoveryEmailSubtitle": {
     "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
   },
-  "enterEmailAddress": "Introduce tu dirección de correo electrónico",
+  "enterEmailAddress": "Nhập địa chỉ Email của bạn",
   "@enterEmailAddress": {
     "description": "Enter your Email address"
   },
-  "emailErrorTip": "Este correo electrónico no está disponible",
+  "emailErrorTip": "Email này không có sẵn",
   "@emailErrorTip": {
     "description": "This email is not available"
   },
-  "codeResendSecond": "Reenviar ({second})",
+  "codeResendSecond": "Gửi lại({second})",
   "@codeResendSecond": {
     "description": "Resend({second})"
   },
-  "scanQRCode": "Escanear código QR",
+  "scanQRCode": "Quét mã QR",
   "@scanQRCode": {
     "description": "Scan QR Code"
   },
-  "album": "Álbum",
+  "album": "Album",
   "@album": {
     "description": "Album"
   },
@@ -968,83 +968,83 @@
   "@alignQRCode": {
     "description": ""
   },
-  "enterSeedPhrase": "Introduce la frase semilla",
+  "enterSeedPhrase": "Nhập cụm từ khôi phục",
   "@enterSeedPhrase": {
     "description": "Enter seed phrase"
   },
-  "enterSeedPhraseRemind": "Si estás utilizando una frase semilla para importar la billetera, separa cada palabra con un espacio.",
+  "enterSeedPhraseRemind": "Nếu bạn đang sử dụng cụm từ khôi phục để nhập ví, hãy phân tách mỗi từ bằng dấu cách.",
   "@enterSeedPhraseRemind": {
     "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
   },
-  "clear": "Limpiar",
+  "clear": "Thông thoáng",
   "@clear": {
     "description": "Clear"
   },
-  "howToBackUp": "Por qué y cómo hacer una copia de seguridad de tu billetera",
+  "howToBackUp": "Tại sao và làm thế nào để sao lưu\r\nví của bạn",
   "@howToBackUp": {
     "description": "Why and How to back up\r\nyour wallet"
   },
-  "backUpRemind": "Para poder acceder a tus cuentas y activos cuando cambies de dispositivo, te recomendamos encarecidamente que sigas el proceso a continuación para hacer una copia de seguridad de tu billetera.",
+  "backUpRemind": "Để có thể truy cập vào tài khoản và tài sản của bạn khi bạn thay đổi thiết bị, chúng tôi thực sự khuyên bạn nên làm theo quy trình bên dưới để sao lưu ví của mình.",
   "@backUpRemind": {
     "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
   },
-  "backUpStep1": "1. Haz clic en el botón para ver las frases semilla.",
+  "backUpStep1": "1. Nhấp vào nút để xem cụm từ khôi phục.",
   "@backUpStep1": {
     "description": "1. Click the button to view the seed phrases."
   },
-  "backUpStep2": "Guarda las frases semilla en un lugar seguro donde nadie más pueda acceder a ellas.",
+  "backUpStep2": "Giữ cụm từ khôi phục ở nơi an toàn mà không ai khác có thể truy cập vào nó.",
   "@backUpStep2": {
     "description": "Keep the seed phrases in a safe place where no one else can access to it."
   },
-  "backUpWarning": "ADVERTENCIA: Mantén tus frases semilla seguras y NUNCA las compartas con nadie. Cualquiera con tu clave privada puede robar todos los activos de tu billetera.",
+  "backUpWarning": "CẢNH BÁO: Hãy giữ cụm từ khôi phục của bạn an toàn và KHÔNG BAO GIỜ chia sẻ nó với bất kỳ ai. Bất cứ ai có khóa riêng của bạn đều có thể đánh cắp tất cả tài sản trong ví của bạn.",
   "@backUpWarning": {
     "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
   },
-  "showSeed": "Mostrar mis frases semilla",
+  "showSeed": "Hiển thị cụm từ khôi phục của tôi",
   "@showSeed": {
     "description": "Show My Seed Phrases"
   },
-  "seedPhrases": "Frases semilla",
+  "seedPhrases": "cụm từ khôi phục",
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
-  "close": "Cerrar",
+  "close": "Đóng",
   "@close": {
     "description": "Close"
   },
-  "addressLowerCase": "dirección",
+  "addressLowerCase": "Địa chỉ",
   "@addressLowerCase": {
     "description": "address"
   },
-  "enterAddress": "Introduce una dirección válida",
+  "enterAddress": "Vui lòng nhập địa chỉ hợp lệ",
   "@enterAddress": {
     "description": "Please enter a valid address"
   },
-  "addToAddress": "Añadir a la dirección",
+  "addToAddress": "Thêm vào địa chỉ",
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "Saldo: ",
+  "balanceLabel": "Sự cân bằng:",
   "@balanceLabel": {
     "description": "Balance: "
   },
-  "sendTo": "Enviar a",
+  "sendTo": "Gửi tới",
   "@sendTo": {
     "description": "Send to"
   },
-  "routeSelection": "Selección de ruta",
+  "routeSelection": "Lựa chọn tuyến đường",
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "Deslizamiento",
+  "slippage": "Trượt giá",
   "@slippage": {
     "description": "Slippage"
   },
-  "about": "Acerca de",
+  "about": "Về",
   "@about": {
     "description": "About"
   },
-  "site": "Sitio",
+  "site": "Địa điểm",
   "@site": {
     "description": "Site"
   },
@@ -1052,311 +1052,311 @@
   "@twitter": {
     "description": "Twitter"
   },
-  "twitterLowercase": "twitter",
+  "twitterLowercase": "Twitter",
   "@twitterLowercase": {
     "description": "twitter"
   },
-  "telegram": "Telegram",
+  "telegram": "điện tín",
   "@telegram": {
     "description": "Telegram"
   },
-  "networkUppercase": "Red",
+  "networkUppercase": "Mạng",
   "@networkUppercase": {
     "description": "Network"
   },
-  "customTokens": "Tokens personalizados",
+  "customTokens": "Mã thông báo tùy chỉnh",
   "@customTokens": {
     "description": "Custom Tokens"
   },
-  "allTokens": "Todos los tokens",
+  "allTokens": "Tất cả mã thông báo",
   "@allTokens": {
     "description": "All tokens"
   },
-  "filterTokens": "Filtrar tokens de riesgo",
+  "filterTokens": "Lọc các token rủi ro",
   "@filterTokens": {
     "description": "Filter risky tokens"
   },
-  "contractAddress": "Dirección del contrato",
+  "contractAddress": "Địa chỉ hợp đồng",
   "@contractAddress": {
     "description": "Contract address"
   },
-  "tokenSymbol": "Símbolo del token",
+  "tokenSymbol": "Biểu tượng mã thông báo",
   "@tokenSymbol": {
     "description": "Token symbol"
   },
-  "decimalsOfPrecision": "Decimales de precisión",
+  "decimalsOfPrecision": "Số thập phân chính xác",
   "@decimalsOfPrecision": {
     "description": "Decimals of precision"
   },
-  "turnOffRisk": "¿Desactivar el filtro de tokens de riesgo?",
+  "turnOffRisk": "Tắt bộ lọc mã thông báo rủi ro？",
   "@turnOffRisk": {
     "description": "Turn off risky tokens filter？"
   },
-  "sureTurnOff": "¿Estás seguro de que quieres desactivar el filtro de tokens de riesgo? Esto puede resultar en la pérdida de activos.",
+  "sureTurnOff": "Bạn có chắc chắn muốn tắt bộ lọc mã thông báo rủi ro không? Điều này có thể dẫn đến mất mát tài sản.",
   "@sureTurnOff": {
     "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
   },
-  "turnOff": "Desactivar",
+  "turnOff": "Tắt",
   "@turnOff": {
     "description": "Turn off"
   },
-  "fail": "fallo",
+  "fail": "thất bại",
   "@fail": {
     "description": "fail"
   },
-  "pending": "Pendiente",
+  "pending": "Chưa giải quyết",
   "@pending": {
     "description": "Pending"
   },
-  "warningText": "Los fondos pueden tardar hasta 20 minutos en llegar a tu billetera después de que la transacción sea exitosa.",
+  "warningText": "Tiền có thể mất tới 20 phút để đến ví của bạn sau khi giao dịch thành công.",
   "@warningText": {
     "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
   },
-  "myWalletAddress": "Mi dirección de billetera",
+  "myWalletAddress": "Địa chỉ ví của tôi",
   "@myWalletAddress": {
     "description": "My wallet address"
   },
-  "hi": "Hola, {name}",
+  "hi": "Xin chào, {name}",
   "@hi": {
     "description": "Hi, {name}"
   },
-  "dogeDevnetBalance": "Saldo de $DOGE (devnet)",
+  "dogeDevnetBalance": "Số dư $DOGE (devnet)",
   "@dogeDevnetBalance": {
     "description": "$DOGE (devnet) balance"
   },
-  "dogeDevnetFaucet": "Grifo de DogeOs Devnet",
+  "dogeDevnetFaucet": "Faucet devnet DogeOS",
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
-  "myDogeTokenBalance": "Mi saldo de $DOGE (token de desarrollo)",
+  "myDogeTokenBalance": "Số dư $DOGE (mã thông báo nhà phát triển) của tôi",
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "¿Qué es un grifo?",
+  "whatIsFaucet": "Faucet là gì?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Un grifo te permite reclamar tokens gratuitos para fines de prueba en una",
+  "whatIsFaucetHint": "Vòi cho phép bạn yêu cầu mã thông báo miễn phí cho mục đích thử nghiệm trên",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
-  "devnet": " red de desarrollo ",
+  "devnet": "mạng lưới phát triển",
   "@devnet": {
     "description": " devnet "
   },
-  "whatIsFaucetHint2": "— un entorno de cadena de bloques que simula transacciones reales sin utilizar activos reales.",
+  "whatIsFaucetHint2": "— một môi trường blockchain mô phỏng các giao dịch thực mà không cần sử dụng tài sản thực.",
   "@whatIsFaucetHint2": {
     "description": "— a blockchain environment that simulates real transactions without using real assets."
   },
-  "thestDevnetTokens": "Estos tokens de la red de desarrollo son",
+  "thestDevnetTokens": "Các mã thông báo devnet này là",
   "@thestDevnetTokens": {
     "description": "These devnet tokens are"
   },
-  "notRealDoge": " no son DOGE reales",
+  "notRealDoge": "DOGE không có thật",
   "@notRealDoge": {
     "description": " not real DOGE"
   },
-  "and": " y ",
+  "and": "Và",
   "@and": {
     "description": " and "
   },
-  "haveNoMonetary": "no tienen valor monetario",
+  "haveNoMonetary": "không có giá trị tiền tệ",
   "@haveNoMonetary": {
     "description": "have no monetary value"
   },
-  "howMuchDoge": "¿Cuánto DOGE de la red de desarrollo puedo obtener?",
+  "howMuchDoge": "Tôi có thể nhận được bao nhiêu Devnet DOGE?",
   "@howMuchDoge": {
     "description": " How Much Devnet DOGE Can I Get?"
   },
-  "youCanRequest": "Puedes solicitar",
+  "youCanRequest": "Bạn có thể yêu cầu",
   "@youCanRequest": {
     "description": "You can request"
   },
-  "perDayDoge": " 42.069 ÐOGE por día.",
+  "perDayDoge": "42.069 ĐOGE mỗi ngày.",
   "@perDayDoge": {
     "description": " 42.069 ÐOGE per day."
   },
-  "noRealFunds": " No se involucran fondos reales, es solo para pruebas.",
+  "noRealFunds": "Không có tiền thực sự liên quan - nó chỉ để thử nghiệm.",
   "@noRealFunds": {
     "description": " No real funds are involved — it’s just for testing."
   },
-  "WhatCanIDo": "¿Qué puedo hacer con el DOGE de la red de desarrollo?",
+  "WhatCanIDo": "Tôi có thể làm gì với Devnet DOGE?",
   "@WhatCanIDo": {
     "description": " What Can I Do With Devnet DOGE?"
   },
-  "WhatCanIDoHint": " Con tu ÐOGE de la red de desarrollo, puedes:",
+  "WhatCanIDoHint": "Với devnet ĐOGE của bạn, bạn có thể:",
   "@WhatCanIDoHint": {
     "description": " With your devnet ÐOGE, you can:"
   },
-  "WhatCanIDoHint1": "Probar nuevas funciones de forma segura",
+  "WhatCanIDoHint1": "Hãy thử các tính năng mới một cách an toàn",
   "@WhatCanIDoHint1": {
     "description": "Try out new features safely"
   },
-  "WhatCanIDoHint2": "Interactuar con dApps sin riesgo financiero",
+  "WhatCanIDoHint2": "Tương tác với dApps mà không gặp rủi ro tài chính",
   "@WhatCanIDoHint2": {
     "description": "Interact with dApps without financial risk"
   },
-  "helpUsTest": "Ayúdanos a probar",
+  "helpUsTest": "Hãy giúp chúng tôi kiểm tra",
   "@helpUsTest": {
     "description": "Help us test"
   },
-  "performanceUnderLoad": " rendimiento bajo carga ",
+  "performanceUnderLoad": "hiệu suất dưới tải",
   "@performanceUnderLoad": {
     "description": " performance under load "
   },
-  "performanceUnderLoadHint": "— ¡tu actividad contribuye a importantes pruebas de estrés a medida que escalamos DogeOS!",
+  "performanceUnderLoadHint": "— hoạt động của bạn góp phần vào quá trình kiểm tra căng thẳng quan trọng khi chúng tôi mở rộng DogeOS!",
   "@performanceUnderLoadHint": {
     "description": "— your activity contributes to important stress testing as we scale DogeOS!"
   },
-  "claimNow": "¡Reclama Ð42.069 ahora!",
+  "claimNow": "Hãy nhận Đ42.069 ngay bây giờ!",
   "@claimNow": {
     "description": "Claim Ð42.069 now!"
   },
-  "blockOrReport": "Bloquear o denunciar",
+  "blockOrReport": "Chặn hoặc báo cáo",
   "@blockOrReport": {
     "description": "Block or Report"
   },
-  "blockOrReportHint": "MyDoge revisará todos los perfiles denunciados para ver si hay alguna violación de nuestras directrices. También puedes bloquear el perfil para evitar que vean tus publicaciones.",
+  "blockOrReportHint": "MyDoge sẽ xem xét tất cả hồ sơ được báo cáo để xem liệu có bất kỳ hành vi vi phạm nguyên tắc nào của chúng tôi hay không. Bạn cũng có thể chặn hồ sơ để ngăn họ xem bài đăng của bạn.",
   "@blockOrReportHint": {
     "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
   },
-  "report": "Denunciar",
+  "report": "Báo cáo",
   "@report": {
     "description": "Report"
   },
-  "block": "Bloquear",
+  "block": "Khối",
   "@block": {
     "description": "Block"
   },
-  "nevermind": "No importa",
+  "nevermind": "Đừng bận tâm",
   "@nevermind": {
     "description": "Nevermind"
   },
-  "allComments": "Todos los comentarios",
+  "allComments": "Tất cả bình luận",
   "@allComments": {
     "description": "All Comments"
   },
-  "noCommentYet": "Aún no hay comentarios",
+  "noCommentYet": "Chưa có bình luận nào",
   "@noCommentYet": {
     "description": "No comment yet"
   },
-  "saySomething": "Di algo...",
+  "saySomething": "Nói điều gì đó...",
   "@saySomething": {
     "description": "Say something..."
   },
-  "sureToDelete": "¿Seguro que quieres eliminar este comentario?",
+  "sureToDelete": "Chắc chắn xóa bình luận này?",
   "@sureToDelete": {
     "description": "Sure to delete this comment?"
   },
-  "copyProfileURL": "Copiar URL del perfil",
+  "copyProfileURL": "Sao chép URL hồ sơ",
   "@copyProfileURL": {
     "description": "Copy Profile URL"
   },
-  "quickAmount": "Cantidad rápida",
+  "quickAmount": "Số tiền nhanh",
   "@quickAmount": {
     "description": "Quick amount"
   },
-  "unblockUser": "¿Desbloquear usuario?",
+  "unblockUser": "Bỏ chặn người dùng?",
   "@unblockUser": {
     "description": "Unblock User?"
   },
-  "unblockUserHint": "Esto desbloqueará al usuario y seguirás viendo sus publicaciones.",
+  "unblockUserHint": "Điều này sẽ bỏ chặn người dùng và bạn sẽ tiếp tục xem bài đăng của họ.",
   "@unblockUserHint": {
     "description": "This will unblock the user and you will continue to see their posts."
   },
-  "unblock": "Desbloquear",
+  "unblock": "Bỏ chặn",
   "@unblock": {
     "description": "Unblock"
   },
-  "following": "Siguiendo",
+  "following": "Tiếp theo",
   "@following": {
     "description": "Following"
   },
-  "shop": "Tienda",
+  "shop": "Cửa hàng",
   "@shop": {
     "description": "Shop"
   },
-  "settingsAndSupport": "Ajustes y soporte",
+  "settingsAndSupport": "Cài đặt và hỗ trợ",
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "Enviar y recibir propinas a través de",
+  "sendAndReceive": "Gửi và nhận lời khuyên qua",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
-  "readFAQ": "Leer las preguntas frecuentes de MyDogeTip",
+  "readFAQ": "Đọc Câu hỏi thường gặp về MyDogeTip",
   "@readFAQ": {
     "description": "Read the MyDogeTip FAQ"
   },
-  "signOutUser": "Cerrar sesión @{handle}",
+  "signOutUser": "Đăng xuất @{handle}",
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "Cambiar PIN de pago",
+  "changePayPin": "Thay đổi thanh toán PIN",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
-  "displayCurrency": "Moneda de visualización",
+  "displayCurrency": "Hiển thị tiền tệ",
   "@displayCurrency": {
     "description": "Display currency"
   },
-  "aboutMyDoge": "Acerca de MyDoge",
+  "aboutMyDoge": "Giới thiệu về MyDoge",
   "@aboutMyDoge": {
     "description": "About MyDoge"
   },
-  "version": "Versión {version}",
+  "version": "Phiên bản {version}",
   "@version": {
     "description": "Version {version}"
   },
-  "nickname": "Apodo",
+  "nickname": "Biệt hiệu",
   "@nickname": {
     "description": "Nickname"
   },
-  "username": "Nombre de usuario",
+  "username": "Tên người dùng",
   "@username": {
     "description": "User name"
   },
-  "followers": "Seguidores",
+  "followers": "Người theo dõi",
   "@followers": {
     "description": "Followers"
   },
-  "newPost": "Nueva publicación",
+  "newPost": "Bài đăng mới",
   "@newPost": {
     "description": "New Post"
   },
-  "post": "Publicar",
+  "post": "Bưu kiện",
   "@post": {
     "description": "Post"
   },
-  "share": "Compartir",
+  "share": "Chia sẻ",
   "@share": {
     "description": "Share"
   },
-  "tips": "Propinas",
+  "tips": "Mẹo",
   "@tips": {
     "description": "Tips"
   },
-  "message": "Mensaje",
+  "message": "Tin nhắn",
   "@message": {
     "description": "Message"
   },
-  "shareProfile": "Compartir perfil",
+  "shareProfile": "Chia sẻ hồ sơ",
   "@shareProfile": {
     "description": "Share profile"
   },
-  "findFriends": "Encontrar amigos",
+  "findFriends": "Tìm bạn bè",
   "@findFriends": {
     "description": "Find Friends"
   },
-  "searchResults": "Resultados de la búsqueda",
+  "searchResults": "Kết quả tìm kiếm",
   "@searchResults": {
     "description": "Search Results"
   },
-  "startTyping": "empieza a escribir",
+  "startTyping": "bắt đầu gõ",
   "@startTyping": {
     "description": "start typing"
   },
-  "shopWithDoge": "Comprar con Doge",
+  "shopWithDoge": "Mua sắm với Doge",
   "@shopWithDoge": {
     "description": "Shop with Doge"
   },
@@ -1364,127 +1364,127 @@
   "@getDogeCom": {
     "description": "GetDoge.com"
   },
-  "giftCards": "Tarjetas de regalo",
+  "giftCards": "Thẻ quà tặng",
   "@giftCards": {
     "description": "Gift Cards"
   },
-  "soon": "pronto",
+  "soon": "sớm",
   "@soon": {
     "description": "soon"
   },
-  "switchNetwork": "Cambiar de red",
+  "switchNetwork": "Chuyển mạng",
   "@switchNetwork": {
     "description": "Switch network"
   },
-  "empty": "Vacío",
+  "empty": "Trống",
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "Recibo est.",
+  "estReceive": "Ước tính. Nhận được",
   "@estReceive": {
     "description": "Est. Receive"
   },
-  "doge": "Doge",
+  "doge": "tổng trấn",
   "@doge": {
     "description": "Doge"
   },
-  "scanQrCodeDesc": "Escanea para pagar con la cantidad exacta.",
+  "scanQrCodeDesc": "Quét để thanh toán với số tiền chính xác.",
   "@scanQrCodeDesc": {
     "description": "Scan to pay with the exact amount."
   },
-  "clearAmount": "Borrar cantidad",
+  "clearAmount": "Số tiền rõ ràng",
   "@clearAmount": {
     "description": "Clear amount"
   },
-  "inputPINToContinue": "Introduce tu PIN para continuar",
+  "inputPINToContinue": "Nhập PIN của bạn để tiếp tục",
   "@inputPINToContinue": {
     "description": "Enter your PIN to continue"
   },
-  "verifyYourPIN": "Verifica tu PIN para crear una billetera DogeOS.",
+  "verifyYourPIN": "Xác minh PIN của bạn để tạo Ví xã hội.",
   "@verifyYourPIN": {
     "description": "Verify your PIN to create a Social Wallet."
   },
-  "incorrectPin": "El PIN que has introducido es incorrecto",
+  "incorrectPin": "PIN bạn đã nhập không chính xác",
   "@incorrectPin": {
     "description": "The PIN you entered is incorrect"
   },
-  "iCloudBackupFailed": "La copia de seguridad de iCloud ha fallado",
+  "iCloudBackupFailed": "Sao lưu iCloud không thành công",
   "@iCloudBackupFailed": {
     "description": "iCloud backup failed"
   },
-  "pleaseTurnOnYourICloud": "Activa iCloud en los ajustes de tu dispositivo antes de hacer una copia de seguridad o importar tu billetera.",
+  "pleaseTurnOnYourICloud": "Vui lòng bật iCloud trong cài đặt thiết bị của bạn trước khi sao lưu hoặc nhập ví của bạn.",
   "@pleaseTurnOnYourICloud": {
     "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
   },
-  "goToSettingPage": "Ir a la página de ajustes",
+  "goToSettingPage": "Tới trang cài đặt",
   "@goToSettingPage": {
     "description": "Go to setting page"
   },
-  "deleteBackup": "Eliminar copia de seguridad",
+  "deleteBackup": "Xóa bản sao lưu",
   "@deleteBackup": {
     "description": "Delete backup"
   },
-  "deleteBackupOrNot": "¿Quieres eliminar la copia de seguridad?",
+  "deleteBackupOrNot": "Bạn có muốn xóa bản sao lưu?",
   "@deleteBackupOrNot": {
     "description": "Do you want to delete the backup?"
   },
-  "sendToCrypto": "Enviar a una dirección de criptomonedas",
+  "sendToCrypto": "Gửi đến một địa chỉ tiền điện tử",
   "@sendToCrypto": {
     "description": "Send to a crypto address"
   },
-  "importSeedPhrase": "Importar con frase semilla",
+  "importSeedPhrase": "Nhập bằng cụm từ khôi phục",
   "@importSeedPhrase": {
     "description": "Import with seed phrase"
   },
-  "importGoogleDrive": "Importar desde Google Drive",
+  "importGoogleDrive": "Nhập từ ổ đĩa google",
   "@importGoogleDrive": {
     "description": "Import from google drive"
   },
-  "importICloud": "Importar desde iCloud",
+  "importICloud": "Nhập từ iCloud",
   "@importICloud": {
     "description": "Import from iCloud"
   },
-  "reminder": "Recordatorio",
+  "reminder": "Lời nhắc nhở",
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "Hemos notado que la billetera que usaste anteriormente era de una billetera DogeOS, con la semilla protegida a través de Cubist. Te actualizarás a esa billetera social. Además, tu contenido anterior de Dogeverse ya no está accesible.\n\nSi tienes alguna pregunta, ponte en contacto con nuestro equipo de soporte.",
+  "reminderDesc": "Chúng tôi nhận thấy rằng ví bạn sử dụng trước đây là từ Ví xã hội, với hạt giống được bảo vệ thông qua Cubist. Bạn sẽ nâng cấp lên ví xã hội đó. Ngoài ra, nội dung Dogeverse trước đó của bạn không thể truy cập được nữa.\n\nNếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với nhóm hỗ trợ của chúng tôi.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
-  "importNotes": "Notas importantes sobre el inicio de sesión social",
+  "importNotes": "Những lưu ý quan trọng khi đăng nhập mạng xã hội",
   "@importNotes": {
     "description": "Important notes on social login"
   },
-  "importNotesDesc": "Si inicias sesión con X, la función MyDogeTip se vinculará a tu cuenta de X.",
+  "importNotesDesc": "Nếu bạn đăng nhập bằng X, tính năng MyDogeTip sẽ được liên kết với tài khoản X của bạn.",
   "@importNotesDesc": {
     "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
   },
-  "maybeLater": "Quizás más tarde",
+  "maybeLater": "Có lẽ sau này",
   "@maybeLater": {
     "description": "Maybe later"
   },
-  "depositToken": "Depositar {tokenName}",
+  "depositToken": "Gửi tiền {tokenName}",
   "@depositToken": {
     "description": "Deposit {tokenName}"
   },
-  "selectDepositMethod": "Seleccionar método de depósito",
+  "selectDepositMethod": "Chọn phương thức gửi tiền",
   "@selectDepositMethod": {
     "description": "Select deposit method"
   },
-  "myDogeFriends": "Amigos de MyDoge",
+  "myDogeFriends": "MyDoge các bạn",
   "@myDogeFriends": {
     "description": "MyDoge friends"
   },
-  "setAmount": "Establecer cantidad",
+  "setAmount": "Đặt số tiền",
   "@setAmount": {
     "description": "Set amount"
   },
-  "amount": "Cantidad",
+  "amount": "Số lượng",
   "@amount": {
     "description": "Amount"
   },
-  "amountLowercase": "cantidad",
+  "amountLowercase": "số lượng",
   "@amountLowercase": {
     "description": "amount"
   },
@@ -1492,323 +1492,323 @@
   "@dogeUppercase": {
     "description": "DOGE"
   },
-  "allNetworks": "Todas las redes",
+  "allNetworks": "Tất cả các mạng",
   "@allNetworks": {
     "description": "All networks"
   },
-  "popularNetworks": "Redes populares",
+  "popularNetworks": "Mạng phổ biến",
   "@popularNetworks": {
     "description": "Popular networks"
   },
-  "oops": "Cambiar a la billetera DogeOS",
+  "oops": "Chuyển sang Ví xã hội",
   "@oops": {
     "description": "Switch to Social Wallet"
   },
-  "oopsDesc": "¡Vaya! Actualmente estás usando tu billetera MyDoge Classic. Cambia a tu billetera DogeOS para acceder a esta función.",
+  "oopsDesc": "Ối! Bạn hiện đang sử dụng ví MyDoge Classic của mình. Vui lòng chuyển sang Ví xã hội của bạn để truy cập tính năng này.",
   "@oopsDesc": {
     "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
   },
-  "switchWallet": "Cambiar de billetera",
+  "switchWallet": "Chuyển đổi ví",
   "@switchWallet": {
     "description": "Switch wallet"
   },
-  "termsOfUse": "Términos de uso",
+  "termsOfUse": "Điều khoản sử dụng",
   "@termsOfUse": {
     "description": "Terms of Use"
   },
-  "privacyPolicy": "Política de privacidad",
+  "privacyPolicy": "Chính sách bảo mật",
   "@privacyPolicy": {
     "description": "Privacy Policy"
   },
-  "shareMyDoge": "Compartir MyDoge",
+  "shareMyDoge": "Chia sẻ MyDoge",
   "@shareMyDoge": {
     "description": "Share MyDoge"
   },
-  "visitOurWebsite": "Visita nuestro sitio web",
+  "visitOurWebsite": "Ghé thăm trang web của chúng tôi",
   "@visitOurWebsite": {
     "description": "Visit Our Website"
   },
-  "viewSeedPhrase": "Ver frase semilla",
+  "viewSeedPhrase": "Xem cụm từ khôi phục",
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "Transcribir",
+  "seedBackupTip1": "Phiên âm",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
-  "seedBackupTip2": "Capturas de pantalla",
+  "seedBackupTip2": "Ảnh chụp màn hình",
   "@seedBackupTip2": {
     "description": "Screenshots"
   },
-  "seedBackupTip3": "Copia digital",
+  "seedBackupTip3": "Bản sao kỹ thuật số",
   "@seedBackupTip3": {
     "description": "Digital copy"
   },
-  "keepSeedSafeNotice": "Cualquiera con tu semilla puede acceder a todos tus activos. Por favor, guarda la información para ti.",
+  "keepSeedSafeNotice": "Bất cứ ai có hạt giống của bạn đều có thể truy cập vào tất cả tài sản của bạn. Hãy giữ thông tin cho chính mình.",
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
-  "hide": "Ocultar",
+  "hide": "Trốn",
   "@hide": {
     "description": "Hide"
   },
-  "warningTitleNotice": "Por razones de seguridad, si cierras o actualizas la página, tendrás que volver a solicitar y esperar al menos 48 horas. Asegúrate de haber recordado tu frase semilla antes de irte.",
+  "warningTitleNotice": "Vì lý do bảo mật, nếu đóng hoặc làm mới trang, bạn sẽ phải đăng ký lại và đợi ít nhất 48 giờ. Hãy chắc chắn rằng bạn đã nhớ cụm từ khôi phục của mình trước khi rời đi.",
   "@warningTitleNotice": {
     "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
   },
-  "keepSeedSafeTitle": "Mantén la frase semilla segura",
+  "keepSeedSafeTitle": "Giữ cụm từ khôi phục an toàn",
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "Cualquiera con tu semilla puede acceder a todos tus activos. Asegúrate de hacer una copia de seguridad de tu semilla antes de recibir transferencias o eliminar la aplicación.",
+  "keepSeedSafeNotice1": "Bất cứ ai có hạt giống của bạn đều có thể truy cập vào tất cả tài sản của bạn. Hãy đảm bảo sao lưu hạt giống của bạn trước khi nhận chuyển khoản hoặc xóa ứng dụng.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge no almacenará tu semilla en su servidor y, por lo tanto, no podrá recuperar tu billetera una vez que se pierda.",
+  "keepSeedSafeNotice2": "MyDoge sẽ không lưu trữ hạt giống của bạn trên máy chủ của nó và do đó không thể khôi phục ví của bạn sau khi bị mất.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
-  "seedAlreadyBackup": "Ya se ha hecho una copia de seguridad",
+  "seedAlreadyBackup": "Đã sao lưu rồi",
   "@seedAlreadyBackup": {
     "description": "Already backed up"
   },
-  "backupSecurity": "Copia de seguridad y seguridad",
+  "backupSecurity": "Sao lưu & Bảo mật",
   "@backupSecurity": {
     "description": "Backup  & Security"
   },
-  "backupYourWalletHint": "Guarda tu billetera en la nube y protégela con una contraseña. También puedes anotar tu frase semilla o copiarla en un gestor de contraseñas.",
+  "backupYourWalletHint": "Lưu ví của bạn vào đám mây và bảo vệ nó bằng mật khẩu. Bạn cũng có thể ghi lại cụm từ khôi phục của mình hoặc sao chép nó vào trình quản lý mật khẩu.",
   "@backupYourWalletHint": {
     "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
   },
-  "haveNotBackUp": "No has hecho una copia de seguridad de tu billetera en la nube.",
+  "haveNotBackUp": "Bạn chưa sao lưu ví của mình lên đám mây.",
   "@haveNotBackUp": {
     "description": "You haven't backed up your wallet to the cloud."
   },
-  "backupToICloud": "Copia de seguridad en iCloud",
+  "backupToICloud": "Sao lưu vào iCloud",
   "@backupToICloud": {
     "description": "Back up to iCloud"
   },
-  "backupToGoogle": "Copia de seguridad en Google Drive",
+  "backupToGoogle": "Sao lưu vào Google Drive",
   "@backupToGoogle": {
     "description": "Back up to Google Drive"
   },
-  "createRecoveryPassword": "Crear contraseña de recuperación en la nube",
+  "createRecoveryPassword": "Tạo mật khẩu khôi phục đám mây",
   "@createRecoveryPassword": {
     "description": "Create Cloud recovery password"
   },
-  "createRecoveryPasswordHint": "Debes crear una contraseña para la recuperación de la copia de seguridad en la nube. Elige una contraseña memorable de al menos 8 caracteres; las contraseñas más largas son más seguras.",
+  "createRecoveryPasswordHint": "Bạn cần tạo mật khẩu để khôi phục sao lưu đám mây. Chọn mật khẩu dễ nhớ có ít nhất 8 ký tự; mật khẩu dài hơn sẽ an toàn hơn.",
   "@createRecoveryPasswordHint": {
     "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
   },
-  "ifYouLoseRecoveryPassword": "Perder esta contraseña significa que no podrás recuperar tu copia de seguridad.",
+  "ifYouLoseRecoveryPassword": "Mất mật khẩu này có nghĩa là bạn không thể khôi phục bản sao lưu của mình.",
   "@ifYouLoseRecoveryPassword": {
     "description": "Losing this password means you can’t recover your backup."
   },
-  "confirmPassword": "Confirmar contraseña",
+  "confirmPassword": "Xác nhận mật khẩu",
   "@confirmPassword": {
     "description": "Confirm password"
   },
-  "confirmBackup": "Confirmar copia de seguridad",
+  "confirmBackup": "Xác nhận sao lưu",
   "@confirmBackup": {
     "description": "Confirm backup"
   },
-  "haveBackUp": "Has hecho una copia de seguridad de tu billetera en la nube.",
+  "haveBackUp": "Bạn đã sao lưu ví của mình lên đám mây.",
   "@haveBackUp": {
     "description": "You have backed up your wallet to the cloud."
   },
-  "passwordRules": "La contraseña debe tener al menos 8 caracteres",
+  "passwordRules": "Mật khẩu phải có ít nhất 8 ký tự",
   "@passwordRules": {
     "description": "Password must be at least 8 characters"
   },
-  "passwordNotMatch": "La contraseña no coincide",
+  "passwordNotMatch": "Mật khẩu không khớp",
   "@passwordNotMatch": {
     "description": "Password does not match"
   },
-  "someChain": "Cadena {chain}.",
+  "someChain": "Chuỗi {chain}.",
   "@someChain": {
     "description": "{chain} Chain."
   },
-  "inputYourRecoveryPassword": "Introduce tu contraseña de recuperación en la nube",
+  "inputYourRecoveryPassword": "Nhập mật khẩu khôi phục đám mây của bạn",
   "@inputYourRecoveryPassword": {
     "description": "Input your Cloud Recovery Password"
   },
-  "importExistingWallet": "Importar billetera existente",
+  "importExistingWallet": "Nhập ví hiện có",
   "@importExistingWallet": {
     "description": "Import existing wallet"
   },
-  "walletName": "Nombre de la billetera",
+  "walletName": "Tên ví",
   "@walletName": {
     "description": "Wallet name"
   },
-  "backupYourWallet": "Haz una copia de seguridad de tu billetera",
+  "backupYourWallet": "Sao lưu ví của bạn",
   "@backupYourWallet": {
     "description": "Back up your wallet"
   },
-  "deleteWallet": "¿Eliminar la copia de seguridad en la nube?",
+  "deleteWallet": "Xóa bản sao lưu trên đám mây?",
   "@deleteWallet": {
     "description": "Delete Cloud backup?"
   },
-  "renameWallet": "Renombrar billetera",
+  "renameWallet": "Đổi tên ví",
   "@renameWallet": {
     "description": "Rename Wallet"
   },
-  "enterName": "Introduce un nombre",
+  "enterName": "Nhập tên",
   "@enterName": {
     "description": "Enter a name"
   },
-  "sureToDeleteWallet": "Perderás la capacidad de restaurar tu billetera desde la nube. ¿Estás seguro de que quieres continuar?",
+  "sureToDeleteWallet": "Bạn sẽ mất khả năng khôi phục ví của mình từ Cloud. Bạn có chắc chắn muốn tiếp tục không?",
   "@sureToDeleteWallet": {
     "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
   },
-  "profileIsPublic": "El perfil es público",
+  "profileIsPublic": "Hồ sơ là công khai",
   "@profileIsPublic": {
     "description": "Profile is Public"
   },
-  "showWalletAddress": "Mostrar dirección de la billetera y botón de propina",
+  "showWalletAddress": "Hiển thị địa chỉ ví và nút Mẹo",
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "Transferible: ",
+  "transferableLabel": "Có thể chuyển nhượng:",
   "@transferableLabel": {
     "description": "Transferable: "
   },
-  "transferable": "Transferible",
+  "transferable": "Có thể chuyển nhượng",
   "@transferable": {
     "description": "Transferable"
   },
-  "inscribe": "Inscribir",
+  "inscribe": "ghi tên",
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "Comprar Doge",
+  "buyDoge": "Mua Doge",
   "@buyDoge": {
     "description": "Buy Doge"
   },
-  "totalVolume": "Volumen total",
+  "totalVolume": "Tổng khối lượng",
   "@totalVolume": {
     "description": "Total volume"
   },
-  "Volume24h": "Volumen 24h",
+  "Volume24h": "âm lượng 24h",
   "@Volume24h": {
     "description": "24h volume"
   },
-  "holders": "Poseedores",
+  "holders": "Người nắm giữ",
   "@holders": {
     "description": "Holders"
   },
-  "sales": "Ventas",
+  "sales": "Việc bán hàng",
   "@sales": {
     "description": "Sales"
   },
-  "inscribeForTransfer": "Inscribir para transferir",
+  "inscribeForTransfer": "Đăng ký chuyển khoản",
   "@inscribeForTransfer": {
     "description": "Inscribe for transfer"
   },
-  "inscribeForTransferHint": "¿Listo para enviar? Este paso desbloquea tus tokens Drc20 para su transferencia.",
+  "inscribeForTransferHint": "Sẵn sàng để gửi? Bước này sẽ mở khóa mã thông báo Drc20 của bạn để chuyển.",
   "@inscribeForTransferHint": {
     "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
   },
-  "selectAnInscription": "Selecciona una inscripción para enviar",
+  "selectAnInscription": "Chọn một dòng chữ để gửi",
   "@selectAnInscription": {
     "description": "Select an inscription to send"
   },
-  "transferToken": "Transferir {token}",
+  "transferToken": "Chuyển {token}",
   "@transferToken": {
     "description": "Transfer {token}"
   },
-  "confirmTransfer": "Confirmar transferencia",
+  "confirmTransfer": "Xác nhận chuyển khoản",
   "@confirmTransfer": {
     "description": "Confirm Transfer"
   },
-  "noNFTsFound": "No se encontraron NFT",
+  "noNFTsFound": "Không tìm thấy NFTs",
   "@noNFTsFound": {
     "description": "No NFTs Found"
   },
-  "yoursNFTAppearHere": "Tus NFT aparecerán aquí",
+  "yoursNFTAppearHere": "NFTs của bạn sẽ xuất hiện ở đây",
   "@yoursNFTAppearHere": {
     "description": "Your NFTs will appear here"
   },
-  "titleCopied": "{title} copiado al portapapeles",
+  "titleCopied": "Đã sao chép {title} vào bảng nhớ tạm",
   "@titleCopied": {
     "description": "{title} copied to clipboard"
   },
-  "transfer": "Transferir",
+  "transfer": "Chuyển khoản",
   "@transfer": {
     "description": "Transfer"
   },
-  "NFTDetails": "Detalles del NFT",
+  "NFTDetails": "Chi tiết NFT",
   "@NFTDetails": {
     "description": "NFT Details"
   },
-  "inscriptionID": "ID de inscripción",
+  "inscriptionID": "ID dòng chữ",
   "@inscriptionID": {
     "description": "Inscription ID"
   },
-  "outputValue": "Valor de salida",
+  "outputValue": "Giá trị đầu ra",
   "@outputValue": {
     "description": "Output Value"
   },
-  "preview": "Vista previa",
+  "preview": "Xem trước",
   "@preview": {
     "description": "Preview"
   },
-  "content": "Contenido",
+  "content": "Nội dung",
   "@content": {
     "description": "Content"
   },
-  "contentType": "Tipo de contenido",
+  "contentType": "Loại nội dung",
   "@contentType": {
     "description": "Content Type"
   },
-  "timestamp": "Marca de tiempo",
+  "timestamp": "Dấu thời gian",
   "@timestamp": {
     "description": "Timestamp"
   },
-  "genesisTransaction": "Transacción de génesis",
+  "genesisTransaction": "Giao dịch khởi nguồn",
   "@genesisTransaction": {
     "description": "Genesis Transaction"
   },
-  "showLess": "Mostrar menos",
+  "showLess": "Hiển thị ít hơn",
   "@showLess": {
     "description": "Show Less"
   },
-  "showMore": "Mostrar más",
+  "showMore": "Hiển thị thêm",
   "@showMore": {
     "description": "Show More"
   },
-  "errorLoadingNFTs": "Error al cargar los NFT: {error}",
+  "errorLoadingNFTs": "Lỗi tải NFTs: {error}",
   "@errorLoadingNFTs": {
     "description": "Error loading NFTs: {error}"
   },
-  "errorCreatingTransaction": "Error al crear la transacción: {error}",
+  "errorCreatingTransaction": "Lỗi khi tạo giao dịch: {error}",
   "@errorCreatingTransaction": {
     "description": "Error creating transaction: {error}"
   },
-  "addMessage": "Añadir mensaje",
+  "addMessage": "Thêm tin nhắn",
   "@addMessage": {
     "description": "Add message"
   },
-  "toSomeone": "a {someone}",
+  "toSomeone": "tới {someone}",
   "@toSomeone": {
     "description": "to {someone}"
   },
-  "recent": "Reciente",
+  "recent": "Gần đây",
   "@recent": {
     "description": "Recent"
   },
-  "noSearchResult": "No se han encontrado resultados",
+  "noSearchResult": "Không có kết quả tìm kiếm",
   "@noSearchResult": {
     "description": "No search result"
   },
-  "searchForPeople": "Busca personas o introduce una dirección",
+  "searchForPeople": "Tìm kiếm người hoặc nhập địa chỉ",
   "@searchForPeople": {
     "description": "Search for people or input an address"
   },
-  "multiChain": "Multicadena",
+  "multiChain": "Đa chuỗi",
   "@multiChain": {
     "description": "Multi-chain"
   },
-  "transferFundsToDogeWallet": "¡Mueve tus fondos a la billetera DogeOS con un solo toque!",
+  "transferFundsToDogeWallet": "Chuyển tiền của bạn sang Ví xã hội chỉ bằng một cú chạm!",
   "@transferFundsToDogeWallet": {
     "description": "Move your funds to Social Wallet in one tap!"
   },
@@ -1816,463 +1816,463 @@
   "@drc20": {
     "description": "Drc20"
   },
-  "NFTs": "NFT",
+  "NFTs": "NFTs",
   "@NFTs": {
     "description": "NFTs"
   },
-  "noDrc20Found": "¡Nada por aquí todavía!",
+  "noDrc20Found": "Chưa có gì ở đây!",
   "@noDrc20Found": {
     "description": "Nothing here yet!"
   },
-  "youCanCreateWallet": "Siempre puedes crear una billetera DogeOS aquí.",
+  "youCanCreateWallet": "Bạn luôn có thể tạo Ví xã hội tại đây.",
   "@youCanCreateWallet": {
     "description": "You can always create a Social Wallet here."
   },
-  "getDogeTestToken": "Obtén tokens de la red de prueba de DOGE \n (valor cero)",
+  "getDogeTestToken": "Nhận mã thông báo mạng thử nghiệm DOGE \n(giá trị 0)",
   "@getDogeTestToken": {
     "description": "Get DOGE testnet tokens \n (zero value)"
   },
-  "devnetUpperCase": "Red de desarrollo",
+  "devnetUpperCase": "Devnet",
   "@devnetUpperCase": {
     "description": "Devnet"
   },
-  "legalTerms": "Términos legales",
+  "legalTerms": "Điều khoản pháp lý",
   "@legalTerms": {
     "description": "Legal terms"
   },
-  "pleaseReadOur": "Por favor, lee nuestro",
+  "pleaseReadOur": "Xin vui lòng đọc của chúng tôi",
   "@pleaseReadOur": {
     "description": "Please read our"
   },
-  "eula": " EULA",
+  "eula": "EULA",
   "@eula": {
     "description": " EULA"
   },
-  "agreeContinue": " Aceptar y continuar",
+  "agreeContinue": "Đồng ý & Tiếp tục",
   "@agreeContinue": {
     "description": " Agree & Continue"
   },
-  "enableBiometrics": "¿Activar la biometría?",
+  "enableBiometrics": "Bật sinh trắc học?",
   "@enableBiometrics": {
     "description": "Enable biometrics?"
   },
-  "no": "No",
+  "no": "KHÔNG",
   "@no": {
     "description": "No"
   },
-  "yes": "Sí",
+  "yes": "Đúng",
   "@yes": {
     "description": "Yes"
   },
-  "enable": "Activar",
+  "enable": "Cho phép",
   "@enable": {
     "description": "Enable"
   },
-  "setNewPhoto": "Establecer nueva foto",
+  "setNewPhoto": "Đặt ảnh mới",
   "@setNewPhoto": {
     "description": "Set new photo"
   },
-  "chooseFromGallery": "Elegir de la galería",
+  "chooseFromGallery": "Chọn từ thư viện",
   "@chooseFromGallery": {
     "description": "Choose from gallery"
   },
-  "takeAPhoto": "Hacer una foto",
+  "takeAPhoto": "Chụp ảnh",
   "@takeAPhoto": {
     "description": "Take a photo"
   },
-  "authenticationFailed": "Autenticación fallida",
+  "authenticationFailed": "Xác thực không thành công",
   "@authenticationFailed": {
     "description": "Authentication failed"
   },
-  "authenticationFailedHint": "Hubo un problema con tu intento de autenticación.",
+  "authenticationFailedHint": "Đã xảy ra sự cố với nỗ lực xác thực của bạn.",
   "@authenticationFailedHint": {
     "description": "There was an issue with your authentication attempt."
   },
-  "tryAgain": "Intentar de nuevo",
+  "tryAgain": "Thử lại",
   "@tryAgain": {
     "description": "Try again"
   },
-  "faceIDNotEnabled": "Face ID no está activado",
+  "faceIDNotEnabled": "Face ID chưa được bật",
   "@faceIDNotEnabled": {
     "description": "Face ID Not Enabled"
   },
-  "pleaseEnabledFaceID": "Activa Face ID en los ajustes para continuar.",
+  "pleaseEnabledFaceID": "Vui lòng bật Face ID trong Cài đặt để tiếp tục.",
   "@pleaseEnabledFaceID": {
     "description": "Please enable Face ID in Settings to continue."
   },
-  "goToSettings": "Ir a los ajustes",
+  "goToSettings": "Đi tới Cài đặt",
   "@goToSettings": {
     "description": "Go to Settings"
   },
-  "cancelRequest": "Cancelar solicitud",
+  "cancelRequest": "Hủy yêu cầu",
   "@cancelRequest": {
     "description": "Cancel request"
   },
-  "cancelRequestHint": "¿Estás seguro de que quieres cancelar? Esto reiniciará el período de espera si quieres configurar una nueva clave de acceso.",
+  "cancelRequestHint": "Bạn có chắc chắn muốn hủy không? Thao tác này sẽ khởi động lại thời gian chờ nếu bạn muốn thiết lập Passkey mới.",
   "@cancelRequestHint": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
-  "stillAccessYourClassicWallet": "Seguirás teniendo acceso a tu MyDoge Classic para tu próximo inicio de sesión. Sin embargo, tus publicaciones no serán accesibles. Haz una copia de seguridad de tus datos ahora si es necesario.",
+  "stillAccessYourClassicWallet": "Bạn vẫn có quyền truy cập vào MyDoge Classic cho lần đăng nhập tiếp theo. Tuy nhiên, bài viết của bạn sẽ không thể truy cập được. Hãy sao lưu dữ liệu của bạn ngay bây giờ nếu cần.",
   "@stillAccessYourClassicWallet": {
     "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
   },
-  "permissionDenied": "Permiso denegado",
+  "permissionDenied": "Quyền bị từ chối",
   "@permissionDenied": {
     "description": "Permission Denied"
   },
-  "whatIsYourEmail": "¿Cuál es tu correo electrónico?",
+  "whatIsYourEmail": "Email của bạn là gì",
   "@whatIsYourEmail": {
     "description": "What’s your email"
   },
-  "enableFaceID": "Activar Face ID",
+  "enableFaceID": "Kích hoạt Face ID",
   "@enableFaceID": {
     "description": "Enable Face ID"
   },
-  "enableFaceIDHint": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la aplicación.",
+  "enableFaceIDHint": "Để giữ an toàn cho tài khoản của bạn, vui lòng đảm bảo Face ID vẫn được bật trong khi sử dụng ứng dụng.",
   "@enableFaceIDHint": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "setUpPasskey": "Configurar clave de acceso",
+  "setUpPasskey": "Thiết lập Passkey",
   "@setUpPasskey": {
     "description": "Set Up Passkey"
   },
-  "settingUp": "Configurando...",
+  "settingUp": "Đang thiết lập...",
   "@settingUp": {
     "description": "Setting up..."
   },
-  "settingUpHint": "La configuración de la clave de acceso se canceló.\r\nInténtalo de nuevo.",
+  "settingUpHint": "Quá trình thiết lập Passkey đã bị hủy.\r\nVui lòng thử lại.",
   "@settingUpHint": {
     "description": "Passkey setup was canceled.\r\nPlease try again."
   },
-  "verifyWithPasskey": "Verificar con clave de acceso",
+  "verifyWithPasskey": "Xác minh bằng Passkey",
   "@verifyWithPasskey": {
     "description": "Verify With Passkey"
   },
-  "verifying": "Verificando...",
+  "verifying": "Đang xác minh...",
   "@verifying": {
     "description": "Verifying..."
   },
-  "verificationCanceled": "La verificación se canceló.",
+  "verificationCanceled": "Việc xác minh đã bị hủy.",
   "@verificationCanceled": {
     "description": "Verification was canceled."
   },
-  "noPasskeyFound": "No se ha encontrado ninguna clave de acceso",
+  "noPasskeyFound": "Không tìm thấy Passkey",
   "@noPasskeyFound": {
     "description": "No Passkey found"
   },
-  "keepAccountSafe": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la aplicación.",
+  "keepAccountSafe": "Để giữ an toàn cho tài khoản của bạn, vui lòng đảm bảo Face ID vẫn được bật trong khi sử dụng ứng dụng.",
   "@keepAccountSafe": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "setUpNewPasskey": "Configurar una nueva clave de acceso",
+  "setUpNewPasskey": "Thiết lập Passkey mới",
   "@setUpNewPasskey": {
     "description": "Set up a new passkey"
   },
-  "poweredBy": "Desarrollado por",
+  "poweredBy": "Được cung cấp bởi",
   "@poweredBy": {
     "description": "Powered by"
   },
-  "IAccept": "Acepto",
+  "IAccept": "tôi chấp nhận",
   "@IAccept": {
     "description": "I accept"
   },
-  "orContinueWith": "o continuar con",
+  "orContinueWith": "hoặc tiếp tục với",
   "@orContinueWith": {
     "description": "or continue with"
   },
-  "verifyEmail": "Verificar correo electrónico",
+  "verifyEmail": "Xác minh email",
   "@verifyEmail": {
     "description": "Verify Email"
   },
-  "verifyEmailHint": "Se ha enviado un enlace de inicio de sesión único a",
+  "verifyEmailHint": "Liên kết đăng nhập một lần đã được gửi tới",
   "@verifyEmailHint": {
     "description": "A one-time sign-in link has been sent to"
   },
-  "doNotSeeEmail": "¿No ves el correo electrónico? Revisa tu carpeta de spam o ",
+  "doNotSeeEmail": "Bạn không thấy email? Kiểm tra thư mục thư rác của bạn, hoặc",
   "@doNotSeeEmail": {
     "description": "Didn’t see email? Check your spam folder, or "
   },
-  "settingUpPasskeyHint": "Para la seguridad de tu cuenta, configurar una nueva clave de acceso requiere un período de espera de 48 horas.",
+  "settingUpPasskeyHint": "Để bảo mật tài khoản của bạn, việc thiết lập Passkey mới yêu cầu thời gian chờ 48 giờ.",
   "@settingUpPasskeyHint": {
     "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
   },
-  "verificationLinkSent": "Se enviará un enlace de verificación único\r\na tu correo electrónico.",
+  "verificationLinkSent": "Liên kết xác minh một lần sẽ được gửi\r\nvào email của bạn.",
   "@verificationLinkSent": {
     "description": "A one-time verification link will be sent\r\nto your email."
   },
-  "hours": "Horas",
+  "hours": "Giờ",
   "@hours": {
     "description": "Hours"
   },
-  "minutes": "Minutos",
+  "minutes": "Phút",
   "@minutes": {
     "description": "Minutes"
   },
-  "seconds": "Segundos",
+  "seconds": "Giây",
   "@seconds": {
     "description": "Seconds"
   },
-  "resendCode": "Reenviar código",
+  "resendCode": "Gửi lại mã",
   "@resendCode": {
     "description": "Resend code"
   },
-  "emailAddress": "Dirección de correo electrónico",
+  "emailAddress": "Địa chỉ email",
   "@emailAddress": {
     "description": "Email address"
   },
-  "apple": "apple",
+  "apple": "quả táo",
   "@apple": {
     "description": "apple"
   },
-  "allNewWallet": "Billetera MyDoge \nTOTALMENTE NUEVA",
+  "allNewWallet": "HOÀN TOÀN MỚI \nVí MyDoge",
   "@allNewWallet": {
     "description": "ALL-New \nMyDoge Wallet"
   },
-  "getStart": "Empezar",
+  "getStart": "Bắt đầu",
   "@getStart": {
     "description": "Get started"
   },
-  "welcomeToMydogeWallet": "Bienvenido a una nueva experiencia de billetera MyDoge con un inicio de sesión social y una billetera multicadena.\n\nTu MyDoge Classic, tus activos y todo lo que te gusta de MyDoge se migra a una nueva experiencia.",
+  "welcomeToMydogeWallet": "Chào mừng bạn đến với trải nghiệm Ví MyDoge hoàn toàn mới với Đăng nhập xã hội, Ví nhiều chuỗi.\n\nMyDoge Classic, nội dung và mọi thứ bạn yêu thích về MyDoge sẽ được chuyển sang trải nghiệm mới.",
   "@welcomeToMydogeWallet": {
     "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
   },
-  "myDogeWallet": "Billetera MyDoge",
+  "myDogeWallet": "Ví MyDoge",
   "@myDogeWallet": {
     "description": "MyDoge Wallet"
   },
-  "initializing": "Inicializando...",
+  "initializing": "Đang khởi tạo...",
   "@initializing": {
     "description": "Initializing..."
   },
-  "risks": "Sin verificar",
+  "risks": "Chưa được xác minh",
   "@risks": {
     "description": "Unverified"
   },
-  "waitingUserToConnectX": "Esperando a que el usuario se conecte a X",
+  "waitingUserToConnectX": "Đang chờ người dùng kết nối X",
   "@waitingUserToConnectX": {
     "description": "Waiting user to connect X"
   },
-  "history": "Historial",
+  "history": "Lịch sử",
   "@history": {
     "description": "History"
   },
-  "noActivity": "Sin actividad",
+  "noActivity": "Không có hoạt động",
   "@noActivity": {
     "description": "No Activity"
   },
-  "notification": "Notificación",
+  "notification": "Thông báo",
   "@notification": {
     "description": "Notification"
   },
-  "noData": "Sin datos",
+  "noData": "Không có dữ liệu",
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "Para mejorar la seguridad de la billetera y reducir el riesgo de ataques maliciosos, la billetera MyDoge utiliza el mecanismo de custodia de Cubist para almacenar tu frase semilla de forma segura.\nPara verla, envía una solicitud. Estará disponible 48 horas después y se podrá ver durante 3 días.",
+  "viewSeedPhraseTip1": "Để tăng cường bảo mật ví và giảm nguy cơ bị tấn công độc hại, Ví MyDoge sử dụng cơ chế lưu ký Cubist để lưu trữ cụm từ khôi phục của bạn một cách an toàn.\nĐể xem nó, hãy gửi yêu cầu. Nó sẽ có sẵn sau 48 giờ và có thể xem được trong 3 ngày.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
-  "receivedMnemonicTip1": "Tu acceso caducará en {day} días, {hour} horas y {minute} minutos. Haz una copia de seguridad antes de esa fecha.",
+  "receivedMnemonicTip1": "Quyền truy cập của bạn sẽ hết hạn sau {day} ngày, {hour} và {minute} phút. Vui lòng sao lưu nó trước lúc đó.",
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "Una frase semilla es un conjunto de 12 a 24 palabras que sirve como clave para tu billetera. Como una tarjeta bancaria sin PIN, cualquiera que la tenga puede acceder y transferir tus fondos.",
+  "seedPhraseHelpContent": "cụm từ khôi phục là một tập hợp từ 12 đến 24 từ đóng vai trò là chìa khóa cho ví của bạn. Giống như thẻ ngân hàng không có PIN, bất kỳ ai có nó đều có thể truy cập và chuyển tiền của bạn.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "MyDoge no almacena tu frase semilla.\nPara volver a verla, tendrás que esperar 48 horas.",
+  "keepSeedSafeAlertContent": "cụm từ khôi phục của bạn không được MyDoge lưu trữ.\nĐể xem lại, bạn sẽ phải đợi 48 giờ.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
-  "manageCrypto": "Gestionar criptomonedas",
+  "manageCrypto": "Quản lý tiền điện tử",
   "@manageCrypto": {
     "description": "Manage crypto"
   },
-  "addCustomToken": "Añadir token personalizado",
+  "addCustomToken": "Thêm mã thông báo tùy chỉnh",
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "PIN de pago original",
+  "originalPayPIN": "Trả gốc PIN",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "Establecer nuevo PIN de pago",
+  "setNewPayPIN": "Đặt thanh toán PIN mới",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "Confirmar nuevo PIN de pago",
+  "confirmNewPayPIN": "Xác nhận thanh toán mới PIN",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
-  "twoFactor": "Autenticación de dos factores (2FA)",
+  "twoFactor": "Xác thực hai yếu tố (2FA)",
   "@twoFactor": {
     "description": "Two-Factor Authentication (2FA)"
   },
-  "twoFactorHint": "Para mejorar la seguridad de tu cuenta, te recomendamos encarecidamente que actives al menos una 2FA.",
+  "twoFactorHint": "Để tăng cường tính bảo mật cho tài khoản của bạn, chúng tôi thực sự khuyên bạn nên kích hoạt ít nhất một 2FA.",
   "@twoFactorHint": {
     "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
   },
-  "minAmount": "La cantidad mínima es {amount}",
+  "minAmount": "Số tiền tối thiểu là {amount}",
   "@minAmount": {
     "description": "Min amount is {amount}"
   },
-  "maxAmount": "La cantidad máxima es {amount}",
+  "maxAmount": "Số tiền tối đa là {amount}",
   "@maxAmount": {
     "description": "Max amount is {amount}"
   },
-  "connectedDApp": "DApp conectada",
+  "connectedDApp": "Đã kết nối DApp",
   "@connectedDApp": {
     "description": "Connected DApp"
   },
-  "disconnectedAll": "Desconectar todo",
+  "disconnectedAll": "Ngắt kết nối tất cả",
   "@disconnectedAll": {
     "description": "Disconnect All"
   },
-  "disconnected": "Desconectar",
+  "disconnected": "Ngắt kết nối",
   "@disconnected": {
     "description": "Disconnect"
   },
-  "connected": "Conectado",
+  "connected": "Đã kết nối",
   "@connected": {
     "description": "Connected"
   },
-  "connectedWallet": "{name} conectado a {walletName}",
+  "connectedWallet": "{name} được kết nối với {walletName}",
   "@connectedWallet": {
     "description": "{name} connected to {walletName}"
   },
-  "connectedNetwork": "{amount} conexión de red",
+  "connectedNetwork": "Kết nối mạng {amount}",
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Solicitud de Dapp",
+  "dappRequest": "Yêu cầu Dapp",
   "@dappRequest": {
     "description": "Dapp request"
   },
-  "fromLabel": "de: ",
+  "fromLabel": "từ:",
   "@fromLabel": {
     "description": "from: "
   },
-  "approve": "Aprobar",
+  "approve": "Chấp thuận",
   "@approve": {
     "description": "Approve"
   },
-  "sign": "Firmar",
+  "sign": "Dấu hiệu",
   "@sign": {
     "description": "Sign"
   },
-  "walletAddress": "Dirección de la billetera",
+  "walletAddress": "Địa chỉ ví",
   "@walletAddress": {
     "description": "Wallet address"
   },
-  "dAppContract": "Contrato de DApp",
+  "dAppContract": "Hợp đồng DApp",
   "@dAppContract": {
     "description": "DApp Contract"
   },
-  "gasFee": "Comisión de gas",
+  "gasFee": "Phí gas",
   "@gasFee": {
     "description": "Gas Fee"
   },
-  "data": "Datos",
+  "data": "dữ liệu",
   "@data": {
     "description": "Data"
   },
-  "connectYourWallet": "Conecta tu billetera",
+  "connectYourWallet": "Kết nối ví của bạn",
   "@connectYourWallet": {
     "description": "Connect your wallet"
   },
-  "requestFrom": "Solicitud de ",
+  "requestFrom": "Yêu cầu từ",
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Permiso de Dapp",
+  "dappPermission": "Giấy phép Dapp",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
-  "accessYourETH": "Accede a tu información de ETH en la cadena",
+  "accessYourETH": "Truy cập thông tin trên chuỗi ETH của bạn",
   "@accessYourETH": {
     "description": "Access your ETH on-chain information"
   },
-  "requestTransaction": "Solicitar autorización de transacción de tu parte",
+  "requestTransaction": "Yêu cầu ủy quyền giao dịch từ bạn",
   "@requestTransaction": {
     "description": "Request transaction authorization from you"
   },
-  "note": "Nota",
+  "note": "Ghi chú",
   "@note": {
     "description": "Note"
   },
-  "notShareYourPrivateKey": "La autorización no compartirá la información de tu clave privada.",
+  "notShareYourPrivateKey": "Ủy quyền sẽ không chia sẻ thông tin khóa riêng của bạn.",
   "@notShareYourPrivateKey": {
     "description": "Authorization will not share your private key information."
   },
-  "networkNotSupported": "Red no compatible",
+  "networkNotSupported": "Mạng không được hỗ trợ",
   "@networkNotSupported": {
     "description": "Network not supported"
   },
-  "amountNetwork": "{amount} redes",
+  "amountNetwork": "Mạng {amount}",
   "@amountNetwork": {
     "description": "{amount} networks"
   },
-  "manage": "Gestionar",
+  "manage": "Quản lý",
   "@manage": {
     "description": "Manage"
   },
-  "switzerComplete": "Switzer completado",
+  "switzerComplete": "Hoàn thành Thụy Sĩ",
   "@switzerComplete": {
     "description": "Switzer Complete"
   },
-  "noSearchResults": "No se han encontrado resultados",
+  "noSearchResults": "Không có kết quả tìm kiếm",
   "@noSearchResults": {
     "description": "No search results"
   },
-  "authenticatingWithFaceID": "Autenticando con Face ID...",
+  "authenticatingWithFaceID": "Đang xác thực bằng Face ID...",
   "@authenticatingWithFaceID": {
     "description": "Authenticating with Face ID..."
   },
-  "disableToken": "¿Desactivar el filtro de tokens de riesgo?",
+  "disableToken": "Tắt bộ lọc mã thông báo rủi ro?",
   "@disableToken": {
     "description": "Disable risky token filter?"
   },
-  "disable": "Desactivar",
+  "disable": "Vô hiệu hóa",
   "@disable": {
     "description": "Disable"
   },
-  "disableTokenHint": "Esto puede exponerte a tokens de riesgo y a una posible pérdida de activos.",
+  "disableTokenHint": "Điều này có thể khiến bạn gặp phải các token rủi ro và khả năng mất tài sản.",
   "@disableTokenHint": {
     "description": "This may expose you to risky tokens and potential asset loss."
   },
-  "keepSeedSafeAlertTitle": "¿Has guardado tu frase semilla?",
+  "keepSeedSafeAlertTitle": "Bạn đã lưu cụm từ khôi phục của mình chưa?",
   "@keepSeedSafeAlertTitle": {
     "description": "Have you saved your seed phrase?"
   },
-  "cancelViewRequest": "Cancelar la solicitud de visualización",
+  "cancelViewRequest": "Hủy yêu cầu xem",
   "@cancelViewRequest": {
     "description": "Cancel the view request"
   },
-  "featurePoweredBy": "Esta función está impulsada por ",
+  "featurePoweredBy": "Tính năng này được hỗ trợ bởi",
   "@featurePoweredBy": {
     "description": "This feature is powered by "
   },
-  "viewSeedPhraseRequestTitle": "Has solicitado ver la frase semilla.",
+  "viewSeedPhraseRequestTitle": "Bạn đã yêu cầu xem cụm từ khôi phục.",
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "Tu frase semilla se mostrará aquí después de",
+  "viewSeedPhraseRequestTip": "cụm từ khôi phục của bạn sẽ được hiển thị ở đây sau",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "Tu frase semilla está lista para ser vista",
+  "receivedMnemonicTitle": "cụm từ khôi phục của bạn đã sẵn sàng để xem",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
-  "receivedMnemonicSubTip1": "Guarda tu frase semilla en un lugar seguro.",
+  "receivedMnemonicSubTip1": "Hãy giữ cụm từ khôi phục của bạn an toàn.",
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "La billetera MyDoge no almacena las frases semilla de los usuarios. Cada vez que solicites verlas, deberás esperar 48 horas para recuperarlas de Cubist.",
+  "receivedMnemonicSubTip2": "Ví MyDoge không lưu trữ cụm từ khôi phục của người dùng. Mỗi lần bạn yêu cầu xem chúng, bạn phải đợi 48 giờ để truy xuất chúng từ Cubist.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
-  "applyViewSeedPhrase": "Solicitar ver la frase semilla",
+  "applyViewSeedPhrase": "Yêu cầu xem cụm từ khôi phục",
   "@applyViewSeedPhrase": {
     "description": "Request to view seed phrase"
   },
@@ -2284,143 +2284,143 @@
   "@viewSeedPhraseTip3": {
     "description": ""
   },
-  "viewSeedPhraseTip4": "Podrás verla después de 48 horas.",
+  "viewSeedPhraseTip4": "Bạn sẽ có thể xem nó sau 48 giờ.",
   "@viewSeedPhraseTip4": {
     "description": "You’ll be able to view it after 48 hours."
   },
-  "enterCodeDescription": "Se ha enviado un código de 4 dígitos a ",
+  "enterCodeDescription": "Một mã gồm 4 chữ số đã được gửi tới",
   "@enterCodeDescription": {
     "description": "A 4-digit code was sent to "
   },
-  "seedPhraseHelpTitle": "¿Qué es una frase semilla?",
+  "seedPhraseHelpTitle": "cụm từ khôi phục là gì?",
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
-  "seedPhraseHelpNoticeTitle": "¿Cómo mantenerla segura?",
+  "seedPhraseHelpNoticeTitle": "Làm thế nào để giữ nó an toàn?",
   "@seedPhraseHelpNoticeTitle": {
     "description": "How to keep it secure?"
   },
-  "seedPhraseHelpNotice1": "Escríbela o guárdala en un dispositivo sin conexión, como una billetera fría.",
+  "seedPhraseHelpNotice1": "Viết nó ra hoặc lưu trữ nó trong một thiết bị ngoại tuyến như ví lạnh.",
   "@seedPhraseHelpNotice1": {
     "description": "Write it down or store it in an offline device such as a cold wallet."
   },
-  "seedPhraseHelpNotice2": "Nunca la guardes haciendo capturas de pantalla.",
+  "seedPhraseHelpNotice2": "Không bao giờ lưu trữ nó bằng cách chụp ảnh màn hình.",
   "@seedPhraseHelpNotice2": {
     "description": "Never store it by taking screenshots."
   },
-  "seedPhraseHelpNotice3": "Nunca la guardes en aplicaciones de redes sociales, correos electrónicos, notas móviles, servicios en la nube, etc.",
+  "seedPhraseHelpNotice3": "Không bao giờ lưu trữ nó trong các ứng dụng truyền thông xã hội, email, bản ghi nhớ di động, dịch vụ đám mây, v.v.",
   "@seedPhraseHelpNotice3": {
     "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
   },
-  "seedPhraseHelpNoticeHideTip": "No volver a mostrar esto",
+  "seedPhraseHelpNoticeHideTip": "Đừng hiển thị lại điều này",
   "@seedPhraseHelpNoticeHideTip": {
     "description": "Don't show this again"
   },
-  "done": "Hecho",
+  "done": "Xong",
   "@done": {
     "description": "Done"
   },
-  "keep": "Guardar",
+  "keep": "Giữ",
   "@keep": {
     "description": "Keep"
   },
-  "verifyEmailToProtectAccount": "Verifica tu correo electrónico para ayudar a proteger tu cuenta.",
+  "verifyEmailToProtectAccount": "Xác minh email của bạn để giúp bảo vệ tài khoản của bạn.",
   "@verifyEmailToProtectAccount": {
     "description": "Verify your email to help protect your account."
   },
-  "potentialHoneypot": "Posible honeypot",
+  "potentialHoneypot": "Hầm mật tiềm năng",
   "@potentialHoneypot": {
     "description": "Potential honeypot"
   },
-  "tokenNotList": "Token no listado",
+  "tokenNotList": "Mã thông báo không được liệt kê",
   "@tokenNotList": {
     "description": "Token not listed"
   },
-  "tokenNotListHint": "El token no está listado y puede ser arriesgado. Procede con precaución.",
+  "tokenNotListHint": "Mã thông báo không được liệt kê và có thể có rủi ro. Hãy tiến hành thận trọng.",
   "@tokenNotListHint": {
     "description": "Token is not listed and may be risky. Please proceed with caution."
   },
-  "slippageTooHigh": "El deslizamiento es demasiado alto",
+  "slippageTooHigh": "Độ trượt quá cao",
   "@slippageTooHigh": {
     "description": "Slippage is too high"
   },
-  "slippageTooHighHint": "La negociación podría provocar pérdidas potenciales, opera con cuidado.",
+  "slippageTooHighHint": "Giao dịch có thể dẫn đến thua lỗ tiềm ẩn, vui lòng giao dịch cẩn thận.",
   "@slippageTooHighHint": {
     "description": "Trading could lead to potential losses, please trade carefully."
   },
-  "tokenNotListHint2": "El token no está listado. La negociación puede resultar en la pérdida de activos.",
+  "tokenNotListHint2": "Mã thông báo không được liệt kê. Giao dịch có thể dẫn đến mất tài sản.",
   "@tokenNotListHint2": {
     "description": "Token is not listed. Trading may result in asset loss."
   },
-  "insufficientBalance": "Saldo insuficiente",
+  "insufficientBalance": "Số dư không đủ",
   "@insufficientBalance": {
     "description": "Insufficient balance"
   },
-  "getStartWithDogeWallet": "Comienza con una billetera DogeOS a través del inicio de sesión social; tu billetera actual permanece segura como MyDoge Classic.",
+  "getStartWithDogeWallet": "Bắt đầu với Ví xã hội thông qua đăng nhập mạng xã hội — ví hiện tại của bạn luôn an toàn dưới dạng MyDoge Classic.",
   "@getStartWithDogeWallet": {
     "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
-  "filterHighRiskTokens": "Filtra los tokens de alto riesgo con un solo clic. No se perderán activos.",
+  "filterHighRiskTokens": "Lọc các mã thông báo có rủi ro cao chỉ bằng một cú nhấp chuột. Sẽ không có tài sản nào bị mất.",
   "@filterHighRiskTokens": {
     "description": "Filter out high-risk tokens with one click. No assets will be lost."
   },
-  "setUpProfile": "¿Configurar tu perfil para la nueva experiencia de MyDoge?",
+  "setUpProfile": "Thiết lập hồ sơ của bạn để có trải nghiệm MyDoge mới?",
   "@setUpProfile": {
     "description": "Set up your profile for the new MyDoge experience?"
   },
-  "invalidWalletAddress": "Dirección de billetera no válida. Comprueba el formato.",
+  "invalidWalletAddress": "Địa chỉ ví không hợp lệ. Vui lòng kiểm tra định dạng.",
   "@invalidWalletAddress": {
     "description": "Invalid wallet address. Please check the format."
   },
-  "loginTitle1": "Tu billetera\nDogecoin, pero mejor",
+  "loginTitle1": "Dogecoin của bạn\r\nVí, nhưng tốt hơn",
   "@loginTitle1": {
     "description": "Your Dogecoin\r\nWallet, but Betterer"
   },
-  "loginDesc1": "Con la confianza de shibes de todo el mundo",
+  "loginDesc1": "Được tin cậy bởi shibes trên toàn thế giới",
   "@loginDesc1": {
     "description": "Trusted by shibes worldwide"
   },
-  "loginTitle2": "Únete al movimiento favorito de internet",
+  "loginTitle2": "Tham gia phong trào yêu thích của Internet",
   "@loginTitle2": {
     "description": "Join the internet’s favorite movement"
   },
-  "loginDesc2": "Una billetera social donde los memes ganan.",
+  "loginDesc2": "Một ví xã hội nơi các meme kiếm tiền.",
   "@loginDesc2": {
     "description": "A social wallet where memes earn."
   },
-  "loginTitle3": "Descubre qué es tendencia en Web3",
+  "loginTitle3": "Khám phá những gì đang có xu hướng trong Web3",
   "@loginTitle3": {
     "description": "Discover what’s trending in Web3"
   },
-  "loginDesc3": "Un mundo de apps, misiones y juegos",
+  "loginDesc3": "Một thế giới ứng dụng, nhiệm vụ và trò chơi",
   "@loginDesc3": {
     "description": "A world of apps, quests and games"
   },
-  "loginTitle4": "Muchas propinas,\nmuy shibe friendly",
+  "loginTitle4": "Tiền boa nhiều,\r\nthật thân thiện",
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "Da propinas a tus frens y operen juntos",
+  "loginDesc4": "Mẹo cho bạn bè và giao dịch cùng nhau",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },
-  "connectWithX": "Conectar con X",
+  "connectWithX": "Kết nối với X",
   "@connectWithX": {
     "description": "Connect with X"
   },
-  "signWithOther": "Registrarse con otras opciones",
+  "signWithOther": "Đăng ký với các tùy chọn khác",
   "@signWithOther": {
     "description": "Sign up with other options"
   },
-  "byUsingDogeOs": "Al usar DogeOS, aceptas nuestros",
+  "byUsingDogeOs": "Bằng cách sử dụng DogeOS, bạn đồng ý chấp nhận",
   "@byUsingDogeOs": {
     "description": "By using DogeOS, you agree to accept our"
   },
-  "chooseLoginTitle": "Elige sabiamente, shibe",
+  "chooseLoginTitle": "Hãy lựa chọn sáng suốt nhé shibe",
   "@chooseLoginTitle": {
     "description": "Choose wisely, shibe"
   },
-  "chooseLoginDesc": "Agrega una billetera con tu cuenta de Apple o Google. Mantén la calma: tu información seguirá siendo privada.",
+  "chooseLoginDesc": "Thêm ví bằng tài khoản Apple hoặc Google của bạn. Hãy bình tĩnh, thông tin của bạn sẽ được giữ kín.",
   "@chooseLoginDesc": {
     "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
   },
@@ -2432,471 +2432,471 @@
   "@google": {
     "description": "Google"
   },
-  "whatYourEmail": "¿Cuál es tu correo?",
+  "whatYourEmail": "Email của bạn là gì?",
   "@whatYourEmail": {
     "description": "What’s your email?"
   },
-  "verifyOtpEmail": "Verificar correo OTP",
+  "verifyOtpEmail": "Xác minh email OTP",
   "@verifyOtpEmail": {
     "description": "Verify OTP email"
   },
-  "aVerificationCode": "Se ha enviado un código de verificación a ",
+  "aVerificationCode": "Mã xác minh đã được gửi tới",
   "@aVerificationCode": {
     "description": "A verification code has been sent to "
   },
-  "toKeepYourAccountSafe": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la app.",
+  "toKeepYourAccountSafe": "Để giữ an toàn cho tài khoản của bạn, vui lòng đảm bảo Face ID vẫn được bật trong khi sử dụng ứng dụng.",
   "@toKeepYourAccountSafe": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "authFailedTitle": "Autenticación\nfallida",
+  "authFailedTitle": "Xác thực\nthất bại",
   "@authFailedTitle": {
     "description": "Authentication\nfailed"
   },
-  "authFailedDesc": "Hubo un problema con tu intento de autenticación.",
+  "authFailedDesc": "Đã xảy ra sự cố với nỗ lực xác thực của bạn.",
   "@authFailedDesc": {
     "description": "There was an issue with your authentication attempt."
   },
-  "faceIdNotEnabledTitle": "Face ID\nno activado",
+  "faceIdNotEnabledTitle": "ID khuôn mặt \nChưa kích hoạt",
   "@faceIdNotEnabledTitle": {
     "description": "Face ID \nNot Enabled"
   },
-  "faceIdNotEnabledDesc": "Activa Face ID en Ajustes para continuar.",
+  "faceIdNotEnabledDesc": "Vui lòng bật Face ID trong Cài đặt để tiếp tục.",
   "@faceIdNotEnabledDesc": {
     "description": "Please enable Face ID in Settings to continue."
   },
-  "goToSetting": "Ir a Ajustes",
+  "goToSetting": "Đi tới Cài đặt",
   "@goToSetting": {
     "description": "Go to Settings"
   },
-  "setupAuthTitle": "Configurar autenticacion",
+  "setupAuthTitle": "Thiết lập xác thực",
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "Por la seguridad de tu cuenta, exportar la frase semilla requiere autenticación.",
+  "setupAuthDesc": "Để bảo mật tài khoản của bạn, việc xuất cụm từ khôi phục yêu cầu xác thực.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
-  "goSetup": "Configurar",
+  "goSetup": "Đi thiết lập",
   "@goSetup": {
     "description": "Go set up"
   },
-  "cancelRequestTitle": "Cancelar solicitud",
+  "cancelRequestTitle": "Hủy yêu cầu",
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "¿Seguro que quieres cancelar? Esto reiniciará el periodo de espera si quieres configurar una nueva passkey.",
+  "cancelRequestDesc": "Bạn có chắc chắn muốn hủy không? Thao tác này sẽ khởi động lại thời gian chờ nếu bạn muốn thiết lập Passkey mới.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
-  "sureToExitTitle": "¿Seguro que quieres salir?",
+  "sureToExitTitle": "Bạn có chắc chắn muốn thoát không?",
   "@sureToExitTitle": {
     "description": "Are you sure you want to exit?"
   },
-  "sureToExitDesc": "Una nueva solicitud requerirá un periodo de espera de 48 horas.",
+  "sureToExitDesc": "Yêu cầu mới sẽ yêu cầu thời gian chờ 48 giờ.",
   "@sureToExitDesc": {
     "description": "New request will require a 48-hour waiting period."
   },
-  "hour48SecurityTitle": "Verificación de seguridad de 48 horas",
+  "hour48SecurityTitle": "Xác minh bảo mật 48 giờ",
   "@hour48SecurityTitle": {
     "description": "48-hour security verification"
   },
-  "hour48SecurityDesc": "La vinculación requiere 48 horas de verificación de seguridad para evitar riesgos. Si no fuiste tú, cambia de inmediato la contraseña del correo OTP.",
+  "hour48SecurityDesc": "Ràng buộc yêu cầu 48 giờ xác minh bảo mật để ngăn ngừa rủi ro. Nếu bạn không thực hiện được, vui lòng thay đổi mật khẩu email OTP ngay lập tức.",
   "@hour48SecurityDesc": {
     "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
   },
-  "whereDidISetItUpTitle": "¿Dónde lo configuré?",
+  "whereDidISetItUpTitle": "Tôi đã thiết lập nó ở đâu?",
   "@whereDidISetItUpTitle": {
     "description": "Where did I set it up?"
   },
-  "whereDidISetItUpDesc": "Puedes encontrar el autenticador si lo configuraste antes en productos impulsados por Tomo, como WLFI Wallet, Tomo Wallet o MyDoge Wallet.",
+  "whereDidISetItUpDesc": "Bạn có thể tìm thấy trình xác thực nếu trước đó bạn đã thiết lập nó trong các sản phẩm do Tomo cung cấp, bao gồm Ví WLFI, Ví Tomo hoặc Ví MyDoge.",
   "@whereDidISetItUpDesc": {
     "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
   },
-  "authMethod": "Método de autenticación",
+  "authMethod": "Phương thức xác thực",
   "@authMethod": {
     "description": "Authentication Method"
   },
-  "authMethodDesc": "El inicio de sesión y la exportación de la frase semilla requieren un autenticador, lo que añade una capa extra de protección.",
+  "authMethodDesc": "Đăng nhập tài khoản và xuất cụm từ khôi phục yêu cầu trình xác thực, bổ sung thêm một lớp bảo vệ.",
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
-  "passkey": "Clave de acceso",
+  "passkey": "Passkey",
   "@passkey": {
     "description": "Passkey"
   },
-  "authenticator": "Autenticador",
+  "authenticator": "Trình xác thực",
   "@authenticator": {
     "description": "Authenticator"
   },
-  "setUp": "Configurar",
+  "setUp": "Cài đặt",
   "@setUp": {
     "description": "Set up"
   },
-  "optEmail": "Correo OTP",
+  "optEmail": "Email OTP",
   "@optEmail": {
     "description": "OTP Email"
   },
-  "linked": "Vinculado",
+  "linked": "Đã liên kết",
   "@linked": {
     "description": "Linked"
   },
-  "chooseVerification": "Elige la verificacion",
+  "chooseVerification": "Chọn xác minh",
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Vincular app autenticadora",
+  "linkAuthenticatorApp": "Ứng dụng xác thực liên kết",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
-  "stepNum": "Paso {stepNumber}: ",
+  "stepNum": "Bước {stepNumber}:",
   "@stepNum": {
     "description": "Step {stepNumber}: "
   },
-  "step1Desc": "Descarga una app autenticadora.",
+  "step1Desc": "Tải xuống ứng dụng xác thực.",
   "@step1Desc": {
     "description": "Download an authenticator app."
   },
-  "forExample": "Por ejemplo: ",
+  "forExample": "Ví dụ:",
   "@forExample": {
     "description": "For example: "
   },
-  "step2Desc": "Copia la clave de 16 dígitos de abajo o escanea el código QR",
+  "step2Desc": "Sao chép khóa 16 chữ số bên dưới hoặc quét mã QR",
   "@step2Desc": {
     "description": "Copy the 16-digit key below or scan the QR code"
   },
-  "verifyAuthenticator": "Verificar autenticador",
+  "verifyAuthenticator": "Xác minh trình xác thực",
   "@verifyAuthenticator": {
     "description": "Verify authenticator"
   },
-  "enterThe6Digit": "Introduce el código de 6 dígitos del autenticador.",
+  "enterThe6Digit": "Nhập mã gồm 6 chữ số từ trình xác thực.",
   "@enterThe6Digit": {
     "description": "Enter the 6-digit code from the authenticator."
   },
-  "useAlternativeVerification": "Usar verificación alternativa",
+  "useAlternativeVerification": "Sử dụng xác minh thay thế",
   "@useAlternativeVerification": {
     "description": "Use alternative verification"
   },
-  "copySuccess": "Copiado correctamente",
+  "copySuccess": "Sao chép thành công",
   "@copySuccess": {
     "description": "Copy Success"
   },
-  "addPasskey": "Agregar passkey",
+  "addPasskey": "Thêm Passkey",
   "@addPasskey": {
     "description": "Add passkey"
   },
-  "whereDidISetItUp": "¿Dónde lo configuré?",
+  "whereDidISetItUp": "Tôi đã thiết lập nó ở đâu?",
   "@whereDidISetItUp": {
     "description": "Where did I set it up?"
   },
-  "requestSeedTitle": "Solicitar frase semilla",
+  "requestSeedTitle": "Yêu cầu cụm từ khôi phục",
   "@requestSeedTitle": {
     "description": "Request Seed Phrase"
   },
-  "hour48": "48 horas",
+  "hour48": "48 giờ",
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Para proteger tus activos, debes esperar 48 horas antes de revelar tu frase semilla.",
+  "requestSeedDesc1": "Để đảm bảo an toàn cho tài sản của bạn, cần có thời gian chờ 48 giờ trước khi tiết lộ cụm từ khôi phục của bạn.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Podras ver tu frase semilla cuando termine la cuenta regresiva.",
+  "requestSeedDesc2": "Bạn có thể xem cụm từ khôi phục của mình sau khi thời gian đếm ngược kết thúc.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
-  "passkeyNotCompleted": "La verificacion con passkey no se completo.",
+  "passkeyNotCompleted": "Xác minh Passkey chưa hoàn tất.",
   "@passkeyNotCompleted": {
     "description": "Passkey verification was not completed."
   },
-  "passkeyNotCompletedDesc": "Puedes cambiar a otros métodos de verificación o intentarlo de nuevo.",
+  "passkeyNotCompletedDesc": "Bạn có thể chuyển sang các phương pháp xác minh khác hoặc thử lại.",
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "Si no son tus claves, no es tu cripto.",
+  "viewSeedPhraseDesc1": "Không phải chìa khóa của bạn, không phải tiền điện tử của bạn.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
-  "viewSeedPhraseDesc2": "Continúa solo en un entorno seguro y privado.",
+  "viewSeedPhraseDesc2": "Chỉ tiến hành trong một môi trường an toàn và riêng tư.",
   "@viewSeedPhraseDesc2": {
     "description": "Proceed only in a secure and private environment."
   },
-  "viewSeedPhraseDesc3": "No la compartas con nadie, nunca.",
+  "viewSeedPhraseDesc3": "Đừng bao giờ chia sẻ nó với bất cứ ai.",
   "@viewSeedPhraseDesc3": {
     "description": "Don't share it with anyone, ever."
   },
-  "doNotShare": "No la compartas con nadie, nunca.",
+  "doNotShare": "Đừng bao giờ chia sẻ nó với bất cứ ai.",
   "@doNotShare": {
     "description": "Don't share it with anyone, ever."
   },
-  "alreadyBackedUp": "Copia de seguridad completada",
+  "alreadyBackedUp": "Đã sao lưu rồi",
   "@alreadyBackedUp": {
     "description": "Already backed up"
   },
-  "clickToReveal": "Toca para revelar",
+  "clickToReveal": "Nhấn vào đây để tiết lộ",
   "@clickToReveal": {
     "description": "Click to reveal"
   },
-  "home": "Inicio",
+  "home": "Trang chủ",
   "@home": {
     "description": "Home"
   },
-  "wallet": "Billetera",
+  "wallet": "Ví",
   "@wallet": {
     "description": "Wallet"
   },
-  "market": "Mercado",
+  "market": "Chợ",
   "@market": {
     "description": "Market"
   },
-  "activity": "Actividad",
+  "activity": "Hoạt động",
   "@activity": {
     "description": "Activity"
   },
-  "tokens": "Tokens",
+  "tokens": "Mã thông báo",
   "@tokens": {
     "description": "Tokens"
   },
-  "collectibles": "Coleccionables",
+  "collectibles": "Đồ sưu tầm",
   "@collectibles": {
     "description": "Collectibles"
   },
-  "dogeOSTestnetTitle": "Faucet de testnet DogeOS",
+  "dogeOSTestnetTitle": "Faucet testnet DogeOS",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
   },
-  "dogeOSTestnetDesc": "Solicita tokens de testnet para experimentar con la app en un entorno seguro, sin fondos reales.",
+  "dogeOSTestnetDesc": "Yêu cầu mã thông báo mạng thử nghiệm để thử nghiệm ứng dụng trong môi trường an toàn — không cần tiền thật.",
   "@dogeOSTestnetDesc": {
     "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
   },
-  "requestTokens": "Solicitar tokens",
+  "requestTokens": "Yêu cầu mã thông báo",
   "@requestTokens": {
     "description": "Request tokens"
   },
-  "noNFTsfound": "No se encontraron NFTs",
+  "noNFTsfound": "Không tìm thấy NFTs",
   "@noNFTsfound": {
     "description": "No NFTs found"
   },
-  "passkeySetupNotCompleted": "La configuracion de la passkey no se completo. ",
+  "passkeySetupNotCompleted": "Quá trình thiết lập Passkey chưa hoàn tất.",
   "@passkeySetupNotCompleted": {
     "description": "Passkey setup was not completed. "
   },
-  "sureToLogOut": "¿Seguro que quieres cerrar sesión?",
+  "sureToLogOut": "Bạn có chắc chắn muốn đăng xuất không?",
   "@sureToLogOut": {
     "description": "Are you sure you want to log out?"
   },
-  "communityPicks": "Selecciones de la comunidad",
+  "communityPicks": "Lựa chọn của cộng đồng",
   "@communityPicks": {
     "description": "Community Picks"
   },
-  "suggestedForYou": "Sugerido para ti",
+  "suggestedForYou": "Đề xuất cho bạn",
   "@suggestedForYou": {
     "description": "Suggested For You"
   },
-  "earn": "Ganar",
+  "earn": "Kiếm",
   "@earn": {
     "description": "Earn"
   },
-  "fullCatalogue": "Catálogo completo",
+  "fullCatalogue": "Danh mục đầy đủ",
   "@fullCatalogue": {
     "description": "Full Catalogue"
   },
-  "setupWallet": "Configurar billetera",
+  "setupWallet": "Thiết lập ví",
   "@setupWallet": {
     "description": "Setup wallet"
   },
-  "setupWalletDesc": "Crea tu Social Wallet con inicio de sesión social: desbloquea todo el ecosistema DogeOS mientras tu billetera Classic permanece segura.",
+  "setupWalletDesc": "Tạo Ví xã hội của bạn bằng thông tin đăng nhập xã hội — mở khóa toàn bộ hệ sinh thái DogeOS trong khi ví Cổ điển của bạn vẫn an toàn.",
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "Reclamar tokens de testnet",
+  "claimTestnetTitle": "Yêu cầu mã thông báo Testnet",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
-  "claimTestnetDesc": "No hay fondos reales involucrados; estos son\nfondos de practica solo para pruebas.",
+  "claimTestnetDesc": "Không có tiền thực sự liên quan, đây là\nquỹ thực hành chỉ nhằm mục đích thử nghiệm.",
   "@claimTestnetDesc": {
     "description": "No real funds are involved, these are\npractice funds for trial purposes only."
   },
-  "claimableEvery24Hours": "Disponible cada 24 horas.",
+  "claimableEvery24Hours": "Có thể yêu cầu cứ sau 24 giờ!",
   "@claimableEvery24Hours": {
     "description": "Claimable every 24 hours!"
   },
-  "youGet": "Recibiras:",
+  "youGet": "Bạn sẽ nhận được:",
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "Reclamar tokens",
+  "claimTokens": "Yêu cầu mã thông báo",
   "@claimTokens": {
     "description": "Claim tokens"
   },
-  "open": "Abrir",
+  "open": "Mở",
   "@open": {
     "description": "Open"
   },
-  "biometricsPin": "Biometría/PIN",
+  "biometricsPin": "Sinh trắc học/PIN",
   "@biometricsPin": {
     "description": "Biometrics/PIN"
   },
-  "advancedSettings": "Ajustes avanzados",
+  "advancedSettings": "Cài đặt nâng cao",
   "@advancedSettings": {
     "description": "Advanced Settings"
   },
-  "chooseLanguage": "Elegir idioma",
+  "chooseLanguage": "Chọn ngôn ngữ",
   "@chooseLanguage": {
     "description": "Choose language"
   },
-  "englishLanguage": "English",
+  "englishLanguage": "Tiếng Anh",
   "@englishLanguage": {
     "description": "English"
   },
-  "spanishLanguage": "Español",
+  "spanishLanguage": "tiếng Tây Ban Nha",
   "@spanishLanguage": {
     "description": "Español"
   },
-  "developerMode": "Modo desarrollador",
+  "developerMode": "Chế độ nhà phát triển",
   "@developerMode": {
     "description": "Developer Mode"
   },
-  "developerModeDescription": "Desbloquea el navegador abierto para pruebas",
+  "developerModeDescription": "Mở khóa trình duyệt đang mở để thử nghiệm",
   "@developerModeDescription": {
     "description": "Unlocks open browser for testing"
   },
-  "label24hChange": "Cambio 24H",
+  "label24hChange": "Thay đổi 24H",
   "@label24hChange": {
     "description": "24H Change"
   },
-  "label24hTurnover": "Facturación 24H",
+  "label24hTurnover": "Doanh thu 24H",
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "Una nueva cartera con un frase semilla diferente",
+  "aNewWalletWithADifferentSeedPhrase": "Một ví mới với cụm từ khôi phục khác",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
-  "aPersonalizedAlphaFeedComingSoon": "Un feed Alpha personalizado (próximamente)",
+  "aPersonalizedAlphaFeedComingSoon": "Nguồn cấp dữ liệu Alpha được cá nhân hóa (sắp ra mắt)",
   "@aPersonalizedAlphaFeedComingSoon": {
     "description": "A personalized Alpha feed (coming soon)"
   },
-  "accessAWorldOfAppsQuestsAndGames": "Accede a un mundo de aplicaciones, misiones y juegos.",
+  "accessAWorldOfAppsQuestsAndGames": "Truy cập vào thế giới ứng dụng, nhiệm vụ và trò chơi",
   "@accessAWorldOfAppsQuestsAndGames": {
     "description": "Access a world of apps, quests and games"
   },
-  "account": "Cuenta",
+  "account": "Tài khoản",
   "@account": {
     "description": "Account"
   },
-  "allCategories": "Todas las categorías",
+  "allCategories": "Tất cả danh mục",
   "@allCategories": {
     "description": "All Categories"
   },
-  "allowContactAccess": "Permitir acceso a contactos",
+  "allowContactAccess": "Cho phép truy cập liên hệ",
   "@allowContactAccess": {
     "description": "Allow contact access"
   },
-  "andWhenDoIGetMyDOGEBack": "¿Y cuándo recuperaré mi DOGE?",
+  "andWhenDoIGetMyDOGEBack": "Và khi nào tôi có thể lấy lại DOGE của mình?",
   "@andWhenDoIGetMyDOGEBack": {
     "description": "And when do I get my DOGE back?"
   },
-  "anyWalletWorks": "¿Alguna billetera funciona?",
+  "anyWalletWorks": "Bất kỳ ví nào cũng hoạt động?",
   "@anyWalletWorks": {
     "description": "Any wallet works?"
   },
-  "assets": "Activos",
+  "assets": "Tài sản",
   "@assets": {
     "description": "Assets"
   },
-  "atLeast6Characters": "Al menos 6 caracteres",
+  "atLeast6Characters": "Ít nhất 6 ký tự",
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "Al menos 6 contraseñas",
+  "atLeast6Password": "Ít nhất 6 mật khẩu",
   "@atLeast6Password": {
     "description": "At least 6 password"
   },
-  "autoFollowKOLsYouAlreadyFollowComingSoon": "Sigue automáticamente a KOLs que ya sigues (próximamente)",
+  "autoFollowKOLsYouAlreadyFollowComingSoon": "Tự động theo dõi KOLs bạn đã theo dõi (sắp có)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
     "description": "Auto-follow KOLs you already follow (coming soon)"
   },
-  "backUpNow": "Haz una copia de seguridad ahora",
+  "backUpNow": "Sao lưu ngay bây giờ",
   "@backUpNow": {
     "description": "Back up now"
   },
-  "backUpWallet": "billetera de respaldo",
+  "backUpWallet": "Sao lưu ví",
   "@backUpWallet": {
     "description": "Back up wallet"
   },
-  "backupNow": "Copia de seguridad ahora",
+  "backupNow": "Sao lưu ngay bây giờ",
   "@backupNow": {
     "description": "Backup now"
   },
-  "biometrics": "Biometría",
+  "biometrics": "Sinh trắc học",
   "@biometrics": {
     "description": "Biometrics"
   },
-  "bridgeRoute": "Ruta del bridge",
+  "bridgeRoute": "Tuyến bridge",
   "@bridgeRoute": {
     "description": "Bridge Route"
   },
-  "btcAddressType": "Tipo de dirección BTC",
+  "btcAddressType": "Loại địa chỉ BTC",
   "@btcAddressType": {
     "description": "BTC address type"
   },
-  "buy2": "COMPRAR",
+  "buy2": "MUA",
   "@buy2": {
     "description": "BUY"
   },
-  "changePIN": "Cambiar PIN",
+  "changePIN": "Thay đổi PIN",
   "@changePIN": {
     "description": "Change PIN"
   },
-  "checkYourPIN": "Comprueba tu PIN",
+  "checkYourPIN": "Kiểm tra PIN của bạn",
   "@checkYourPIN": {
     "description": "Check your PIN"
   },
-  "classicWallet": "Cartera clásica",
+  "classicWallet": "Ví cổ điển",
   "@classicWallet": {
     "description": "Classic Wallet"
   },
-  "clickToView": "Haga clic para ver",
+  "clickToView": "Bấm vào để xem",
   "@clickToView": {
     "description": "Click to view"
   },
-  "cloudBackup": "Copia de seguridad en la nube",
+  "cloudBackup": "Sao lưu đám mây",
   "@cloudBackup": {
     "description": "Cloud backup"
   },
-  "collections": "Colecciones",
+  "collections": "Bộ sưu tập",
   "@collections": {
     "description": "Collections"
   },
-  "connectXForMyDogeTip": "Conecte X para MyDogeTip",
+  "connectXForMyDogeTip": "Kết nối X cho MyDogeTip",
   "@connectXForMyDogeTip": {
     "description": "Connect  X for MyDogeTip"
   },
-  "contact": "Contacto",
+  "contact": "Liên hệ",
   "@contact": {
     "description": "Contact"
   },
-  "continueWith": "Continuar con",
+  "continueWith": "Tiếp tục với",
   "@continueWith": {
     "description": "Continue with"
   },
-  "continueWithApple": "Continuar con Apple",
+  "continueWithApple": "Tiếp tục với Apple",
   "@continueWithApple": {
     "description": "Continue with Apple"
   },
-  "continueWithX": "Continuar con X",
+  "continueWithX": "Tiếp tục với X",
   "@continueWithX": {
     "description": "Continue with X"
   },
-  "contractCalled": "Contrato llamado",
+  "contractCalled": "Hợp đồng được gọi",
   "@contractCalled": {
     "description": "Contract Called"
   },
-  "createWallet": "Crear billetera",
+  "createWallet": "Tạo ví",
   "@createWallet": {
     "description": "Create wallet"
   },
-  "creatingWallet": "Creando billetera...",
+  "creatingWallet": "Đang tạo ví...",
   "@creatingWallet": {
     "description": "Creating wallet..."
   },
@@ -2908,195 +2908,195 @@
   "@dapps": {
     "description": "dApps"
   },
-  "date": "Fecha",
+  "date": "Ngày",
   "@date": {
     "description": "Date"
   },
-  "date2": "FECHA",
+  "date2": "NGÀY",
   "@date2": {
     "description": "DATE"
   },
-  "deleteWallet2": "Eliminar billetera",
+  "deleteWallet2": "Xóa ví",
   "@deleteWallet2": {
     "description": "Delete Wallet"
   },
-  "deleteWallet3": "Eliminar billetera",
+  "deleteWallet3": "Xóa ví",
   "@deleteWallet3": {
     "description": "Delete wallet"
   },
-  "deliveryAddress": "Dirección de entrega",
+  "deliveryAddress": "Địa chỉ giao hàng",
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "FICHA DE DEPÓSITO",
+  "depositTOKEN": "NẠP TIỀN",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
-  "disconnectX": "Desconectar X",
+  "disconnectX": "Ngắt kết nối X",
   "@disconnectX": {
     "description": "Disconnect X"
   },
-  "disconnectXForMyDogeTip": "Desconectar X para MyDogeTip",
+  "disconnectXForMyDogeTip": "Ngắt kết nối X cho MyDogeTip",
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "¿Tienes Doge?",
+  "doYouHaveDoge": "Bạn có Doge không?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
-  "dogeosValidators": "Validadores DogeOS",
+  "dogeosValidators": "Trình xác thực DogeOS",
   "@dogeosValidators": {
     "description": "DogeOS Validators"
   },
-  "earnAPY": "GANA APY",
+  "earnAPY": "KIẾM APY",
   "@earnAPY": {
     "description": "EARN APY"
   },
-  "easyTHEREBUDDY": "FÁCIL, AMIGO",
+  "easyTHEREBUDDY": "ĐƠN GIẢN ĐÓ NHÉ",
   "@easyTHEREBUDDY": {
     "description": "EASY THERE,BUDDY"
   },
-  "editProfile2": "Editar perfil",
+  "editProfile2": "Chỉnh sửa hồ sơ",
   "@editProfile2": {
     "description": "Edit Profile"
   },
-  "enterCurrentPassword": "Ingrese la contraseña actual",
+  "enterCurrentPassword": "Nhập mật khẩu hiện tại",
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "Est. Gas",
+  "estGas": "Ước tính. Khí đốt",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "Est. Tiempo",
+  "estTime": "Ước tính. Thời gian",
   "@estTime": {
     "description": "Est. Time"
   },
-  "estNetworkFee": "Tarifa de red estimada",
+  "estNetworkFee": "Phí mạng ước tính",
   "@estNetworkFee": {
     "description": "Est.network fee"
   },
-  "failedToLoad": "No se pudo cargar",
+  "failedToLoad": "Không tải được",
   "@failedToLoad": {
     "description": "Failed to load"
   },
-  "faq": "Preguntas frecuentes",
+  "faq": "Câu hỏi thường gặp",
   "@faq": {
     "description": "FAQ"
   },
-  "fee": "Tarifa",
+  "fee": "Phí",
   "@fee": {
     "description": "Fee"
   },
-  "filterRiskTokens": "Filtrar tokens de riesgo",
+  "filterRiskTokens": "Lọc mã thông báo rủi ro",
   "@filterRiskTokens": {
     "description": "Filter risk tokens"
   },
-  "followBack": "Seguir de nuevo",
+  "followBack": "Theo dõi lại",
   "@followBack": {
     "description": "Follow back"
   },
-  "fromASingleChainToMultiChainWallet": "De una sola cadena a una billetera multicadena",
+  "fromASingleChainToMultiChainWallet": "Từ ví đơn chuỗi đến ví đa chuỗi",
   "@fromASingleChainToMultiChainWallet": {
     "description": "From a single chain to multi-chain wallet"
   },
-  "fromNetwork": "De la red",
+  "fromNetwork": "Từ mạng",
   "@fromNetwork": {
     "description": "From network"
   },
-  "fromTheGrandHeist": "de El gran atraco.",
+  "fromTheGrandHeist": "từ Vụ cướp lớn.",
   "@fromTheGrandHeist": {
     "description": "from The Grand Heist."
   },
-  "fullySecureAndSelfCustodialLikeBefore": "Totalmente seguro y con custodia propia, como antes.",
+  "fullySecureAndSelfCustodialLikeBefore": "Hoàn toàn an toàn và tự quản lý, giống như trước đây.",
   "@fullySecureAndSelfCustodialLikeBefore": {
     "description": "Fully secure and self custodial, like before."
   },
-  "fundYourWalletToGetStarted": "Financia tu billetera para comenzar",
+  "fundYourWalletToGetStarted": "Nạp tiền vào ví của bạn để bắt đầu",
   "@fundYourWalletToGetStarted": {
     "description": "Fund your wallet to get started"
   },
-  "gasFee2": "Comisión de gas",
+  "gasFee2": "Phí gas",
   "@gasFee2": {
     "description": "Gas fee"
   },
-  "get": "Conseguir",
+  "get": "Lấy",
   "@get": {
     "description": "Get"
   },
-  "goBACK": "VOLVER",
+  "goBACK": "TRỞ LẠI",
   "@goBACK": {
     "description": "GO BACK"
   },
-  "howDoIParticipate": "¿Cómo participo?",
+  "howDoIParticipate": "Làm thế nào để tôi tham gia?",
   "@howDoIParticipate": {
     "description": "How do I participate?"
   },
-  "how": "¿Cómo?",
+  "how": "Làm sao?",
   "@how": {
     "description": "How?"
   },
-  "justLeavingThisHereMydogeCom": "Dejo esto aquí:\\n\\nmydoge.com",
+  "justLeavingThisHereMydogeCom": "Chỉ để lại cái này ở đây:\\n\\nmydoge.com",
   "@justLeavingThisHereMydogeCom": {
     "description": "Just leaving this here:\\n\\nmydoge.com"
   },
-  "later": "Más tarde",
+  "later": "Sau đó",
   "@later": {
     "description": "Later"
   },
-  "manageToken": "Administrar token",
+  "manageToken": "Quản lý mã thông báo",
   "@manageToken": {
     "description": "Manage token"
   },
-  "me": "¿A mí?",
+  "me": "Tôi?",
   "@me": {
     "description": "Me?"
   },
-  "migratingAssets": "Migrando activos...",
+  "migratingAssets": "Di chuyển tài sản...",
   "@migratingAssets": {
     "description": "Migrating Assets..."
   },
-  "migratingFromClassicToSocial": "Migrando de lo clásico a lo social",
+  "migratingFromClassicToSocial": "Chuyển từ cổ điển sang xã hội",
   "@migratingFromClassicToSocial": {
     "description": "Migrating from Classic to Social"
   },
-  "muchExcitement": "Mucha emoción",
+  "muchExcitement": "Nhiều hứng thú",
   "@muchExcitement": {
     "description": "Much excitement"
   },
-  "network2": "RED",
+  "network2": "MẠNG",
   "@network2": {
     "description": "NETWORK"
   },
-  "networkFee": "Tarifa de red",
+  "networkFee": "Phí mạng",
   "@networkFee": {
     "description": "Network Fee"
   },
-  "networkFee2": "tarifa de red",
+  "networkFee2": "phí mạng",
   "@networkFee2": {
     "description": "network fee"
   },
-  "next": "Próximo",
+  "next": "Kế tiếp",
   "@next": {
     "description": "Next"
   },
-  "noInscriptions": "Sin inscripciones",
+  "noInscriptions": "Không có chữ khắc",
   "@noInscriptions": {
     "description": "No inscriptions"
   },
-  "noMessagesYet": "Aún no hay mensajes",
+  "noMessagesYet": "Chưa có tin nhắn nào",
   "@noMessagesYet": {
     "description": "No messages yet"
   },
-  "noResults": "Sin resultados",
+  "noResults": "Không có kết quả",
   "@noResults": {
     "description": "No results"
   },
-  "notifications": "Notificaciones",
+  "notifications": "Thông báo",
   "@notifications": {
     "description": "Notifications"
   },
-  "paymentMethod": "Método de pago",
+  "paymentMethod": "Phương thức thanh toán",
   "@paymentMethod": {
     "description": "Payment method"
   },
@@ -3104,155 +3104,155 @@
   "@pin": {
     "description": "PIN"
   },
-  "prev": "Anterior",
+  "prev": "Trước đó",
   "@prev": {
     "description": "Prev"
   },
-  "reEnterNewPassword": "Vuelva a ingresar la nueva contraseña",
+  "reEnterNewPassword": "Nhập lại mật khẩu mới",
   "@reEnterNewPassword": {
     "description": "Re-enter new password"
   },
-  "readOurFAQs": "Lea nuestras preguntas frecuentes",
+  "readOurFAQs": "Đọc Câu hỏi thường gặp của chúng tôi",
   "@readOurFAQs": {
     "description": "Read our FAQ’s"
   },
-  "refund": "Reembolso",
+  "refund": "Đền bù",
   "@refund": {
     "description": "Refund"
   },
-  "renameWallet2": "Cambiar nombre de billetera",
+  "renameWallet2": "Đổi tên ví",
   "@renameWallet2": {
     "description": "Rename wallet"
   },
-  "reset": "REINICIAR",
+  "reset": "CÀI LẠI",
   "@reset": {
     "description": "RESET"
   },
-  "resetWallet": "Restablecer billetera",
+  "resetWallet": "Đặt lại ví",
   "@resetWallet": {
     "description": "Reset wallet"
   },
-  "searchCrypto": "Buscar cripto",
+  "searchCrypto": "Tìm kiếm tiền điện tử",
   "@searchCrypto": {
     "description": "Search crypto"
   },
-  "searchToken": "Ficha de búsqueda",
+  "searchToken": "Mã thông báo tìm kiếm",
   "@searchToken": {
     "description": "Search token"
   },
-  "searchTokenName": "Nombre del token de búsqueda",
+  "searchTokenName": "Tìm kiếm tên mã thông báo",
   "@searchTokenName": {
     "description": "Search token name"
   },
-  "seedPhraseBackup": "Copia de seguridad de la frase semilla",
+  "seedPhraseBackup": "Sao lưu cụm từ khôi phục",
   "@seedPhraseBackup": {
     "description": "Seed phrase backup"
   },
-  "selectAll": "Seleccionar todo",
+  "selectAll": "Chọn tất cả",
   "@selectAll": {
     "description": "Select All"
   },
-  "selectNetwork2": "Seleccionar red",
+  "selectNetwork2": "Chọn mạng",
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "Enviar y recibir propinasEnviar y recibir propinas",
+  "sendAndReceiveTipsSendAndReceiveTips": "Gửi và nhận mẹoGửi và nhận mẹo",
   "@sendAndReceiveTipsSendAndReceiveTips": {
     "description": "Send & Receive TipsSend and receive tips"
   },
-  "serviceUNAVAILABLE": "SERVICIO NO DISPONIBLE",
+  "serviceUNAVAILABLE": "DỊCH VỤ KHÔNG CÓ SẴN",
   "@serviceUNAVAILABLE": {
     "description": "SERVICE UNAVAILABLE"
   },
-  "setANewPIN": "Establecer un nuevo PIN",
+  "setANewPIN": "Đặt PIN mới",
   "@setANewPIN": {
     "description": "Set a New PIN"
   },
-  "signInWithEmailOrASocialLogin": "Inicie sesión con correo electrónico o un inicio de sesión social",
+  "signInWithEmailOrASocialLogin": "Đăng nhập bằng email hoặc đăng nhập mạng xã hội",
   "@signInWithEmailOrASocialLogin": {
     "description": "Sign in with email or a social login"
   },
-  "signInWithGoogle": "Iniciar sesión con Google",
+  "signInWithGoogle": "Đăng nhập bằng Google",
   "@signInWithGoogle": {
     "description": "Sign in with Google"
   },
-  "signatureFAILED": "FIRMA FALLADA",
+  "signatureFAILED": "CHỮ KÝ KHÔNG THẤT BẠI",
   "@signatureFAILED": {
     "description": "SIGNATURE FAILED"
   },
-  "sites": "Sitios",
+  "sites": "Trang web",
   "@sites": {
     "description": "Sites"
   },
-  "skipThisStep": "Salta este paso",
+  "skipThisStep": "Bỏ qua bước này",
   "@skipThisStep": {
     "description": "Skip this Step"
   },
-  "socialLoginAndRecovery": "Inicio de sesión social y recuperación",
+  "socialLoginAndRecovery": "Đăng nhập và phục hồi xã hội",
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "Gastador",
+  "spender": "Người chi tiêu",
   "@spender": {
     "description": "Spender"
   },
-  "status": "Estado",
+  "status": "Trạng thái",
   "@status": {
     "description": "Status"
   },
-  "successItsDone": "El éxito está hecho",
+  "successItsDone": "Thành công là xong",
   "@successItsDone": {
     "description": "Success it’s done"
   },
-  "swapOrder": "orden de intercambio",
+  "swapOrder": "Hoán đổi lệnh",
   "@swapOrder": {
     "description": "Swap order"
   },
-  "swipeTODEPOSIT": "DESLIZAR PARA DEPOSITAR",
+  "swipeTODEPOSIT": "Vuốt sang NẠP TIỀN",
   "@swipeTODEPOSIT": {
     "description": "SWIPE TO DEPOSIT"
   },
-  "switchWallet2": "Cambiar billetera",
+  "switchWallet2": "Chuyển ví",
   "@switchWallet2": {
     "description": "Switch Wallet"
   },
-  "termsOfUse2": "Condiciones de uso.",
+  "termsOfUse2": "Điều khoản sử dụng.",
   "@termsOfUse2": {
     "description": "Terms of Use."
   },
-  "thenWhatAreYouWaitingFor": "Entonces ¿a qué estás esperando?",
+  "thenWhatAreYouWaitingFor": "Vậy thì bạn còn chờ gì nữa?",
   "@thenWhatAreYouWaitingFor": {
     "description": "Then what are you waiting for?"
   },
-  "toNetwork": "A la red",
+  "toNetwork": "Đến mạng",
   "@toNetwork": {
     "description": "To network"
   },
-  "toTheMoon": "a la luna",
+  "toTheMoon": "Lên mặt trăng",
   "@toTheMoon": {
     "description": "To the moon"
   },
-  "transaction": "Transacción",
+  "transaction": "Giao dịch",
   "@transaction": {
     "description": "Transaction"
   },
-  "transaction2": "transacción",
+  "transaction2": "giao dịch",
   "@transaction2": {
     "description": "transaction"
   },
-  "transaction1": "Transacción 1",
+  "transaction1": "Giao dịch 1",
   "@transaction1": {
     "description": "Transaction 1"
   },
-  "transaction22": "Transacción 2",
+  "transaction22": "Giao dịch 2",
   "@transaction22": {
     "description": "Transaction 2"
   },
-  "transactionFAILED": "TRANSACCIÓN FALLADA",
+  "transactionFAILED": "GIAO DỊCH THẤT BẠI",
   "@transactionFAILED": {
     "description": "TRANSACTION FAILED"
   },
-  "transactionTIMEDOUT": "TRANSACCIÓN TIEMPO AGOTADO",
+  "transactionTIMEDOUT": "GIAO DỊCH HẾT THỜI GIAN",
   "@transactionTIMEDOUT": {
     "description": "TRANSACTION TIMED OUT"
   },
@@ -3260,91 +3260,91 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "Sin título Dapp",
+  "untitledDapp": "Không có tiêu đề Dapp",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },
-  "upgradeToASocialWallet": "Actualice a una billetera social",
+  "upgradeToASocialWallet": "Nâng cấp lên Ví xã hội",
   "@upgradeToASocialWallet": {
     "description": "Upgrade to a Social Wallet"
   },
-  "useEmailInstead": "Utilice el correo electrónico en su lugar",
+  "useEmailInstead": "Thay vào đó hãy sử dụng Email",
   "@useEmailInstead": {
     "description": "Use Email instead"
   },
-  "useMAX": "USAR MÁXIMO",
+  "useMAX": "SỬ DỤNG TỐI ĐA",
   "@useMAX": {
     "description": "USE MAX"
   },
-  "username2": "Nombre de usuario",
+  "username2": "Tên người dùng",
   "@username2": {
     "description": "Username"
   },
-  "vaultAddress": "Dirección de la bóveda",
+  "vaultAddress": "Địa chỉ Vault",
   "@vaultAddress": {
     "description": "Vault Address"
   },
-  "verifyYourPIN2": "Verifica tu PIN",
+  "verifyYourPIN2": "Xác minh PIN của bạn",
   "@verifyYourPIN2": {
     "description": "Verify your PIN"
   },
-  "walletUsed": "Cartera usada",
+  "walletUsed": "Ví đã sử dụng",
   "@walletUsed": {
     "description": "Wallet used"
   },
-  "welcomeToYourSocialWallet": "Bienvenido a tu billetera social",
+  "welcomeToYourSocialWallet": "Chào mừng bạn đến với Ví xã hội của bạn",
   "@welcomeToYourSocialWallet": {
     "description": "Welcome to your Social Wallet"
   },
-  "wellWeCalledIt69DaysForAReason": "Bueno, lo llamamos 69 días por una razón....",
+  "wellWeCalledIt69DaysForAReason": "Chà, chúng tôi gọi nó là 69 ngày là có lý do....",
   "@wellWeCalledIt69DaysForAReason": {
     "description": "Well, we called it 69 days for a reason...."
   },
-  "whatIsADogecoinAddressHowDoIGetOne": "¿Qué es una dirección Dogecoin? ¿Cómo consigo uno?",
+  "whatIsADogecoinAddressHowDoIGetOne": "Địa chỉ Dogecoin là gì? Làm thế nào để tôi có được một cái?",
   "@whatIsADogecoinAddressHowDoIGetOne": {
     "description": "What is a Dogecoin address? How do I get one?"
   },
-  "whatIsThisAbout": "¿De qué se trata esto?",
+  "whatIsThisAbout": "Chuyện này là về cái gì vậy?",
   "@whatIsThisAbout": {
     "description": "What is this about?"
   },
-  "whatsNext": "¿Qué sigue?",
+  "whatsNext": "tiếp theo là gì?",
   "@whatsNext": {
     "description": "what's next?"
   },
-  "whoCanParticipate": "¿Quién puede participar?",
+  "whoCanParticipate": "Ai có thể tham gia?",
   "@whoCanParticipate": {
     "description": "Who can participate?"
   },
-  "woof": "Guau.",
+  "woof": "Gâu.",
   "@woof": {
     "description": "Woof."
   },
-  "yesYou": "Sí, tú.",
+  "yesYou": "Vâng, bạn.",
   "@yesYou": {
     "description": "Yes, you."
   },
-  "yes2": "Sí...",
+  "yes2": "Đúng...",
   "@yes2": {
     "description": "Yes..."
   },
-  "youAreAllSetHangOutWithYourMyDogeNow": "¡Ya está todo listo!\\nSal con tu My Doge ahora.",
+  "youAreAllSetHangOutWithYourMyDogeNow": "Bạn đã sẵn sàng!\\nHãy tham gia cùng My Doge của bạn ngay bây giờ.",
   "@youAreAllSetHangOutWithYourMyDogeNow": {
     "description": "You are all set!\\nHang out with your My Doge now."
   },
-  "youSure": "¿Seguro?",
+  "youSure": "Bạn chắc chứ?",
   "@youSure": {
     "description": "You sure?"
   },
-  "you": "Tú.",
+  "you": "Bạn.",
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Sus fondos estarán bloqueados hasta el lanzamiento de la red principal (objetivo: ~69 días, puede variar.\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Tiền của bạn sẽ bị khóa cho đến khi khởi chạy mainnet (mục tiêu: ~69 ngày, có thể thay đổi.\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
     "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
   },
-  "yourWalletIsReady": "Tu billetera está lista",
+  "yourWalletIsReady": "Ví của bạn đã sẵn sàng",
   "@yourWalletIsReady": {
     "description": "Your wallet is ready"
   }

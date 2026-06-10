@@ -1,502 +1,502 @@
 {
-  "@@locale": "es_ES",
-  "tabMarket": "Mercado",
+  "@@locale": "ko_KR",
+  "tabMarket": "시장",
   "@tabMarket": {
     "description": "Market"
   },
-  "tabHome": "Inicio",
+  "tabHome": "집",
   "@tabHome": {
     "description": "Home"
   },
-  "tabDiscover": "Descubrir",
+  "tabDiscover": "발견하다",
   "@tabDiscover": {
     "description": "Discover"
   },
-  "tabAlpha": "Alfa",
+  "tabAlpha": "알파",
   "@tabAlpha": {
     "description": "Alpha"
   },
-  "tabEarn": "Ganar",
+  "tabEarn": "벌다",
   "@tabEarn": {
     "description": "Earn"
   },
-  "tabTrade": "Comerciar",
+  "tabTrade": "거래",
   "@tabTrade": {
     "description": "Trade"
   },
-  "tabChat": "Chat",
+  "tabChat": "채팅",
   "@tabChat": {
     "description": "Chat"
   },
-  "tabWallet": "Billetera",
+  "tabWallet": "지갑",
   "@tabWallet": {
     "description": "Wallet"
   },
-  "searchBarDesc": "Buscar nombre o dirección",
+  "searchBarDesc": "이름 또는 주소 검색",
   "@searchBarDesc": {
     "description": "Search name or address"
   },
-  "totalBalance": "Balance total",
+  "totalBalance": "총 잔액",
   "@totalBalance": {
     "description": "Total balance"
   },
-  "favorite": "Favorito",
+  "favorite": "가장 좋아하는",
   "@favorite": {
     "description": "Favorite"
   },
-  "trending": "Tendencias",
+  "trending": "인기 급상승",
   "@trending": {
     "description": "Trending"
   },
-  "allAssets": "Todos los activos",
+  "allAssets": "모든 자산",
   "@allAssets": {
     "description": "All Assets"
   },
-  "enterYourEmail": "Introduce tu correo electrónico",
+  "enterYourEmail": "이메일을 입력하세요",
   "@enterYourEmail": {
     "description": "Enter your email"
   },
-  "email": "Correo electrónico",
+  "email": "이메일",
   "@email": {
     "description": "Email"
   },
-  "password": "Contraseña",
+  "password": "비밀번호",
   "@password": {
     "description": "Password"
   },
-  "forgetThePassword": "¿Olvidaste la contraseña?",
+  "forgetThePassword": "비밀번호를 잊으셨나요?",
   "@forgetThePassword": {
     "description": "Forget the password？"
   },
-  "continueBtn": "Continuar",
+  "continueBtn": "계속하다",
   "@continueBtn": {
     "description": "Continue"
   },
-  "setPassword": "Establecer contraseña",
+  "setPassword": "비밀번호 설정",
   "@setPassword": {
     "description": "Set password"
   },
-  "setPasswordDesc": "Establece tu contraseña. También puedes iniciar sesión directamente a través del correo electrónico en el futuro.",
+  "setPasswordDesc": "비밀번호를 설정하세요. 앞으로는 이메일을 통해 직접 로그인할 수도 있습니다.",
   "@setPasswordDesc": {
     "description": "Set your password. You can also log in directly through email in the future.  "
   },
-  "emailCode": "Código de verificación de correo electrónico",
+  "emailCode": "이메일 인증 코드",
   "@emailCode": {
     "description": "Email verification code"
   },
-  "emailCodeDesc": "Introduce tu código de verificación",
+  "emailCodeDesc": "인증 코드를 입력하세요",
   "@emailCodeDesc": {
     "description": "Enter your verification code"
   },
-  "resend": "Reenviar",
+  "resend": "재전송",
   "@resend": {
     "description": "Resend"
   },
-  "bindEmail": "Vincular correo electrónico",
+  "bindEmail": "이메일 바인딩",
   "@bindEmail": {
     "description": "Bind email"
   },
-  "bindEmailDesc": "Establece tu contraseña para lucasscott3@email.com. Así también podrás iniciar sesión directamente a través del correo electrónico en el futuro.",
+  "bindEmailDesc": "Set your password for  lucasscott3@email.com. 따라서 앞으로는 이메일을 통해 직접 로그인할 수도 있습니다.",
   "@bindEmailDesc": {
     "description": "Set your password for  lucasscott3@email.com. So you can also log in directly through email in the future.  "
   },
-  "setYourProfile": "Configura tu perfil",
+  "setYourProfile": "프로필 설정",
   "@setYourProfile": {
     "description": "Set your profile"
   },
-  "setYourProfileDesc1": "Elige tu nombre de usuario de la cuenta. Puede contener hasta 30 caracteres (solo letras y números). Puedes cambiarlo más tarde si quieres.",
+  "setYourProfileDesc1": "계정 사용자 이름을 선택하세요. 최대 30자(문자 및 숫자만)를 포함할 수 있습니다. 원하는 경우 나중에 변경할 수 있습니다.",
   "@setYourProfileDesc1": {
     "description": "Choose your account username. It can contain up to 30 characters (letters and numbers only). You can change it later if you want."
   },
-  "setYourProfileDesc2": "La contraseña debe tener entre 6 y 20 caracteres y constar de números, letras mayúsculas y minúsculas y caracteres especiales.",
+  "setYourProfileDesc2": "비밀번호는 6~20자 이내로 숫자, 대문자, 소문자, 특수문자를 조합해야 합니다.",
   "@setYourProfileDesc2": {
     "description": "Password must be 6-20 characters consisting of numbers, uppercase and lowercase letters, and special characters."
   },
-  "connectX": "Conectar X",
+  "connectX": "X 연결",
   "@connectX": {
     "description": "Connect X"
   },
-  "connectXDesc": "Vincula tu cuenta de X para lanzar tu propia Clave y maximizar la experiencia de MyDoge. ¡Solo se accederá a la foto de perfil, el nombre y tu lista de seguidos!\n\nTen en cuenta que después de conectarte a X, no es posible realizar cambios o desvincular por la seguridad de los activos de la cuenta.",
+  "connectXDesc": "X 계정을 연결하여 자신만의 키를 실행하고 MyDoge 경험을 극대화하세요. 프로필 사진, 이름, 팔로잉 목록만 접근 가능합니다!\n\nX에 접속한 후에는 계정 자산 보안을 위한 변경이나 바인딩 해제가 불가능하므로 주의하시기 바랍니다.",
   "@connectXDesc": {
     "description": "Link your X account to launch your own Key and maximize MyDoge experience. Only profile picture, name, and your following list will be accessed!\n\nPlease note that after connecting to X, changes or unbinding are not possible for account asset security."
   },
-  "connect": "Conectar",
+  "connect": "연결하다",
   "@connect": {
     "description": "Connect"
   },
-  "congratulations": "¡Felicidades!",
+  "congratulations": "축하해요",
   "@congratulations": {
     "description": "Congratulations"
   },
-  "congratulationsDesc": "¡Ya está todo listo!\nPasa el rato con tu MyDoge ahora.",
+  "congratulationsDesc": "모든 준비가 완료되었습니다!\n지금 My Doge와 함께 놀아보세요.",
   "@congratulationsDesc": {
     "description": "You are all set!\nHang out with your My Doge now."
   },
-  "enterApp": "Entrar en la aplicación",
+  "enterApp": "앱 입력",
   "@enterApp": {
     "description": "Enter App"
   },
-  "socialLoginTitle2": "Comprar, enviar y recibir Dogecoin",
+  "socialLoginTitle2": "구매, 보내기 및 받기 Dogecoin",
   "@socialLoginTitle2": {
     "description": "Buy, Send & Receive Dogecoin"
   },
-  "socialLoginDesc2": "Da propinas en X, asegura tu Doge y gestiona tus propios fondos con facilidad.",
+  "socialLoginDesc2": "X에 대한 정보를 제공하고 Doge를 보호하고 자신의 자금을 쉽게 관리하십시오.",
   "@socialLoginDesc2": {
     "description": "Tip on X, secure your Doge, and manage your own funds with ease."
   },
-  "socialLoginTitle1": "Explora el ecosistema DogeOS",
+  "socialLoginTitle1": "DogeOS 생태계 살펴보기",
   "@socialLoginTitle1": {
     "description": "Explore the DogeOS Ecosystem"
   },
-  "socialLoginDesc1": "Desbloquea DeFi, NFT, juegos y más con $DOGE en el universo DogeOS.",
+  "socialLoginDesc1": "DogeOS 세계에서 $DOGE로 DeFi, NFTs, 게임 등을 잠금 해제하세요.",
   "@socialLoginDesc1": {
     "description": "Unlock DeFi, NFTs, Games, and more with $DOGE in the DogeOS universe."
   },
-  "socialLoginTitle3": "Comercio multicadena",
+  "socialLoginTitle3": "멀티체인 트레이딩",
   "@socialLoginTitle3": {
     "description": "Multichain Trading"
   },
-  "socialLoginDesc3": "Comercia sin problemas a través de las principales cadenas de bloques para una verdadera experiencia multicadena.",
+  "socialLoginDesc3": "진정한 멀티체인 경험을 위해 주요 블록체인에서 원활하게 거래하세요.",
   "@socialLoginDesc3": {
     "description": "Trade seamlessly across major blockchains for a true multichain experience."
   },
-  "continueWithEmail": "Continuar con correo electrónico",
+  "continueWithEmail": "이메일로 계속",
   "@continueWithEmail": {
     "description": "Continue with Email"
   },
-  "or": "O",
+  "or": "또는",
   "@or": {
     "description": "Or"
   },
-  "resetPwd": "Restablecer contraseña",
+  "resetPwd": "비밀번호 재설정",
   "@resetPwd": {
     "description": "Reset Password"
   },
-  "resetPwdDesc": "Queremos asegurarnos de que eres realmente tú. Introduce tu correo electrónico y te enviaremos un código de verificación.",
+  "resetPwdDesc": "우리는 그것이 정말로 당신인지 확인하고 싶습니다. 이메일을 입력하시면 인증코드를 보내드립니다.",
   "@resetPwdDesc": {
     "description": "We want to make sure it's really you. Enter your email and we'll send you a verification code."
   },
-  "send": "Enviar",
+  "send": "보내다",
   "@send": {
     "description": "Send"
   },
-  "deposit": "Depositar",
+  "deposit": "보증금",
   "@deposit": {
     "description": "Deposit"
   },
-  "bridge": "Puente",
+  "bridge": "다리",
   "@bridge": {
     "description": "Bridge"
   },
-  "swap": "Intercambiar",
+  "swap": "교환",
   "@swap": {
     "description": "Swap"
   },
-  "trade": "Comerciar",
+  "trade": "거래",
   "@trade": {
     "description": "Trade"
   },
-  "buy": "Comprar",
+  "buy": "구입하다",
   "@buy": {
     "description": "Buy"
   },
-  "sell": "Vender",
+  "sell": "팔다",
   "@sell": {
     "description": "Sell"
   },
-  "cryptoTab": "Cripto",
+  "cryptoTab": "암호화폐",
   "@cryptoTab": {
     "description": "Crypto"
   },
-  "keyTab": "Clave",
+  "keyTab": "열쇠",
   "@keyTab": {
     "description": "Key"
   },
-  "manageWallet": "Gestionar billetera",
+  "manageWallet": "지갑 관리",
   "@manageWallet": {
     "description": "Manage wallet"
   },
-  "createNewWallet": "Crear nueva billetera",
+  "createNewWallet": "새 지갑 만들기",
   "@createNewWallet": {
     "description": "Create New wallet"
   },
-  "importWallet": "Importar billetera",
+  "importWallet": "지갑 가져오기",
   "@importWallet": {
     "description": "Import wallet"
   },
-  "chooseHowToSend": "Elige cómo enviar",
+  "chooseHowToSend": "보내는 방법을 선택하세요",
   "@chooseHowToSend": {
     "description": "Choose how to send"
   },
-  "yourFriendsTitle": "Tus amigos",
+  "yourFriendsTitle": "당신의 친구",
   "@yourFriendsTitle": {
     "description": "Your friends"
   },
-  "yourFriendsDesc": "Transferir dentro de Mydoge",
+  "yourFriendsDesc": "Mydoge 내에서 환승",
   "@yourFriendsDesc": {
     "description": "Transfer within Mydoge"
   },
-  "externalWalletTitle": "Billetera externa",
+  "externalWalletTitle": "외부 지갑",
   "@externalWalletTitle": {
     "description": "External Wallet"
   },
-  "externalWalletDesc": "Enviar Doge a una dirección de criptomonedas",
+  "externalWalletDesc": "Doge를 암호화폐 주소로 보내기",
   "@externalWalletDesc": {
     "description": "Send Doge to a crypto address"
   },
-  "selectToken": "Seleccionar token",
+  "selectToken": "토큰 선택",
   "@selectToken": {
     "description": "Select token"
   },
-  "searchAssets": "Buscar activos",
+  "searchAssets": "자산 검색",
   "@searchAssets": {
     "description": "Search assets"
   },
-  "receivingAddress": "Dirección de recepción",
+  "receivingAddress": "수신 주소",
   "@receivingAddress": {
     "description": "Receiving address"
   },
-  "assetAddress": "Dirección de {text}",
+  "assetAddress": "{text} 주소",
   "@assetAddress": {
     "description": "{text} address"
   },
-  "paste": "Pegar",
+  "paste": "반죽",
   "@paste": {
     "description": "Paste"
   },
-  "transactions": "Transacciones",
+  "transactions": "업무",
   "@transactions": {
     "description": "Transactions"
   },
-  "myWallet": "Mi billetera",
+  "myWallet": "내 지갑",
   "@myWallet": {
     "description": "My wallet"
   },
-  "confirm": "Confirmar",
+  "confirm": "확인하다",
   "@confirm": {
     "description": "Confirm"
   },
-  "selectCrypto": "Seleccionar cripto",
+  "selectCrypto": "암호화폐 선택",
   "@selectCrypto": {
     "description": "Select Crypto"
   },
-  "searchTokenNameOrAddress": "Buscar nombre de token o dirección",
+  "searchTokenNameOrAddress": "토큰 이름 또는 주소 검색",
   "@searchTokenNameOrAddress": {
     "description": "Search token name or address"
   },
-  "network": "Red:",
+  "network": "회로망:",
   "@network": {
     "description": "Network："
   },
-  "all": "Todo",
+  "all": "모두",
   "@all": {
     "description": "All"
   },
-  "dogeChain": "Cadena Doge",
+  "dogeChain": "총독 사슬",
   "@dogeChain": {
     "description": "Doge Chain"
   },
-  "mayBeLost": "Puede perderse",
+  "mayBeLost": "분실될 수 있음",
   "@mayBeLost": {
     "description": "May be lost"
   },
-  "tokenAddress": "Dirección de Doge",
+  "tokenAddress": "총독 주소",
   "@tokenAddress": {
     "description": "Doge Address"
   },
-  "scroll": "Desplazarse",
+  "scroll": "스크롤",
   "@scroll": {
     "description": "Scroll"
   },
-  "copy": "Copiar",
+  "copy": "복사",
   "@copy": {
     "description": "Copy"
   },
-  "selectToDogeFriends": "Seleccionar a amigos de Doge",
+  "selectToDogeFriends": "Doge 친구로 선택",
   "@selectToDogeFriends": {
     "description": "Select to Doge friends"
   },
-  "searchFriends": "Buscar amigos",
+  "searchFriends": "친구 검색",
   "@searchFriends": {
     "description": "Search friends"
   },
-  "chooseWallet": "Elegir billetera",
+  "chooseWallet": "지갑을 선택하세요",
   "@chooseWallet": {
     "description": "Choose wallet"
   },
-  "balance": "Saldo:",
+  "balance": "균형:",
   "@balance": {
     "description": "Balance："
   },
-  "max": "MÁX",
+  "max": "최대",
   "@max": {
     "description": "MAX"
   },
-  "sendGasToFriends": "Enviar gas a amigos",
+  "sendGasToFriends": "친구에게 가스 보내기",
   "@sendGasToFriends": {
     "description": "Send gas to friends"
   },
-  "changingTokens": "Cambiando tokens",
+  "changingTokens": "토큰 변경",
   "@changingTokens": {
     "description": "Changing Tokens"
   },
-  "buyToken": "Comprar {token}",
+  "buyToken": "{token} 구매",
   "@buyToken": {
     "description": "Buy {token}"
   },
-  "sellToken": "Vender {token}",
+  "sellToken": "매도 {token}",
   "@sellToken": {
     "description": "Sell {token}"
   },
-  "socialWallet": "Billetera DogeOS",
+  "socialWallet": "소셜 지갑",
   "@socialWallet": {
     "description": "Social Wallet"
   },
-  "enjoyWalletWithSocialLogin": "Disfruta de la experiencia completa de la billetera MyDoge con una billetera multicadena de inicio de sesión social, todo mientras conservas tu activo clásico de MyDoge.",
+  "enjoyWalletWithSocialLogin": "MyDoge 클래식 자산을 유지하면서 소셜 로그인 멀티체인 지갑으로 전체 MyDoge 지갑 경험을 즐겨보세요.",
   "@enjoyWalletWithSocialLogin": {
     "description": "Enjoy the full MyDoge Wallet experience with a Social Login Multichain Wallet, all while keeping your MyDoge Classic asset."
   },
-  "skip": "Omitir",
+  "skip": "건너뛰다",
   "@skip": {
     "description": "Skip"
   },
-  "createWith": "Crear con",
+  "createWith": "다음으로 만들기",
   "@createWith": {
     "description": "Create with"
   },
-  "addressBook": "Libreta de direcciones",
+  "addressBook": "주소록",
   "@addressBook": {
     "description": "Address book"
   },
-  "noAddress": "Sin dirección",
+  "noAddress": "주소 없음",
   "@noAddress": {
     "description": "No address"
   },
-  "noAddressDesc": "Agrega billeteras a tu libreta de direcciones para un fácil acceso cuando necesites transferir criptomonedas",
+  "noAddressDesc": "간편하게 주소록에 지갑을 추가하세요 \n암호화폐를 전송해야 할 때 액세스",
   "@noAddressDesc": {
     "description": "Add wallets to your address book for easy \naccess when you need to transfer crypto"
   },
-  "addAddress": "Agregar dirección",
+  "addAddress": "주소 추가",
   "@addAddress": {
     "description": "Add address"
   },
-  "name": "Nombre",
+  "name": "이름",
   "@name": {
     "description": "Name"
   },
-  "namePlaceholder": "Introduce un nombre de menos de 20 caracteres",
+  "namePlaceholder": "이름을 20자 이내로 입력하세요.",
   "@namePlaceholder": {
     "description": "Enter a name under 20 characters"
   },
-  "address": "Dirección",
+  "address": "주소",
   "@address": {
     "description": "Address"
   },
-  "addressPlaceholder": "Introduce una dirección",
+  "addressPlaceholder": "주소를 입력하세요",
   "@addressPlaceholder": {
     "description": "Enter an address"
   },
-  "deleteAddress": "Eliminar dirección",
+  "deleteAddress": "주소 삭제",
   "@deleteAddress": {
     "description": "Delete address"
   },
-  "deleteAddressDesc": "¿Quieres eliminar la dirección?",
+  "deleteAddressDesc": "주소를 삭제하시겠습니까?",
   "@deleteAddressDesc": {
     "description": "Do you want to delete the address?"
   },
-  "cancel": "Cancelar",
+  "cancel": "취소",
   "@cancel": {
     "description": "Cancel"
   },
-  "cancelLowercase": "cancelar",
+  "cancelLowercase": "취소",
   "@cancelLowercase": {
     "description": "cancel"
   },
-  "delete": "Eliminar",
+  "delete": "삭제",
   "@delete": {
     "description": "Delete"
   },
-  "update": "Actualizar",
+  "update": "업데이트",
   "@update": {
     "description": "Update"
   },
-  "settings": "Ajustes",
+  "settings": "설정",
   "@settings": {
     "description": "Settings"
   },
-  "yourAccount": "Tu cuenta",
+  "yourAccount": "귀하의 계정",
   "@yourAccount": {
     "description": "Your account"
   },
-  "editProfile": "Editar perfil",
+  "editProfile": "프로필 수정",
   "@editProfile": {
     "description": "Edit profile"
   },
-  "recoverPassword": "Recuperar contraseña",
+  "recoverPassword": "비밀번호 복구",
   "@recoverPassword": {
     "description": "Recover password"
   },
-  "howYouUseMyDoge": "Cómo usas MyDoge",
+  "howYouUseMyDoge": "MyDoge 사용 방법",
   "@howYouUseMyDoge": {
     "description": "How you use MyDoge"
   },
-  "pushNotifications": "Notificaciones push",
+  "pushNotifications": "푸시 알림",
   "@pushNotifications": {
     "description": "Push notifications"
   },
-  "privacySettings": "Ajustes de privacidad",
+  "privacySettings": "개인정보 설정",
   "@privacySettings": {
     "description": "Privacy settings"
   },
-  "language": "Idioma",
+  "language": "언어",
   "@language": {
     "description": "Language"
   },
-  "vol24h": "Vol 24h",
+  "vol24h": "24시간 볼륨",
   "@vol24h": {
     "description": "24h Vol"
   },
-  "high24h": "Máx 24h",
+  "high24h": "24시간 최고",
   "@high24h": {
     "description": "24h High"
   },
-  "low24h": "Mín 24h",
+  "low24h": "24시간 최저",
   "@low24h": {
     "description": "24h Low"
   },
-  "yourBalance": "Tu saldo",
+  "yourBalance": "귀하의 잔액",
   "@yourBalance": {
     "description": "Your Balance"
   },
-  "value": "Valor",
+  "value": "값",
   "@value": {
     "description": "Value"
   },
-  "quantity": "Cantidad",
+  "quantity": "수량",
   "@quantity": {
     "description": "Quantity"
   },
-  "addCash": "Añadir efectivo",
+  "addCash": "현금 추가",
   "@addCash": {
     "description": "Add cash"
   },
-  "room": "Sala",
+  "room": "방",
   "@room": {
     "description": "Room"
   },
-  "refer": "Referir",
+  "refer": "나타내다",
   "@refer": {
     "description": "Refer"
   },
-  "receive": "Recibir",
+  "receive": "받다",
   "@receive": {
     "description": "Receive"
   },
-  "stats": "Estadísticas",
+  "stats": "통계",
   "@stats": {
     "description": "Stats"
   },
-  "marketCap": "Capitalización de mercado",
+  "marketCap": "시가총액",
   "@marketCap": {
     "description": "Market Cap"
   },
@@ -504,43 +504,43 @@
   "@fdv": {
     "description": "FDV"
   },
-  "liquidity": "Liquidez",
+  "liquidity": "유동성",
   "@liquidity": {
     "description": "Liquidity"
   },
-  "turnover24h": "Volumen de negocios 24h",
+  "turnover24h": "24시간 회전율",
   "@turnover24h": {
     "description": "24h Turnover"
   },
-  "change24h": "Cambio 24h",
+  "change24h": "24시간 변경",
   "@change24h": {
     "description": "24h Change"
   },
-  "contract": "Contrato",
+  "contract": "계약",
   "@contract": {
     "description": "Contract"
   },
-  "total": "Total",
+  "total": "총",
   "@total": {
     "description": "Total"
   },
-  "to": "A",
+  "to": "에게",
   "@to": {
     "description": "To"
   },
-  "toLowerCase": "a",
+  "toLowerCase": "에게",
   "@toLowerCase": {
     "description": "to"
   },
-  "from": "De",
+  "from": "에서",
   "@from": {
     "description": "From"
   },
-  "fromLowerCase": "de",
+  "fromLowerCase": "~에서",
   "@fromLowerCase": {
     "description": "from"
   },
-  "task": "Tarea",
+  "task": "일",
   "@task": {
     "description": "Task"
   },
@@ -548,47 +548,47 @@
   "@dapp": {
     "description": "Dapp"
   },
-  "referralRewards": "Recompensas por recomendación",
+  "referralRewards": "추천 보상",
   "@referralRewards": {
     "description": "Referral Rewards"
   },
-  "friendsInvited": "Amigos invitados",
+  "friendsInvited": "초대된 친구",
   "@friendsInvited": {
     "description": "Friends invited"
   },
-  "youHaveEarned": "Has ganado",
+  "youHaveEarned": "당신은 얻었습니다",
   "@youHaveEarned": {
     "description": "You have earned"
   },
-  "point": "Punto",
+  "point": "가리키다",
   "@point": {
     "description": "Point"
   },
-  "referAFriend": "Recomendar a un amigo",
+  "referAFriend": "친구 추천",
   "@referAFriend": {
     "description": "Refer a friend"
   },
-  "referExplain": "Gana entre el 50% y el 75% de las comisiones de negociación por cada amigo que recomiendes.",
+  "referExplain": "추천한 친구 한 명당 거래 수수료의 50%~75%를 받으세요.",
   "@referExplain": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "claim": "Reclamar",
+  "claim": "주장하다",
   "@claim": {
     "description": "Claim"
   },
-  "bridgeDOGEToDogeOS": "Bridge de $DOGE a DogeOS",
+  "bridgeDOGEToDogeOS": "$DOGE를 DogeOS로 연결",
   "@bridgeDOGEToDogeOS": {
     "description": "Bridge $DOGE to DogeOS"
   },
-  "followDogeOSOnX": "Seguir a DogeOS en X",
+  "followDogeOSOnX": "X에서 DogeOS를 팔로우하세요.",
   "@followDogeOSOnX": {
     "description": "Follow DogeOS on X"
   },
-  "followMyDogeOnX": "Seguir a MyDoge en X",
+  "followMyDogeOnX": "X에서 MyDoge를 팔로우하세요.",
   "@followMyDogeOnX": {
     "description": "Follow MyDoge on X"
   },
-  "completeOneSwapOnDogeOS": "Completar un intercambio en DogeOS",
+  "completeOneSwapOnDogeOS": "DogeOS에서 한 번의 교체를 완료하세요.",
   "@completeOneSwapOnDogeOS": {
     "description": "Complete one swap on DogeOS"
   },
@@ -596,47 +596,47 @@
   "@dogeverse": {
     "description": "Dogeverse"
   },
-  "connectToDogeverseNow": "Conéctate a Dogeverse ahora",
+  "connectToDogeverseNow": "지금 Dogeverse에 연결하세요",
   "@connectToDogeverseNow": {
     "description": "Connect to Dogeverse now"
   },
-  "dogeOSEcosystem": "Ecosistema DogeOS",
+  "dogeOSEcosystem": "DogeOS 생태계",
   "@dogeOSEcosystem": {
     "description": "DogeOS Ecosystem"
   },
-  "dogeSwap": "DogeSwap",
+  "dogeSwap": "도지스왑",
   "@dogeSwap": {
     "description": "DogeSwap"
   },
-  "orbiterFinanceIsADecentralized": "Orbiter Finance es una red descentralizada",
+  "orbiterFinanceIsADecentralized": "Orbiter Finance는 분산형 금융입니다.",
   "@orbiterFinanceIsADecentralized": {
     "description": "Orbiter Finance is a decentralized"
   },
-  "bitcoinLayer2Network": "Red de capa 2 de Bitcoin",
+  "bitcoinLayer2Network": "비트코인 레이어-2 네트워크",
   "@bitcoinLayer2Network": {
     "description": "Bitcoin layer-2 network"
   },
-  "buildingTheSpiderChain": "Construyendo la cadena Spider, la primera L2 de EVM",
+  "buildingTheSpiderChain": "최초의 EVM L2 스파이더 체인 구축",
   "@buildingTheSpiderChain": {
     "description": "Building the Spider chain, the first EVM L2"
   },
-  "solanaEcosystem": "Ecosistema de Solana",
+  "solanaEcosystem": "솔라나 생태계",
   "@solanaEcosystem": {
     "description": "Solana Ecosystem"
   },
-  "solanaFinance": "Finanzas de Solana",
+  "solanaFinance": "솔라나 파이낸스",
   "@solanaFinance": {
     "description": "Solana Finance"
   },
-  "earnDesc": "Gana entre el 50% y el 75% de las comisiones de negociación por cada amigo que recomiendes.",
+  "earnDesc": "추천한 친구 한 명당 거래 수수료의 50%~75%를 받으세요.",
   "@earnDesc": {
     "description": "Earn 50%~75% of trading fees for each friend you refer."
   },
-  "referFriends": "Recomendar amigos",
+  "referFriends": "친구 추천",
   "@referFriends": {
     "description": "Refer friends"
   },
-  "appearance": "Apariencia",
+  "appearance": "모습",
   "@appearance": {
     "description": "Appearance"
   },
@@ -644,323 +644,323 @@
   "@connectGoogle": {
     "description": "Google"
   },
-  "connectApple": "Conectar Apple",
+  "connectApple": "애플 연결",
   "@connectApple": {
     "description": "Connect Apple"
   },
-  "connectMeta": "Conectar Meta",
+  "connectMeta": "메타 연결",
   "@connectMeta": {
     "description": "Connect Meta"
   },
-  "connectInstagram": "Conectar Instagram",
+  "connectInstagram": "인스타그램 연결",
   "@connectInstagram": {
     "description": "Connect Instagram"
   },
-  "connectKakao": "Conectar Kakao",
+  "connectKakao": "카카오 연결",
   "@connectKakao": {
     "description": "Connect Kakao"
   },
-  "connectLine": "Conectar línea",
+  "connectLine": "연결 라인",
   "@connectLine": {
     "description": "Connect line"
   },
-  "yourSocialLink": "Tu enlace social",
+  "yourSocialLink": "귀하의 소셜 링크",
   "@yourSocialLink": {
     "description": "Your social link"
   },
-  "others": "Otros",
+  "others": "기타",
   "@others": {
     "description": "Others"
   },
-  "additionalSettings": "Ajustes adicionales",
+  "additionalSettings": "추가 설정",
   "@additionalSettings": {
     "description": "Additional settings"
   },
-  "communityGuidelines": "Directrices de la comunidad",
+  "communityGuidelines": "커뮤니티 가이드라인",
   "@communityGuidelines": {
     "description": "Community Guidelines"
   },
-  "terms": "Términos",
+  "terms": "자귀",
   "@terms": {
     "description": "Terms"
   },
-  "deleteAccount": "Eliminar cuenta",
+  "deleteAccount": "계정 삭제",
   "@deleteAccount": {
     "description": "Delete account"
   },
-  "logOut": "Cerrar sesión",
+  "logOut": "로그아웃",
   "@logOut": {
     "description": "Log out"
   },
-  "confirmToExit": "¿Estás seguro de que quieres cerrar la sesión?",
+  "confirmToExit": "정말로 로그아웃하시겠습니까?",
   "@confirmToExit": {
     "description": "Are you sure you want to log out?"
   },
-  "follow": "Seguir",
+  "follow": "따르다",
   "@follow": {
     "description": "Follow"
   },
-  "warning": "Advertencia",
+  "warning": "경고",
   "@warning": {
     "description": "Warning"
   },
-  "willDeleteAccount": "Esta acción es irreversible",
+  "willDeleteAccount": "이 작업은 되돌릴 수 없습니다.",
   "@willDeleteAccount": {
     "description": "This action is irreversible"
   },
-  "willDeleteAccountDesc1": "Eliminar tu cuenta eliminará permanentemente tu billetera y perfil de MyDoge.",
+  "willDeleteAccountDesc1": "계정을 삭제하면 MyDoge 지갑과 프로필이 영구적으로 제거됩니다.",
   "@willDeleteAccountDesc1": {
     "description": "Deleting your account will permanently remove your MyDoge Wallet and profile."
   },
-  "willDeleteAccountDesc2": "Asegúrate de hacer una copia de seguridad de tu billetera y guardar todo lo importante; esta acción no se puede deshacer.",
+  "willDeleteAccountDesc2": "지갑을 백업하고 중요한 내용을 모두 저장하세요. 이 작업은 취소할 수 없습니다.",
   "@willDeleteAccountDesc2": {
     "description": "Make sure to back up your wallet and save anything important — this action cannot be undone."
   },
-  "slideToConfirm": "Desliza para eliminar",
+  "slideToConfirm": "슬라이드하여 삭제",
   "@slideToConfirm": {
     "description": "Slide to delete"
   },
-  "dogeOsBridge": "Bridge de DogeOS",
+  "dogeOsBridge": "DogeOS 브리지",
   "@dogeOsBridge": {
     "description": "DogeOS bridge"
   },
-  "noContacts": "Sin contactos",
+  "noContacts": "연락처 없음",
   "@noContacts": {
     "description": "No contacts"
   },
-  "noContactsRemind": "Agrega billeteras a tu libreta de direcciones para un fácil acceso cuando necesites transferir criptomonedas",
+  "noContactsRemind": "암호화폐를 전송해야 할 때 쉽게 액세스할 수 있도록 주소록에 지갑을 추가하세요.",
   "@noContactsRemind": {
     "description": "Add wallets to your address book for easy access when you need to transfer crypto"
   },
-  "networkText": "Red",
+  "networkText": "회로망",
   "@networkText": {
     "description": "Network"
   },
-  "updateAddress": "Actualizar dirección",
+  "updateAddress": "주소 업데이트",
   "@updateAddress": {
     "description": "Update address"
   },
-  "makeSureSend": "Asegúrate de que estás enviando a ",
+  "makeSureSend": "다음 주소로 보내는지 확인하세요.",
   "@makeSureSend": {
     "description": "Please make sure you are sending to "
   },
-  "chainPoint": "Cadena.",
+  "chainPoint": "체인.",
   "@chainPoint": {
     "description": "Chain."
   },
-  "otherFunds": "Enviar desde cualquier otra cadena puede resultar en ",
+  "otherFunds": "다른 체인에서 전송하면 다음과 같은 결과가 발생할 수 있습니다.",
   "@otherFunds": {
     "description": "Sending from any other chain may result in "
   },
-  "lossOfFunds": "pérdida de fondos.",
+  "lossOfFunds": "자금 손실.",
   "@lossOfFunds": {
     "description": "loss of funds."
   },
-  "maybeLost2": "¡Puede perderse!",
+  "maybeLost2": "분실될 수도 있습니다!",
   "@maybeLost2": {
     "description": "May be lost!"
   },
-  "copyAddress": "Copiar dirección",
+  "copyAddress": "주소 복사",
   "@copyAddress": {
     "description": "Copy Address"
   },
-  "errorNetwork": "Error de red",
+  "errorNetwork": "네트워크 오류",
   "@errorNetwork": {
     "description": "Error network"
   },
-  "errorNetworkRemind": "Tu red está experimentando algunos problemas, por favor, comprueba y prueba a actualizar",
+  "errorNetworkRemind": "네트워크에 문제가 발생했습니다. 확인하고 새로 고쳐보세요.",
   "@errorNetworkRemind": {
     "description": "Your network is experiencing some problems, please check and try refreshing"
   },
-  "refresh": "Actualizar",
+  "refresh": "새로 고치다",
   "@refresh": {
     "description": "Refresh"
   },
-  "bindTipTitle": "Vincular aplicación de autenticación",
+  "bindTipTitle": "링크 인증자 앱",
   "@bindTipTitle": {
     "description": "Link Authenticator App"
   },
-  "bindTipSubtitle": "Vincular la aplicación de autenticación mejorará la seguridad de tu cuenta. Se aplicará cuando exportes tu billetera.",
+  "bindTipSubtitle": "인증자 앱을 연결하면 계정 보안이 강화됩니다. 지갑을 내보낼 때 적용됩니다.",
   "@bindTipSubtitle": {
     "description": "Linking authenticator app will enhance the security of your account. lt will be applied when you export your wallet."
   },
-  "link": "Vincular",
+  "link": "링크",
   "@link": {
     "description": "Link"
   },
-  "emailCodeText": "Código de correo electrónico",
+  "emailCodeText": "이메일 코드",
   "@emailCodeText": {
     "description": "Email code"
   },
-  "emailCodeSubtitle": "Se ha enviado un correo electrónico a tu bandeja de entrada {email}.\r\nPlease enter the verification code in the email.",
+  "emailCodeSubtitle": "받은 편지함 {email}로 이메일이 전송되었습니다.\r\n이메일에 기재된 인증번호를 입력해주세요.",
   "@emailCodeSubtitle": {
     "description": "An email has been sent to your inbox {email}.\r\nPlease enter the verification code in the email."
   },
-  "bindStepTitle": "Vincular aplicación de autenticación",
+  "bindStepTitle": "링크 인증자 앱",
   "@bindStepTitle": {
     "description": "Link Authenticator App"
   },
-  "step1": "Paso 1: ",
+  "step1": "1단계:",
   "@step1": {
     "description": "Step 1: "
   },
-  "bindStepOneLabelDescription": "Descarga una aplicación de autenticación.",
+  "bindStepOneLabelDescription": "인증 앱을 다운로드하세요.",
   "@bindStepOneLabelDescription": {
     "description": "Download an authenticator app."
   },
-  "forExampleLabel": "Por ejemplo: ",
+  "forExampleLabel": "예를 들어:",
   "@forExampleLabel": {
     "description": "For example: "
   },
-  "step2": "Paso 2: ",
+  "step2": "2단계:",
   "@step2": {
     "description": "Step 2: "
   },
-  "bindStepTwoLabelDescription": "Copia la clave de 16 dígitos a continuación o escanea el código QR",
+  "bindStepTwoLabelDescription": "아래 16자리 키를 복사하거나 QR코드를 스캔해주세요.",
   "@bindStepTwoLabelDescription": {
     "description": "Please copy the 16-digit key below or scan the QR code"
   },
-  "caution": "Precaución",
+  "caution": "주의",
   "@caution": {
     "description": "Caution"
   },
-  "bindStepCautionContent": "Guarda esta clave en un lugar seguro, ya que se utiliza para exportar tu billetera y no se puede recuperar si se pierde.",
+  "bindStepCautionContent": "이 키는 지갑을 내보내는 데 사용되며, 분실 시 복구할 수 없으니 잘 보관해주세요!",
   "@bindStepCautionContent": {
     "description": "Please keep this key safe, as it is used to export your wallet and cannot be recovered if lost!"
   },
-  "pleaseNote": "Ten en cuenta",
+  "pleaseNote": "참고하세요",
   "@pleaseNote": {
     "description": "Please note"
   },
-  "bindStepCautionNoteSubtitle": "Una vez que Google Authenticator se haya vinculado correctamente, no se podrá cambiar.",
+  "bindStepCautionNoteSubtitle": "Google OTP가 성공적으로 연결되면 변경할 수 없습니다.",
   "@bindStepCautionNoteSubtitle": {
     "description": "Once Google Authenticator is successfully linked, it cannot be changed."
   },
-  "bindStepCautionNoteContent": "Para la seguridad de los activos de tu billetera, guarda Google Authenticator en un lugar seguro y mantenlo bien protegido. Si se pierde Google Authenticator, es posible que no puedas acceder a tu billetera.",
+  "bindStepCautionNoteContent": "지갑 자산의 보안을 위해 Google OTP를 안전한 곳에 보관하시고 잘 보호하시기 바랍니다. Google OTP를 분실한 경우 지갑에 접근하지 못할 수 있습니다.",
   "@bindStepCautionNoteContent": {
     "description": "For the security of your wallet assets, please store Google Authenticator in a safe place and keep it well-protected. If Google Authenticator is lost, it may result in the inability to access your wallet."
   },
-  "gotIt": "Entendido",
+  "gotIt": "알았어요",
   "@gotIt": {
     "description": "Got it"
   },
-  "googleAuthenticator": "Autenticador de Google",
+  "googleAuthenticator": "구글 OTP",
   "@googleAuthenticator": {
     "description": "Google Authenticator"
   },
-  "verifySubtitle": "Introduce el número generado por tu autenticador de Google.",
+  "verifySubtitle": "Google OTP에서 생성된 번호를 입력하세요.",
   "@verifySubtitle": {
     "description": "Please enter the number generated by your Google Authenticator."
   },
-  "bindSuccessTip": "Autenticador vinculado correctamente",
+  "bindSuccessTip": "OTP가 연결되었습니다.",
   "@bindSuccessTip": {
     "description": "Authenticator linked successfully"
   },
-  "bindFailedTip": "El código del autenticador es incorrecto, la vinculación ha fallado",
+  "bindFailedTip": "OTP 코드가 올바르지 않아 연결에 실패했습니다.",
   "@bindFailedTip": {
     "description": "Authenticator code is incorrect, linking failed"
   },
-  "retry": "Reintentar",
+  "retry": "다시 해 보다",
   "@retry": {
     "description": "Retry"
   },
-  "selectNetwork": "Seleccionar red",
+  "selectNetwork": "네트워크 선택",
   "@selectNetwork": {
     "description": "Select network"
   },
-  "addToFavorites": "Añadir a favoritos",
+  "addToFavorites": "즐겨찾기에 추가",
   "@addToFavorites": {
     "description": "Add to favorites"
   },
-  "addToFavorite": "Añadir a favorito",
+  "addToFavorite": "즐겨찾기에 추가",
   "@addToFavorite": {
     "description": "Add to favorite"
   },
-  "setPayPin": "Establecer PIN de pago",
+  "setPayPin": "급여핀 설정",
   "@setPayPin": {
     "description": "Set Pay Pin"
   },
-  "setPayPinSubtitle": "Establece un PIN de pago para proteger tus activos. Este PIN se solicitará cuando realices transacciones.",
+  "setPayPinSubtitle": "자산 보호를 위해 페이핀을 설정해주세요. 이 핀은 거래를 할 때 필요합니다.",
   "@setPayPinSubtitle": {
     "description": "Please set a pay pin to secure your assets. This pin will be required when you make transactions."
   },
-  "showTip": "Mostrar PIN",
+  "showTip": "핀 표시",
   "@showTip": {
     "description": "Show Pin"
   },
-  "hideTip": "Ocultar PIN",
+  "hideTip": "핀 숨기기",
   "@hideTip": {
     "description": "Hide Pin"
   },
-  "confirmPayPin": "Confirmar PIN de pago",
+  "confirmPayPin": "페이핀 확인",
   "@confirmPayPin": {
     "description": "Confirm Pay Pin"
   },
-  "confirmNotMatchTip": "Los dos PIN de pago no coinciden.",
+  "confirmNotMatchTip": "두 개의 급여 핀이 일치하지 않습니다.",
   "@confirmNotMatchTip": {
     "description": "The two pay pins do not match."
   },
-  "enterPayPin": "Introduce el PIN de pago",
+  "enterPayPin": "지불 입력 PIN",
   "@enterPayPin": {
     "description": "Enter Pay PIN"
   },
-  "forgotPin": "PIN olvidado",
+  "forgotPin": "핀을 잊어버렸습니다",
   "@forgotPin": {
     "description": "Forgot pin"
   },
-  "enterCode": "Introduce el código",
+  "enterCode": "코드 입력",
   "@enterCode": {
     "description": "Enter Code"
   },
-  "changeEmailCodeSubtitle": "Se ha enviado un código de 4 dígitos a {email}",
+  "changeEmailCodeSubtitle": "4자리 코드가 {email}로 전송되었습니다.",
   "@changeEmailCodeSubtitle": {
     "description": "A 4-digit code was sent to {email}"
   },
-  "request": "Solicitar",
+  "request": "요구",
   "@request": {
     "description": "Request"
   },
-  "incorrectCode": "Código incorrecto",
+  "incorrectCode": "잘못된 코드",
   "@incorrectCode": {
     "description": "Incorrect code"
   },
-  "forgetPayPin": "¿Olvidaste el PIN de pago?",
+  "forgetPayPin": "급여 PIN를 잊으셨나요?",
   "@forgetPayPin": {
     "description": "Forget the Pay PIN?"
   },
-  "showPayPin": "Mostrar PIN de pago",
+  "showPayPin": "페이 표시 PIN",
   "@showPayPin": {
     "description": "Show Pay PIN"
   },
-  "hidePayPin": "Ocultar PIN de pago",
+  "hidePayPin": "페이 숨기기 PIN",
   "@hidePayPin": {
     "description": "Hide Pay PIN"
   },
-  "setRecoveryEmail": "Establecer correo electrónico de recuperación",
+  "setRecoveryEmail": "복구 이메일 설정",
   "@setRecoveryEmail": {
     "description": "Set Recovery Email"
   },
-  "setRecoveryEmailSubtitle": "Para garantizar la seguridad de tus activos, establece un correo electrónico de recuperación. Este correo electrónico se utilizará para la recuperación de la cuenta en caso de que pierdas el acceso a tu cuenta.",
+  "setRecoveryEmailSubtitle": "자산의 보안을 보장하려면 복구 이메일을 설정하세요. 이 이메일은 귀하가 계정에 액세스할 수 없는 경우 계정 복구를 위해 사용됩니다.",
   "@setRecoveryEmailSubtitle": {
     "description": "To ensure the security of your asset, please set a recovery email. This email will be used for account recovery in case you lose access to your account."
   },
-  "enterEmailAddress": "Introduce tu dirección de correo electrónico",
+  "enterEmailAddress": "이메일 주소를 입력하세요",
   "@enterEmailAddress": {
     "description": "Enter your Email address"
   },
-  "emailErrorTip": "Este correo electrónico no está disponible",
+  "emailErrorTip": "이 이메일을 사용할 수 없습니다",
   "@emailErrorTip": {
     "description": "This email is not available"
   },
-  "codeResendSecond": "Reenviar ({second})",
+  "codeResendSecond": "재전송({second})",
   "@codeResendSecond": {
     "description": "Resend({second})"
   },
-  "scanQRCode": "Escanear código QR",
+  "scanQRCode": "QR 코드 스캔",
   "@scanQRCode": {
     "description": "Scan QR Code"
   },
-  "album": "Álbum",
+  "album": "앨범",
   "@album": {
     "description": "Album"
   },
@@ -968,395 +968,395 @@
   "@alignQRCode": {
     "description": ""
   },
-  "enterSeedPhrase": "Introduce la frase semilla",
+  "enterSeedPhrase": "시드 구문을 입력하세요.",
   "@enterSeedPhrase": {
     "description": "Enter seed phrase"
   },
-  "enterSeedPhraseRemind": "Si estás utilizando una frase semilla para importar la billetera, separa cada palabra con un espacio.",
+  "enterSeedPhraseRemind": "시드 구문을 사용하여 지갑을 가져오는 경우 각 단어를 공백으로 구분하세요.",
   "@enterSeedPhraseRemind": {
     "description": "If you're using a seed phrase to import the wallet, separate each word with a space."
   },
-  "clear": "Limpiar",
+  "clear": "분명한",
   "@clear": {
     "description": "Clear"
   },
-  "howToBackUp": "Por qué y cómo hacer una copia de seguridad de tu billetera",
+  "howToBackUp": "백업 이유 및 방법\r\n당신의 지갑",
   "@howToBackUp": {
     "description": "Why and How to back up\r\nyour wallet"
   },
-  "backUpRemind": "Para poder acceder a tus cuentas y activos cuando cambies de dispositivo, te recomendamos encarecidamente que sigas el proceso a continuación para hacer una copia de seguridad de tu billetera.",
+  "backUpRemind": "기기 변경 시 계정 및 자산에 접근할 수 있도록 아래 절차에 따라 지갑을 백업해 두실 것을 적극 권장합니다.",
   "@backUpRemind": {
     "description": "To be able to access your accounts and assets when you change devices, we strongly recommend that you follow the process below to backup your wallet."
   },
-  "backUpStep1": "1. Haz clic en el botón para ver las frases semilla.",
+  "backUpStep1": "1. 시드 구문을 보려면 버튼을 클릭하세요.",
   "@backUpStep1": {
     "description": "1. Click the button to view the seed phrases."
   },
-  "backUpStep2": "Guarda las frases semilla en un lugar seguro donde nadie más pueda acceder a ellas.",
+  "backUpStep2": "시드 구문을 다른 사람이 접근할 수 없는 안전한 장소에 보관하십시오.",
   "@backUpStep2": {
     "description": "Keep the seed phrases in a safe place where no one else can access to it."
   },
-  "backUpWarning": "ADVERTENCIA: Mantén tus frases semilla seguras y NUNCA las compartas con nadie. Cualquiera con tu clave privada puede robar todos los activos de tu billetera.",
+  "backUpWarning": "경고: 시드 구문을 안전하게 보관하고 누구와도 공유하지 마세요. 개인 키를 가진 사람은 누구나 지갑에 있는 모든 자산을 훔칠 수 있습니다.",
   "@backUpWarning": {
     "description": "WARNING: Keep your seed phrases safe and NEVER share it to anyone. Anyone with your private key can steal all the assets in your wallet."
   },
-  "showSeed": "Mostrar mis frases semilla",
+  "showSeed": "내 시드 구문 표시",
   "@showSeed": {
     "description": "Show My Seed Phrases"
   },
-  "seedPhrases": "Frases semilla",
+  "seedPhrases": "시드 구문",
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
-  "close": "Cerrar",
+  "close": "닫다",
   "@close": {
     "description": "Close"
   },
-  "addressLowerCase": "dirección",
+  "addressLowerCase": "주소",
   "@addressLowerCase": {
     "description": "address"
   },
-  "enterAddress": "Introduce una dirección válida",
+  "enterAddress": "올바른 주소를 입력하세요.",
   "@enterAddress": {
     "description": "Please enter a valid address"
   },
-  "addToAddress": "Añadir a la dirección",
+  "addToAddress": "주소에 추가",
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "Saldo: ",
+  "balanceLabel": "균형:",
   "@balanceLabel": {
     "description": "Balance: "
   },
-  "sendTo": "Enviar a",
+  "sendTo": "다음으로 보내기",
   "@sendTo": {
     "description": "Send to"
   },
-  "routeSelection": "Selección de ruta",
+  "routeSelection": "노선 선택",
   "@routeSelection": {
     "description": "Route selection"
   },
-  "slippage": "Deslizamiento",
+  "slippage": "미끄러짐",
   "@slippage": {
     "description": "Slippage"
   },
-  "about": "Acerca de",
+  "about": "에 대한",
   "@about": {
     "description": "About"
   },
-  "site": "Sitio",
+  "site": "대지",
   "@site": {
     "description": "Site"
   },
-  "twitter": "Twitter",
+  "twitter": "지저귀다",
   "@twitter": {
     "description": "Twitter"
   },
-  "twitterLowercase": "twitter",
+  "twitterLowercase": "지저귀다",
   "@twitterLowercase": {
     "description": "twitter"
   },
-  "telegram": "Telegram",
+  "telegram": "전보",
   "@telegram": {
     "description": "Telegram"
   },
-  "networkUppercase": "Red",
+  "networkUppercase": "회로망",
   "@networkUppercase": {
     "description": "Network"
   },
-  "customTokens": "Tokens personalizados",
+  "customTokens": "맞춤형 토큰",
   "@customTokens": {
     "description": "Custom Tokens"
   },
-  "allTokens": "Todos los tokens",
+  "allTokens": "모든 토큰",
   "@allTokens": {
     "description": "All tokens"
   },
-  "filterTokens": "Filtrar tokens de riesgo",
+  "filterTokens": "위험한 토큰 필터링",
   "@filterTokens": {
     "description": "Filter risky tokens"
   },
-  "contractAddress": "Dirección del contrato",
+  "contractAddress": "계약 주소",
   "@contractAddress": {
     "description": "Contract address"
   },
-  "tokenSymbol": "Símbolo del token",
+  "tokenSymbol": "토큰 심볼",
   "@tokenSymbol": {
     "description": "Token symbol"
   },
-  "decimalsOfPrecision": "Decimales de precisión",
+  "decimalsOfPrecision": "정밀도 소수",
   "@decimalsOfPrecision": {
     "description": "Decimals of precision"
   },
-  "turnOffRisk": "¿Desactivar el filtro de tokens de riesgo?",
+  "turnOffRisk": "위험한 토큰 필터를 끄시겠습니까?",
   "@turnOffRisk": {
     "description": "Turn off risky tokens filter？"
   },
-  "sureTurnOff": "¿Estás seguro de que quieres desactivar el filtro de tokens de riesgo? Esto puede resultar en la pérdida de activos.",
+  "sureTurnOff": "위험한 토큰 필터를 끄시겠습니까? 이로 인해 자산 손실이 발생할 수 있습니다.",
   "@sureTurnOff": {
     "description": "Are you sure you want to turn off the risky token filter? This may result in asset loss."
   },
-  "turnOff": "Desactivar",
+  "turnOff": "끄다",
   "@turnOff": {
     "description": "Turn off"
   },
-  "fail": "fallo",
+  "fail": "실패하다",
   "@fail": {
     "description": "fail"
   },
-  "pending": "Pendiente",
+  "pending": "보류 중",
   "@pending": {
     "description": "Pending"
   },
-  "warningText": "Los fondos pueden tardar hasta 20 minutos en llegar a tu billetera después de que la transacción sea exitosa.",
+  "warningText": "거래가 성공한 후 자금이 지갑에 도착하는 데 최대 20분이 걸릴 수 있습니다.",
   "@warningText": {
     "description": "Funds may take up to 20 minutes to arrive in your wallet after the transaction is successful."
   },
-  "myWalletAddress": "Mi dirección de billetera",
+  "myWalletAddress": "내 지갑 주소",
   "@myWalletAddress": {
     "description": "My wallet address"
   },
-  "hi": "Hola, {name}",
+  "hi": "안녕하세요, {name}",
   "@hi": {
     "description": "Hi, {name}"
   },
-  "dogeDevnetBalance": "Saldo de $DOGE (devnet)",
+  "dogeDevnetBalance": "$DOGE(devnet) 잔액",
   "@dogeDevnetBalance": {
     "description": "$DOGE (devnet) balance"
   },
-  "dogeDevnetFaucet": "Grifo de DogeOs Devnet",
+  "dogeDevnetFaucet": "DogeOs Devnet Faucet",
   "@dogeDevnetFaucet": {
     "description": "DogeOs Devnet faucet"
   },
-  "myDogeTokenBalance": "Mi saldo de $DOGE (token de desarrollo)",
+  "myDogeTokenBalance": "내 $DOGE(개발자 토큰) 잔액",
   "@myDogeTokenBalance": {
     "description": "My $DOGE (dev token) balance"
   },
-  "whatIsFaucet": "¿Qué es un grifo?",
+  "whatIsFaucet": "Faucet란 무엇입니까?",
   "@whatIsFaucet": {
     "description": " What is a Faucet?"
   },
-  "whatIsFaucetHint": "Un grifo te permite reclamar tokens gratuitos para fines de prueba en una",
+  "whatIsFaucetHint": "Faucet를 사용하면 테스트 목적으로 무료 토큰을 요청할 수 있습니다.",
   "@whatIsFaucetHint": {
     "description": "A faucet lets you claim free tokens for testing purposes on a"
   },
-  "devnet": " red de desarrollo ",
+  "devnet": "데브넷",
   "@devnet": {
     "description": " devnet "
   },
-  "whatIsFaucetHint2": "— un entorno de cadena de bloques que simula transacciones reales sin utilizar activos reales.",
+  "whatIsFaucetHint2": "— 실제 자산을 사용하지 않고 실제 거래를 시뮬레이션하는 블록체인 환경입니다.",
   "@whatIsFaucetHint2": {
     "description": "— a blockchain environment that simulates real transactions without using real assets."
   },
-  "thestDevnetTokens": "Estos tokens de la red de desarrollo son",
+  "thestDevnetTokens": "이 Devnet 토큰은",
   "@thestDevnetTokens": {
     "description": "These devnet tokens are"
   },
-  "notRealDoge": " no son DOGE reales",
+  "notRealDoge": "진짜가 아니야 DOGE",
   "@notRealDoge": {
     "description": " not real DOGE"
   },
-  "and": " y ",
+  "and": "그리고",
   "@and": {
     "description": " and "
   },
-  "haveNoMonetary": "no tienen valor monetario",
+  "haveNoMonetary": "금전적 가치가 없다",
   "@haveNoMonetary": {
     "description": "have no monetary value"
   },
-  "howMuchDoge": "¿Cuánto DOGE de la red de desarrollo puedo obtener?",
+  "howMuchDoge": "Devnet DOGE는 얼마나 받을 수 있나요?",
   "@howMuchDoge": {
     "description": " How Much Devnet DOGE Can I Get?"
   },
-  "youCanRequest": "Puedes solicitar",
+  "youCanRequest": "요청할 수 있습니다",
   "@youCanRequest": {
     "description": "You can request"
   },
-  "perDayDoge": " 42.069 ÐOGE por día.",
+  "perDayDoge": "하루에 42.069ÐOGE.",
   "@perDayDoge": {
     "description": " 42.069 ÐOGE per day."
   },
-  "noRealFunds": " No se involucran fondos reales, es solo para pruebas.",
+  "noRealFunds": "실제 자금은 포함되지 않습니다. 단지 테스트용일 뿐입니다.",
   "@noRealFunds": {
     "description": " No real funds are involved — it’s just for testing."
   },
-  "WhatCanIDo": "¿Qué puedo hacer con el DOGE de la red de desarrollo?",
+  "WhatCanIDo": "Devnet DOGE로 무엇을 할 수 있나요?",
   "@WhatCanIDo": {
     "description": " What Can I Do With Devnet DOGE?"
   },
-  "WhatCanIDoHint": " Con tu ÐOGE de la red de desarrollo, puedes:",
+  "WhatCanIDoHint": "devnet ÐOGE를 사용하면 다음을 수행할 수 있습니다.",
   "@WhatCanIDoHint": {
     "description": " With your devnet ÐOGE, you can:"
   },
-  "WhatCanIDoHint1": "Probar nuevas funciones de forma segura",
+  "WhatCanIDoHint1": "새로운 기능을 안전하게 사용해 보세요",
   "@WhatCanIDoHint1": {
     "description": "Try out new features safely"
   },
-  "WhatCanIDoHint2": "Interactuar con dApps sin riesgo financiero",
+  "WhatCanIDoHint2": "재정적 위험 없이 dApps와 상호 작용",
   "@WhatCanIDoHint2": {
     "description": "Interact with dApps without financial risk"
   },
-  "helpUsTest": "Ayúdanos a probar",
+  "helpUsTest": "테스트를 도와주세요",
   "@helpUsTest": {
     "description": "Help us test"
   },
-  "performanceUnderLoad": " rendimiento bajo carga ",
+  "performanceUnderLoad": "부하 시 성능",
   "@performanceUnderLoad": {
     "description": " performance under load "
   },
-  "performanceUnderLoadHint": "— ¡tu actividad contribuye a importantes pruebas de estrés a medida que escalamos DogeOS!",
+  "performanceUnderLoadHint": "— 귀하의 활동은 DogeOS를 확장함에 따라 중요한 스트레스 테스트에 기여합니다!",
   "@performanceUnderLoadHint": {
     "description": "— your activity contributes to important stress testing as we scale DogeOS!"
   },
-  "claimNow": "¡Reclama Ð42.069 ahora!",
+  "claimNow": "지금 Ð42.069를 청구하세요!",
   "@claimNow": {
     "description": "Claim Ð42.069 now!"
   },
-  "blockOrReport": "Bloquear o denunciar",
+  "blockOrReport": "차단 또는 신고",
   "@blockOrReport": {
     "description": "Block or Report"
   },
-  "blockOrReportHint": "MyDoge revisará todos los perfiles denunciados para ver si hay alguna violación de nuestras directrices. También puedes bloquear el perfil para evitar que vean tus publicaciones.",
+  "blockOrReportHint": "MyDoge는 보고된 모든 프로필을 검토하여 가이드라인 위반 사항이 있는지 확인합니다. 프로필을 차단하여 다른 사람이 귀하의 게시물을 보지 못하도록 할 수도 있습니다.",
   "@blockOrReportHint": {
     "description": "MyDoge will review all reported profiles to see if there are any violations of our guidelines. You can also block the profile to prevent them from viewing your posts."
   },
-  "report": "Denunciar",
+  "report": "보고서",
   "@report": {
     "description": "Report"
   },
-  "block": "Bloquear",
+  "block": "차단하다",
   "@block": {
     "description": "Block"
   },
-  "nevermind": "No importa",
+  "nevermind": "괜찮아요",
   "@nevermind": {
     "description": "Nevermind"
   },
-  "allComments": "Todos los comentarios",
+  "allComments": "모든 댓글",
   "@allComments": {
     "description": "All Comments"
   },
-  "noCommentYet": "Aún no hay comentarios",
+  "noCommentYet": "아직 댓글이 없습니다",
   "@noCommentYet": {
     "description": "No comment yet"
   },
-  "saySomething": "Di algo...",
+  "saySomething": "뭐라고 말해보세요...",
   "@saySomething": {
     "description": "Say something..."
   },
-  "sureToDelete": "¿Seguro que quieres eliminar este comentario?",
+  "sureToDelete": "이 댓글을 삭제하시겠습니까?",
   "@sureToDelete": {
     "description": "Sure to delete this comment?"
   },
-  "copyProfileURL": "Copiar URL del perfil",
+  "copyProfileURL": "프로필 URL 복사",
   "@copyProfileURL": {
     "description": "Copy Profile URL"
   },
-  "quickAmount": "Cantidad rápida",
+  "quickAmount": "빠른 금액",
   "@quickAmount": {
     "description": "Quick amount"
   },
-  "unblockUser": "¿Desbloquear usuario?",
+  "unblockUser": "사용자 차단을 해제하시겠습니까?",
   "@unblockUser": {
     "description": "Unblock User?"
   },
-  "unblockUserHint": "Esto desbloqueará al usuario y seguirás viendo sus publicaciones.",
+  "unblockUserHint": "이렇게 하면 해당 사용자의 차단이 해제되고 해당 사용자의 게시물을 계속 볼 수 있습니다.",
   "@unblockUserHint": {
     "description": "This will unblock the user and you will continue to see their posts."
   },
-  "unblock": "Desbloquear",
+  "unblock": "차단 해제",
   "@unblock": {
     "description": "Unblock"
   },
-  "following": "Siguiendo",
+  "following": "수행원",
   "@following": {
     "description": "Following"
   },
-  "shop": "Tienda",
+  "shop": "가게",
   "@shop": {
     "description": "Shop"
   },
-  "settingsAndSupport": "Ajustes y soporte",
+  "settingsAndSupport": "설정 및 지원",
   "@settingsAndSupport": {
     "description": "Settings and Support"
   },
-  "sendAndReceive": "Enviar y recibir propinas a través de",
+  "sendAndReceive": "다음을 통해 팁 보내기 및 받기",
   "@sendAndReceive": {
     "description": "Send and receive tips via"
   },
-  "readFAQ": "Leer las preguntas frecuentes de MyDogeTip",
+  "readFAQ": "MyDogeTip FAQ 읽기",
   "@readFAQ": {
     "description": "Read the MyDogeTip FAQ"
   },
-  "signOutUser": "Cerrar sesión @{handle}",
+  "signOutUser": "@{handle} 로그아웃",
   "@signOutUser": {
     "description": "Sign Out @{handle}"
   },
-  "changePayPin": "Cambiar PIN de pago",
+  "changePayPin": "급여 변경 PIN",
   "@changePayPin": {
     "description": "Change Pay PIN"
   },
-  "displayCurrency": "Moneda de visualización",
+  "displayCurrency": "통화 표시",
   "@displayCurrency": {
     "description": "Display currency"
   },
-  "aboutMyDoge": "Acerca de MyDoge",
+  "aboutMyDoge": "MyDoge 소개",
   "@aboutMyDoge": {
     "description": "About MyDoge"
   },
-  "version": "Versión {version}",
+  "version": "버전 {version}",
   "@version": {
     "description": "Version {version}"
   },
-  "nickname": "Apodo",
+  "nickname": "별명",
   "@nickname": {
     "description": "Nickname"
   },
-  "username": "Nombre de usuario",
+  "username": "사용자 이름",
   "@username": {
     "description": "User name"
   },
-  "followers": "Seguidores",
+  "followers": "추종자",
   "@followers": {
     "description": "Followers"
   },
-  "newPost": "Nueva publicación",
+  "newPost": "새 게시물",
   "@newPost": {
     "description": "New Post"
   },
-  "post": "Publicar",
+  "post": "우편",
   "@post": {
     "description": "Post"
   },
-  "share": "Compartir",
+  "share": "공유하다",
   "@share": {
     "description": "Share"
   },
-  "tips": "Propinas",
+  "tips": "팁",
   "@tips": {
     "description": "Tips"
   },
-  "message": "Mensaje",
+  "message": "메시지",
   "@message": {
     "description": "Message"
   },
-  "shareProfile": "Compartir perfil",
+  "shareProfile": "프로필 공유",
   "@shareProfile": {
     "description": "Share profile"
   },
-  "findFriends": "Encontrar amigos",
+  "findFriends": "친구 찾기",
   "@findFriends": {
     "description": "Find Friends"
   },
-  "searchResults": "Resultados de la búsqueda",
+  "searchResults": "검색결과",
   "@searchResults": {
     "description": "Search Results"
   },
-  "startTyping": "empieza a escribir",
+  "startTyping": "타이핑을 시작하다",
   "@startTyping": {
     "description": "start typing"
   },
-  "shopWithDoge": "Comprar con Doge",
+  "shopWithDoge": "Doge와 함께 쇼핑하세요",
   "@shopWithDoge": {
     "description": "Shop with Doge"
   },
@@ -1364,127 +1364,127 @@
   "@getDogeCom": {
     "description": "GetDoge.com"
   },
-  "giftCards": "Tarjetas de regalo",
+  "giftCards": "기프트 카드",
   "@giftCards": {
     "description": "Gift Cards"
   },
-  "soon": "pronto",
+  "soon": "곧",
   "@soon": {
     "description": "soon"
   },
-  "switchNetwork": "Cambiar de red",
+  "switchNetwork": "네트워크 전환",
   "@switchNetwork": {
     "description": "Switch network"
   },
-  "empty": "Vacío",
+  "empty": "비어 있는",
   "@empty": {
     "description": "Empty"
   },
-  "estReceive": "Recibo est.",
+  "estReceive": "예상 받다",
   "@estReceive": {
     "description": "Est. Receive"
   },
-  "doge": "Doge",
+  "doge": "총독",
   "@doge": {
     "description": "Doge"
   },
-  "scanQrCodeDesc": "Escanea para pagar con la cantidad exacta.",
+  "scanQrCodeDesc": "스캔하여 정확한 금액을 결제하세요.",
   "@scanQrCodeDesc": {
     "description": "Scan to pay with the exact amount."
   },
-  "clearAmount": "Borrar cantidad",
+  "clearAmount": "금액 지우기",
   "@clearAmount": {
     "description": "Clear amount"
   },
-  "inputPINToContinue": "Introduce tu PIN para continuar",
+  "inputPINToContinue": "계속하려면 PIN를 입력하세요.",
   "@inputPINToContinue": {
     "description": "Enter your PIN to continue"
   },
-  "verifyYourPIN": "Verifica tu PIN para crear una billetera DogeOS.",
+  "verifyYourPIN": "소셜 지갑을 생성하려면 PIN를 인증하세요.",
   "@verifyYourPIN": {
     "description": "Verify your PIN to create a Social Wallet."
   },
-  "incorrectPin": "El PIN que has introducido es incorrecto",
+  "incorrectPin": "입력한 PIN가 올바르지 않습니다.",
   "@incorrectPin": {
     "description": "The PIN you entered is incorrect"
   },
-  "iCloudBackupFailed": "La copia de seguridad de iCloud ha fallado",
+  "iCloudBackupFailed": "iCloud 백업 실패",
   "@iCloudBackupFailed": {
     "description": "iCloud backup failed"
   },
-  "pleaseTurnOnYourICloud": "Activa iCloud en los ajustes de tu dispositivo antes de hacer una copia de seguridad o importar tu billetera.",
+  "pleaseTurnOnYourICloud": "지갑을 백업하거나 가져오기 전에 장치 설정에서 iCloud를 활성화하십시오.",
   "@pleaseTurnOnYourICloud": {
     "description": "Please enable iCloud in your device settings before backing up or importing your wallet."
   },
-  "goToSettingPage": "Ir a la página de ajustes",
+  "goToSettingPage": "설정 페이지로 이동",
   "@goToSettingPage": {
     "description": "Go to setting page"
   },
-  "deleteBackup": "Eliminar copia de seguridad",
+  "deleteBackup": "백업 삭제",
   "@deleteBackup": {
     "description": "Delete backup"
   },
-  "deleteBackupOrNot": "¿Quieres eliminar la copia de seguridad?",
+  "deleteBackupOrNot": "백업을 삭제하시겠습니까?",
   "@deleteBackupOrNot": {
     "description": "Do you want to delete the backup?"
   },
-  "sendToCrypto": "Enviar a una dirección de criptomonedas",
+  "sendToCrypto": "암호화폐 주소로 보내기",
   "@sendToCrypto": {
     "description": "Send to a crypto address"
   },
-  "importSeedPhrase": "Importar con frase semilla",
+  "importSeedPhrase": "시드 구문로 가져오기",
   "@importSeedPhrase": {
     "description": "Import with seed phrase"
   },
-  "importGoogleDrive": "Importar desde Google Drive",
+  "importGoogleDrive": "구글 드라이브에서 가져오기",
   "@importGoogleDrive": {
     "description": "Import from google drive"
   },
-  "importICloud": "Importar desde iCloud",
+  "importICloud": "iCloud에서 가져오기",
   "@importICloud": {
     "description": "Import from iCloud"
   },
-  "reminder": "Recordatorio",
+  "reminder": "알림",
   "@reminder": {
     "description": "Reminder"
   },
-  "reminderDesc": "Hemos notado que la billetera que usaste anteriormente era de una billetera DogeOS, con la semilla protegida a través de Cubist. Te actualizarás a esa billetera social. Además, tu contenido anterior de Dogeverse ya no está accesible.\n\nSi tienes alguna pregunta, ponte en contacto con nuestro equipo de soporte.",
+  "reminderDesc": "이전에 사용하신 지갑은 Cubist를 통해 시드가 보호된 소셜 지갑에서 가져온 것으로 확인되었습니다. 해당 소셜 지갑으로 업그레이드하게 됩니다. 또한 이전 Dogeverse 콘텐츠에 더 이상 액세스할 수 없습니다.\n\n궁금한 점이 있으면 지원팀에 문의하세요.",
   "@reminderDesc": {
     "description": "We noticed that the wallet you previously used was from a Social Wallet, with the seed protected via Cubist. You will be upgrading to that social wallet. Additionally, your previous Dogeverse content is no longer accessible.\n\nIf you have any questions, please contact our support team."
   },
-  "importNotes": "Notas importantes sobre el inicio de sesión social",
+  "importNotes": "소셜 로그인에 관한 중요 사항",
   "@importNotes": {
     "description": "Important notes on social login"
   },
-  "importNotesDesc": "Si inicias sesión con X, la función MyDogeTip se vinculará a tu cuenta de X.",
+  "importNotesDesc": "X로 로그인하면 MyDogeTip 기능이 X 계정에 연결됩니다.",
   "@importNotesDesc": {
     "description": "If you log in with X, the MyDogeTip feature will be linked to your X account."
   },
-  "maybeLater": "Quizás más tarde",
+  "maybeLater": "어쩌면 나중에",
   "@maybeLater": {
     "description": "Maybe later"
   },
-  "depositToken": "Depositar {tokenName}",
+  "depositToken": "{tokenName} 입금",
   "@depositToken": {
     "description": "Deposit {tokenName}"
   },
-  "selectDepositMethod": "Seleccionar método de depósito",
+  "selectDepositMethod": "입금방법 선택",
   "@selectDepositMethod": {
     "description": "Select deposit method"
   },
-  "myDogeFriends": "Amigos de MyDoge",
+  "myDogeFriends": "MyDoge 친구들",
   "@myDogeFriends": {
     "description": "MyDoge friends"
   },
-  "setAmount": "Establecer cantidad",
+  "setAmount": "설정금액",
   "@setAmount": {
     "description": "Set amount"
   },
-  "amount": "Cantidad",
+  "amount": "양",
   "@amount": {
     "description": "Amount"
   },
-  "amountLowercase": "cantidad",
+  "amountLowercase": "양",
   "@amountLowercase": {
     "description": "amount"
   },
@@ -1492,323 +1492,323 @@
   "@dogeUppercase": {
     "description": "DOGE"
   },
-  "allNetworks": "Todas las redes",
+  "allNetworks": "모든 네트워크",
   "@allNetworks": {
     "description": "All networks"
   },
-  "popularNetworks": "Redes populares",
+  "popularNetworks": "인기 네트워크",
   "@popularNetworks": {
     "description": "Popular networks"
   },
-  "oops": "Cambiar a la billetera DogeOS",
+  "oops": "소셜 지갑으로 전환",
   "@oops": {
     "description": "Switch to Social Wallet"
   },
-  "oopsDesc": "¡Vaya! Actualmente estás usando tu billetera MyDoge Classic. Cambia a tu billetera DogeOS para acceder a esta función.",
+  "oopsDesc": "이런! 현재 MyDoge Classic 지갑을 사용하고 계십니다. 이 기능에 액세스하려면 소셜 지갑으로 전환하세요.",
   "@oopsDesc": {
     "description": "Oops! You’re currently using your MyDoge Classic wallet. Please switch to your Social Wallet to access this feature."
   },
-  "switchWallet": "Cambiar de billetera",
+  "switchWallet": "지갑 전환",
   "@switchWallet": {
     "description": "Switch wallet"
   },
-  "termsOfUse": "Términos de uso",
+  "termsOfUse": "이용약관",
   "@termsOfUse": {
     "description": "Terms of Use"
   },
-  "privacyPolicy": "Política de privacidad",
+  "privacyPolicy": "개인 정보 보호 정책",
   "@privacyPolicy": {
     "description": "Privacy Policy"
   },
-  "shareMyDoge": "Compartir MyDoge",
+  "shareMyDoge": "MyDoge 공유",
   "@shareMyDoge": {
     "description": "Share MyDoge"
   },
-  "visitOurWebsite": "Visita nuestro sitio web",
+  "visitOurWebsite": "우리 웹사이트를 방문하세요",
   "@visitOurWebsite": {
     "description": "Visit Our Website"
   },
-  "viewSeedPhrase": "Ver frase semilla",
+  "viewSeedPhrase": "시드 구문 보기",
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "Transcribir",
+  "seedBackupTip1": "고쳐 쓰다",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
-  "seedBackupTip2": "Capturas de pantalla",
+  "seedBackupTip2": "스크린샷",
   "@seedBackupTip2": {
     "description": "Screenshots"
   },
-  "seedBackupTip3": "Copia digital",
+  "seedBackupTip3": "디지털 카피",
   "@seedBackupTip3": {
     "description": "Digital copy"
   },
-  "keepSeedSafeNotice": "Cualquiera con tu semilla puede acceder a todos tus activos. Por favor, guarda la información para ti.",
+  "keepSeedSafeNotice": "귀하의 시드를 가진 사람은 누구나 귀하의 모든 자산에 접근할 수 있습니다. 해당 정보를 본인만 보관하시기 바랍니다.",
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
-  "hide": "Ocultar",
+  "hide": "숨다",
   "@hide": {
     "description": "Hide"
   },
-  "warningTitleNotice": "Por razones de seguridad, si cierras o actualizas la página, tendrás que volver a solicitar y esperar al menos 48 horas. Asegúrate de haber recordado tu frase semilla antes de irte.",
+  "warningTitleNotice": "보안상의 이유로 페이지를 닫거나 새로 고치는 경우 다시 신청하고 최소 48시간 동안 기다려야 합니다. 떠나기 전에 시드 구문을 기억했는지 확인하세요.",
   "@warningTitleNotice": {
     "description": "For security reasons, if you close or refresh the page, you will need to reapply and wait for at least 48 hours. Please make sure you have remembered your seed phrase before leaving."
   },
-  "keepSeedSafeTitle": "Mantén la frase semilla segura",
+  "keepSeedSafeTitle": "시드 구문을 안전하게 유지하세요",
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "Cualquiera con tu semilla puede acceder a todos tus activos. Asegúrate de hacer una copia de seguridad de tu semilla antes de recibir transferencias o eliminar la aplicación.",
+  "keepSeedSafeNotice1": "귀하의 시드를 가진 사람은 누구나 귀하의 모든 자산에 접근할 수 있습니다. 전송을 받기 전에 반드시 시드를 백업하거나 앱을 삭제하시기 바랍니다.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
-  "keepSeedSafeNotice2": "MyDoge no almacenará tu semilla en su servidor y, por lo tanto, no podrá recuperar tu billetera una vez que se pierda.",
+  "keepSeedSafeNotice2": "MyDoge는 귀하의 시드를 서버에 저장하지 않으므로 지갑이 분실되면 복구할 수 없습니다.",
   "@keepSeedSafeNotice2": {
     "description": "MyDoge will not store your seed on its server, and therefore is unable to recover your wallet once it is lost."
   },
-  "seedAlreadyBackup": "Ya se ha hecho una copia de seguridad",
+  "seedAlreadyBackup": "이미 백업됨",
   "@seedAlreadyBackup": {
     "description": "Already backed up"
   },
-  "backupSecurity": "Copia de seguridad y seguridad",
+  "backupSecurity": "백업 및 보안",
   "@backupSecurity": {
     "description": "Backup  & Security"
   },
-  "backupYourWalletHint": "Guarda tu billetera en la nube y protégela con una contraseña. También puedes anotar tu frase semilla o copiarla en un gestor de contraseñas.",
+  "backupYourWalletHint": "지갑을 클라우드에 저장하고 비밀번호로 보호하세요. 시드 구문을 적어두거나 비밀번호 관리자에 복사할 수도 있습니다.",
   "@backupYourWalletHint": {
     "description": "Save your wallet to the cloud and protect it with a password. You can also write down your seed phrase or copy it to a password manager."
   },
-  "haveNotBackUp": "No has hecho una copia de seguridad de tu billetera en la nube.",
+  "haveNotBackUp": "지갑을 클라우드에 백업하지 않았습니다.",
   "@haveNotBackUp": {
     "description": "You haven't backed up your wallet to the cloud."
   },
-  "backupToICloud": "Copia de seguridad en iCloud",
+  "backupToICloud": "iCloud에 백업",
   "@backupToICloud": {
     "description": "Back up to iCloud"
   },
-  "backupToGoogle": "Copia de seguridad en Google Drive",
+  "backupToGoogle": "Google 드라이브에 백업",
   "@backupToGoogle": {
     "description": "Back up to Google Drive"
   },
-  "createRecoveryPassword": "Crear contraseña de recuperación en la nube",
+  "createRecoveryPassword": "클라우드 복구 비밀번호 만들기",
   "@createRecoveryPassword": {
     "description": "Create Cloud recovery password"
   },
-  "createRecoveryPasswordHint": "Debes crear una contraseña para la recuperación de la copia de seguridad en la nube. Elige una contraseña memorable de al menos 8 caracteres; las contraseñas más largas son más seguras.",
+  "createRecoveryPasswordHint": "클라우드 백업 복구를 위해서는 비밀번호를 생성해야 합니다. 기억하기 쉬운 8자 이상의 비밀번호를 선택하세요. 비밀번호가 길수록 더 안전합니다.",
   "@createRecoveryPasswordHint": {
     "description": "You need to create a password for cloud backup recovery. Choose a memorable password of at least 8 characters; longer passwords are more secure."
   },
-  "ifYouLoseRecoveryPassword": "Perder esta contraseña significa que no podrás recuperar tu copia de seguridad.",
+  "ifYouLoseRecoveryPassword": "이 비밀번호를 잊어버리면 백업을 복구할 수 없습니다.",
   "@ifYouLoseRecoveryPassword": {
     "description": "Losing this password means you can’t recover your backup."
   },
-  "confirmPassword": "Confirmar contraseña",
+  "confirmPassword": "비밀번호 확인",
   "@confirmPassword": {
     "description": "Confirm password"
   },
-  "confirmBackup": "Confirmar copia de seguridad",
+  "confirmBackup": "백업 확인",
   "@confirmBackup": {
     "description": "Confirm backup"
   },
-  "haveBackUp": "Has hecho una copia de seguridad de tu billetera en la nube.",
+  "haveBackUp": "지갑을 클라우드에 백업하셨습니다.",
   "@haveBackUp": {
     "description": "You have backed up your wallet to the cloud."
   },
-  "passwordRules": "La contraseña debe tener al menos 8 caracteres",
+  "passwordRules": "비밀번호는 8자 이상이어야 합니다.",
   "@passwordRules": {
     "description": "Password must be at least 8 characters"
   },
-  "passwordNotMatch": "La contraseña no coincide",
+  "passwordNotMatch": "비밀번호가 일치하지 않습니다",
   "@passwordNotMatch": {
     "description": "Password does not match"
   },
-  "someChain": "Cadena {chain}.",
+  "someChain": "{chain} 체인.",
   "@someChain": {
     "description": "{chain} Chain."
   },
-  "inputYourRecoveryPassword": "Introduce tu contraseña de recuperación en la nube",
+  "inputYourRecoveryPassword": "클라우드 복구 비밀번호를 입력하세요",
   "@inputYourRecoveryPassword": {
     "description": "Input your Cloud Recovery Password"
   },
-  "importExistingWallet": "Importar billetera existente",
+  "importExistingWallet": "기존 지갑 가져오기",
   "@importExistingWallet": {
     "description": "Import existing wallet"
   },
-  "walletName": "Nombre de la billetera",
+  "walletName": "지갑 이름",
   "@walletName": {
     "description": "Wallet name"
   },
-  "backupYourWallet": "Haz una copia de seguridad de tu billetera",
+  "backupYourWallet": "지갑을 백업하세요",
   "@backupYourWallet": {
     "description": "Back up your wallet"
   },
-  "deleteWallet": "¿Eliminar la copia de seguridad en la nube?",
+  "deleteWallet": "클라우드 백업을 삭제하시겠습니까?",
   "@deleteWallet": {
     "description": "Delete Cloud backup?"
   },
-  "renameWallet": "Renombrar billetera",
+  "renameWallet": "지갑 이름 바꾸기",
   "@renameWallet": {
     "description": "Rename Wallet"
   },
-  "enterName": "Introduce un nombre",
+  "enterName": "이름을 입력하세요",
   "@enterName": {
     "description": "Enter a name"
   },
-  "sureToDeleteWallet": "Perderás la capacidad de restaurar tu billetera desde la nube. ¿Estás seguro de que quieres continuar?",
+  "sureToDeleteWallet": "클라우드에서 지갑을 복원할 수 없게 됩니다. 계속하시겠습니까?",
   "@sureToDeleteWallet": {
     "description": "You’ll lose the ability to restore your wallet from Cloud. Are you sure you want to continue?"
   },
-  "profileIsPublic": "El perfil es público",
+  "profileIsPublic": "프로필이 공개됨",
   "@profileIsPublic": {
     "description": "Profile is Public"
   },
-  "showWalletAddress": "Mostrar dirección de la billetera y botón de propina",
+  "showWalletAddress": "지갑 주소 및 팁 버튼 표시",
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "Transferible: ",
+  "transferableLabel": "양도 가능:",
   "@transferableLabel": {
     "description": "Transferable: "
   },
-  "transferable": "Transferible",
+  "transferable": "양도 가능",
   "@transferable": {
     "description": "Transferable"
   },
-  "inscribe": "Inscribir",
+  "inscribe": "쓰다",
   "@inscribe": {
     "description": "Inscribe"
   },
-  "buyDoge": "Comprar Doge",
+  "buyDoge": "Doge 구매",
   "@buyDoge": {
     "description": "Buy Doge"
   },
-  "totalVolume": "Volumen total",
+  "totalVolume": "총량",
   "@totalVolume": {
     "description": "Total volume"
   },
-  "Volume24h": "Volumen 24h",
+  "Volume24h": "24시간 볼륨",
   "@Volume24h": {
     "description": "24h volume"
   },
-  "holders": "Poseedores",
+  "holders": "홀더",
   "@holders": {
     "description": "Holders"
   },
-  "sales": "Ventas",
+  "sales": "매상",
   "@sales": {
     "description": "Sales"
   },
-  "inscribeForTransfer": "Inscribir para transferir",
+  "inscribeForTransfer": "이전을 위해 등재",
   "@inscribeForTransfer": {
     "description": "Inscribe for transfer"
   },
-  "inscribeForTransferHint": "¿Listo para enviar? Este paso desbloquea tus tokens Drc20 para su transferencia.",
+  "inscribeForTransferHint": "보낼 준비가 되셨나요? 이 단계에서는 전송을 위해 Drc20 토큰의 잠금을 해제합니다.",
   "@inscribeForTransferHint": {
     "description": "Ready to send? This step unlocks your Drc20 tokens for transfer."
   },
-  "selectAnInscription": "Selecciona una inscripción para enviar",
+  "selectAnInscription": "보낼 비문을 선택하세요",
   "@selectAnInscription": {
     "description": "Select an inscription to send"
   },
-  "transferToken": "Transferir {token}",
+  "transferToken": "{token} 전송",
   "@transferToken": {
     "description": "Transfer {token}"
   },
-  "confirmTransfer": "Confirmar transferencia",
+  "confirmTransfer": "전송 확인",
   "@confirmTransfer": {
     "description": "Confirm Transfer"
   },
-  "noNFTsFound": "No se encontraron NFT",
+  "noNFTsFound": "NFTs를 찾을 수 없습니다.",
   "@noNFTsFound": {
     "description": "No NFTs Found"
   },
-  "yoursNFTAppearHere": "Tus NFT aparecerán aquí",
+  "yoursNFTAppearHere": "귀하의 NFTs가 여기에 표시됩니다",
   "@yoursNFTAppearHere": {
     "description": "Your NFTs will appear here"
   },
-  "titleCopied": "{title} copiado al portapapeles",
+  "titleCopied": "{title}가 클립보드에 복사되었습니다.",
   "@titleCopied": {
     "description": "{title} copied to clipboard"
   },
-  "transfer": "Transferir",
+  "transfer": "옮기다",
   "@transfer": {
     "description": "Transfer"
   },
-  "NFTDetails": "Detalles del NFT",
+  "NFTDetails": "NFT 세부 정보",
   "@NFTDetails": {
     "description": "NFT Details"
   },
-  "inscriptionID": "ID de inscripción",
+  "inscriptionID": "비문 ID",
   "@inscriptionID": {
     "description": "Inscription ID"
   },
-  "outputValue": "Valor de salida",
+  "outputValue": "출력값",
   "@outputValue": {
     "description": "Output Value"
   },
-  "preview": "Vista previa",
+  "preview": "시사",
   "@preview": {
     "description": "Preview"
   },
-  "content": "Contenido",
+  "content": "콘텐츠",
   "@content": {
     "description": "Content"
   },
-  "contentType": "Tipo de contenido",
+  "contentType": "콘텐츠 유형",
   "@contentType": {
     "description": "Content Type"
   },
-  "timestamp": "Marca de tiempo",
+  "timestamp": "타임스탬프",
   "@timestamp": {
     "description": "Timestamp"
   },
-  "genesisTransaction": "Transacción de génesis",
+  "genesisTransaction": "제네시스 거래",
   "@genesisTransaction": {
     "description": "Genesis Transaction"
   },
-  "showLess": "Mostrar menos",
+  "showLess": "간략히 표시",
   "@showLess": {
     "description": "Show Less"
   },
-  "showMore": "Mostrar más",
+  "showMore": "더보기",
   "@showMore": {
     "description": "Show More"
   },
-  "errorLoadingNFTs": "Error al cargar los NFT: {error}",
+  "errorLoadingNFTs": "NFTs 로드 중 오류 발생: {error}",
   "@errorLoadingNFTs": {
     "description": "Error loading NFTs: {error}"
   },
-  "errorCreatingTransaction": "Error al crear la transacción: {error}",
+  "errorCreatingTransaction": "거래 생성 오류: {error}",
   "@errorCreatingTransaction": {
     "description": "Error creating transaction: {error}"
   },
-  "addMessage": "Añadir mensaje",
+  "addMessage": "메시지 추가",
   "@addMessage": {
     "description": "Add message"
   },
-  "toSomeone": "a {someone}",
+  "toSomeone": "{someone}로",
   "@toSomeone": {
     "description": "to {someone}"
   },
-  "recent": "Reciente",
+  "recent": "최근의",
   "@recent": {
     "description": "Recent"
   },
-  "noSearchResult": "No se han encontrado resultados",
+  "noSearchResult": "검색결과가 없습니다",
   "@noSearchResult": {
     "description": "No search result"
   },
-  "searchForPeople": "Busca personas o introduce una dirección",
+  "searchForPeople": "사람을 검색하거나 주소를 입력하세요.",
   "@searchForPeople": {
     "description": "Search for people or input an address"
   },
-  "multiChain": "Multicadena",
+  "multiChain": "멀티체인",
   "@multiChain": {
     "description": "Multi-chain"
   },
-  "transferFundsToDogeWallet": "¡Mueve tus fondos a la billetera DogeOS con un solo toque!",
+  "transferFundsToDogeWallet": "한 번의 탭으로 자금을 소셜 지갑으로 이동하세요!",
   "@transferFundsToDogeWallet": {
     "description": "Move your funds to Social Wallet in one tap!"
   },
@@ -1816,463 +1816,463 @@
   "@drc20": {
     "description": "Drc20"
   },
-  "NFTs": "NFT",
+  "NFTs": "NFTs",
   "@NFTs": {
     "description": "NFTs"
   },
-  "noDrc20Found": "¡Nada por aquí todavía!",
+  "noDrc20Found": "아직 아무것도 없습니다!",
   "@noDrc20Found": {
     "description": "Nothing here yet!"
   },
-  "youCanCreateWallet": "Siempre puedes crear una billetera DogeOS aquí.",
+  "youCanCreateWallet": "여기에서 언제든지 소셜 지갑을 생성할 수 있습니다.",
   "@youCanCreateWallet": {
     "description": "You can always create a Social Wallet here."
   },
-  "getDogeTestToken": "Obtén tokens de la red de prueba de DOGE \n (valor cero)",
+  "getDogeTestToken": "DOGE 테스트넷 토큰 받기 \n(0 값)",
   "@getDogeTestToken": {
     "description": "Get DOGE testnet tokens \n (zero value)"
   },
-  "devnetUpperCase": "Red de desarrollo",
+  "devnetUpperCase": "데브넷",
   "@devnetUpperCase": {
     "description": "Devnet"
   },
-  "legalTerms": "Términos legales",
+  "legalTerms": "법적 용어",
   "@legalTerms": {
     "description": "Legal terms"
   },
-  "pleaseReadOur": "Por favor, lee nuestro",
+  "pleaseReadOur": "우리의 글을 읽어주세요",
   "@pleaseReadOur": {
     "description": "Please read our"
   },
-  "eula": " EULA",
+  "eula": "EULA",
   "@eula": {
     "description": " EULA"
   },
-  "agreeContinue": " Aceptar y continuar",
+  "agreeContinue": "동의 및 계속",
   "@agreeContinue": {
     "description": " Agree & Continue"
   },
-  "enableBiometrics": "¿Activar la biometría?",
+  "enableBiometrics": "생체 인식을 활성화하시겠습니까?",
   "@enableBiometrics": {
     "description": "Enable biometrics?"
   },
-  "no": "No",
+  "no": "아니요",
   "@no": {
     "description": "No"
   },
-  "yes": "Sí",
+  "yes": "예",
   "@yes": {
     "description": "Yes"
   },
-  "enable": "Activar",
+  "enable": "할 수 있게 하다",
   "@enable": {
     "description": "Enable"
   },
-  "setNewPhoto": "Establecer nueva foto",
+  "setNewPhoto": "새 사진 설정",
   "@setNewPhoto": {
     "description": "Set new photo"
   },
-  "chooseFromGallery": "Elegir de la galería",
+  "chooseFromGallery": "갤러리에서 선택",
   "@chooseFromGallery": {
     "description": "Choose from gallery"
   },
-  "takeAPhoto": "Hacer una foto",
+  "takeAPhoto": "사진을 찍으세요",
   "@takeAPhoto": {
     "description": "Take a photo"
   },
-  "authenticationFailed": "Autenticación fallida",
+  "authenticationFailed": "인증 실패",
   "@authenticationFailed": {
     "description": "Authentication failed"
   },
-  "authenticationFailedHint": "Hubo un problema con tu intento de autenticación.",
+  "authenticationFailedHint": "인증 시도에 문제가 발생했습니다.",
   "@authenticationFailedHint": {
     "description": "There was an issue with your authentication attempt."
   },
-  "tryAgain": "Intentar de nuevo",
+  "tryAgain": "다시 시도하세요",
   "@tryAgain": {
     "description": "Try again"
   },
-  "faceIDNotEnabled": "Face ID no está activado",
+  "faceIDNotEnabled": "얼굴 ID가 활성화되지 않음",
   "@faceIDNotEnabled": {
     "description": "Face ID Not Enabled"
   },
-  "pleaseEnabledFaceID": "Activa Face ID en los ajustes para continuar.",
+  "pleaseEnabledFaceID": "계속하려면 설정에서 Face ID를 활성화하세요.",
   "@pleaseEnabledFaceID": {
     "description": "Please enable Face ID in Settings to continue."
   },
-  "goToSettings": "Ir a los ajustes",
+  "goToSettings": "설정으로 이동",
   "@goToSettings": {
     "description": "Go to Settings"
   },
-  "cancelRequest": "Cancelar solicitud",
+  "cancelRequest": "요청 취소",
   "@cancelRequest": {
     "description": "Cancel request"
   },
-  "cancelRequestHint": "¿Estás seguro de que quieres cancelar? Esto reiniciará el período de espera si quieres configurar una nueva clave de acceso.",
+  "cancelRequestHint": "정말로 취소하시겠습니까? 새로운 패스키를 설정하려는 경우 대기 기간이 다시 시작됩니다.",
   "@cancelRequestHint": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
-  "stillAccessYourClassicWallet": "Seguirás teniendo acceso a tu MyDoge Classic para tu próximo inicio de sesión. Sin embargo, tus publicaciones no serán accesibles. Haz una copia de seguridad de tus datos ahora si es necesario.",
+  "stillAccessYourClassicWallet": "다음 로그인 시에도 MyDoge Classic에 계속 액세스할 수 있습니다. 그러나 귀하의 게시물에는 액세스할 수 없습니다. 필요한 경우 지금 데이터를 백업하십시오.",
   "@stillAccessYourClassicWallet": {
     "description": "You'll still have access to your MyDoge Classic for your next login. However, your posts will not be accessible. Please back up your data now if needed."
   },
-  "permissionDenied": "Permiso denegado",
+  "permissionDenied": "권한이 거부되었습니다",
   "@permissionDenied": {
     "description": "Permission Denied"
   },
-  "whatIsYourEmail": "¿Cuál es tu correo electrónico?",
+  "whatIsYourEmail": "당신의 이메일은 무엇입니까",
   "@whatIsYourEmail": {
     "description": "What’s your email"
   },
-  "enableFaceID": "Activar Face ID",
+  "enableFaceID": "얼굴 ID 활성화",
   "@enableFaceID": {
     "description": "Enable Face ID"
   },
-  "enableFaceIDHint": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la aplicación.",
+  "enableFaceIDHint": "계정을 안전하게 유지하려면 앱을 사용하는 동안 Face ID가 활성화되어 있는지 확인하세요.",
   "@enableFaceIDHint": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "setUpPasskey": "Configurar clave de acceso",
+  "setUpPasskey": "패스키 설정",
   "@setUpPasskey": {
     "description": "Set Up Passkey"
   },
-  "settingUp": "Configurando...",
+  "settingUp": "설정 중...",
   "@settingUp": {
     "description": "Setting up..."
   },
-  "settingUpHint": "La configuración de la clave de acceso se canceló.\r\nInténtalo de nuevo.",
+  "settingUpHint": "패스키 설정이 취소되었습니다.\r\n다시 시도해 주세요.",
   "@settingUpHint": {
     "description": "Passkey setup was canceled.\r\nPlease try again."
   },
-  "verifyWithPasskey": "Verificar con clave de acceso",
+  "verifyWithPasskey": "패스키로 확인",
   "@verifyWithPasskey": {
     "description": "Verify With Passkey"
   },
-  "verifying": "Verificando...",
+  "verifying": "확인 중...",
   "@verifying": {
     "description": "Verifying..."
   },
-  "verificationCanceled": "La verificación se canceló.",
+  "verificationCanceled": "확인이 취소되었습니다.",
   "@verificationCanceled": {
     "description": "Verification was canceled."
   },
-  "noPasskeyFound": "No se ha encontrado ninguna clave de acceso",
+  "noPasskeyFound": "패스키를 찾을 수 없습니다.",
   "@noPasskeyFound": {
     "description": "No Passkey found"
   },
-  "keepAccountSafe": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la aplicación.",
+  "keepAccountSafe": "계정을 안전하게 유지하려면 앱을 사용하는 동안 Face ID가 활성화되어 있는지 확인하세요.",
   "@keepAccountSafe": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "setUpNewPasskey": "Configurar una nueva clave de acceso",
+  "setUpNewPasskey": "새로운 패스키 설정",
   "@setUpNewPasskey": {
     "description": "Set up a new passkey"
   },
-  "poweredBy": "Desarrollado por",
+  "poweredBy": "제공:",
   "@poweredBy": {
     "description": "Powered by"
   },
-  "IAccept": "Acepto",
+  "IAccept": "나는 동의한다",
   "@IAccept": {
     "description": "I accept"
   },
-  "orContinueWith": "o continuar con",
+  "orContinueWith": "아니면 계속해서",
   "@orContinueWith": {
     "description": "or continue with"
   },
-  "verifyEmail": "Verificar correo electrónico",
+  "verifyEmail": "이메일 확인",
   "@verifyEmail": {
     "description": "Verify Email"
   },
-  "verifyEmailHint": "Se ha enviado un enlace de inicio de sesión único a",
+  "verifyEmailHint": "일회성 로그인 링크가 다음 주소로 전송되었습니다.",
   "@verifyEmailHint": {
     "description": "A one-time sign-in link has been sent to"
   },
-  "doNotSeeEmail": "¿No ves el correo electrónico? Revisa tu carpeta de spam o ",
+  "doNotSeeEmail": "이메일을 못 보셨나요? 스팸 폴더를 확인하거나",
   "@doNotSeeEmail": {
     "description": "Didn’t see email? Check your spam folder, or "
   },
-  "settingUpPasskeyHint": "Para la seguridad de tu cuenta, configurar una nueva clave de acceso requiere un período de espera de 48 horas.",
+  "settingUpPasskeyHint": "계정 보안을 위해 새 패스키를 설정하려면 48시간의 대기 기간이 필요합니다.",
   "@settingUpPasskeyHint": {
     "description": "For your account security, setting up a new passkey requires a 48-hour waiting period."
   },
-  "verificationLinkSent": "Se enviará un enlace de verificación único\r\na tu correo electrónico.",
+  "verificationLinkSent": "일회성 확인 링크가 전송됩니다.\r\n귀하의 이메일로.",
   "@verificationLinkSent": {
     "description": "A one-time verification link will be sent\r\nto your email."
   },
-  "hours": "Horas",
+  "hours": "시간",
   "@hours": {
     "description": "Hours"
   },
-  "minutes": "Minutos",
+  "minutes": "분",
   "@minutes": {
     "description": "Minutes"
   },
-  "seconds": "Segundos",
+  "seconds": "초",
   "@seconds": {
     "description": "Seconds"
   },
-  "resendCode": "Reenviar código",
+  "resendCode": "코드 재전송",
   "@resendCode": {
     "description": "Resend code"
   },
-  "emailAddress": "Dirección de correo electrónico",
+  "emailAddress": "이메일 주소",
   "@emailAddress": {
     "description": "Email address"
   },
-  "apple": "apple",
+  "apple": "사과",
   "@apple": {
     "description": "apple"
   },
-  "allNewWallet": "Billetera MyDoge \nTOTALMENTE NUEVA",
+  "allNewWallet": "올-뉴 \nMyDoge 지갑",
   "@allNewWallet": {
     "description": "ALL-New \nMyDoge Wallet"
   },
-  "getStart": "Empezar",
+  "getStart": "시작하기",
   "@getStart": {
     "description": "Get started"
   },
-  "welcomeToMydogeWallet": "Bienvenido a una nueva experiencia de billetera MyDoge con un inicio de sesión social y una billetera multicadena.\n\nTu MyDoge Classic, tus activos y todo lo que te gusta de MyDoge se migra a una nueva experiencia.",
+  "welcomeToMydogeWallet": "소셜 로그인, 멀티체인 지갑을 갖춘 새로운 MyDoge 지갑 경험에 오신 것을 환영합니다.\n\nMyDoge 클래식, 자산 및 MyDoge에서 좋아하는 모든 것이 새로운 환경으로 마이그레이션됩니다.",
   "@welcomeToMydogeWallet": {
     "description": "Welcome to a brand new MyDoge Wallet experience with a Social Login, Multi-chain Wallet.\n\nYour MyDoge Classic, assets, and everything you love about MyDoge gets migrated over to a new experience."
   },
-  "myDogeWallet": "Billetera MyDoge",
+  "myDogeWallet": "MyDoge 지갑",
   "@myDogeWallet": {
     "description": "MyDoge Wallet"
   },
-  "initializing": "Inicializando...",
+  "initializing": "초기화 중...",
   "@initializing": {
     "description": "Initializing..."
   },
-  "risks": "Sin verificar",
+  "risks": "확인되지 않음",
   "@risks": {
     "description": "Unverified"
   },
-  "waitingUserToConnectX": "Esperando a que el usuario se conecte a X",
+  "waitingUserToConnectX": "사용자가 연결하기를 기다리는 중 X",
   "@waitingUserToConnectX": {
     "description": "Waiting user to connect X"
   },
-  "history": "Historial",
+  "history": "역사",
   "@history": {
     "description": "History"
   },
-  "noActivity": "Sin actividad",
+  "noActivity": "활동 없음",
   "@noActivity": {
     "description": "No Activity"
   },
-  "notification": "Notificación",
+  "notification": "공고",
   "@notification": {
     "description": "Notification"
   },
-  "noData": "Sin datos",
+  "noData": "데이터 없음",
   "@noData": {
     "description": "No data"
   },
-  "viewSeedPhraseTip1": "Para mejorar la seguridad de la billetera y reducir el riesgo de ataques maliciosos, la billetera MyDoge utiliza el mecanismo de custodia de Cubist para almacenar tu frase semilla de forma segura.\nPara verla, envía una solicitud. Estará disponible 48 horas después y se podrá ver durante 3 días.",
+  "viewSeedPhraseTip1": "지갑 보안을 강화하고 악의적인 공격의 위험을 줄이기 위해 MyDoge 지갑은 Cubist 보관 메커니즘을 사용하여 시드 구문을 안전하게 저장합니다.\n이를 보려면 요청을 제출하세요. 48시간 후에 사용할 수 있으며 3일 동안 볼 수 있습니다.",
   "@viewSeedPhraseTip1": {
     "description": "To enhance wallet security and reduce the risk of malicious attacks, MyDoge Wallet uses the Cubist custody mechanism to store your seed phrase securely.\nTo view it, submit a request. It will be available 48 hours later and viewable for 3 days."
   },
-  "receivedMnemonicTip1": "Tu acceso caducará en {day} días, {hour} horas y {minute} minutos. Haz una copia de seguridad antes de esa fecha.",
+  "receivedMnemonicTip1": "귀하의 액세스 권한은 {day}일, {hour}시간, {minute}분 후에 만료됩니다. 그 전에 백업해 두시기 바랍니다.",
   "@receivedMnemonicTip1": {
     "description": "Your access will expire in {day} days, {hour} hours, and {minute} minutes. Please back it up before then."
   },
-  "seedPhraseHelpContent": "Una frase semilla es un conjunto de 12 a 24 palabras que sirve como clave para tu billetera. Como una tarjeta bancaria sin PIN, cualquiera que la tenga puede acceder y transferir tus fondos.",
+  "seedPhraseHelpContent": "시드 구문은 지갑의 열쇠 역할을 하는 12~24개의 단어 세트입니다. PIN가 없는 은행 카드처럼 카드를 가진 사람은 누구나 귀하의 자금에 액세스하고 이체할 수 있습니다.",
   "@seedPhraseHelpContent": {
     "description": "A seed phrase is a set of 12 to 24 words that serves as the key to your wallet. Like a bank card without a PIN, anyone who has it can access and transfer your funds."
   },
-  "keepSeedSafeAlertContent": "MyDoge no almacena tu frase semilla.\nPara volver a verla, tendrás que esperar 48 horas.",
+  "keepSeedSafeAlertContent": "귀하의 시드 구문은 MyDoge에 저장되지 않습니다.\n다시 보려면 48시간을 기다려야 합니다.",
   "@keepSeedSafeAlertContent": {
     "description": "Your seed phrase is not stored by MyDoge.\nTo view it again, you’ll need to wait 48 hours."
   },
-  "manageCrypto": "Gestionar criptomonedas",
+  "manageCrypto": "암호화폐 관리",
   "@manageCrypto": {
     "description": "Manage crypto"
   },
-  "addCustomToken": "Añadir token personalizado",
+  "addCustomToken": "커스텀 토큰 추가",
   "@addCustomToken": {
     "description": "Add custom token"
   },
-  "originalPayPIN": "PIN de pago original",
+  "originalPayPIN": "원래 지불 PIN",
   "@originalPayPIN": {
     "description": "Original Pay PIN"
   },
-  "setNewPayPIN": "Establecer nuevo PIN de pago",
+  "setNewPayPIN": "새 급여 설정 PIN",
   "@setNewPayPIN": {
     "description": "Set new Pay PIN"
   },
-  "confirmNewPayPIN": "Confirmar nuevo PIN de pago",
+  "confirmNewPayPIN": "새 결제 확인 PIN",
   "@confirmNewPayPIN": {
     "description": "Confirm new Pay PIN"
   },
-  "twoFactor": "Autenticación de dos factores (2FA)",
+  "twoFactor": "2단계 인증(2FA)",
   "@twoFactor": {
     "description": "Two-Factor Authentication (2FA)"
   },
-  "twoFactorHint": "Para mejorar la seguridad de tu cuenta, te recomendamos encarecidamente que actives al menos una 2FA.",
+  "twoFactorHint": "계정 보안을 강화하려면 최소한 하나의 2FA를 활성화하는 것이 좋습니다.",
   "@twoFactorHint": {
     "description": "To enhance the security of your account, we strongly recommend enabling at least one 2FA."
   },
-  "minAmount": "La cantidad mínima es {amount}",
+  "minAmount": "최소 금액은 {amount}입니다.",
   "@minAmount": {
     "description": "Min amount is {amount}"
   },
-  "maxAmount": "La cantidad máxima es {amount}",
+  "maxAmount": "최대 금액은 {amount}입니다.",
   "@maxAmount": {
     "description": "Max amount is {amount}"
   },
-  "connectedDApp": "DApp conectada",
+  "connectedDApp": "연결된 DApp",
   "@connectedDApp": {
     "description": "Connected DApp"
   },
-  "disconnectedAll": "Desconectar todo",
+  "disconnectedAll": "모두 연결 해제",
   "@disconnectedAll": {
     "description": "Disconnect All"
   },
-  "disconnected": "Desconectar",
+  "disconnected": "연결 끊기",
   "@disconnected": {
     "description": "Disconnect"
   },
-  "connected": "Conectado",
+  "connected": "연결됨",
   "@connected": {
     "description": "Connected"
   },
-  "connectedWallet": "{name} conectado a {walletName}",
+  "connectedWallet": "{walletName}에 연결된 {name}",
   "@connectedWallet": {
     "description": "{name} connected to {walletName}"
   },
-  "connectedNetwork": "{amount} conexión de red",
+  "connectedNetwork": "{amount} 네트워크 연결",
   "@connectedNetwork": {
     "description": "{amount} network connect"
   },
-  "dappRequest": "Solicitud de Dapp",
+  "dappRequest": "Dapp 요청",
   "@dappRequest": {
     "description": "Dapp request"
   },
-  "fromLabel": "de: ",
+  "fromLabel": "에서:",
   "@fromLabel": {
     "description": "from: "
   },
-  "approve": "Aprobar",
+  "approve": "승인하다",
   "@approve": {
     "description": "Approve"
   },
-  "sign": "Firmar",
+  "sign": "징후",
   "@sign": {
     "description": "Sign"
   },
-  "walletAddress": "Dirección de la billetera",
+  "walletAddress": "지갑 주소",
   "@walletAddress": {
     "description": "Wallet address"
   },
-  "dAppContract": "Contrato de DApp",
+  "dAppContract": "DApp 계약",
   "@dAppContract": {
     "description": "DApp Contract"
   },
-  "gasFee": "Comisión de gas",
+  "gasFee": "가스비",
   "@gasFee": {
     "description": "Gas Fee"
   },
-  "data": "Datos",
+  "data": "데이터",
   "@data": {
     "description": "Data"
   },
-  "connectYourWallet": "Conecta tu billetera",
+  "connectYourWallet": "지갑을 연결하세요",
   "@connectYourWallet": {
     "description": "Connect your wallet"
   },
-  "requestFrom": "Solicitud de ",
+  "requestFrom": "요청 대상",
   "@requestFrom": {
     "description": "Request from "
   },
-  "dappPermission": "Permiso de Dapp",
+  "dappPermission": "Dapp 권한",
   "@dappPermission": {
     "description": "Dapp Permission"
   },
-  "accessYourETH": "Accede a tu información de ETH en la cadena",
+  "accessYourETH": "귀하의 ETH 온체인 정보에 접근하세요",
   "@accessYourETH": {
     "description": "Access your ETH on-chain information"
   },
-  "requestTransaction": "Solicitar autorización de transacción de tu parte",
+  "requestTransaction": "귀하에게 거래 승인을 요청하세요",
   "@requestTransaction": {
     "description": "Request transaction authorization from you"
   },
-  "note": "Nota",
+  "note": "메모",
   "@note": {
     "description": "Note"
   },
-  "notShareYourPrivateKey": "La autorización no compartirá la información de tu clave privada.",
+  "notShareYourPrivateKey": "승인은 개인 키 정보를 공유하지 않습니다.",
   "@notShareYourPrivateKey": {
     "description": "Authorization will not share your private key information."
   },
-  "networkNotSupported": "Red no compatible",
+  "networkNotSupported": "네트워크가 지원되지 않음",
   "@networkNotSupported": {
     "description": "Network not supported"
   },
-  "amountNetwork": "{amount} redes",
+  "amountNetwork": "{amount} 네트워크",
   "@amountNetwork": {
     "description": "{amount} networks"
   },
-  "manage": "Gestionar",
+  "manage": "관리하다",
   "@manage": {
     "description": "Manage"
   },
-  "switzerComplete": "Switzer completado",
+  "switzerComplete": "스위처 컴플리트",
   "@switzerComplete": {
     "description": "Switzer Complete"
   },
-  "noSearchResults": "No se han encontrado resultados",
+  "noSearchResults": "검색결과가 없습니다",
   "@noSearchResults": {
     "description": "No search results"
   },
-  "authenticatingWithFaceID": "Autenticando con Face ID...",
+  "authenticatingWithFaceID": "페이스ID로 인증 중...",
   "@authenticatingWithFaceID": {
     "description": "Authenticating with Face ID..."
   },
-  "disableToken": "¿Desactivar el filtro de tokens de riesgo?",
+  "disableToken": "위험한 토큰 필터를 비활성화하시겠습니까?",
   "@disableToken": {
     "description": "Disable risky token filter?"
   },
-  "disable": "Desactivar",
+  "disable": "장애를 입히다",
   "@disable": {
     "description": "Disable"
   },
-  "disableTokenHint": "Esto puede exponerte a tokens de riesgo y a una posible pérdida de activos.",
+  "disableTokenHint": "이로 인해 위험한 토큰 및 잠재적인 자산 손실에 노출될 수 있습니다.",
   "@disableTokenHint": {
     "description": "This may expose you to risky tokens and potential asset loss."
   },
-  "keepSeedSafeAlertTitle": "¿Has guardado tu frase semilla?",
+  "keepSeedSafeAlertTitle": "시드 구문을 저장하셨나요?",
   "@keepSeedSafeAlertTitle": {
     "description": "Have you saved your seed phrase?"
   },
-  "cancelViewRequest": "Cancelar la solicitud de visualización",
+  "cancelViewRequest": "보기 요청 취소",
   "@cancelViewRequest": {
     "description": "Cancel the view request"
   },
-  "featurePoweredBy": "Esta función está impulsada por ",
+  "featurePoweredBy": "이 기능은 다음에서 제공됩니다.",
   "@featurePoweredBy": {
     "description": "This feature is powered by "
   },
-  "viewSeedPhraseRequestTitle": "Has solicitado ver la frase semilla.",
+  "viewSeedPhraseRequestTitle": "시드 구문 보기를 요청하셨습니다.",
   "@viewSeedPhraseRequestTitle": {
     "description": "You have requested to view the seed phrase."
   },
-  "viewSeedPhraseRequestTip": "Tu frase semilla se mostrará aquí después de",
+  "viewSeedPhraseRequestTip": "귀하의 시드 구문은 다음 이후에 여기에 표시됩니다.",
   "@viewSeedPhraseRequestTip": {
     "description": "Your seed phrase will be shown here after"
   },
-  "receivedMnemonicTitle": "Tu frase semilla está lista para ser vista",
+  "receivedMnemonicTitle": "귀하의 시드 구문을 볼 준비가 되었습니다",
   "@receivedMnemonicTitle": {
     "description": "Your seed phrase is ready to view"
   },
-  "receivedMnemonicSubTip1": "Guarda tu frase semilla en un lugar seguro.",
+  "receivedMnemonicSubTip1": "시드 구문을 안전하게 보관하세요.",
   "@receivedMnemonicSubTip1": {
     "description": "Please keep your seed phrase safe."
   },
-  "receivedMnemonicSubTip2": "La billetera MyDoge no almacena las frases semilla de los usuarios. Cada vez que solicites verlas, deberás esperar 48 horas para recuperarlas de Cubist.",
+  "receivedMnemonicSubTip2": "MyDoge 지갑은 사용자의 시드 구문을 저장하지 않습니다. 보기를 요청할 때마다 Cubist에서 검색하려면 48시간을 기다려야 합니다.",
   "@receivedMnemonicSubTip2": {
     "description": "MyDoge Wallet does not store users' seed phrases. Each time you request to view them, you must wait 48 hours to retrieve them from Cubist."
   },
-  "applyViewSeedPhrase": "Solicitar ver la frase semilla",
+  "applyViewSeedPhrase": "시드 구문 보기 요청",
   "@applyViewSeedPhrase": {
     "description": "Request to view seed phrase"
   },
@@ -2284,147 +2284,147 @@
   "@viewSeedPhraseTip3": {
     "description": ""
   },
-  "viewSeedPhraseTip4": "Podrás verla después de 48 horas.",
+  "viewSeedPhraseTip4": "48시간 후에 보실 수 있습니다.",
   "@viewSeedPhraseTip4": {
     "description": "You’ll be able to view it after 48 hours."
   },
-  "enterCodeDescription": "Se ha enviado un código de 4 dígitos a ",
+  "enterCodeDescription": "4자리 코드가 다음 주소로 전송되었습니다.",
   "@enterCodeDescription": {
     "description": "A 4-digit code was sent to "
   },
-  "seedPhraseHelpTitle": "¿Qué es una frase semilla?",
+  "seedPhraseHelpTitle": "시드 구문이란 무엇입니까?",
   "@seedPhraseHelpTitle": {
     "description": "What is a seed phrase?"
   },
-  "seedPhraseHelpNoticeTitle": "¿Cómo mantenerla segura?",
+  "seedPhraseHelpNoticeTitle": "보안을 유지하는 방법은 무엇입니까?",
   "@seedPhraseHelpNoticeTitle": {
     "description": "How to keep it secure?"
   },
-  "seedPhraseHelpNotice1": "Escríbela o guárdala en un dispositivo sin conexión, como una billetera fría.",
+  "seedPhraseHelpNotice1": "콜드월렛 등 오프라인 기기에 적어두거나 보관해 보세요.",
   "@seedPhraseHelpNotice1": {
     "description": "Write it down or store it in an offline device such as a cold wallet."
   },
-  "seedPhraseHelpNotice2": "Nunca la guardes haciendo capturas de pantalla.",
+  "seedPhraseHelpNotice2": "절대 스크린샷을 찍어서 저장하지 마세요.",
   "@seedPhraseHelpNotice2": {
     "description": "Never store it by taking screenshots."
   },
-  "seedPhraseHelpNotice3": "Nunca la guardes en aplicaciones de redes sociales, correos electrónicos, notas móviles, servicios en la nube, etc.",
+  "seedPhraseHelpNotice3": "절대로 소셜미디어 앱, 이메일, 모바일 메모, 클라우드 서비스 등에 저장하지 마세요.",
   "@seedPhraseHelpNotice3": {
     "description": "Never store it in social media apps, emails, mobile memos, cloud services, etc."
   },
-  "seedPhraseHelpNoticeHideTip": "No volver a mostrar esto",
+  "seedPhraseHelpNoticeHideTip": "다시 표시하지 않음",
   "@seedPhraseHelpNoticeHideTip": {
     "description": "Don't show this again"
   },
-  "done": "Hecho",
+  "done": "완료",
   "@done": {
     "description": "Done"
   },
-  "keep": "Guardar",
+  "keep": "유지하다",
   "@keep": {
     "description": "Keep"
   },
-  "verifyEmailToProtectAccount": "Verifica tu correo electrónico para ayudar a proteger tu cuenta.",
+  "verifyEmailToProtectAccount": "계정을 보호하려면 이메일을 확인하세요.",
   "@verifyEmailToProtectAccount": {
     "description": "Verify your email to help protect your account."
   },
-  "potentialHoneypot": "Posible honeypot",
+  "potentialHoneypot": "잠재적인 허니팟",
   "@potentialHoneypot": {
     "description": "Potential honeypot"
   },
-  "tokenNotList": "Token no listado",
+  "tokenNotList": "토큰이 나열되지 않음",
   "@tokenNotList": {
     "description": "Token not listed"
   },
-  "tokenNotListHint": "El token no está listado y puede ser arriesgado. Procede con precaución.",
+  "tokenNotListHint": "토큰은 목록에 없으며 위험할 수 있습니다. 주의해서 진행하시기 바랍니다.",
   "@tokenNotListHint": {
     "description": "Token is not listed and may be risky. Please proceed with caution."
   },
-  "slippageTooHigh": "El deslizamiento es demasiado alto",
+  "slippageTooHigh": "슬리피지가 너무 높음",
   "@slippageTooHigh": {
     "description": "Slippage is too high"
   },
-  "slippageTooHighHint": "La negociación podría provocar pérdidas potenciales, opera con cuidado.",
+  "slippageTooHighHint": "거래 시 손실이 발생할 수 있으니 신중하게 거래하시기 바랍니다.",
   "@slippageTooHighHint": {
     "description": "Trading could lead to potential losses, please trade carefully."
   },
-  "tokenNotListHint2": "El token no está listado. La negociación puede resultar en la pérdida de activos.",
+  "tokenNotListHint2": "토큰이 목록에 없습니다. 거래로 인해 자산 손실이 발생할 수 있습니다.",
   "@tokenNotListHint2": {
     "description": "Token is not listed. Trading may result in asset loss."
   },
-  "insufficientBalance": "Saldo insuficiente",
+  "insufficientBalance": "잔액 부족",
   "@insufficientBalance": {
     "description": "Insufficient balance"
   },
-  "getStartWithDogeWallet": "Comienza con una billetera DogeOS a través del inicio de sesión social; tu billetera actual permanece segura como MyDoge Classic.",
+  "getStartWithDogeWallet": "소셜 로그인을 통해 소셜 지갑을 시작하세요. 현재 지갑은 MyDoge Classic으로 안전하게 유지됩니다.",
   "@getStartWithDogeWallet": {
     "description": "Get started with a Social Wallet via social login — your current wallet stays safe as MyDoge Classic."
   },
-  "filterHighRiskTokens": "Filtra los tokens de alto riesgo con un solo clic. No se perderán activos.",
+  "filterHighRiskTokens": "한 번의 클릭으로 고위험 토큰을 필터링하세요. 자산은 손실되지 않습니다.",
   "@filterHighRiskTokens": {
     "description": "Filter out high-risk tokens with one click. No assets will be lost."
   },
-  "setUpProfile": "¿Configurar tu perfil para la nueva experiencia de MyDoge?",
+  "setUpProfile": "새로운 MyDoge 경험을 위해 프로필을 설정하시겠습니까?",
   "@setUpProfile": {
     "description": "Set up your profile for the new MyDoge experience?"
   },
-  "invalidWalletAddress": "Dirección de billetera no válida. Comprueba el formato.",
+  "invalidWalletAddress": "지갑 주소가 잘못되었습니다. 형식을 확인해주세요.",
   "@invalidWalletAddress": {
     "description": "Invalid wallet address. Please check the format."
   },
-  "loginTitle1": "Tu billetera\nDogecoin, pero mejor",
+  "loginTitle1": "귀하의 Dogecoin\r\n지갑, 하지만 더 나은",
   "@loginTitle1": {
     "description": "Your Dogecoin\r\nWallet, but Betterer"
   },
-  "loginDesc1": "Con la confianza de shibes de todo el mundo",
+  "loginDesc1": "전 세계 shibes가 신뢰하는",
   "@loginDesc1": {
     "description": "Trusted by shibes worldwide"
   },
-  "loginTitle2": "Únete al movimiento favorito de internet",
+  "loginTitle2": "인터넷에서 가장 인기 있는 운동에 참여하세요",
   "@loginTitle2": {
     "description": "Join the internet’s favorite movement"
   },
-  "loginDesc2": "Una billetera social donde los memes ganan.",
+  "loginDesc2": "밈이 적립되는 소셜 지갑입니다.",
   "@loginDesc2": {
     "description": "A social wallet where memes earn."
   },
-  "loginTitle3": "Descubre qué es tendencia en Web3",
+  "loginTitle3": "Web3의 트렌드를 알아보세요",
   "@loginTitle3": {
     "description": "Discover what’s trending in Web3"
   },
-  "loginDesc3": "Un mundo de apps, misiones y juegos",
+  "loginDesc3": "앱, 퀘스트, 게임의 세계",
   "@loginDesc3": {
     "description": "A world of apps, quests and games"
   },
-  "loginTitle4": "Muchas propinas,\nmuy shibe friendly",
+  "loginTitle4": "팁을 많이 주고,\r\n너무 친절해",
   "@loginTitle4": {
     "description": "Much tipping,\r\nso shibe friendly"
   },
-  "loginDesc4": "Da propinas a tus frens y operen juntos",
+  "loginDesc4": "당신의 친구에게 팁을 주고 함께 거래하세요",
   "@loginDesc4": {
     "description": "Tips your frens and trade together"
   },
-  "connectWithX": "Conectar con X",
+  "connectWithX": "X와 연결",
   "@connectWithX": {
     "description": "Connect with X"
   },
-  "signWithOther": "Registrarse con otras opciones",
+  "signWithOther": "다른 옵션으로 가입",
   "@signWithOther": {
     "description": "Sign up with other options"
   },
-  "byUsingDogeOs": "Al usar DogeOS, aceptas nuestros",
+  "byUsingDogeOs": "DogeOS를 사용하면 귀하는 당사의",
   "@byUsingDogeOs": {
     "description": "By using DogeOS, you agree to accept our"
   },
-  "chooseLoginTitle": "Elige sabiamente, shibe",
+  "chooseLoginTitle": "현명하게 선택하세요 시비님",
   "@chooseLoginTitle": {
     "description": "Choose wisely, shibe"
   },
-  "chooseLoginDesc": "Agrega una billetera con tu cuenta de Apple o Google. Mantén la calma: tu información seguirá siendo privada.",
+  "chooseLoginDesc": "Apple 또는 Google 계정을 사용하여 지갑을 추가하세요. 침착하세요. 귀하의 정보는 비공개로 유지됩니다.",
   "@chooseLoginDesc": {
     "description": "Add wallet using your Apple or Google account. Keep calm, your information will stay private."
   },
-  "x": "X",
+  "x": "엑스",
   "@x": {
     "description": "X"
   },
@@ -2432,471 +2432,471 @@
   "@google": {
     "description": "Google"
   },
-  "whatYourEmail": "¿Cuál es tu correo?",
+  "whatYourEmail": "당신의 이메일은 무엇입니까?",
   "@whatYourEmail": {
     "description": "What’s your email?"
   },
-  "verifyOtpEmail": "Verificar correo OTP",
+  "verifyOtpEmail": "OTP 이메일 확인",
   "@verifyOtpEmail": {
     "description": "Verify OTP email"
   },
-  "aVerificationCode": "Se ha enviado un código de verificación a ",
+  "aVerificationCode": "인증 코드가 다음 주소로 전송되었습니다.",
   "@aVerificationCode": {
     "description": "A verification code has been sent to "
   },
-  "toKeepYourAccountSafe": "Para mantener tu cuenta segura, asegúrate de que Face ID permanezca activado mientras usas la app.",
+  "toKeepYourAccountSafe": "계정을 안전하게 유지하려면 앱을 사용하는 동안 Face ID가 활성화되어 있는지 확인하세요.",
   "@toKeepYourAccountSafe": {
     "description": "To keep your account safe, please ensure Face ID remains enabled while using the app."
   },
-  "authFailedTitle": "Autenticación\nfallida",
+  "authFailedTitle": "인증\n실패했다",
   "@authFailedTitle": {
     "description": "Authentication\nfailed"
   },
-  "authFailedDesc": "Hubo un problema con tu intento de autenticación.",
+  "authFailedDesc": "인증 시도에 문제가 발생했습니다.",
   "@authFailedDesc": {
     "description": "There was an issue with your authentication attempt."
   },
-  "faceIdNotEnabledTitle": "Face ID\nno activado",
+  "faceIdNotEnabledTitle": "페이스ID \n활성화되지 않음",
   "@faceIdNotEnabledTitle": {
     "description": "Face ID \nNot Enabled"
   },
-  "faceIdNotEnabledDesc": "Activa Face ID en Ajustes para continuar.",
+  "faceIdNotEnabledDesc": "계속하려면 설정에서 Face ID를 활성화하세요.",
   "@faceIdNotEnabledDesc": {
     "description": "Please enable Face ID in Settings to continue."
   },
-  "goToSetting": "Ir a Ajustes",
+  "goToSetting": "설정으로 이동",
   "@goToSetting": {
     "description": "Go to Settings"
   },
-  "setupAuthTitle": "Configurar autenticacion",
+  "setupAuthTitle": "인증 설정",
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "Por la seguridad de tu cuenta, exportar la frase semilla requiere autenticación.",
+  "setupAuthDesc": "계정 보안을 위해 시드 구문을 내보내려면 인증이 필요합니다.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
-  "goSetup": "Configurar",
+  "goSetup": "설정하러 가기",
   "@goSetup": {
     "description": "Go set up"
   },
-  "cancelRequestTitle": "Cancelar solicitud",
+  "cancelRequestTitle": "요청 취소",
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "¿Seguro que quieres cancelar? Esto reiniciará el periodo de espera si quieres configurar una nueva passkey.",
+  "cancelRequestDesc": "정말로 취소하시겠습니까? 새로운 패스키를 설정하려는 경우 대기 기간이 다시 시작됩니다.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
-  "sureToExitTitle": "¿Seguro que quieres salir?",
+  "sureToExitTitle": "종료하시겠습니까?",
   "@sureToExitTitle": {
     "description": "Are you sure you want to exit?"
   },
-  "sureToExitDesc": "Una nueva solicitud requerirá un periodo de espera de 48 horas.",
+  "sureToExitDesc": "새로운 요청에는 48시간의 대기 기간이 필요합니다.",
   "@sureToExitDesc": {
     "description": "New request will require a 48-hour waiting period."
   },
-  "hour48SecurityTitle": "Verificación de seguridad de 48 horas",
+  "hour48SecurityTitle": "48시간 보안 검증",
   "@hour48SecurityTitle": {
     "description": "48-hour security verification"
   },
-  "hour48SecurityDesc": "La vinculación requiere 48 horas de verificación de seguridad para evitar riesgos. Si no fuiste tú, cambia de inmediato la contraseña del correo OTP.",
+  "hour48SecurityDesc": "바인딩에는 위험 방지를 위해 48시간의 보안 검증이 필요합니다. 귀하가 이를 수행하지 않은 경우 즉시 OTP 이메일 비밀번호를 변경하십시오.",
   "@hour48SecurityDesc": {
     "description": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately."
   },
-  "whereDidISetItUpTitle": "¿Dónde lo configuré?",
+  "whereDidISetItUpTitle": "어디서 설정했나요?",
   "@whereDidISetItUpTitle": {
     "description": "Where did I set it up?"
   },
-  "whereDidISetItUpDesc": "Puedes encontrar el autenticador si lo configuraste antes en productos impulsados por Tomo, como WLFI Wallet, Tomo Wallet o MyDoge Wallet.",
+  "whereDidISetItUpDesc": "WLFI Wallet, Tomo Wallet 또는 MyDoge Wallet을 포함하여 Tomo에서 제공하는 제품에서 이전에 인증기를 설정한 경우 인증기를 찾을 수 있습니다.",
   "@whereDidISetItUpDesc": {
     "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
   },
-  "authMethod": "Método de autenticación",
+  "authMethod": "인증 방법",
   "@authMethod": {
     "description": "Authentication Method"
   },
-  "authMethodDesc": "El inicio de sesión y la exportación de la frase semilla requieren un autenticador, lo que añade una capa extra de protección.",
+  "authMethodDesc": "계정 로그인 및 시드 구문 내보내기에는 추가 보호 계층을 추가하는 인증자가 필요합니다.",
   "@authMethodDesc": {
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
-  "passkey": "Clave de acceso",
+  "passkey": "패스키",
   "@passkey": {
     "description": "Passkey"
   },
-  "authenticator": "Autenticador",
+  "authenticator": "인증자",
   "@authenticator": {
     "description": "Authenticator"
   },
-  "setUp": "Configurar",
+  "setUp": "설정",
   "@setUp": {
     "description": "Set up"
   },
-  "optEmail": "Correo OTP",
+  "optEmail": "OTP 이메일",
   "@optEmail": {
     "description": "OTP Email"
   },
-  "linked": "Vinculado",
+  "linked": "연결됨",
   "@linked": {
     "description": "Linked"
   },
-  "chooseVerification": "Elige la verificacion",
+  "chooseVerification": "인증을 선택하세요",
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Vincular app autenticadora",
+  "linkAuthenticatorApp": "링크 인증자 앱",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
-  "stepNum": "Paso {stepNumber}: ",
+  "stepNum": "{stepNumber} 단계:",
   "@stepNum": {
     "description": "Step {stepNumber}: "
   },
-  "step1Desc": "Descarga una app autenticadora.",
+  "step1Desc": "인증 앱을 다운로드하세요.",
   "@step1Desc": {
     "description": "Download an authenticator app."
   },
-  "forExample": "Por ejemplo: ",
+  "forExample": "예를 들어:",
   "@forExample": {
     "description": "For example: "
   },
-  "step2Desc": "Copia la clave de 16 dígitos de abajo o escanea el código QR",
+  "step2Desc": "아래 16자리 키를 복사하거나 QR 코드를 스캔하세요.",
   "@step2Desc": {
     "description": "Copy the 16-digit key below or scan the QR code"
   },
-  "verifyAuthenticator": "Verificar autenticador",
+  "verifyAuthenticator": "인증자 확인",
   "@verifyAuthenticator": {
     "description": "Verify authenticator"
   },
-  "enterThe6Digit": "Introduce el código de 6 dígitos del autenticador.",
+  "enterThe6Digit": "인증기로부터 받은 6자리 코드를 입력하세요.",
   "@enterThe6Digit": {
     "description": "Enter the 6-digit code from the authenticator."
   },
-  "useAlternativeVerification": "Usar verificación alternativa",
+  "useAlternativeVerification": "대체 인증 사용",
   "@useAlternativeVerification": {
     "description": "Use alternative verification"
   },
-  "copySuccess": "Copiado correctamente",
+  "copySuccess": "복사 성공",
   "@copySuccess": {
     "description": "Copy Success"
   },
-  "addPasskey": "Agregar passkey",
+  "addPasskey": "패스키 추가",
   "@addPasskey": {
     "description": "Add passkey"
   },
-  "whereDidISetItUp": "¿Dónde lo configuré?",
+  "whereDidISetItUp": "어디서 설정했나요?",
   "@whereDidISetItUp": {
     "description": "Where did I set it up?"
   },
-  "requestSeedTitle": "Solicitar frase semilla",
+  "requestSeedTitle": "요청 시드 구문",
   "@requestSeedTitle": {
     "description": "Request Seed Phrase"
   },
-  "hour48": "48 horas",
+  "hour48": "48시간",
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Para proteger tus activos, debes esperar 48 horas antes de revelar tu frase semilla.",
+  "requestSeedDesc1": "자산의 안전을 보장하기 위해 시드 구문을 공개하기 전에 48시간의 대기 기간이 필요합니다.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Podras ver tu frase semilla cuando termine la cuenta regresiva.",
+  "requestSeedDesc2": "카운트다운이 끝난 후 시드 구문을 볼 수 있습니다.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
-  "passkeyNotCompleted": "La verificacion con passkey no se completo.",
+  "passkeyNotCompleted": "패스키 인증이 완료되지 않았습니다.",
   "@passkeyNotCompleted": {
     "description": "Passkey verification was not completed."
   },
-  "passkeyNotCompletedDesc": "Puedes cambiar a otros métodos de verificación o intentarlo de nuevo.",
+  "passkeyNotCompletedDesc": "다른 인증 방법으로 전환하거나 다시 시도해 보세요.",
   "@passkeyNotCompletedDesc": {
     "description": "You can switch to other verification methods, or try again."
   },
-  "viewSeedPhraseDesc1": "Si no son tus claves, no es tu cripto.",
+  "viewSeedPhraseDesc1": "귀하의 키나 암호화폐가 아닙니다.",
   "@viewSeedPhraseDesc1": {
     "description": "Not your keys, not your crypto."
   },
-  "viewSeedPhraseDesc2": "Continúa solo en un entorno seguro y privado.",
+  "viewSeedPhraseDesc2": "안전하고 비공개적인 환경에서만 진행하세요.",
   "@viewSeedPhraseDesc2": {
     "description": "Proceed only in a secure and private environment."
   },
-  "viewSeedPhraseDesc3": "No la compartas con nadie, nunca.",
+  "viewSeedPhraseDesc3": "절대로 누구와도 공유하지 마세요.",
   "@viewSeedPhraseDesc3": {
     "description": "Don't share it with anyone, ever."
   },
-  "doNotShare": "No la compartas con nadie, nunca.",
+  "doNotShare": "절대로 누구와도 공유하지 마세요.",
   "@doNotShare": {
     "description": "Don't share it with anyone, ever."
   },
-  "alreadyBackedUp": "Copia de seguridad completada",
+  "alreadyBackedUp": "이미 백업됨",
   "@alreadyBackedUp": {
     "description": "Already backed up"
   },
-  "clickToReveal": "Toca para revelar",
+  "clickToReveal": "공개하려면 클릭하세요.",
   "@clickToReveal": {
     "description": "Click to reveal"
   },
-  "home": "Inicio",
+  "home": "집",
   "@home": {
     "description": "Home"
   },
-  "wallet": "Billetera",
+  "wallet": "지갑",
   "@wallet": {
     "description": "Wallet"
   },
-  "market": "Mercado",
+  "market": "시장",
   "@market": {
     "description": "Market"
   },
-  "activity": "Actividad",
+  "activity": "활동",
   "@activity": {
     "description": "Activity"
   },
-  "tokens": "Tokens",
+  "tokens": "토큰",
   "@tokens": {
     "description": "Tokens"
   },
-  "collectibles": "Coleccionables",
+  "collectibles": "수집품",
   "@collectibles": {
     "description": "Collectibles"
   },
-  "dogeOSTestnetTitle": "Faucet de testnet DogeOS",
+  "dogeOSTestnetTitle": "DogeOS 테스트넷 Faucet",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
   },
-  "dogeOSTestnetDesc": "Solicita tokens de testnet para experimentar con la app en un entorno seguro, sin fondos reales.",
+  "dogeOSTestnetDesc": "안전한 환경에서 앱을 실험하려면 테스트넷 토큰을 요청하세요. 실제 자금은 필요하지 않습니다.",
   "@dogeOSTestnetDesc": {
     "description": "Request testnet tokens to experiment with the app in a safe environment — no real funds required."
   },
-  "requestTokens": "Solicitar tokens",
+  "requestTokens": "토큰 요청",
   "@requestTokens": {
     "description": "Request tokens"
   },
-  "noNFTsfound": "No se encontraron NFTs",
+  "noNFTsfound": "NFTs를 찾을 수 없습니다.",
   "@noNFTsfound": {
     "description": "No NFTs found"
   },
-  "passkeySetupNotCompleted": "La configuracion de la passkey no se completo. ",
+  "passkeySetupNotCompleted": "패스키 설정이 완료되지 않았습니다.",
   "@passkeySetupNotCompleted": {
     "description": "Passkey setup was not completed. "
   },
-  "sureToLogOut": "¿Seguro que quieres cerrar sesión?",
+  "sureToLogOut": "정말로 로그아웃하시겠습니까?",
   "@sureToLogOut": {
     "description": "Are you sure you want to log out?"
   },
-  "communityPicks": "Selecciones de la comunidad",
+  "communityPicks": "커뮤니티 추천",
   "@communityPicks": {
     "description": "Community Picks"
   },
-  "suggestedForYou": "Sugerido para ti",
+  "suggestedForYou": "당신을 위해 제안",
   "@suggestedForYou": {
     "description": "Suggested For You"
   },
-  "earn": "Ganar",
+  "earn": "벌다",
   "@earn": {
     "description": "Earn"
   },
-  "fullCatalogue": "Catálogo completo",
+  "fullCatalogue": "전체 카탈로그",
   "@fullCatalogue": {
     "description": "Full Catalogue"
   },
-  "setupWallet": "Configurar billetera",
+  "setupWallet": "지갑 설정",
   "@setupWallet": {
     "description": "Setup wallet"
   },
-  "setupWalletDesc": "Crea tu Social Wallet con inicio de sesión social: desbloquea todo el ecosistema DogeOS mientras tu billetera Classic permanece segura.",
+  "setupWalletDesc": "소셜 로그인으로 소셜 지갑을 만드세요. 클래식 지갑을 안전하게 유지하면서 전체 DogeOS 생태계를 잠금 해제하세요.",
   "@setupWalletDesc": {
     "description": "Create your Social Wallet with social login — unlock the full DogeOS ecosystem while your Classic wallet stays safe."
   },
-  "claimTestnetTitle": "Reclamar tokens de testnet",
+  "claimTestnetTitle": "테스트넷 토큰 청구",
   "@claimTestnetTitle": {
     "description": "Claim Testnet Tokens"
   },
-  "claimTestnetDesc": "No hay fondos reales involucrados; estos son\nfondos de practica solo para pruebas.",
+  "claimTestnetDesc": "실제 자금은 포함되지 않습니다.\n시험 목적으로만 자금을 연습하십시오.",
   "@claimTestnetDesc": {
     "description": "No real funds are involved, these are\npractice funds for trial purposes only."
   },
-  "claimableEvery24Hours": "Disponible cada 24 horas.",
+  "claimableEvery24Hours": "24시간마다 청구 가능!",
   "@claimableEvery24Hours": {
     "description": "Claimable every 24 hours!"
   },
-  "youGet": "Recibiras:",
+  "youGet": "당신은 얻을 것이다:",
   "@youGet": {
     "description": "You’ll get:"
   },
-  "claimTokens": "Reclamar tokens",
+  "claimTokens": "토큰 청구",
   "@claimTokens": {
     "description": "Claim tokens"
   },
-  "open": "Abrir",
+  "open": "열려 있는",
   "@open": {
     "description": "Open"
   },
-  "biometricsPin": "Biometría/PIN",
+  "biometricsPin": "생체인식/PIN",
   "@biometricsPin": {
     "description": "Biometrics/PIN"
   },
-  "advancedSettings": "Ajustes avanzados",
+  "advancedSettings": "고급 설정",
   "@advancedSettings": {
     "description": "Advanced Settings"
   },
-  "chooseLanguage": "Elegir idioma",
+  "chooseLanguage": "언어를 선택하세요",
   "@chooseLanguage": {
     "description": "Choose language"
   },
-  "englishLanguage": "English",
+  "englishLanguage": "영어",
   "@englishLanguage": {
     "description": "English"
   },
-  "spanishLanguage": "Español",
+  "spanishLanguage": "스페인어",
   "@spanishLanguage": {
     "description": "Español"
   },
-  "developerMode": "Modo desarrollador",
+  "developerMode": "개발자 모드",
   "@developerMode": {
     "description": "Developer Mode"
   },
-  "developerModeDescription": "Desbloquea el navegador abierto para pruebas",
+  "developerModeDescription": "테스트를 위해 열려 있는 브라우저를 잠금 해제합니다.",
   "@developerModeDescription": {
     "description": "Unlocks open browser for testing"
   },
-  "label24hChange": "Cambio 24H",
+  "label24hChange": "24시간 변경",
   "@label24hChange": {
     "description": "24H Change"
   },
-  "label24hTurnover": "Facturación 24H",
+  "label24hTurnover": "24시간 매출액",
   "@label24hTurnover": {
     "description": "24H Turnover"
   },
-  "aNewWalletWithADifferentSeedPhrase": "Una nueva cartera con un frase semilla diferente",
+  "aNewWalletWithADifferentSeedPhrase": "다른 시드 구문을 사용한 새 지갑",
   "@aNewWalletWithADifferentSeedPhrase": {
     "description": "A new wallet with a different seed phrase"
   },
-  "aPersonalizedAlphaFeedComingSoon": "Un feed Alpha personalizado (próximamente)",
+  "aPersonalizedAlphaFeedComingSoon": "맞춤형 알파 피드(곧 제공 예정)",
   "@aPersonalizedAlphaFeedComingSoon": {
     "description": "A personalized Alpha feed (coming soon)"
   },
-  "accessAWorldOfAppsQuestsAndGames": "Accede a un mundo de aplicaciones, misiones y juegos.",
+  "accessAWorldOfAppsQuestsAndGames": "다양한 앱, 퀘스트, 게임의 세계에 접속하세요",
   "@accessAWorldOfAppsQuestsAndGames": {
     "description": "Access a world of apps, quests and games"
   },
-  "account": "Cuenta",
+  "account": "계정",
   "@account": {
     "description": "Account"
   },
-  "allCategories": "Todas las categorías",
+  "allCategories": "모든 카테고리",
   "@allCategories": {
     "description": "All Categories"
   },
-  "allowContactAccess": "Permitir acceso a contactos",
+  "allowContactAccess": "연락처 액세스 허용",
   "@allowContactAccess": {
     "description": "Allow contact access"
   },
-  "andWhenDoIGetMyDOGEBack": "¿Y cuándo recuperaré mi DOGE?",
+  "andWhenDoIGetMyDOGEBack": "DOGE는 언제 돌려받을 수 있나요?",
   "@andWhenDoIGetMyDOGEBack": {
     "description": "And when do I get my DOGE back?"
   },
-  "anyWalletWorks": "¿Alguna billetera funciona?",
+  "anyWalletWorks": "어떤 지갑이라도 작동하나요?",
   "@anyWalletWorks": {
     "description": "Any wallet works?"
   },
-  "assets": "Activos",
+  "assets": "자산",
   "@assets": {
     "description": "Assets"
   },
-  "atLeast6Characters": "Al menos 6 caracteres",
+  "atLeast6Characters": "6자 이상",
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "Al menos 6 contraseñas",
+  "atLeast6Password": "최소 6개의 비밀번호",
   "@atLeast6Password": {
     "description": "At least 6 password"
   },
-  "autoFollowKOLsYouAlreadyFollowComingSoon": "Sigue automáticamente a KOLs que ya sigues (próximamente)",
+  "autoFollowKOLsYouAlreadyFollowComingSoon": "이미 팔로우하고 있는 KOLs 자동 팔로우(곧 제공 예정)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
     "description": "Auto-follow KOLs you already follow (coming soon)"
   },
-  "backUpNow": "Haz una copia de seguridad ahora",
+  "backUpNow": "지금 백업하세요",
   "@backUpNow": {
     "description": "Back up now"
   },
-  "backUpWallet": "billetera de respaldo",
+  "backUpWallet": "지갑 백업",
   "@backUpWallet": {
     "description": "Back up wallet"
   },
-  "backupNow": "Copia de seguridad ahora",
+  "backupNow": "지금 백업",
   "@backupNow": {
     "description": "Backup now"
   },
-  "biometrics": "Biometría",
+  "biometrics": "생체인식",
   "@biometrics": {
     "description": "Biometrics"
   },
-  "bridgeRoute": "Ruta del bridge",
+  "bridgeRoute": "브리지 경로",
   "@bridgeRoute": {
     "description": "Bridge Route"
   },
-  "btcAddressType": "Tipo de dirección BTC",
+  "btcAddressType": "BTC 주소 유형",
   "@btcAddressType": {
     "description": "BTC address type"
   },
-  "buy2": "COMPRAR",
+  "buy2": "구입하다",
   "@buy2": {
     "description": "BUY"
   },
-  "changePIN": "Cambiar PIN",
+  "changePIN": "PIN 변경",
   "@changePIN": {
     "description": "Change PIN"
   },
-  "checkYourPIN": "Comprueba tu PIN",
+  "checkYourPIN": "PIN를 확인하세요",
   "@checkYourPIN": {
     "description": "Check your PIN"
   },
-  "classicWallet": "Cartera clásica",
+  "classicWallet": "클래식 지갑",
   "@classicWallet": {
     "description": "Classic Wallet"
   },
-  "clickToView": "Haga clic para ver",
+  "clickToView": "보려면 클릭하세요",
   "@clickToView": {
     "description": "Click to view"
   },
-  "cloudBackup": "Copia de seguridad en la nube",
+  "cloudBackup": "클라우드 백업",
   "@cloudBackup": {
     "description": "Cloud backup"
   },
-  "collections": "Colecciones",
+  "collections": "컬렉션",
   "@collections": {
     "description": "Collections"
   },
-  "connectXForMyDogeTip": "Conecte X para MyDogeTip",
+  "connectXForMyDogeTip": "MyDogeTip에 대해 X 연결",
   "@connectXForMyDogeTip": {
     "description": "Connect  X for MyDogeTip"
   },
-  "contact": "Contacto",
+  "contact": "연락하다",
   "@contact": {
     "description": "Contact"
   },
-  "continueWith": "Continuar con",
+  "continueWith": "계속",
   "@continueWith": {
     "description": "Continue with"
   },
-  "continueWithApple": "Continuar con Apple",
+  "continueWithApple": "Apple과 함께 계속하세요",
   "@continueWithApple": {
     "description": "Continue with Apple"
   },
-  "continueWithX": "Continuar con X",
+  "continueWithX": "X로 계속",
   "@continueWithX": {
     "description": "Continue with X"
   },
-  "contractCalled": "Contrato llamado",
+  "contractCalled": "계약 호출",
   "@contractCalled": {
     "description": "Contract Called"
   },
-  "createWallet": "Crear billetera",
+  "createWallet": "지갑 생성",
   "@createWallet": {
     "description": "Create wallet"
   },
-  "creatingWallet": "Creando billetera...",
+  "creatingWallet": "지갑 생성 중...",
   "@creatingWallet": {
     "description": "Creating wallet..."
   },
@@ -2908,195 +2908,195 @@
   "@dapps": {
     "description": "dApps"
   },
-  "date": "Fecha",
+  "date": "날짜",
   "@date": {
     "description": "Date"
   },
-  "date2": "FECHA",
+  "date2": "날짜",
   "@date2": {
     "description": "DATE"
   },
-  "deleteWallet2": "Eliminar billetera",
+  "deleteWallet2": "지갑 삭제",
   "@deleteWallet2": {
     "description": "Delete Wallet"
   },
-  "deleteWallet3": "Eliminar billetera",
+  "deleteWallet3": "지갑 삭제",
   "@deleteWallet3": {
     "description": "Delete wallet"
   },
-  "deliveryAddress": "Dirección de entrega",
+  "deliveryAddress": "배송 주소",
   "@deliveryAddress": {
     "description": "Delivery address"
   },
-  "depositTOKEN": "FICHA DE DEPÓSITO",
+  "depositTOKEN": "예금 토큰",
   "@depositTOKEN": {
     "description": "DEPOSIT TOKEN"
   },
-  "disconnectX": "Desconectar X",
+  "disconnectX": "X 연결 끊기",
   "@disconnectX": {
     "description": "Disconnect X"
   },
-  "disconnectXForMyDogeTip": "Desconectar X para MyDogeTip",
+  "disconnectXForMyDogeTip": "MyDogeTip에 대해 X 연결 끊기",
   "@disconnectXForMyDogeTip": {
     "description": "Disconnect X for MyDogeTip"
   },
-  "doYouHaveDoge": "¿Tienes Doge?",
+  "doYouHaveDoge": "도지가 있나요?",
   "@doYouHaveDoge": {
     "description": "Do you have Doge?"
   },
-  "dogeosValidators": "Validadores DogeOS",
+  "dogeosValidators": "DogeOS 검증기",
   "@dogeosValidators": {
     "description": "DogeOS Validators"
   },
-  "earnAPY": "GANA APY",
+  "earnAPY": "APY를 획득하세요",
   "@earnAPY": {
     "description": "EARN APY"
   },
-  "easyTHEREBUDDY": "FÁCIL, AMIGO",
+  "easyTHEREBUDDY": "진정하세요, 친구",
   "@easyTHEREBUDDY": {
     "description": "EASY THERE,BUDDY"
   },
-  "editProfile2": "Editar perfil",
+  "editProfile2": "프로필 편집",
   "@editProfile2": {
     "description": "Edit Profile"
   },
-  "enterCurrentPassword": "Ingrese la contraseña actual",
+  "enterCurrentPassword": "현재 비밀번호를 입력하세요",
   "@enterCurrentPassword": {
     "description": "Enter current password"
   },
-  "estGas": "Est. Gas",
+  "estGas": "예상 가스",
   "@estGas": {
     "description": "Est. Gas"
   },
-  "estTime": "Est. Tiempo",
+  "estTime": "예상 시간",
   "@estTime": {
     "description": "Est. Time"
   },
-  "estNetworkFee": "Tarifa de red estimada",
+  "estNetworkFee": "예상 네트워크 수수료",
   "@estNetworkFee": {
     "description": "Est.network fee"
   },
-  "failedToLoad": "No se pudo cargar",
+  "failedToLoad": "로드하지 못했습니다.",
   "@failedToLoad": {
     "description": "Failed to load"
   },
-  "faq": "Preguntas frecuentes",
+  "faq": "FAQ",
   "@faq": {
     "description": "FAQ"
   },
-  "fee": "Tarifa",
+  "fee": "요금",
   "@fee": {
     "description": "Fee"
   },
-  "filterRiskTokens": "Filtrar tokens de riesgo",
+  "filterRiskTokens": "위험 토큰 필터링",
   "@filterRiskTokens": {
     "description": "Filter risk tokens"
   },
-  "followBack": "Seguir de nuevo",
+  "followBack": "팔로우",
   "@followBack": {
     "description": "Follow back"
   },
-  "fromASingleChainToMultiChainWallet": "De una sola cadena a una billetera multicadena",
+  "fromASingleChainToMultiChainWallet": "단일 체인에서 다중 체인 지갑으로",
   "@fromASingleChainToMultiChainWallet": {
     "description": "From a single chain to multi-chain wallet"
   },
-  "fromNetwork": "De la red",
+  "fromNetwork": "네트워크에서",
   "@fromNetwork": {
     "description": "From network"
   },
-  "fromTheGrandHeist": "de El gran atraco.",
+  "fromTheGrandHeist": "대강탈에서.",
   "@fromTheGrandHeist": {
     "description": "from The Grand Heist."
   },
-  "fullySecureAndSelfCustodialLikeBefore": "Totalmente seguro y con custodia propia, como antes.",
+  "fullySecureAndSelfCustodialLikeBefore": "이전과 마찬가지로 완전히 안전하고 자체 관리됩니다.",
   "@fullySecureAndSelfCustodialLikeBefore": {
     "description": "Fully secure and self custodial, like before."
   },
-  "fundYourWalletToGetStarted": "Financia tu billetera para comenzar",
+  "fundYourWalletToGetStarted": "시작하려면 지갑에 자금을 조달하세요",
   "@fundYourWalletToGetStarted": {
     "description": "Fund your wallet to get started"
   },
-  "gasFee2": "Comisión de gas",
+  "gasFee2": "가스비",
   "@gasFee2": {
     "description": "Gas fee"
   },
-  "get": "Conseguir",
+  "get": "얻다",
   "@get": {
     "description": "Get"
   },
-  "goBACK": "VOLVER",
+  "goBACK": "돌아가기",
   "@goBACK": {
     "description": "GO BACK"
   },
-  "howDoIParticipate": "¿Cómo participo?",
+  "howDoIParticipate": "어떻게 참여하나요?",
   "@howDoIParticipate": {
     "description": "How do I participate?"
   },
-  "how": "¿Cómo?",
+  "how": "어떻게?",
   "@how": {
     "description": "How?"
   },
-  "justLeavingThisHereMydogeCom": "Dejo esto aquí:\\n\\nmydoge.com",
+  "justLeavingThisHereMydogeCom": "여기에 남겨주세요:\\n\\nmydoge.com",
   "@justLeavingThisHereMydogeCom": {
     "description": "Just leaving this here:\\n\\nmydoge.com"
   },
-  "later": "Más tarde",
+  "later": "나중에",
   "@later": {
     "description": "Later"
   },
-  "manageToken": "Administrar token",
+  "manageToken": "토큰 관리",
   "@manageToken": {
     "description": "Manage token"
   },
-  "me": "¿A mí?",
+  "me": "나?",
   "@me": {
     "description": "Me?"
   },
-  "migratingAssets": "Migrando activos...",
+  "migratingAssets": "자산 마이그레이션 중...",
   "@migratingAssets": {
     "description": "Migrating Assets..."
   },
-  "migratingFromClassicToSocial": "Migrando de lo clásico a lo social",
+  "migratingFromClassicToSocial": "클래식에서 소셜로 마이그레이션",
   "@migratingFromClassicToSocial": {
     "description": "Migrating from Classic to Social"
   },
-  "muchExcitement": "Mucha emoción",
+  "muchExcitement": "많은 흥분",
   "@muchExcitement": {
     "description": "Much excitement"
   },
-  "network2": "RED",
+  "network2": "회로망",
   "@network2": {
     "description": "NETWORK"
   },
-  "networkFee": "Tarifa de red",
+  "networkFee": "네트워크 수수료",
   "@networkFee": {
     "description": "Network Fee"
   },
-  "networkFee2": "tarifa de red",
+  "networkFee2": "네트워크 수수료",
   "@networkFee2": {
     "description": "network fee"
   },
-  "next": "Próximo",
+  "next": "다음",
   "@next": {
     "description": "Next"
   },
-  "noInscriptions": "Sin inscripciones",
+  "noInscriptions": "비문 없음",
   "@noInscriptions": {
     "description": "No inscriptions"
   },
-  "noMessagesYet": "Aún no hay mensajes",
+  "noMessagesYet": "아직 메시지가 없습니다",
   "@noMessagesYet": {
     "description": "No messages yet"
   },
-  "noResults": "Sin resultados",
+  "noResults": "결과 없음",
   "@noResults": {
     "description": "No results"
   },
-  "notifications": "Notificaciones",
+  "notifications": "알림",
   "@notifications": {
     "description": "Notifications"
   },
-  "paymentMethod": "Método de pago",
+  "paymentMethod": "결제수단",
   "@paymentMethod": {
     "description": "Payment method"
   },
@@ -3104,155 +3104,155 @@
   "@pin": {
     "description": "PIN"
   },
-  "prev": "Anterior",
+  "prev": "이전",
   "@prev": {
     "description": "Prev"
   },
-  "reEnterNewPassword": "Vuelva a ingresar la nueva contraseña",
+  "reEnterNewPassword": "새 비밀번호를 다시 입력하세요.",
   "@reEnterNewPassword": {
     "description": "Re-enter new password"
   },
-  "readOurFAQs": "Lea nuestras preguntas frecuentes",
+  "readOurFAQs": "FAQ를 읽어보세요",
   "@readOurFAQs": {
     "description": "Read our FAQ’s"
   },
-  "refund": "Reembolso",
+  "refund": "환불하다",
   "@refund": {
     "description": "Refund"
   },
-  "renameWallet2": "Cambiar nombre de billetera",
+  "renameWallet2": "지갑 이름 바꾸기",
   "@renameWallet2": {
     "description": "Rename wallet"
   },
-  "reset": "REINICIAR",
+  "reset": "다시 놓기",
   "@reset": {
     "description": "RESET"
   },
-  "resetWallet": "Restablecer billetera",
+  "resetWallet": "지갑 재설정",
   "@resetWallet": {
     "description": "Reset wallet"
   },
-  "searchCrypto": "Buscar cripto",
+  "searchCrypto": "암호화폐 검색",
   "@searchCrypto": {
     "description": "Search crypto"
   },
-  "searchToken": "Ficha de búsqueda",
+  "searchToken": "검색 토큰",
   "@searchToken": {
     "description": "Search token"
   },
-  "searchTokenName": "Nombre del token de búsqueda",
+  "searchTokenName": "토큰 이름 검색",
   "@searchTokenName": {
     "description": "Search token name"
   },
-  "seedPhraseBackup": "Copia de seguridad de la frase semilla",
+  "seedPhraseBackup": "시드 구문 백업",
   "@seedPhraseBackup": {
     "description": "Seed phrase backup"
   },
-  "selectAll": "Seleccionar todo",
+  "selectAll": "모두 선택",
   "@selectAll": {
     "description": "Select All"
   },
-  "selectNetwork2": "Seleccionar red",
+  "selectNetwork2": "네트워크 선택",
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "Enviar y recibir propinasEnviar y recibir propinas",
+  "sendAndReceiveTipsSendAndReceiveTips": "팁 보내기 및 받기 팁 보내기 및 받기",
   "@sendAndReceiveTipsSendAndReceiveTips": {
     "description": "Send & Receive TipsSend and receive tips"
   },
-  "serviceUNAVAILABLE": "SERVICIO NO DISPONIBLE",
+  "serviceUNAVAILABLE": "서비스를 이용할 수 없습니다",
   "@serviceUNAVAILABLE": {
     "description": "SERVICE UNAVAILABLE"
   },
-  "setANewPIN": "Establecer un nuevo PIN",
+  "setANewPIN": "새로운 PIN 설정",
   "@setANewPIN": {
     "description": "Set a New PIN"
   },
-  "signInWithEmailOrASocialLogin": "Inicie sesión con correo electrónico o un inicio de sesión social",
+  "signInWithEmailOrASocialLogin": "이메일 또는 소셜 로그인으로 로그인",
   "@signInWithEmailOrASocialLogin": {
     "description": "Sign in with email or a social login"
   },
-  "signInWithGoogle": "Iniciar sesión con Google",
+  "signInWithGoogle": "Google로 로그인",
   "@signInWithGoogle": {
     "description": "Sign in with Google"
   },
-  "signatureFAILED": "FIRMA FALLADA",
+  "signatureFAILED": "서명 실패",
   "@signatureFAILED": {
     "description": "SIGNATURE FAILED"
   },
-  "sites": "Sitios",
+  "sites": "사이트",
   "@sites": {
     "description": "Sites"
   },
-  "skipThisStep": "Salta este paso",
+  "skipThisStep": "이 단계 건너뛰기",
   "@skipThisStep": {
     "description": "Skip this Step"
   },
-  "socialLoginAndRecovery": "Inicio de sesión social y recuperación",
+  "socialLoginAndRecovery": "소셜 로그인 및 복구",
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "Gastador",
+  "spender": "돈 쓰는 사람",
   "@spender": {
     "description": "Spender"
   },
-  "status": "Estado",
+  "status": "상태",
   "@status": {
     "description": "Status"
   },
-  "successItsDone": "El éxito está hecho",
+  "successItsDone": "성공하면 됐어요",
   "@successItsDone": {
     "description": "Success it’s done"
   },
-  "swapOrder": "orden de intercambio",
+  "swapOrder": "스왑 주문",
   "@swapOrder": {
     "description": "Swap order"
   },
-  "swipeTODEPOSIT": "DESLIZAR PARA DEPOSITAR",
+  "swipeTODEPOSIT": "스와이프하여 입금",
   "@swipeTODEPOSIT": {
     "description": "SWIPE TO DEPOSIT"
   },
-  "switchWallet2": "Cambiar billetera",
+  "switchWallet2": "지갑 전환",
   "@switchWallet2": {
     "description": "Switch Wallet"
   },
-  "termsOfUse2": "Condiciones de uso.",
+  "termsOfUse2": "이용약관.",
   "@termsOfUse2": {
     "description": "Terms of Use."
   },
-  "thenWhatAreYouWaitingFor": "Entonces ¿a qué estás esperando?",
+  "thenWhatAreYouWaitingFor": "그럼 당신은 무엇을 기다리고 있습니까?",
   "@thenWhatAreYouWaitingFor": {
     "description": "Then what are you waiting for?"
   },
-  "toNetwork": "A la red",
+  "toNetwork": "네트워크로",
   "@toNetwork": {
     "description": "To network"
   },
-  "toTheMoon": "a la luna",
+  "toTheMoon": "달로",
   "@toTheMoon": {
     "description": "To the moon"
   },
-  "transaction": "Transacción",
+  "transaction": "거래",
   "@transaction": {
     "description": "Transaction"
   },
-  "transaction2": "transacción",
+  "transaction2": "거래",
   "@transaction2": {
     "description": "transaction"
   },
-  "transaction1": "Transacción 1",
+  "transaction1": "거래 1",
   "@transaction1": {
     "description": "Transaction 1"
   },
-  "transaction22": "Transacción 2",
+  "transaction22": "거래 2",
   "@transaction22": {
     "description": "Transaction 2"
   },
-  "transactionFAILED": "TRANSACCIÓN FALLADA",
+  "transactionFAILED": "거래 실패",
   "@transactionFAILED": {
     "description": "TRANSACTION FAILED"
   },
-  "transactionTIMEDOUT": "TRANSACCIÓN TIEMPO AGOTADO",
+  "transactionTIMEDOUT": "거래 시간이 초과되었습니다.",
   "@transactionTIMEDOUT": {
     "description": "TRANSACTION TIMED OUT"
   },
@@ -3260,91 +3260,91 @@
   "@tvl": {
     "description": "TVL"
   },
-  "untitledDapp": "Sin título Dapp",
+  "untitledDapp": "제목 없음 Dapp",
   "@untitledDapp": {
     "description": "Untitled Dapp"
   },
-  "upgradeToASocialWallet": "Actualice a una billetera social",
+  "upgradeToASocialWallet": "소셜 지갑으로 업그레이드",
   "@upgradeToASocialWallet": {
     "description": "Upgrade to a Social Wallet"
   },
-  "useEmailInstead": "Utilice el correo electrónico en su lugar",
+  "useEmailInstead": "대신 이메일을 사용하세요",
   "@useEmailInstead": {
     "description": "Use Email instead"
   },
-  "useMAX": "USAR MÁXIMO",
+  "useMAX": "최대 사용",
   "@useMAX": {
     "description": "USE MAX"
   },
-  "username2": "Nombre de usuario",
+  "username2": "사용자 이름",
   "@username2": {
     "description": "Username"
   },
-  "vaultAddress": "Dirección de la bóveda",
+  "vaultAddress": "금고 주소",
   "@vaultAddress": {
     "description": "Vault Address"
   },
-  "verifyYourPIN2": "Verifica tu PIN",
+  "verifyYourPIN2": "PIN 확인",
   "@verifyYourPIN2": {
     "description": "Verify your PIN"
   },
-  "walletUsed": "Cartera usada",
+  "walletUsed": "사용된 지갑",
   "@walletUsed": {
     "description": "Wallet used"
   },
-  "welcomeToYourSocialWallet": "Bienvenido a tu billetera social",
+  "welcomeToYourSocialWallet": "소셜 지갑에 오신 것을 환영합니다",
   "@welcomeToYourSocialWallet": {
     "description": "Welcome to your Social Wallet"
   },
-  "wellWeCalledIt69DaysForAReason": "Bueno, lo llamamos 69 días por una razón....",
+  "wellWeCalledIt69DaysForAReason": "뭐, 69일이라고 한 데에는 이유가 있습니다....",
   "@wellWeCalledIt69DaysForAReason": {
     "description": "Well, we called it 69 days for a reason...."
   },
-  "whatIsADogecoinAddressHowDoIGetOne": "¿Qué es una dirección Dogecoin? ¿Cómo consigo uno?",
+  "whatIsADogecoinAddressHowDoIGetOne": "Dogecoin 주소란 무엇입니까? 어떻게 얻을 수 있나요?",
   "@whatIsADogecoinAddressHowDoIGetOne": {
     "description": "What is a Dogecoin address? How do I get one?"
   },
-  "whatIsThisAbout": "¿De qué se trata esto?",
+  "whatIsThisAbout": "이것은 무엇에 관한 것입니까?",
   "@whatIsThisAbout": {
     "description": "What is this about?"
   },
-  "whatsNext": "¿Qué sigue?",
+  "whatsNext": "다음은 무엇입니까?",
   "@whatsNext": {
     "description": "what's next?"
   },
-  "whoCanParticipate": "¿Quién puede participar?",
+  "whoCanParticipate": "누가 참여할 수 있나요?",
   "@whoCanParticipate": {
     "description": "Who can participate?"
   },
-  "woof": "Guau.",
+  "woof": "씨.",
   "@woof": {
     "description": "Woof."
   },
-  "yesYou": "Sí, tú.",
+  "yesYou": "네, 당신.",
   "@yesYou": {
     "description": "Yes, you."
   },
-  "yes2": "Sí...",
+  "yes2": "예...",
   "@yes2": {
     "description": "Yes..."
   },
-  "youAreAllSetHangOutWithYourMyDogeNow": "¡Ya está todo listo!\\nSal con tu My Doge ahora.",
+  "youAreAllSetHangOutWithYourMyDogeNow": "모든 설정이 완료되었습니다!\\n지금 My Doge와 함께 놀아보세요.",
   "@youAreAllSetHangOutWithYourMyDogeNow": {
     "description": "You are all set!\\nHang out with your My Doge now."
   },
-  "youSure": "¿Seguro?",
+  "youSure": "정말요?",
   "@youSure": {
     "description": "You sure?"
   },
-  "you": "Tú.",
+  "you": "너.",
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Sus fondos estarán bloqueados hasta el lanzamiento de la red principal (objetivo: ~69 días, puede variar.\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "귀하의 자금은 메인넷 출시까지 잠깁니다(목표: 최대 69일, 다를 수 있음).\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
     "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
   },
-  "yourWalletIsReady": "Tu billetera está lista",
+  "yourWalletIsReady": "지갑이 준비되었습니다",
   "@yourWalletIsReady": {
     "description": "Your wallet is ready"
   }
