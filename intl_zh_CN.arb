@@ -2808,9 +2808,9 @@
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "至少6个密码",
+  "atLeast6Password": "至少 6 个字符",
   "@atLeast6Password": {
-    "description": "At least 6 password"
+    "description": "At least 6 characters"
   },
   "autoFollowKOLsYouAlreadyFollowComingSoon": "自动关注您已经关注的 KOLs（即将推出）",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
@@ -2974,7 +2974,7 @@
   },
   "estNetworkFee": "预计网络费用",
   "@estNetworkFee": {
-    "description": "Est.network fee"
+    "description": "Est. network fee"
   },
   "failedToLoad": "加载失败",
   "@failedToLoad": {
@@ -3156,9 +3156,9 @@
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "发送和接收提示发送和接收提示",
+  "sendAndReceiveTipsSendAndReceiveTips": "发送和接收打赏",
   "@sendAndReceiveTipsSendAndReceiveTips": {
-    "description": "Send & Receive TipsSend and receive tips"
+    "description": "Send & Receive Tips"
   },
   "serviceUNAVAILABLE": "暂停服务",
   "@serviceUNAVAILABLE": {
@@ -3340,9 +3340,9 @@
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "您的资金将被锁定，直到主网启动（目标：约 69 天，可能会有所不同。\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "您的资金将被锁定，直到主网启动（目标：约 69 天，可能会有所不同）。\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
-    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary).\\n\\n"
   },
   "yourWalletIsReady": "你的钱包已经准备好了",
   "@yourWalletIsReady": {

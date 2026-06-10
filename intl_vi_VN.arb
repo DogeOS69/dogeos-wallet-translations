@@ -2808,9 +2808,9 @@
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "Ít nhất 6 mật khẩu",
+  "atLeast6Password": "Ít nhất 6 ký tự",
   "@atLeast6Password": {
-    "description": "At least 6 password"
+    "description": "At least 6 characters"
   },
   "autoFollowKOLsYouAlreadyFollowComingSoon": "Tự động theo dõi KOLs bạn đã theo dõi (sắp có)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
@@ -2974,7 +2974,7 @@
   },
   "estNetworkFee": "Phí mạng ước tính",
   "@estNetworkFee": {
-    "description": "Est.network fee"
+    "description": "Est. network fee"
   },
   "failedToLoad": "Không tải được",
   "@failedToLoad": {
@@ -3156,9 +3156,9 @@
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "Gửi và nhận mẹoGửi và nhận mẹo",
+  "sendAndReceiveTipsSendAndReceiveTips": "Gửi và nhận tiền tip",
   "@sendAndReceiveTipsSendAndReceiveTips": {
-    "description": "Send & Receive TipsSend and receive tips"
+    "description": "Send & Receive Tips"
   },
   "serviceUNAVAILABLE": "DỊCH VỤ KHÔNG CÓ SẴN",
   "@serviceUNAVAILABLE": {
@@ -3340,9 +3340,9 @@
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Tiền của bạn sẽ bị khóa cho đến khi khởi chạy mainnet (mục tiêu: ~69 ngày, có thể thay đổi.\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Tiền của bạn sẽ bị khóa cho đến khi mainnet ra mắt (dự kiến: khoảng 69 ngày, có thể thay đổi).\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
-    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary).\\n\\n"
   },
   "yourWalletIsReady": "Ví của bạn đã sẵn sàng",
   "@yourWalletIsReady": {

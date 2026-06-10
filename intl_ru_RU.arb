@@ -2808,9 +2808,9 @@
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "Минимум 6 паролей",
+  "atLeast6Password": "Минимум 6 символов",
   "@atLeast6Password": {
-    "description": "At least 6 password"
+    "description": "At least 6 characters"
   },
   "autoFollowKOLsYouAlreadyFollowComingSoon": "Автоматическая подписка на KOLs, на которую вы уже подписаны (скоро)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
@@ -2974,7 +2974,7 @@
   },
   "estNetworkFee": "Расчетная плата за сеть",
   "@estNetworkFee": {
-    "description": "Est.network fee"
+    "description": "Est. network fee"
   },
   "failedToLoad": "Не удалось загрузить",
   "@failedToLoad": {
@@ -3156,9 +3156,9 @@
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "Отправлять и получать советыОтправлять и получать советы",
+  "sendAndReceiveTipsSendAndReceiveTips": "Отправлять и получать чаевые",
   "@sendAndReceiveTipsSendAndReceiveTips": {
-    "description": "Send & Receive TipsSend and receive tips"
+    "description": "Send & Receive Tips"
   },
   "serviceUNAVAILABLE": "СЕРВИС НЕДОСТУПЕН",
   "@serviceUNAVAILABLE": {
@@ -3340,9 +3340,9 @@
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваши средства будут заблокированы до запуска основной сети (цель: ~69 дней, может варьироваться.\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваши средства будут заблокированы до запуска основной сети (цель: ~69 дней, может варьироваться).\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
-    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary).\\n\\n"
   },
   "yourWalletIsReady": "Ваш кошелек готов",
   "@yourWalletIsReady": {

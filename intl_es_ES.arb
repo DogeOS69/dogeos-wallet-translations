@@ -2808,9 +2808,9 @@
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "Al menos 6 contraseñas",
+  "atLeast6Password": "Al menos 6 caracteres",
   "@atLeast6Password": {
-    "description": "At least 6 password"
+    "description": "At least 6 characters"
   },
   "autoFollowKOLsYouAlreadyFollowComingSoon": "Sigue automáticamente a KOLs que ya sigues (próximamente)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
@@ -2974,7 +2974,7 @@
   },
   "estNetworkFee": "Tarifa de red estimada",
   "@estNetworkFee": {
-    "description": "Est.network fee"
+    "description": "Est. network fee"
   },
   "failedToLoad": "No se pudo cargar",
   "@failedToLoad": {
@@ -3156,9 +3156,9 @@
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "Enviar y recibir propinasEnviar y recibir propinas",
+  "sendAndReceiveTipsSendAndReceiveTips": "Enviar y recibir propinas",
   "@sendAndReceiveTipsSendAndReceiveTips": {
-    "description": "Send & Receive TipsSend and receive tips"
+    "description": "Send & Receive Tips"
   },
   "serviceUNAVAILABLE": "SERVICIO NO DISPONIBLE",
   "@serviceUNAVAILABLE": {
@@ -3340,9 +3340,9 @@
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Sus fondos estarán bloqueados hasta el lanzamiento de la red principal (objetivo: ~69 días, puede variar.\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Sus fondos estarán bloqueados hasta el lanzamiento de la red principal (objetivo: ~69 días, puede variar).\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
-    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary).\\n\\n"
   },
   "yourWalletIsReady": "Tu billetera está lista",
   "@yourWalletIsReady": {

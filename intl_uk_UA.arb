@@ -2808,9 +2808,9 @@
   "@atLeast6Characters": {
     "description": "At least 6 characters"
   },
-  "atLeast6Password": "Мінімум 6 паролів",
+  "atLeast6Password": "Мінімум 6 символів",
   "@atLeast6Password": {
-    "description": "At least 6 password"
+    "description": "At least 6 characters"
   },
   "autoFollowKOLsYouAlreadyFollowComingSoon": "Автопідписка на KOLs, на яку ви вже підписалися (незабаром)",
   "@autoFollowKOLsYouAlreadyFollowComingSoon": {
@@ -2974,7 +2974,7 @@
   },
   "estNetworkFee": "Орієнтовна плата за мережу",
   "@estNetworkFee": {
-    "description": "Est.network fee"
+    "description": "Est. network fee"
   },
   "failedToLoad": "Не вдалося завантажити",
   "@failedToLoad": {
@@ -3156,9 +3156,9 @@
   "@selectNetwork2": {
     "description": "Select Network"
   },
-  "sendAndReceiveTipsSendAndReceiveTips": "Надсилання та отримання підказок Надсилання та отримання підказок",
+  "sendAndReceiveTipsSendAndReceiveTips": "Надсилати й отримувати чайові",
   "@sendAndReceiveTipsSendAndReceiveTips": {
-    "description": "Send & Receive TipsSend and receive tips"
+    "description": "Send & Receive Tips"
   },
   "serviceUNAVAILABLE": "СЕРВІС НЕДОСТУПНИЙ",
   "@serviceUNAVAILABLE": {
@@ -3340,9 +3340,9 @@
   "@you": {
     "description": "You."
   },
-  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваші кошти буде заблоковано до запуску основної мережі (цель: ~69 днів, може змінюватися).\\n\\n",
+  "yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": "Ваші кошти буде заблоковано до запуску основної мережі (орієнтовно: ~69 днів, може змінюватися).\\n\\n",
   "@yourFundsWillBeLockedUntilMainnetLaunchTarget69DaysMayVary": {
-    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary.\\n\\n"
+    "description": "Your funds will be locked until mainnet launch (target: ~69 days, may vary).\\n\\n"
   },
   "yourWalletIsReady": "Ваш гаманець готовий",
   "@yourWalletIsReady": {
