@@ -3565,6 +3565,7 @@
   "unableSwitchCurrencyTryAgainLater": "Не удалось сменить валюту. Повторите попытку позже.",
   "unknownAuthenticationError": "Во время аутентификации произошла неизвестная ошибка: {error}.",
   "unsupportedNetwork": "Неподдерживаемая сеть",
+  "swapNoRouteForAmount": "Для этой суммы нет доступного маршрута. Попробуйте большую сумму или другой маршрут.",
   "userCancelledAuthentication": "Пользователь отменил аутентификацию",
   "userChoseFallbackAuthentication": "Пользователь решил использовать резервный метод аутентификации.",
   "userWalletNotRegisteredYet": "Пользователь еще не зарегистрировал кошелек.",

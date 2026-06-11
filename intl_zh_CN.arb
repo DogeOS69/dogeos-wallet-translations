@@ -3565,6 +3565,7 @@
   "unableSwitchCurrencyTryAgainLater": "无法切换货币，请稍后重试",
   "unknownAuthenticationError": "身份验证期间发生未知错误：{error}",
   "unsupportedNetwork": "不支持的网络",
+  "swapNoRouteForAmount": "当前金额没有可用路线。请尝试更高金额或其他路线。",
   "userCancelledAuthentication": "用户取消身份验证",
   "userChoseFallbackAuthentication": "用户选择使用后备身份验证方法",
   "userWalletNotRegisteredYet": "用户尚未注册钱包。",
