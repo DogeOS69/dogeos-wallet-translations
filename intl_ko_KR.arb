@@ -3565,6 +3565,7 @@
   "unableSwitchCurrencyTryAgainLater": "통화를 전환할 수 없습니다. 나중에 다시 시도해 주세요.",
   "unknownAuthenticationError": "인증 중 알 수 없는 오류가 발생했습니다: {error}",
   "unsupportedNetwork": "지원되지 않는 네트워크",
+  "swapNoRouteForAmount": "이 금액으로 사용할 수 있는 경로가 없습니다. 더 큰 금액이나 다른 경로를 시도해 주세요.",
   "userCancelledAuthentication": "사용자가 인증을 취소했습니다.",
   "userChoseFallbackAuthentication": "사용자가 대체 인증 방법을 사용하도록 선택했습니다.",
   "userWalletNotRegisteredYet": "사용자는 아직 지갑을 등록하지 않았습니다.",

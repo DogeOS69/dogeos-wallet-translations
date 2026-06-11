@@ -1045,6 +1045,7 @@
   "unableSwitchCurrencyTryAgainLater": "Unable to switch currency, please try again later",
   "unknownAuthenticationError": "Unknown error occurred during authentication: {error}",
   "unsupportedNetwork": "Unsupported network",
+  "swapNoRouteForAmount": "No route is available for this amount. Try a higher amount or a different route.",
   "userCancelledAuthentication": "User cancelled authentication",
   "userChoseFallbackAuthentication": "User chose to use fallback authentication method",
   "userWalletNotRegisteredYet": "The user has not registered a wallet yet.",

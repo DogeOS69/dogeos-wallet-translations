@@ -3565,6 +3565,7 @@
   "unableSwitchCurrencyTryAgainLater": "No se puede cambiar la moneda. Vuelve a intentarlo más tarde.",
   "unknownAuthenticationError": "Se produjo un error desconocido durante la autenticación: {error}",
   "unsupportedNetwork": "Red no compatible",
+  "swapNoRouteForAmount": "No hay una ruta disponible para este importe. Prueba con un importe mayor o una ruta diferente.",
   "userCancelledAuthentication": "Autenticación cancelada por el usuario",
   "userChoseFallbackAuthentication": "El usuario eligió utilizar el método de autenticación alternativo",
   "userWalletNotRegisteredYet": "El usuario aún no ha registrado una billetera.",

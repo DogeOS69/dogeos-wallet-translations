@@ -3565,6 +3565,7 @@
   "unableSwitchCurrencyTryAgainLater": "Không thể chuyển đổi đơn vị tiền tệ, vui lòng thử lại sau",
   "unknownAuthenticationError": "Đã xảy ra lỗi không xác định trong quá trình xác thực: {error}",
   "unsupportedNetwork": "Mạng không được hỗ trợ",
+  "swapNoRouteForAmount": "Không có tuyến nào khả dụng cho số tiền này. Hãy thử số tiền lớn hơn hoặc tuyến khác.",
   "userCancelledAuthentication": "Người dùng đã hủy xác thực",
   "userChoseFallbackAuthentication": "Người dùng đã chọn sử dụng phương thức xác thực dự phòng",
   "userWalletNotRegisteredYet": "Người dùng chưa đăng ký ví.",

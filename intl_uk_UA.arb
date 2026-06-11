@@ -3565,6 +3565,7 @@
   "unableSwitchCurrencyTryAgainLater": "Не вдається змінити валюту, повторіть спробу пізніше",
   "unknownAuthenticationError": "Під час автентифікації сталася невідома помилка: {error}",
   "unsupportedNetwork": "Непідтримувана мережа",
+  "swapNoRouteForAmount": "Для цієї суми немає доступного маршруту. Спробуйте більшу суму або інший маршрут.",
   "userCancelledAuthentication": "Користувач скасував автентифікацію",
   "userChoseFallbackAuthentication": "Користувач вибрав резервний метод автентифікації",
   "userWalletNotRegisteredYet": "Користувач ще не зареєстрував гаманець.",
