@@ -1060,13 +1060,13 @@
   "@site": {
     "description": "Site"
   },
-  "twitter": "Twitter",
+  "twitter": "X",
   "@twitter": {
-    "description": "Twitter"
+    "description": "X"
   },
-  "twitterLowercase": "twitter",
+  "twitterLowercase": "X",
   "@twitterLowercase": {
-    "description": "twitter"
+    "description": "X"
   },
   "telegram": "Telegram",
   "@telegram": {
@@ -3460,7 +3460,7 @@
   "comingSoon": "即将推出",
   "confirmWalletResetEnterReset": "要确认钱包重置，请输入：RESET",
   "connectFriendsGroupsGuideDesc": "通过私信或群组与朋友联系。与持有相同资产的人一起加入特定代币的群组。",
-  "connectXAccountUnlock": "连接您的 X (Twitter) 帐户进行解锁：",
+  "connectXAccountUnlock": "连接您的 X 帐户以解锁：",
   "couldNotDecryptDataWrongPassword": "无法解密数据。密码错误。",
   "createPIN": "创建PIN",
   "createdAt": "创建于：{time}",
@@ -3470,7 +3470,7 @@
   "defaultDappDescription": "交换、赚取并构建领先的去中心化加密货币交易协议",
   "deviceCloudDriveDisabled": "您的设备已关闭 {drive}。请先在系统设置中启用它，然后再继续。",
   "deviceDoesNotSupportBiometricAuth": "设备不支持生物识别身份验证",
-  "disconnectXWarning": "如果断开 X 连接，你将无法再通过 Twitter 向好友发送 DOGE。是否继续？",
+  "disconnectXWarning": "如果断开 X 连接，你将无法再通过 X 应用向好友发送 DOGE。是否继续？",
   "doMoreWithDoge": "与 Doge 一起做更多事情",
   "doginalTransferInitiatedSuccessfully": "Doginal转账发起成功！",
   "driveNotEnabled": "{drive} 未启用",
@@ -3536,6 +3536,7 @@
   "seedPhraseBackedUpSuccess": "助记词已备份。",
   "sendAndReceiveTips": "发送和接收提示",
   "sendMyDogeTipTo": "发送 MyDogeTip 至\n@{username}",
+  "pendingMyDogeTipSocialWalletRequired": "当接收方创建 MyDoge Social Wallet 后，这笔小费将可领取。",
   "settingFailedEmailIsLoginEmail": "设置失败。该电子邮件地址是您的登录电子邮件。",
   "signInWithOtherMethods": "使用其他方式登录",
   "socialWalletBetaIntro": "该钱包目前处于测试阶段。如果您遇到任何问题，请与我们的团队聊天",
