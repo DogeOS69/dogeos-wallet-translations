@@ -1060,13 +1060,13 @@
   "@site": {
     "description": "Site"
   },
-  "twitter": "Twitter",
+  "twitter": "X",
   "@twitter": {
-    "description": "Twitter"
+    "description": "X"
   },
-  "twitterLowercase": "twitter",
+  "twitterLowercase": "X",
   "@twitterLowercase": {
-    "description": "twitter"
+    "description": "X"
   },
   "telegram": "Telegram",
   "@telegram": {
@@ -3460,7 +3460,7 @@
   "comingSoon": "Muy pronto",
   "confirmWalletResetEnterReset": "Para confirmar el restablecimiento de la billetera, ingrese: RESET",
   "connectFriendsGroupsGuideDesc": "Conéctese con amigos a través de mensajes directos o grupos. Únase a grupos específicos de tokens con personas que poseen los mismos activos.",
-  "connectXAccountUnlock": "Conecte su cuenta X (Twitter) para desbloquear:",
+  "connectXAccountUnlock": "Conecta tu cuenta de X para desbloquear:",
   "couldNotDecryptDataWrongPassword": "No se pudieron descifrar los datos. Contraseña incorrecta.",
   "createPIN": "Crear PIN",
   "createdAt": "Creado en: {time}",
@@ -3470,7 +3470,7 @@
   "defaultDappDescription": "Intercambie, gane y desarrolle el protocolo líder de comercio de cifrado descentralizado",
   "deviceCloudDriveDisabled": "Su dispositivo tiene {drive} apagado. Habilítelo en la configuración del sistema antes de continuar.",
   "deviceDoesNotSupportBiometricAuth": "El dispositivo no admite autenticación biométrica",
-  "disconnectXWarning": "Si desconectas el vínculo con X, ya no podrás enviar DOGE a tus amigos por Twitter. ¿Quieres continuar?",
+  "disconnectXWarning": "Si desconectas X, ya no podrás enviar DOGE a tus amigos a través de la app X. ¿Quieres continuar?",
   "doMoreWithDoge": "Haz más con Doge",
   "doginalTransferInitiatedSuccessfully": "¡La transferencia Doginal se inició correctamente!",
   "driveNotEnabled": "{drive} no habilitado",
@@ -3536,6 +3536,7 @@
   "seedPhraseBackedUpSuccess": "La frase semilla se ha respaldado.",
   "sendAndReceiveTips": "Enviar y recibir propinas",
   "sendMyDogeTipTo": "Enviar MyDogeTip a\n@{username}",
+  "pendingMyDogeTipSocialWalletRequired": "Esta propina estará disponible cuando el destinatario cree su MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "La configuración falló. Esta dirección de correo electrónico es su correo electrónico de inicio de sesión.",
   "signInWithOtherMethods": "Iniciar sesión con otros métodos",
   "socialWalletBetaIntro": "Esta billetera se encuentra actualmente en versión beta. Si tiene algún problema, chatee con nuestro equipo en",

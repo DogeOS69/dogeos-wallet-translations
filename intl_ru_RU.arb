@@ -1060,13 +1060,13 @@
   "@site": {
     "description": "Site"
   },
-  "twitter": "Твиттер",
+  "twitter": "X",
   "@twitter": {
-    "description": "Twitter"
+    "description": "X"
   },
-  "twitterLowercase": "Твиттер",
+  "twitterLowercase": "X",
   "@twitterLowercase": {
-    "description": "twitter"
+    "description": "X"
   },
   "telegram": "Телеграмма",
   "@telegram": {
@@ -3460,7 +3460,7 @@
   "comingSoon": "Вскоре",
   "confirmWalletResetEnterReset": "Чтобы подтвердить сброс кошелька, введите: RESET.",
   "connectFriendsGroupsGuideDesc": "Общайтесь с друзьями через прямые сообщения или группы. Присоединяйтесь к группам, посвященным токенам, с людьми, которые владеют теми же активами.",
-  "connectXAccountUnlock": "Подключите свою учетную запись X (Twitter), чтобы разблокировать:",
+  "connectXAccountUnlock": "Подключите свою учетную запись X, чтобы разблокировать:",
   "couldNotDecryptDataWrongPassword": "Не удалось расшифровать данные. Неправильный пароль.",
   "createPIN": "Создать PIN",
   "createdAt": "Создано: {time}",
@@ -3470,7 +3470,7 @@
   "defaultDappDescription": "Обменивайтесь, зарабатывайте и развивайтесь на основе ведущего децентрализованного протокола криптовалютной торговли",
   "deviceCloudDriveDisabled": "На вашем устройстве {drive} выключен. Пожалуйста, включите его в настройках системы, прежде чем продолжить.",
   "deviceDoesNotSupportBiometricAuth": "Устройство не поддерживает биометрическую аутентификацию",
-  "disconnectXWarning": "Если отключить связь с X, вы больше не сможете отправлять DOGE друзьям через Twitter. Продолжить?",
+  "disconnectXWarning": "Если отключить X, вы больше не сможете отправлять DOGE друзьям через приложение X. Продолжить?",
   "doMoreWithDoge": "Делайте больше с Doge",
   "doginalTransferInitiatedSuccessfully": "Передача Doginal началась успешно!",
   "driveNotEnabled": "{drive} не включен",
@@ -3536,6 +3536,7 @@
   "seedPhraseBackedUpSuccess": "Сид-фраза сохранена в резервной копии.",
   "sendAndReceiveTips": "Отправляйте и получайте советы",
   "sendMyDogeTipTo": "Отправьте MyDogeTip на\n@{username}",
+  "pendingMyDogeTipSocialWalletRequired": "Эти чаевые станут доступны, когда получатель создаст MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "Настройка не удалась. Этот адрес электронной почты является вашим адресом электронной почты для входа.",
   "signInWithOtherMethods": "Войдите другими способами",
   "socialWalletBetaIntro": "Этот кошелек в настоящее время находится в стадии бета-тестирования. Если у вас возникнут какие-либо проблемы, поговорите с нашей командой в",

@@ -1060,13 +1060,13 @@
   "@site": {
     "description": "Site"
   },
-  "twitter": "Twitter",
+  "twitter": "X",
   "@twitter": {
-    "description": "Twitter"
+    "description": "X"
   },
-  "twitterLowercase": "твіттер",
+  "twitterLowercase": "X",
   "@twitterLowercase": {
-    "description": "twitter"
+    "description": "X"
   },
   "telegram": "Телеграма",
   "@telegram": {
@@ -3460,7 +3460,7 @@
   "comingSoon": "Незабаром",
   "confirmWalletResetEnterReset": "Щоб підтвердити скидання гаманця, введіть: RESET",
   "connectFriendsGroupsGuideDesc": "Спілкуйтеся з друзями через прямі повідомлення або групи. Приєднуйтеся до груп, які володіють тими самими активами.",
-  "connectXAccountUnlock": "Підключіть свій обліковий запис X (Twitter), щоб розблокувати:",
+  "connectXAccountUnlock": "Підключіть свій обліковий запис X, щоб розблокувати:",
   "couldNotDecryptDataWrongPassword": "Не вдалося розшифрувати дані. Неправильний пароль.",
   "createPIN": "Створіть PIN",
   "createdAt": "Створено за адресою: {time}",
@@ -3470,7 +3470,7 @@
   "defaultDappDescription": "Обмінюйте, заробляйте та будуйте на основі провідного децентралізованого протоколу криптотрейдингу",
   "deviceCloudDriveDisabled": "На вашому пристрої вимкнено {drive}. Перш ніж продовжити, увімкніть його в налаштуваннях системи.",
   "deviceDoesNotSupportBiometricAuth": "Пристрій не підтримує біометричну автентифікацію",
-  "disconnectXWarning": "Якщо відключити зв’язок із X, ви більше не зможете надсилати DOGE друзям через Twitter. Продовжити?",
+  "disconnectXWarning": "Якщо відключити X, ви більше не зможете надсилати DOGE друзям через застосунок X. Продовжити?",
   "doMoreWithDoge": "Робіть більше з Doge",
   "doginalTransferInitiatedSuccessfully": "Передачу Doginal успішно розпочато!",
   "driveNotEnabled": "{drive} не ввімкнено",
@@ -3536,6 +3536,7 @@
   "seedPhraseBackedUpSuccess": "Сід-фразу збережено в резервній копії.",
   "sendAndReceiveTips": "Надсилайте та отримуйте підказки",
   "sendMyDogeTipTo": "Надіслати MyDogeTip до\n@{username}",
+  "pendingMyDogeTipSocialWalletRequired": "Ці чайові стануть доступними, коли одержувач створить MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "Помилка налаштування. Ця електронна адреса є вашою електронною поштою для входу.",
   "signInWithOtherMethods": "Увійдіть іншими способами",
   "socialWalletBetaIntro": "Цей гаманець зараз знаходиться в бета-версії. Якщо у вас виникнуть проблеми, зв’яжіться з нашою командою",

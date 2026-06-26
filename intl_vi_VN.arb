@@ -1060,13 +1060,13 @@
   "@site": {
     "description": "Site"
   },
-  "twitter": "Twitter",
+  "twitter": "X",
   "@twitter": {
-    "description": "Twitter"
+    "description": "X"
   },
-  "twitterLowercase": "Twitter",
+  "twitterLowercase": "X",
   "@twitterLowercase": {
-    "description": "twitter"
+    "description": "X"
   },
   "telegram": "điện tín",
   "@telegram": {
@@ -3460,7 +3460,7 @@
   "comingSoon": "Sắp ra mắt",
   "confirmWalletResetEnterReset": "Để xác nhận đặt lại ví, hãy nhập: RESET",
   "connectFriendsGroupsGuideDesc": "Kết nối với bạn bè qua tin nhắn trực tiếp hoặc nhóm. Tham gia các nhóm dành riêng cho mã thông báo với những người nắm giữ cùng một tài sản.",
-  "connectXAccountUnlock": "Kết nối tài khoản X (Twitter) của bạn để mở khóa:",
+  "connectXAccountUnlock": "Kết nối tài khoản X của bạn để mở khóa:",
   "couldNotDecryptDataWrongPassword": "Không thể giải mã dữ liệu. Mật khẩu sai.",
   "createPIN": "Tạo PIN",
   "createdAt": "Được tạo tại: {time}",
@@ -3470,7 +3470,7 @@
   "defaultDappDescription": "Trao đổi, kiếm tiền và xây dựng trên giao thức giao dịch tiền điện tử phi tập trung hàng đầu",
   "deviceCloudDriveDisabled": "Thiết bị của bạn đã tắt {drive}. Vui lòng kích hoạt nó trong cài đặt hệ thống trước khi tiếp tục.",
   "deviceDoesNotSupportBiometricAuth": "Thiết bị không hỗ trợ xác thực sinh trắc học",
-  "disconnectXWarning": "Nếu ngắt kết nối X, bạn sẽ không thể gửi DOGE cho bạn bè qua Twitter nữa. Bạn có muốn tiếp tục?",
+  "disconnectXWarning": "Nếu ngắt kết nối X, bạn sẽ không thể gửi DOGE cho bạn bè qua ứng dụng X nữa. Bạn có muốn tiếp tục?",
   "doMoreWithDoge": "Làm được nhiều hơn với Doge",
   "doginalTransferInitiatedSuccessfully": "Quá trình chuyển Doginal đã bắt đầu thành công!",
   "driveNotEnabled": "{drive} chưa được kích hoạt",
@@ -3536,6 +3536,7 @@
   "seedPhraseBackedUpSuccess": "Cụm từ seed đã được sao lưu.",
   "sendAndReceiveTips": "Gửi và nhận lời khuyên",
   "sendMyDogeTipTo": "Gửi MyDogeTip tới\n@{username}",
+  "pendingMyDogeTipSocialWalletRequired": "Khoản tip này sẽ khả dụng khi người nhận tạo MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "Cài đặt không thành công. Địa chỉ email này là email đăng nhập của bạn.",
   "signInWithOtherMethods": "Đăng nhập bằng các phương pháp khác",
   "socialWalletBetaIntro": "Ví này hiện đang trong giai đoạn thử nghiệm. Nếu bạn gặp bất kỳ vấn đề nào, hãy trò chuyện với nhóm của chúng tôi trong",
